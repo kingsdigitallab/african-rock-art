@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: African Rock Art
-email: your-email@example.com
+email: info@britishmuseum.org
 description: > # this means to ignore newlines until "baseurl:"
   African Rock Art
   Follow our digital journey across Africa.
