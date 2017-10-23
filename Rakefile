@@ -11,7 +11,7 @@ namespace :serve do
   desc 'Serve development Jekyll site locally'
   task :dev do
     puts 'Starting up development Jekyll site server...'
-    system 'bundle exec jekyll serve --config _config.yml,_config.yml.local'
+    system 'bundle exec jekyll serve --config _config.yml,_config.local.yml'
   end
 
   desc 'Serve production Jekyll site locally'
@@ -28,12 +28,12 @@ namespace :build do
   desc 'Regenerate files for development'
   task :dev do
     puts 'Regenerating files for development...'
-    system 'bundle exec jekyll build --config _config.yml,_config.yml.local --profile'
+    system 'bundle exec jekyll build --config _config.yml,_config.local.yml --profile'
   end
 
   desc 'Regenerate files for production'
   task :prod do
-    puts '* Regenerating files for production...'
+    puts 'Regenerating files for production...'
     system 'JEKYLL_ENV=production bundle exec jekyll build'
   end
 end
