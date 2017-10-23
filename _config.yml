@@ -23,4 +23,4 @@ plugins: [jekyll-feed]
 theme: minima
 title: African Rock Art
 twitter_username: britishmuseum
-url: http://africanrockart.britishmuseum.org
+url: ''
