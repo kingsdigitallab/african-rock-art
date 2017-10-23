@@ -11,7 +11,8 @@ layout: default
 	{% for introduction in project_page.introduction_articles %}
 	<h2>{{ introduction.title }}</h2>
 	<a href="/introduction{{ introduction.slug | relative_url}}.html">
-		<img src="{{ introduction.lead_image[0].url }}?w=200">
+        {% assign image = introduction.lead_image[0] %}
+		<img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
 	</a>
 	{% endfor %}
 
