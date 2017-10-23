@@ -1,16 +1,14 @@
 baseurl: ''
 collections:
-  coll_chapter: {output: true, permalink: '/chapter/:name'}
-  coll_citation: {output: true, permalink: '/citation/:name'}
-  coll_country: {output: true, permalink: '/country/:name'}
-  coll_country_information: {output: true, permalink: '/country_information/:name'}
-  coll_country_key_facts: {output: true, permalink: '/country_key_facts/:name'}
-  coll_featured_site: {output: true, permalink: '/featured_site/:name'}
-  coll_introduction: {output: true, permalink: '/introduction/:name'}
-  coll_thematic: {output: true, permalink: '/thematic/:name'}
+  coll_country: {output: true, permalink: '/country/:name.html'}
+  coll_country_information: {output: true, permalink: '/country_information/:name.html'}
+  coll_country_key_facts: {output: true, permalink: '/country_key_facts/:name.html'}
+  coll_featured_site: {output: true, permalink: '/featured_site/:name.html'}
+  coll_introduction: {output: true, permalink: '/introduction/:name.html'}
+  coll_thematic: {output: true, permalink: '/thematic/:name.html'}
 contentful:
   spaces:
-  - ara: {access_token: ENV_CONTENTFUL_ACCESS_TOKEN, all_entries: false, destination: '',
+  - ara: {access_token: ENV_CONTENTFUL_ACCESS_TOKEN, all_entries: true, destination: '',
       space: ENV_CONTENTFUL_SPACE_ID}
 description: African Rock Art Follow our digital journey across Africa. Discover 30,000
   years of rock art.
