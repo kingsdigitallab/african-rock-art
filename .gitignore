@@ -1,4 +1,3 @@
-*.local.*
 _site
 .bundle
 .sass-cache
