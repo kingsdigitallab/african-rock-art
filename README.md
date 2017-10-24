@@ -15,10 +15,10 @@ The project is built with [Jekyll](https://jekyllrb.com/), which has the followi
 ```bash
 echo "Clone repository"
 git clone git@github.com:kingsdigitallab/african-rock-art.git
-echo "Install Bundler gem"
-gem install bundler
 echo "Go to the project directory"
 cd african-rock-art && git checkout develop
+echo "Install Bundler gem (may need sudo)"
+[sudo] gem install bundler
 echo "Install Dependencies"
 bundle install --path vendor/bundle && bundle install
 echo "Start Jekyll Server"
