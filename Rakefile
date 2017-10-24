@@ -1,5 +1,7 @@
 require 'yaml'
 
+task default: %w[test]
+
 # -----------------------------------------------------------------------------
 # Jekyll tasks
 # -----------------------------------------------------------------------------
@@ -21,7 +23,7 @@ namespace :serve do
   end
 end
 
-# Usage: rake build, rake build:dev, rake build:drafts
+# Usage: rake build, rake build:prod
 task :build => ['build:dev']
 namespace :build do
 
@@ -38,16 +40,30 @@ namespace :build do
   end
 end
 
-desc 'Test site'
-task :test do
-  puts 'Validating HTML output in _site...'
-  system 'bundle exec htmlproofer ./_site'
+# Usage: rake test, rake test:prod
+task :test => ['test:dev']
+namespace :test do
+
+  desc 'Test development site'
+  task :dev do
+    puts 'Validating HTML output in _site...'
+    Rake::Task['build:dev'].invoke
+    system 'bundle exec htmlproofer ./_site'
+  end
+
+  desc 'Test production site'
+  task :prod do
+    puts 'Validating HTML output in _site...'
+    Rake::Task['build:prod'].invoke
+    system 'bundle exec htmlproofer ./_site'
+  end
 end
 
 # -----------------------------------------------------------------------------
 # Contentful tasks
 # -----------------------------------------------------------------------------
 
+# Usage: rake contentful, rake contentful:import, rake:process
 task :contentful => ['contentful:all']
 namespace :contentful do
 
@@ -64,7 +80,7 @@ namespace :contentful do
     system '. ./env.sh && bundle exec jekyll contentful'
   end
 
-  desc 'Process imported data: re-maps Contentful content types and creates content pages...'
+  desc 'Process imported data: re-maps Contentful content types and creates content pages'
   task :process do
     puts 'Contentful data processing...'
 
