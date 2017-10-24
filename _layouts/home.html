@@ -3,17 +3,17 @@ layout: default
 ---
 <div class="home">
 
-	<h1 class="page-heading">African Rock Art</h1>
+    <h1 class="page-heading">African Rock Art</h1>
 
-	{% assign project_page = site.data.ara.project_page[0] %}
-	<p>{{ project_page.general_intro }}</p>
+    {% assign project_page = site.data.ara.project_page[0] %}
+    <p>{{ project_page.general_intro }}</p>
 
-	{% for introduction in project_page.introduction_articles %}
-	<h2>{{ introduction.title }}</h2>
-	<a href="/introduction{{ introduction.slug | relative_url}}.html">
+    {% for introduction in project_page.introduction_articles %}
+    <h2>{{ introduction.title }}</h2>
+    <a href="/introduction{{ introduction.slug | relative_url}}.html">
         {% assign image = introduction.lead_image[0] %}
-		<img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
-	</a>
-	{% endfor %}
+        <img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
+    </a>
+    {% endfor %}
 
 </div>
