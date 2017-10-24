@@ -4,7 +4,7 @@
 
 ## Requirements
 
-The project is build with [Jekyll](https://jekyllrb.com/), which has the following requirements:
+The project is built with [Jekyll](https://jekyllrb.com/), which has the following requirements:
 * GNU/Linux, Unix, or macOS
 * Ruby version 2.1 or above, including all development headers
 * [RubyGems](https://rubygems.org/pages/download)
