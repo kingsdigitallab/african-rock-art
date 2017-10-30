@@ -5,6 +5,7 @@ collections:
   coll_country_key_facts: {output: true, permalink: '/country_key_facts/:name.html'}
   coll_featured_site: {output: true, permalink: '/featured_site/:name.html'}
   coll_introduction: {output: true, permalink: '/introduction/:name.html'}
+  coll_regional_introduction: {output: true, permalink: '/regional_introduction/:name.html'}
   coll_thematic: {output: true, permalink: '/thematic/:name.html'}
 contentful:
   spaces:
