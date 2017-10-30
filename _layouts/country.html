@@ -9,7 +9,7 @@ layout: default
     </header>
 
     <div class="post-content">
-        {{ self.name }}
+        {% include chapters.html chapters=self.country_introduction.chapters %}
     </div>
 
 </article>

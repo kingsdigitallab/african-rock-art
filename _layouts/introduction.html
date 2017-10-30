@@ -9,17 +9,7 @@ layout: default
     </header>
 
     <div class="post-content">
-        {% for chapter in self.chapters %}
-        <h2>{{ chapter.title }}</h2>
-        {% if chapter.body %}
-        <p>{{ chapter.body | markdownify }}</p>
-        {% elsif chapter.image %}
-        <img alt="{{ chapter.image.title }}" src="{{ chapter.image.url }}?w=200" title="{{ chapter.image.title }}">
-        {% if self.caption %}
-        <caption>{{ self.caption[0] }}</caption>
-        {% endif %}
-        {% endif %}
-        {% endfor %}
+        {% include chapters.html chapters=self.chapters %}
     </div>
 
 </article>
