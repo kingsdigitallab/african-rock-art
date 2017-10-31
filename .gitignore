@@ -1,6 +1,7 @@
-_site
 .bundle
-.sass-cache
+.DS_Store
 .jekyll-metadata
+.sass-cache
+_site
 env.sh
 vendor
