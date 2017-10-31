@@ -1,3 +1,4 @@
+require 'open-uri'
 require 'yaml'
 
 task default: %w[test]
@@ -72,6 +73,7 @@ namespace :contentful do
     puts 'Contentful data import and processing...'
     Rake::Task['contentful:import'].invoke
     Rake::Task['contentful:process'].invoke
+    Rake::Task['contentful:assets'].invoke
   end
 
   desc 'Import data from Contentful'
@@ -118,6 +120,29 @@ namespace :contentful do
 
     File.open(yaml_path, 'w') do |f|
       f.write(YAML.dump(new_yaml))
+    end
+  end
+
+  desc 'Import assets from Contentful'
+  task :assets do
+    puts 'Contentful assets import...'
+
+    yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
+    yaml = YAML::load_file(yaml_path)
+
+    yaml.each do |key, value|
+      if key == 'image'
+        value.each do |item|
+          if item['image']
+            url = 'https:' + item['image']['url'] + '?q=50'
+            puts 'Downloading ' + url
+
+            download = open(url)
+            filename = download.base_uri.to_s.split('/')[-1].split('?')[0]
+            IO.copy_stream(download, 'assets/images/' + filename)
+          end
+        end
+      end
     end
   end
 end
