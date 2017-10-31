@@ -14,16 +14,20 @@ layout: default
     <h3>{{ introduction.title }}</h3>
     <a href="/introduction{{ introduction.slug | relative_url }}.html">
         {% assign image = introduction.lead_image[0] %}
-        <img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
+        {% include image.html image=image %}
     </a>
     {% endfor %}
 
     <h2>Explore countries</h2>
+    <object type="image/svg+xml" data="/assets/images/map.svg">
+      Your browser does not support SVG
+    </object>
+
     {% for country in project_page.countries limit:5 %}
     <h3>{{ country.name }}</h3>
     <a href="/country{{ country.slug | relative_url }}.html">
         {% assign image = country.image_carousel[0] %}
-        <img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
+        {% include image.html image=image %}
     </a>
     {% endfor %}
 
@@ -32,7 +36,7 @@ layout: default
     <h3>{{ region.title }}</h3>
     <a href="/regional_introduction{{ region.slug | relative_url }}.html">
         {% assign image = region.lead_image[0] %}
-        <img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
+        {% include image.html image=image %}
     </a>
     {% endfor %}
 
@@ -41,7 +45,7 @@ layout: default
     <h3>{{ theme.title }}</h3>
     <a href="/thematic{{ theme.slug | relative_url }}.html">
         {% assign image = theme.lead_image %}
-        <img alt="{{ image.title }}" src="{{ image.url }}?w=200" title="{{ image.title }}">
+        {% include image.html image=image %}
     </a>
     {% endfor %}
 

@@ -15,7 +15,9 @@
 
     {% include footer.html %}
 
-    {% if site.google_analytics != '' %}
+    {% include javascripts.html %}
+
+    {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include google-analytics.html %}
     {% endif %}
 
