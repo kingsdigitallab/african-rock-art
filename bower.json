@@ -1,8 +1,14 @@
 {
-    "name": "ara",
-    "version": "0.0",
-    "dependencies": {
-        "jquery": null
-    },
-    "main": "assets/js/main.js"
+  "name": "ara",
+  "version": "0.0",
+  "dependencies": {
+    "jquery": null
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
