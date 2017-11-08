@@ -127,6 +127,8 @@ namespace :contentful do
   task :assets do
     puts 'Contentful assets import...'
 
+    Rake::Task['contentful:process'].invoke
+
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
     yaml = YAML::load_file(yaml_path)
 
