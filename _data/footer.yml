@@ -1,0 +1,36 @@
+---
+socialLinks:
+- socialIcon: facebook
+  alt: Facebook
+  url: https://www.facebook.com/britishmuseum
+- socialIcon: instagram
+  alt: Instagram
+  url: https://www.instagram.com/britishmuseum/
+- socialIcon: twitter
+  alt: Twitter
+  url: https://twitter.com/britishmuseum
+- socialIcon: youtube
+  alt: YouTube
+  url: https://www.youtube.com/user/britishmuseum
+newsletter:
+  formAction: http://www.pages04.net/thebritishmuseumcompany/Welcome/Master_OptIn
+  label: Newsletter
+  emailPlaceholderText: Enter your email address...
+  cta: Sign up
+footerLinks:
+- label: Contact
+  url: http://www.britishmuseum.org/about_us/contact.aspx
+- label: FAQ
+  url: "/faq"
+- label: About
+  url: "/about"
+- label: Legal
+  url: "/legal"
+address: |-
+  The British Museum, Great
+  Russell Street, London,
+  WC1B 3DG
+contactDetails: |-
+  +44 (0)20 7323 8299
+  [information@britishmuseum.org](mailto:information@britishmuseum.org)
+slaveryStatement: "[Modern Slavery Act Statement](http://www.britishmuseum.org/PDF/Modern%20Slavery%20Act%20Transparency%20Statement%202015-16.pdf)"
