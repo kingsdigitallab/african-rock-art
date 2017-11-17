@@ -47,6 +47,7 @@ $ rake --tasks
 rake build:dev           # Regenerate files for development
 rake build:prod          # Regenerate files for production
 rake contentful:all      # Import and process data from Contentful
+rake contentful:assets   # Import assets from Contentful
 rake contentful:import   # Import data from Contentful
 rake contentful:process  # Process imported data: re-maps Contentful content types and creates content pages
 rake serve:dev           # Serve development Jekyll site locally
