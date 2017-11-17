@@ -3,7 +3,7 @@ project_page:
 - sys:
     id: 5myHmpRPj2A6oCmOkcUO6k
     created_at: !ruby/object:DateTime 2015-11-24 16:54:15.745000000 Z
-    updated_at: !ruby/object:DateTime 2017-08-13 13:57:42.027000000 Z
+    updated_at: !ruby/object:DateTime 2017-11-02 17:33:31.981000000 Z
     content_type_id: 76etbn9kNUiAY0q6YYu0SY
   general_intro: |+
     Africa's rock art is as diverse as the continent itself. In 2014 the African rock art image project team began cataloguing around 25,000 digital photographs of rock art from across Africa – originally from the Trust for African Rock Art (TARA) – through generous support from the Arcadia Fund.
@@ -50,164 +50,152 @@ project_page:
     url: "//images.contentful.com/xt8ne4gbbocd/4PedCMYKKAUQ4o0A2KyKOG/4ca1bcad4ecde33ad27dab52a4db2d68/2013_2034.259.jpg"
   introduction_articles:
   - sys:
-      id: 5j76DfcDwk28WOmWMAm20C
-      created_at: !ruby/object:DateTime 2015-11-26 09:47:55.196000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-07 20:55:17.424000000 Z
+      id: 6hiXYeBCfYyAgq0uSYYA4q
+      created_at: !ruby/object:DateTime 2015-11-26 10:12:12.305000000 Z
+      updated_at: !ruby/object:DateTime 2016-10-14 13:19:39.829000000 Z
       content_type_id: 5BpsmbwGhUi8wYwIEKO0Oa
-    title: Techniques of production
-    slug: techniques
+    title: Origins of rock art in Africa
+    slug: origins
     lead_image:
     - sys:
-        id: 53weII16ScuU6AQ6qWwIuS
-        created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-      title: '2013,2034.4108'
+        id: 2cVEIKXUmwQqwyOwauuGYc
+        created_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
+      title: Apollo.11.Cave
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
     chapters:
     - sys:
-        id: 3ATyteWLBeyy0IU6cUY8cc
-        created_at: !ruby/object:DateTime 2015-11-26 09:42:50.596000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:42:50.596000000 Z
+        id: fZLY1sn2JGo800I8oW2us
+        created_at: !ruby/object:DateTime 2015-11-26 10:12:41.393000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-19 17:28:15.527000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
       title: Introduction
-      title_internal: 'General: how made, chapter 1'
-      body: 'Rock art has been practised for tens of thousands of years and the techniques
-        by which the paintings and engravings are created, while varied, conform to
-        basic principles related to resources and technology. An equally important
-        factor is where the image is placed. Not every rock surface is appropriate
-        to inscribe, some may need preparing beforehand. While much research focus
-        is generally given over to subject matter, dating and meaning in rock art
-        studies, consideration of the techniques of production can provide some insightful
-        observations into the methodologies by which images are created. Technically
-        speaking, images can be broadly classified into two main groups: petroglyphs
-        and pictographs. Petroglyphs are engraved or carved depictions on a rock surface;
-        pictographs are painted images on a rock surface.'
+      title_internal: 'General: origins, chapter 1'
+      body: The oldest scientifically-dated rock art in Africa dates from around 30,000
+        years ago and is found in Namibia.
     - sys:
-        id: HYM6VlWCu2Uk28UwcI6qw
-        created_at: !ruby/object:DateTime 2015-11-26 09:40:34.705000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:12:00.737000000 Z
+        id: 3B1nQ7Xsooq6Ae4EyE0Oko
+        created_at: !ruby/object:DateTime 2015-11-26 10:10:47.465000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:10:47.465000000 Z
         content_type_id: 3NZwbeG360yGuoKUUCU8Oy
       image:
         sys:
-          id: 53weII16ScuU6AQ6qWwIuS
-          created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-        title: '2013,2034.4108'
+          id: 2cVEIKXUmwQqwyOwauuGYc
+          created_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
+        title: Apollo.11.Cave
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
-      caption: Bichrome antelope. Tin Tazarift, Tassili n’Ajjer, Algeria. 2013,2034.4108
-        © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3595543&partId=1&museumno=2013,2034.4108&page=1
+        url: "//images.contentful.com/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
+      caption: Quartzite slabs depicting animals, Apollo 11 Cave, Namibia. Image courtesy
+        of State Museum of Namibia © State Museum of Namibia
     - sys:
-        id: 1rfIlXAQBWuOMK4sqiAwau
-        created_at: !ruby/object:DateTime 2015-11-26 09:43:30.234000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:43:30.234000000 Z
+        id: 6sHCGiplbG4SuMYmeE8UW2
+        created_at: !ruby/object:DateTime 2015-11-26 10:13:10.958000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:13:10.958000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title: Pictographs - Painting
-      title_internal: 'General: how made, chapter 2'
-      body: The pigments used in paintings are dependent on local resources, but typically
-        have been made of minerals such as ochre that comes in a variety of red, brown
-        and yellow hues. White is derived from silica, china clay and gypsum and black
-        is obtained from manganese minerals, charcoal or specularite. Once collected
-        these minerals were ground to form a powder and mixed with liquids such as
-        egg albumen, urine, blood, saliva or water to make the pigment easier to apply
-        and to act as a binding agent. Current research is exploring new methods to
-        be able to date these ingredients. A variety of tools have been used to apply
-        the pigment onto rock surfaces including birds’ feathers, animal hair, grasses
-        or reeds and fingers. This process is not simply a technological one, and
-        for many cultural groups the pigment itself and the method of application
-        are imbued with symbolic meaning.
+      title_internal: 'General: origins, chapter 2'
+      body: Between 1969 and 1972, German archaeologist, W.E. Wendt, researching in
+        an area known locally as 'Goachanas', unearthed several painted slabs in a
+        cave he named Apollo 11, after NASA’s successful moon landing mission. Seven
+        painted stone slabs of brown-grey quartzite, depicting a variety of animals
+        painted in charcoal, ochre and white, were located in a Middle Stone Age deposit.
+        These images are not easily identifiable to species level, but have been interpreted
+        variously as felines and/or bovids; one in particular has been observed to
+        be either a zebra, giraffe or ostrich, demonstrating the ambiguous nature
+        of the depictions.
     - sys:
-        id: 5FvF7jgtQkqSuK6gcScAks
-        created_at: !ruby/object:DateTime 2015-11-26 09:41:14.113000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:14:58.388000000 Z
+        id: 4jqrHFkmpqs8GWogw8cEAU
+        created_at: !ruby/object:DateTime 2015-11-26 10:13:34.687000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:13:34.687000000 Z
+        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      title: Art and our modern mind
+      title_internal: 'General: origins, chapter 3'
+      body: |-
+        While the Apollo 11 plaques may be the oldest discovered representational art in Africa, this is not the beginning of the story of art. It is now well-established, through genetic and fossil evidence, that anatomically modern humans (Homo sapiens sapiens) developed in Africa more than 100,000 years ago; of these, a small group left the Continent around 60,000-80,000 years ago and spread throughout the rest of the world. Recently discovered examples of patterned stone, ochre and ostrich eggshell, as well as evidence of personal ornamentation emerging from Middle Stone Age Africa (100,000–60,000 years ago), have demonstrated that ‘art’ is not only a much older phenomenon than previously thought, but that it has its roots in the African continent. Africa is where we share a common humanity.
+
+        The first examples of what we might term ‘art’ in Africa, dating from between 100,000–60,000 years ago, emerge in two very distinct forms: personal adornment in the form of perforated seashells suspended on twine, and incised and engraved stone, ochre and ostrich eggshell. Despite some sites being 8,000km and 40,000 years apart, an intriguing feature of the earliest art is that these first forays appear remarkably similar. It is worth noting here that the term ‘art’ in this context is highly problematic, in that we cannot assume that humans living 100,000 years ago, or even 10,000 years ago, had a concept of art in the same way that we do, particularly in the modern Western sense. However, it remains a useful umbrella term for our purposes here.
+    - sys:
+        id: 4HfDzzg8rC6mA0eU6IQkm2
+        created_at: !ruby/object:DateTime 2015-11-26 10:14:13.397000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:14:13.397000000 Z
+        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      title: Pattern and design
+      title_internal: 'General: origins, chapter 4'
+      body: |-
+        The practice of engraving or incising, which emerges around 12,000 years ago in Saharan rock art, has its antecedents much earlier, up to 100,000 years ago. Incised and engraved stone, bone, ochre and ostrich eggshell have been found at sites in southern Africa. These marked objects share features in the expression of design, exhibiting patterns that have been classified as cross-hatching.
+
+        One of the most iconic and well-publicised sites that have yielded cross-hatch incised patterning on ochre is Blombos Cave, on the southern Cape shore of South Africa. Of the more than 8,500 fragments of ochre deriving from the MSA levels, 15 fragments show evidence of engraving. Two of these, dated to 77,000 years ago, have received the most attention for the design of cross-hatch pattern.
+    - sys:
+        id: 5On76lx0FUGsGGkymAwei4
+        created_at: !ruby/object:DateTime 2015-11-26 10:11:15.382000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:11:15.382000000 Z
         content_type_id: 3NZwbeG360yGuoKUUCU8Oy
       image:
         sys:
-          id: 5eo1GYHRFS6SYSWoum4Usy
-          created_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
-        title: '2013,2034.123'
+          id: 4lvOlwlUMwQqe6Cm2ka20c
+          created_at: !ruby/object:DateTime 2015-11-26 10:10:14.666000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.666000000 Z
+        title: Blombos.Cave
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
-      caption: Negative handprints. Wadi el-Obeiyd, Egypt. 2013,2034.123 © TARA/David
-        Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?searchText=Search%20the%20collection&museumno=2013,2034.123&ILINK|34484,|assetId=1492207&objectId=3577680&partId=1
+        url: "//images.contentful.com/xt8ne4gbbocd/4lvOlwlUMwQqe6Cm2ka20c/fb10d6e20427bbc487de3ee68c9c5a28/Blombos.Cave.jpg"
+      caption: Incised ochre from Blombos Cave, South Africa. Photo by Chris. S. Henshilwood
+        © Chris. S. Henshilwood
     - sys:
-        id: 4CLJOn1uoEQyaSkAooaeQW
-        created_at: !ruby/object:DateTime 2015-11-26 09:43:48.853000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:17:14.289000000 Z
+        id: jgRuQ2IIAocma4AWygyke
+        created_at: !ruby/object:DateTime 2015-11-26 10:14:30.893000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:14:30.893000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title_internal: 'General: how made, chapter 3'
-      body: A very specific type of image is the handprint. These can be made in two
-        ways, positively and negatively; by covering the hand in paint and applying
-        it to the rock surface or by placing the hand on the rock and blowing paint
-        through a tube or from the mouth over the hand to produce a stencil effect.
-        Most images were made just in one colour, although examples of bichrome or
-        polychrome are relatively frequent. Again, although very rare, there are some
-        examples of figures combining engraving and painting.
+      title_internal: 'General: origins, chapter 5'
+      body: |-
+        For many archaeologists, the incised pieces of ochre at Blombos are the most complex and best-formed evidence for early abstract representations, and are unequivocal evidence for symbolic thought and language. The debate about when we became a symbolic species and acquired fully syntactical language – what archaeologists term ‘modern human behaviour’ – is both complex and contested. It has been proposed that these cross-hatch patterns are clear evidence of thinking symbolically, because the motifs are not representational and as such are culturally constructed and arbitrary. Moreover, in order for the meaning of this motif to be conveyed to others, language is a prerequisite.
+
+        The Blombos engravings are not isolated occurrences, since the presence of such designs occur at more than half a dozen other sites in South Africa, suggesting that this pattern is indeed important in some way, and not the result of idiosyncratic behaviour. It is worth noting, however, that for some scholars, the premise that the pattern is symbolic is not so certain. The patterns may indeed have a meaning, but it is how that meaning is associated, either by resemblance (iconic) or correlation (indexical), that is important for our understanding of human cognition.
     - sys:
-        id: 5H7r0joxbOgqeesE4m2MUU
-        created_at: !ruby/object:DateTime 2015-11-26 09:44:30.108000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:44:30.108000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title: Petroglyphs – Engraving
-      title_internal: 'General: how made, chapter 4'
-      body: Three techniques were generally used to remove the rock surface; incising/engraving
-        (lines are cut into the rock with a sharp tool); pecking (hammering and chipping
-        away at the rock surface) and scraping. Rock faces were sometimes ‘prepared’
-        by scraping, allowing for an improved surface on which to inscribe the image.
-        Incising or engraving involves scratching into the stone surface using a sharp
-        lithic flake or metal blade. Pecking is a form of indirect percussion whereby
-        a second rock is used like a chisel between the hammerstone and the rock face,
-        while scraping is created using a hard hammerstone, which is battered against
-        the rock surface. A last, much rarer method of engraving is the bas-relief
-        technique, where the area around the image is lowered (usually by polishing)
-        thus making the figure raise over the surface.
-    - sys:
-        id: 3GOG2oZPjGmmMCii2QS0yE
-        created_at: !ruby/object:DateTime 2015-11-26 09:41:50.996000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:18:09.807000000 Z
+        id: 4jbiaStTHWG8oUgEUMOisG
+        created_at: !ruby/object:DateTime 2015-11-26 10:11:50.180000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-19 17:29:25.645000000 Z
         content_type_id: 3NZwbeG360yGuoKUUCU8Oy
       image:
         sys:
-          id: 1ViunR9pOs40oei6A4yC6q
-          created_at: !ruby/object:DateTime 2015-11-26 09:39:59.695000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
-        title: '2013,2034.4328'
+          id: 5KFpq9vW9O6k6umooQYiKA
+          created_at: !ruby/object:DateTime 2015-11-26 10:10:14.669000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.669000000 Z
+        title: ostrich.eggshells
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/1ViunR9pOs40oei6A4yC6q/a403a948fda6df00ef8ca14a2b9f409c/2013_2034.4328.jpg"
-      caption: Polished cattle engravings. Tegharghart, Tassili n’Ajjer, Algeria.
-        2013,2034.4328 © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601772&partId=1&museumno=2013,2034.4328&page=1
+        url: "//images.contentful.com/xt8ne4gbbocd/5KFpq9vW9O6k6umooQYiKA/63f65b8d010b1bdcbda0d2fb7049122e/ostrich.eggshells.jpg"
+      caption: "Fragments of engraved ostrich eggshells from the Diepkloof Rock Shelter,\tWestern
+        Cape, South Africa, dated to 60,000 BP. Courtesy of Jean-Pierre Texier, Diepkloof
+        project. © Jean-Pierre Texier"
     - sys:
-        id: 6EyM70F9YIq4eaIucMgaqa
-        created_at: !ruby/object:DateTime 2015-11-26 09:44:52.817000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:44:52.817000000 Z
+        id: 64NOsXlchaeM2YIEAcQoGw
+        created_at: !ruby/object:DateTime 2015-11-26 10:14:48.739000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 10:14:48.739000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title_internal: 'General: how made, chapter 5'
-      body: These methods of engraving are sometimes combined, as happens in the Sahara
-        where the outline of pecked figures is polished afterwards. Although for the
-        most part the engravings just depict the figures’ contour, on other occasions
-        all or part of the image is infilled with pecking or polishing. In all these
-        techniques, after differing periods of time the engraved surfaces weather
-        and acquire the same darker patina as the original surface.
+      title_internal: 'General: origins, chapter 6'
+      body: Personal ornamentation and engraved designs are the earliest evidence
+        of art in Africa, and are inextricably tied up with the development of human
+        cognition. For tens of thousands of years, there has been not only a capacity
+        for, but a motivation to adorn and to inscribe, to make visual that which
+        is important. The interesting and pertinent issue in the context of this project
+        is that the rock art we are cataloguing, describing and researching comes
+        from a tradition that goes far back into African prehistory. The techniques
+        and subject matter resonate over the millennia.
     background_images:
     - sys:
-        id: 5eo1GYHRFS6SYSWoum4Usy
-        created_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
-      title: '2013,2034.123'
+        id: 1bstKcKNZqC2ygioEM0uYO
+        created_at: !ruby/object:DateTime 2015-12-07 20:43:37.744000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 20:43:37.744000000 Z
+      title: MORATM0130051
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/1bstKcKNZqC2ygioEM0uYO/a5392851c49141540957368efbf2fa63/MORATM0130051.jpg"
     - sys:
-        id: 53weII16ScuU6AQ6qWwIuS
-        created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-      title: '2013,2034.4108'
+        id: 2q8dJPCe2AKcAeogKWikue
+        created_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
+        updated_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
+      title: SOASWC0130095
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
   - sys:
       id: 1Gcunuhia0qYEEqoACkEES
       created_at: !ruby/object:DateTime 2015-11-26 09:54:46.501000000 Z
@@ -447,152 +435,164 @@ project_page:
       description: 
       url: "//images.contentful.com/xt8ne4gbbocd/6SWz7d0wSckMi2eMKsWAig/5b2e71e83e8f25b7883a87b087dfeee5/2013_2034.896.jpg"
   - sys:
-      id: 6hiXYeBCfYyAgq0uSYYA4q
-      created_at: !ruby/object:DateTime 2015-11-26 10:12:12.305000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-14 13:19:39.829000000 Z
+      id: 5j76DfcDwk28WOmWMAm20C
+      created_at: !ruby/object:DateTime 2015-11-26 09:47:55.196000000 Z
+      updated_at: !ruby/object:DateTime 2015-12-07 20:55:17.424000000 Z
       content_type_id: 5BpsmbwGhUi8wYwIEKO0Oa
-    title: Origins of rock art in Africa
-    slug: origins
+    title: Techniques of production
+    slug: techniques
     lead_image:
     - sys:
-        id: 2cVEIKXUmwQqwyOwauuGYc
-        created_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
-      title: Apollo.11.Cave
+        id: 53weII16ScuU6AQ6qWwIuS
+        created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
+      title: '2013,2034.4108'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
     chapters:
     - sys:
-        id: fZLY1sn2JGo800I8oW2us
-        created_at: !ruby/object:DateTime 2015-11-26 10:12:41.393000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:28:15.527000000 Z
+        id: 3ATyteWLBeyy0IU6cUY8cc
+        created_at: !ruby/object:DateTime 2015-11-26 09:42:50.596000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:42:50.596000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
       title: Introduction
-      title_internal: 'General: origins, chapter 1'
-      body: The oldest scientifically-dated rock art in Africa dates from around 30,000
-        years ago and is found in Namibia.
+      title_internal: 'General: how made, chapter 1'
+      body: 'Rock art has been practised for tens of thousands of years and the techniques
+        by which the paintings and engravings are created, while varied, conform to
+        basic principles related to resources and technology. An equally important
+        factor is where the image is placed. Not every rock surface is appropriate
+        to inscribe, some may need preparing beforehand. While much research focus
+        is generally given over to subject matter, dating and meaning in rock art
+        studies, consideration of the techniques of production can provide some insightful
+        observations into the methodologies by which images are created. Technically
+        speaking, images can be broadly classified into two main groups: petroglyphs
+        and pictographs. Petroglyphs are engraved or carved depictions on a rock surface;
+        pictographs are painted images on a rock surface.'
     - sys:
-        id: 3B1nQ7Xsooq6Ae4EyE0Oko
-        created_at: !ruby/object:DateTime 2015-11-26 10:10:47.465000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:10:47.465000000 Z
+        id: HYM6VlWCu2Uk28UwcI6qw
+        created_at: !ruby/object:DateTime 2015-11-26 09:40:34.705000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-19 17:12:00.737000000 Z
         content_type_id: 3NZwbeG360yGuoKUUCU8Oy
       image:
         sys:
-          id: 2cVEIKXUmwQqwyOwauuGYc
-          created_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
-        title: Apollo.11.Cave
+          id: 53weII16ScuU6AQ6qWwIuS
+          created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
+        title: '2013,2034.4108'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
-      caption: Quartzite slabs depicting animals, Apollo 11 Cave, Namibia. Image courtesy
-        of State Museum of Namibia © State Museum of Namibia
+        url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
+      caption: Bichrome antelope. Tin Tazarift, Tassili n’Ajjer, Algeria. 2013,2034.4108
+        © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3595543&partId=1&museumno=2013,2034.4108&page=1
     - sys:
-        id: 6sHCGiplbG4SuMYmeE8UW2
-        created_at: !ruby/object:DateTime 2015-11-26 10:13:10.958000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:13:10.958000000 Z
+        id: 1rfIlXAQBWuOMK4sqiAwau
+        created_at: !ruby/object:DateTime 2015-11-26 09:43:30.234000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:43:30.234000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title_internal: 'General: origins, chapter 2'
-      body: Between 1969 and 1972, German archaeologist, W.E. Wendt, researching in
-        an area known locally as 'Goachanas', unearthed several painted slabs in a
-        cave he named Apollo 11, after NASA’s successful moon landing mission. Seven
-        painted stone slabs of brown-grey quartzite, depicting a variety of animals
-        painted in charcoal, ochre and white, were located in a Middle Stone Age deposit.
-        These images are not easily identifiable to species level, but have been interpreted
-        variously as felines and/or bovids; one in particular has been observed to
-        be either a zebra, giraffe or ostrich, demonstrating the ambiguous nature
-        of the depictions.
+      title: Pictographs - Painting
+      title_internal: 'General: how made, chapter 2'
+      body: The pigments used in paintings are dependent on local resources, but typically
+        have been made of minerals such as ochre that comes in a variety of red, brown
+        and yellow hues. White is derived from silica, china clay and gypsum and black
+        is obtained from manganese minerals, charcoal or specularite. Once collected
+        these minerals were ground to form a powder and mixed with liquids such as
+        egg albumen, urine, blood, saliva or water to make the pigment easier to apply
+        and to act as a binding agent. Current research is exploring new methods to
+        be able to date these ingredients. A variety of tools have been used to apply
+        the pigment onto rock surfaces including birds’ feathers, animal hair, grasses
+        or reeds and fingers. This process is not simply a technological one, and
+        for many cultural groups the pigment itself and the method of application
+        are imbued with symbolic meaning.
     - sys:
-        id: 4jqrHFkmpqs8GWogw8cEAU
-        created_at: !ruby/object:DateTime 2015-11-26 10:13:34.687000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:13:34.687000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title: Art and our modern mind
-      title_internal: 'General: origins, chapter 3'
-      body: |-
-        While the Apollo 11 plaques may be the oldest discovered representational art in Africa, this is not the beginning of the story of art. It is now well-established, through genetic and fossil evidence, that anatomically modern humans (Homo sapiens sapiens) developed in Africa more than 100,000 years ago; of these, a small group left the Continent around 60,000-80,000 years ago and spread throughout the rest of the world. Recently discovered examples of patterned stone, ochre and ostrich eggshell, as well as evidence of personal ornamentation emerging from Middle Stone Age Africa (100,000–60,000 years ago), have demonstrated that ‘art’ is not only a much older phenomenon than previously thought, but that it has its roots in the African continent. Africa is where we share a common humanity.
-
-        The first examples of what we might term ‘art’ in Africa, dating from between 100,000–60,000 years ago, emerge in two very distinct forms: personal adornment in the form of perforated seashells suspended on twine, and incised and engraved stone, ochre and ostrich eggshell. Despite some sites being 8,000km and 40,000 years apart, an intriguing feature of the earliest art is that these first forays appear remarkably similar. It is worth noting here that the term ‘art’ in this context is highly problematic, in that we cannot assume that humans living 100,000 years ago, or even 10,000 years ago, had a concept of art in the same way that we do, particularly in the modern Western sense. However, it remains a useful umbrella term for our purposes here.
-    - sys:
-        id: 4HfDzzg8rC6mA0eU6IQkm2
-        created_at: !ruby/object:DateTime 2015-11-26 10:14:13.397000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:14:13.397000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title: Pattern and design
-      title_internal: 'General: origins, chapter 4'
-      body: |-
-        The practice of engraving or incising, which emerges around 12,000 years ago in Saharan rock art, has its antecedents much earlier, up to 100,000 years ago. Incised and engraved stone, bone, ochre and ostrich eggshell have been found at sites in southern Africa. These marked objects share features in the expression of design, exhibiting patterns that have been classified as cross-hatching.
-
-        One of the most iconic and well-publicised sites that have yielded cross-hatch incised patterning on ochre is Blombos Cave, on the southern Cape shore of South Africa. Of the more than 8,500 fragments of ochre deriving from the MSA levels, 15 fragments show evidence of engraving. Two of these, dated to 77,000 years ago, have received the most attention for the design of cross-hatch pattern.
-    - sys:
-        id: 5On76lx0FUGsGGkymAwei4
-        created_at: !ruby/object:DateTime 2015-11-26 10:11:15.382000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:11:15.382000000 Z
+        id: 5FvF7jgtQkqSuK6gcScAks
+        created_at: !ruby/object:DateTime 2015-11-26 09:41:14.113000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-19 17:14:58.388000000 Z
         content_type_id: 3NZwbeG360yGuoKUUCU8Oy
       image:
         sys:
-          id: 4lvOlwlUMwQqe6Cm2ka20c
-          created_at: !ruby/object:DateTime 2015-11-26 10:10:14.666000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.666000000 Z
-        title: Blombos.Cave
+          id: 5eo1GYHRFS6SYSWoum4Usy
+          created_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
+        title: '2013,2034.123'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4lvOlwlUMwQqe6Cm2ka20c/fb10d6e20427bbc487de3ee68c9c5a28/Blombos.Cave.jpg"
-      caption: Incised ochre from Blombos Cave, South Africa. Photo by Chris. S. Henshilwood
-        © Chris. S. Henshilwood
+        url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
+      caption: Negative handprints. Wadi el-Obeiyd, Egypt. 2013,2034.123 © TARA/David
+        Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?searchText=Search%20the%20collection&museumno=2013,2034.123&ILINK|34484,|assetId=1492207&objectId=3577680&partId=1
     - sys:
-        id: jgRuQ2IIAocma4AWygyke
-        created_at: !ruby/object:DateTime 2015-11-26 10:14:30.893000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:14:30.893000000 Z
+        id: 4CLJOn1uoEQyaSkAooaeQW
+        created_at: !ruby/object:DateTime 2015-11-26 09:43:48.853000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-19 17:17:14.289000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title_internal: 'General: origins, chapter 5'
-      body: |-
-        For many archaeologists, the incised pieces of ochre at Blombos are the most complex and best-formed evidence for early abstract representations, and are unequivocal evidence for symbolic thought and language. The debate about when we became a symbolic species and acquired fully syntactical language – what archaeologists term ‘modern human behaviour’ – is both complex and contested. It has been proposed that these cross-hatch patterns are clear evidence of thinking symbolically, because the motifs are not representational and as such are culturally constructed and arbitrary. Moreover, in order for the meaning of this motif to be conveyed to others, language is a prerequisite.
-
-        The Blombos engravings are not isolated occurrences, since the presence of such designs occur at more than half a dozen other sites in South Africa, suggesting that this pattern is indeed important in some way, and not the result of idiosyncratic behaviour. It is worth noting, however, that for some scholars, the premise that the pattern is symbolic is not so certain. The patterns may indeed have a meaning, but it is how that meaning is associated, either by resemblance (iconic) or correlation (indexical), that is important for our understanding of human cognition.
+      title_internal: 'General: how made, chapter 3'
+      body: A very specific type of image is the handprint. These can be made in two
+        ways, positively and negatively; by covering the hand in paint and applying
+        it to the rock surface or by placing the hand on the rock and blowing paint
+        through a tube or from the mouth over the hand to produce a stencil effect.
+        Most images were made just in one colour, although examples of bichrome or
+        polychrome are relatively frequent. Again, although very rare, there are some
+        examples of figures combining engraving and painting.
     - sys:
-        id: 4jbiaStTHWG8oUgEUMOisG
-        created_at: !ruby/object:DateTime 2015-11-26 10:11:50.180000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:29:25.645000000 Z
+        id: 5H7r0joxbOgqeesE4m2MUU
+        created_at: !ruby/object:DateTime 2015-11-26 09:44:30.108000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:44:30.108000000 Z
+        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      title: Petroglyphs – Engraving
+      title_internal: 'General: how made, chapter 4'
+      body: Three techniques were generally used to remove the rock surface; incising/engraving
+        (lines are cut into the rock with a sharp tool); pecking (hammering and chipping
+        away at the rock surface) and scraping. Rock faces were sometimes ‘prepared’
+        by scraping, allowing for an improved surface on which to inscribe the image.
+        Incising or engraving involves scratching into the stone surface using a sharp
+        lithic flake or metal blade. Pecking is a form of indirect percussion whereby
+        a second rock is used like a chisel between the hammerstone and the rock face,
+        while scraping is created using a hard hammerstone, which is battered against
+        the rock surface. A last, much rarer method of engraving is the bas-relief
+        technique, where the area around the image is lowered (usually by polishing)
+        thus making the figure raise over the surface.
+    - sys:
+        id: 3GOG2oZPjGmmMCii2QS0yE
+        created_at: !ruby/object:DateTime 2015-11-26 09:41:50.996000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-19 17:18:09.807000000 Z
         content_type_id: 3NZwbeG360yGuoKUUCU8Oy
       image:
         sys:
-          id: 5KFpq9vW9O6k6umooQYiKA
-          created_at: !ruby/object:DateTime 2015-11-26 10:10:14.669000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.669000000 Z
-        title: ostrich.eggshells
+          id: 1ViunR9pOs40oei6A4yC6q
+          created_at: !ruby/object:DateTime 2015-11-26 09:39:59.695000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
+        title: '2013,2034.4328'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5KFpq9vW9O6k6umooQYiKA/63f65b8d010b1bdcbda0d2fb7049122e/ostrich.eggshells.jpg"
-      caption: "Fragments of engraved ostrich eggshells from the Diepkloof Rock Shelter,\tWestern
-        Cape, South Africa, dated to 60,000 BP. Courtesy of Jean-Pierre Texier, Diepkloof
-        project. © Jean-Pierre Texier"
+        url: "//images.contentful.com/xt8ne4gbbocd/1ViunR9pOs40oei6A4yC6q/a403a948fda6df00ef8ca14a2b9f409c/2013_2034.4328.jpg"
+      caption: Polished cattle engravings. Tegharghart, Tassili n’Ajjer, Algeria.
+        2013,2034.4328 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601772&partId=1&museumno=2013,2034.4328&page=1
     - sys:
-        id: 64NOsXlchaeM2YIEAcQoGw
-        created_at: !ruby/object:DateTime 2015-11-26 10:14:48.739000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:14:48.739000000 Z
+        id: 6EyM70F9YIq4eaIucMgaqa
+        created_at: !ruby/object:DateTime 2015-11-26 09:44:52.817000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:44:52.817000000 Z
         content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
-      title_internal: 'General: origins, chapter 6'
-      body: Personal ornamentation and engraved designs are the earliest evidence
-        of art in Africa, and are inextricably tied up with the development of human
-        cognition. For tens of thousands of years, there has been not only a capacity
-        for, but a motivation to adorn and to inscribe, to make visual that which
-        is important. The interesting and pertinent issue in the context of this project
-        is that the rock art we are cataloguing, describing and researching comes
-        from a tradition that goes far back into African prehistory. The techniques
-        and subject matter resonate over the millennia.
+      title_internal: 'General: how made, chapter 5'
+      body: These methods of engraving are sometimes combined, as happens in the Sahara
+        where the outline of pecked figures is polished afterwards. Although for the
+        most part the engravings just depict the figures’ contour, on other occasions
+        all or part of the image is infilled with pecking or polishing. In all these
+        techniques, after differing periods of time the engraved surfaces weather
+        and acquire the same darker patina as the original surface.
     background_images:
     - sys:
-        id: 1bstKcKNZqC2ygioEM0uYO
-        created_at: !ruby/object:DateTime 2015-12-07 20:43:37.744000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-07 20:43:37.744000000 Z
-      title: MORATM0130051
+        id: 5eo1GYHRFS6SYSWoum4Usy
+        created_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
+      title: '2013,2034.123'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1bstKcKNZqC2ygioEM0uYO/a5392851c49141540957368efbf2fa63/MORATM0130051.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
     - sys:
-        id: 2q8dJPCe2AKcAeogKWikue
-        created_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
-      title: SOASWC0130095
+        id: 53weII16ScuU6AQ6qWwIuS
+        created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
+      title: '2013,2034.4108'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
   countries:
   - sys:
       id: 1iBECXLcNSSAUkasIIa0GW
@@ -24540,6 +24540,23 @@ chapter:
     is as complex socially, politically and culturally as the period in which it was
     created. Depiction of European encounters sit within a framework of local rock
     art traditions and belief systems as well as colonial history.
+- sys:
+    id: 3fiSQDTIRakyMIookukQGA
+    created_at: !ruby/object:DateTime 2017-11-16 17:47:22.283000000 Z
+    updated_at: !ruby/object:DateTime 2017-11-16 17:47:22.283000000 Z
+    content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+  title: Introduction
+  title_internal: 'Nigeria: country, chapter 1'
+  body: In general, West Africa is not well known for its painted or engraved rock
+    art and does not have a long history of rock art research. The scarcity of paintings
+    may be predicated on the topography and more humid conditions of the climate,
+    but the shortage of discovered sites to date may indicate that the paucity of
+    evidence is genuine. Painted rock art occurs in the north of the country and comprises
+    humpless cattle, monkeys, antelope and human figures, mainly painted in red. More
+    unique sculptural forms include standing stones engraved with stylised faces and
+    codified motifs, found to the south, and are reminiscent of the burial stelae
+    at Tuto Fela in Ethiopia (link here to the article on Standing Stones of Ethiopia
+    on the website).
 image:
 - sys:
     id: 5EG7K0Z26cUMISeKsAww4s
