@@ -52,6 +52,9 @@ rake contentful:import   # Import data from Contentful
 rake contentful:process  # Process imported data: re-maps Contentful content types and creates content pages
 rake serve:dev           # Serve development Jekyll site locally
 rake serve:prod          # Serve production Jekyll site locally
+rake test:all            # Test development and production sites
 rake test:dev            # Test development site
 rake test:prod           # Test production site
 ```
+
+By default, running `rake` will run the `test:all` task.
