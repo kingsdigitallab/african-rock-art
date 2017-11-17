@@ -18,7 +18,6 @@ github_username: kingsdigitallab
 google_analytics: UA-1005261-36
 include: [_pages]
 markdown: kramdown
-plugins: [jekyll-feed]
 theme: minima
 title: African Rock Art
 twitter_username: britishmuseum
