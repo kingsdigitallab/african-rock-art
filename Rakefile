@@ -42,19 +42,27 @@ namespace :build do
 end
 
 # Usage: rake test, rake test:prod
-task :test => ['test:dev']
+task :test => ['test:all']
 namespace :test do
+
+  desc 'Test development and production sites'
+  task :all do
+    puts 'Testing development and production sites'
+    Rake::Task['test:dev'].invoke
+    puts '---'
+    Rake::Task['test:prod'].invoke
+  end
 
   desc 'Test development site'
   task :dev do
-    puts 'Validating HTML output in _site...'
+    puts 'Validating development HTML output in _site...'
     Rake::Task['build:dev'].invoke
     system 'bundle exec htmlproofer ./_site'
   end
 
   desc 'Test production site'
   task :prod do
-    puts 'Validating HTML output in _site...'
+    puts 'Validating production HTML output in _site...'
     Rake::Task['build:prod'].invoke
     system 'bundle exec htmlproofer ./_site'
   end
@@ -72,7 +80,9 @@ namespace :contentful do
   task :all do
     puts 'Contentful data import and processing...'
     Rake::Task['contentful:import'].invoke
+    puts '---'
     Rake::Task['contentful:process'].invoke
+    puts '---'
     Rake::Task['contentful:assets'].invoke
   end
 
