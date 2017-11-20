@@ -56,17 +56,6 @@ caption, th, td {
     font-weight: normal;
 }
 
-/*blockquote:before, blockquote:after,
-q:before, q:after {
-	content: "\"";
-	font-size:100px;
-	font-family:Baskerville;
-}
-
-blockquote, q {
-	quotes: "" "";
-}*/
-
 a:focus {
     outline: thin dotted;
 }
@@ -155,10 +144,12 @@ blockquote, q {
     quotes: '\201c' '\201d';
 }
 
-blockquote p:before, q:before, blockquote p:after, q:after {
+blockquote p:before,
+q:before,
+blockquote p:after,
+q:after {
     position: relative;
     font-size: 60px;
-    /*line-height:20px;*/
     font-family: Baskerville;
     top: 10px;
 
