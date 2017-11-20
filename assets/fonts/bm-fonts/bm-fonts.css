@@ -1,0 +1,40 @@
+/*
+W01 = Basic Latin
+W02 = Latin Extended
+W10 = Cyrillic
+W15 = Greek
+*/
+@font-face {
+  font-family: 'icomoon';
+  src: url('icomoon.ttf') format('truetype'),
+       url('icomoon.woff') format('woff'),
+       url('icomoon.svg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+font-family:"Baskerville-Italic";
+src:url("BaskervilleBTW01-Italic.eot?#iefix");
+src:url("BaskervilleBTW01-Italic.eot?#iefix") format("eot"),url("BaskervilleBTW01-Italic.woff2") format("woff2"),url("BaskervilleBTW01-Italic.woff") format("woff"),url("BaskervilleBTW01-Italic.ttf") format("truetype"),url("BaskervilleBTW01-Italic.svg#a4f38eca-0b93-430d-be62-d321fbeebdd6") format("svg");
+}
+@font-face{
+font-family:"HelveticaNeue-Italic";
+src:url("HelveticaNeueLTW01-56Italic.eot?#iefix");
+src:url("HelveticaNeueLTW01-56Italic.eot?#iefix") format("eot"),url("HelveticaNeueLTW01-56Italic.woff2") format("woff2"),url("HelveticaNeueLTW01-56Italic.woff") format("woff"),url("HelveticaNeueLTW01-56Italic.ttf") format("truetype"),url("HelveticaNeueLTW01-56Italic.svg#0c6d116c-89d1-402b-b9f3-2d9890d7a4ee") format("svg");
+}
+@font-face{
+font-family:"HelveticaNeue-Bold";
+src:url("HelveticaNeueLTW01-75Bold.eot?#iefix");
+src:url("HelveticaNeueLTW01-75Bold.eot?#iefix") format("eot"),url("HelveticaNeueLTW01-75Bold.woff2") format("woff2"),url("HelveticaNeueLTW01-75Bold.woff") format("woff"),url("HelveticaNeueLTW01-75Bold.ttf") format("truetype"),url("HelveticaNeueLTW01-75Bold.svg#e4d5b881-6835-45b7-8766-3e5b9e7cab8b") format("svg");
+}
+@font-face{
+font-family:"Baskerville";
+src:url("BaskervilleBTW01-Roman.eot?#iefix");
+src:url("BaskervilleBTW01-Roman.eot?#iefix") format("eot"),url("BaskervilleBTW01-Roman.woff2") format("woff2"),url("BaskervilleBTW01-Roman.woff") format("woff"),url("BaskervilleBTW01-Roman.ttf") format("truetype"),url("BaskervilleBTW01-Roman.svg#adb0864d-04e9-4c2f-a3c2-6222a81b8d19") format("svg");
+}
+@font-face{
+font-family:"HelveticaNeue";
+src:url("HelveticaNeueLTW01-55Roman.eot?#iefix");
+src:url("HelveticaNeueLTW01-55Roman.eot?#iefix") format("eot"),url("HelveticaNeueLTW01-55Roman.woff2") format("woff2"),url("HelveticaNeueLTW01-55Roman.woff") format("woff"),url("HelveticaNeueLTW01-55Roman.ttf") format("truetype"),url("HelveticaNeueLTW01-55Roman.svg#5101995a-e73b-4cf9-84e8-f99eb43277b1") format("svg");
+}
