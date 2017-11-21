@@ -4,43 +4,107 @@
 
 // @import "default";
 @import "fonts";
-@import "minima";
+@import "bm-minima";
 // @import "style";
 
 /* Addtional CSS */
 
-.column {
+*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+// .column {
+//     float: left;
+
+//     &.half {
+//         width: 50%;
+//     }
+
+//     &.third {
+//         width: 33%;
+//     }
+
+//     &.quarter {
+//         width: 25%;
+//     }
+// }
+
+[class*='column-'] {
     float: left;
+}
 
-    &.half {
-        width: 50%;
-    }
+.column-half {
+    width: 50%;
+}
 
-    &.third {
-        width: 33%;
-    }
+.column-third {
+    width: 33%;
+}
 
-    &.quarter {
-        width: 25%;
+.column-quarter {
+    width: 25%;
+}
+
+// Gutters
+
+[class*='column-'] {
+    padding-right: 20px;
+}
+[class*='column-']:last-of-type {
+    padding-right: 0;
+}
+    
+.container {
+    display: block;
+    margin: 0 auto;
+    max-width: 940px;
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
     }
+}
+
+hr {
+    background: #000;
+    border: 0;
+    clear: both;
+    display: block;
+    height: 1px;
+}
+
+.page-content {
+    padding-top: 0;
 }
 
 section {
     display: block;
     padding: 1rem 0;
-    
-    .container {
-        display: block;
-        margin: 0 auto;
-        max-width: 940px;
-    }
 }
+
+/* Header */
+
+.logo {
+    display: block;
+    min-width: 160px;
+    padding: 35px 0 30px;
+}
+
+.site-header {
+    background: url('/assets/images/background.jpg') top center no-repeat;
+    background-size: cover;
+}
+
 
 /* Hero */
 
 .hero {
     background: black;
     color: white;
+    width: 100%;
 
     h1, h2, h3, h4, h5, h6 {
         color: $brand-color;
