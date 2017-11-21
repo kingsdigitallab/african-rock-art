@@ -1,0 +1,59 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// @import "default";
+@import "fonts";
+@import "minima";
+// @import "style";
+
+/* Addtional CSS */
+
+.column {
+    float: left;
+
+    &.half {
+        width: 50%;
+    }
+
+    &.third {
+        width: 33%;
+    }
+
+    &.quarter {
+        width: 25%;
+    }
+}
+
+section {
+    display: block;
+    padding: 1rem 0;
+    
+    .container {
+        display: block;
+        margin: 0 auto;
+        max-width: 940px;
+    }
+}
+
+/* Hero */
+
+.hero {
+    background: black;
+    color: white;
+
+    h1, h2, h3, h4, h5, h6 {
+        color: $brand-color;
+        font-family: "Helvetica Neue", serif !important;
+    }
+}
+
+/* Media queries */
+
+@media screen and (min-width: 768px) {
+
+    .site-header {
+        min-height: 390px;
+    }
+
+}

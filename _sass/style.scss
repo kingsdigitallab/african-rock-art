@@ -56,17 +56,6 @@ caption, th, td {
     font-weight: normal;
 }
 
-/*blockquote:before, blockquote:after,
-q:before, q:after {
-	content: "\"";
-	font-size:100px;
-	font-family:Baskerville;
-}
-
-blockquote, q {
-	quotes: "" "";
-}*/
-
 a:focus {
     outline: thin dotted;
 }
@@ -155,10 +144,12 @@ blockquote, q {
     quotes: '\201c' '\201d';
 }
 
-blockquote p:before, q:before, blockquote p:after, q:after {
+blockquote p:before,
+q:before,
+blockquote p:after,
+q:after {
     position: relative;
     font-size: 60px;
-    /*line-height:20px;*/
     font-family: Baskerville;
     top: 10px;
 
@@ -1281,7 +1272,7 @@ ul.pinglist {
     border-top: 1px solid #eee;
     padding-top: 10px;
     display: inline-block;
-    font-family: HelveticaNeue sans-serif;
+    font-family: HelveticaNeue, sans-serif;
 }
 
 .taglist {
@@ -2388,7 +2379,7 @@ table th {
 .page.post-cover-overlay-post-title .post-cover-title-head .entry-subtitle {
     font-weight: lighter;
     padding: 5px 0 10px;
-    font-family: HelveticaNeue . Georgia, "Times New Roman", Times, serif;
+    font-family: HelveticaNeue, Georgia, "Times New Roman", Times, serif;
     font-style: italic;
 }
 
@@ -3656,7 +3647,7 @@ input[type=text].subscribe_box {
     padding-left: 20px;
     margin-top: 30px;
     height: 48px;
-    font-family: HelveticaNeue, Sans-serif;
+    font-family: HelveticaNeue, sans-serif;
     background-color: #C9C9C9;
     border-radius: 0;
     -moz-border-radius: 0;
@@ -4032,7 +4023,7 @@ a {
 }
 
 .footer p {
-    font-family: HelveticaNeue, "sans-serif";
+    font-family: HelveticaNeue, sans-serif;
     font-weight: lighter;
     font-size: 1.2rem;
     line-height: 2.3rem;
@@ -4063,7 +4054,6 @@ a {
     font-weight: 700;
     letter-spacing: .15rem;
     line-height: 2.4rem;
-    /*text-transform: uppercase;*/
     font-size: 1.2rem;
     margin-bottom: 2px;
 }
@@ -4142,7 +4132,7 @@ a {
 }
 
 input {
-    font-family: HelveticaNeue, "sans-serif";
+    font-family: HelveticaNeue, sans-serif;
     font-size: 1.4rem;
     outline: none;
 }
@@ -4180,7 +4170,7 @@ input {
     color: #fff;
     cursor: pointer;
     display: block;
-    1 font-size: 1.2rem;
+    font-size: 1.2rem;
     font-weight: 700;
     letter-spacing: .15rem;
     line-height: 2.6rem;
@@ -4188,7 +4178,6 @@ input {
     outline: none;
     padding: 10px 15px;
     text-align: center !important;
-    /*text-transform: uppercase;*/
 }
 
 .button .text {
