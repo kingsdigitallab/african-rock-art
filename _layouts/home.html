@@ -18,7 +18,7 @@ layout: default
             <h2>Introduction</h2>
 
             {% for introduction in project_page.introduction_articles %}
-            <div class="column third">
+            <div class="column-third">
                 <h3>{{ introduction.title }}</h3>
                 <a href="/introduction{{ introduction.slug | relative_url }}.html">
                     {% assign image = introduction.lead_image[0] %}
