@@ -6,7 +6,7 @@ layout: default
     <section class="hero">
         <div class="container">
             <h1 class="page-heading">African Rock Art</h1>
-            <h1>Image project</h1>
+            <p>Image project</p>
 
             {% assign project_page = site.data.ara.project_page[0] %}
             <p>{{ project_page.general_intro | markdownify }}</p>
@@ -18,7 +18,7 @@ layout: default
             <h2>Introduction</h2>
 
             {% for introduction in project_page.introduction_articles %}
-            <div class="column third">
+            <div class="column-third">
                 <h3>{{ introduction.title }}</h3>
                 <a href="/introduction{{ introduction.slug | relative_url }}.html">
                     {% assign image = introduction.lead_image[0] %}
