@@ -15,25 +15,20 @@
     box-sizing: border-box;
 }
 
-// .column {
-//     float: left;
-
-//     &.half {
-//         width: 50%;
-//     }
-
-//     &.third {
-//         width: 33%;
-//     }
-
-//     &.quarter {
-//         width: 25%;
-//     }
-// }
-
 [class*='column-'] {
     float: left;
 }
+
+// Gutters
+
+[class*='column-'] {
+    padding-right: 20px;
+}
+[class*='column-']:last-of-type {
+    padding-right: 0;
+}
+
+// Columns
 
 .column-half {
     width: 50%;
@@ -45,15 +40,6 @@
 
 .column-quarter {
     width: 25%;
-}
-
-// Gutters
-
-[class*='column-'] {
-    padding-right: 20px;
-}
-[class*='column-']:last-of-type {
-    padding-right: 0;
 }
     
 .container {
