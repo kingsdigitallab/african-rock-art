@@ -1,13 +1,14 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" href="{{ "/" | relative_url }}">
-      <img src="/assets/images/BM_Stacked_blk.svg" alt="British Museum">
-    </a>
-  
-    {% if page_paths %}
+    <div class="container">
+      {% assign default_paths = site.pages | map: "path" %}
+      {% assign page_paths = site.header_pages | default: default_paths %}
+      <a class="site-title" href="{{ "/" | relative_url }}">
+        <img src="/assets/images/BM_Stacked_blk.svg" alt="British Museum" class="logo">
+      </a>
+    
+      {% if page_paths %}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -29,6 +30,9 @@
           {% endfor %}
         </div>
       </nav>
-    {% endif %}
+      {% endif %}
+
+      <hr>
+    </div>
   </div>
 </header>
