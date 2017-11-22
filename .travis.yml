@@ -13,21 +13,21 @@ addons:
     packages:
     - libcurl4-openssl-dev
 sudo: false
-deploy:
-  provider: s3
-  access_key_id: AKIAIQMOMAIEOTZDRMNA
-  secret_access_key:
-    secure: qOYejxdHnes4HuKomcuel61MYk2KtAJPBCZGYgp5c2UIOm2bIJATX5nEi0srzrBf8FAfhu+ca44amfIiSH+siaTlsdqDtHIC8Akt871tRb8kOGeFth7gBIfs9x7KgjMLlPLui9Z9Pd5jSud+xnXNtB4ys7T7yb4IM+Jo+XbRq2qM9KEeFrqE5A9XDcqdT7Xk6YPdENaBsGGu4C6KqD7nFhiWoKXPYK3deV3Mb1NDgPwcunMNTRfY6VDQ+hcCNrty636J5wFi54VlFPvzBNvIP8bRDVjq3veg1f1dslxQEpN1hL3nuJKo2uARJyFlaXFsJ90jgCcupdzR4HPLh4RV71a3ex764lh4kXLhBFgRRI6EMy0Q7Et0pwBxCYVS1+D6n5PwuHbuyXrqS+rHnZJv6xFR7vlmtOHcYxssNUFrlklm8Th9ID4KC+ANdGCVicU6mCKWaKbZH7kcAdT1a9NPEuwrynU81J/brIcIMnkzLuEXIU8kr+30FZn6QXHSxB7yFF2IqU9fPNbel4VgSP4HVNXFLwfobDVDnFLIB/nMevZqk5dckXnfmukAERetnAKraiGKh5y//GUTmV9BeBCJ1unOvqntbe7JHM3seozEE6QlnRnJ/Jk/RcH8ZYDkiQhEhTlKcWtE41lTMohLh/El8Mt0yerExwai8/nm6O3IquM=
-  bucket: kdl-african-rock-art
-  acl: public_read
-  skip_cleanup: true
-  local-dir: ./_site
-  on:
-    repo: kingsdigitallab/african-rock-art
-    branch: develop
+# deploy:
+#   provider: s3
+#   access_key_id: AKIAIQMOMAIEOTZDRMNA
+#   secret_access_key:
+#     secure: qOYejxdHnes4HuKomcuel61MYk2KtAJPBCZGYgp5c2UIOm2bIJATX5nEi0srzrBf8FAfhu+ca44amfIiSH+siaTlsdqDtHIC8Akt871tRb8kOGeFth7gBIfs9x7KgjMLlPLui9Z9Pd5jSud+xnXNtB4ys7T7yb4IM+Jo+XbRq2qM9KEeFrqE5A9XDcqdT7Xk6YPdENaBsGGu4C6KqD7nFhiWoKXPYK3deV3Mb1NDgPwcunMNTRfY6VDQ+hcCNrty636J5wFi54VlFPvzBNvIP8bRDVjq3veg1f1dslxQEpN1hL3nuJKo2uARJyFlaXFsJ90jgCcupdzR4HPLh4RV71a3ex764lh4kXLhBFgRRI6EMy0Q7Et0pwBxCYVS1+D6n5PwuHbuyXrqS+rHnZJv6xFR7vlmtOHcYxssNUFrlklm8Th9ID4KC+ANdGCVicU6mCKWaKbZH7kcAdT1a9NPEuwrynU81J/brIcIMnkzLuEXIU8kr+30FZn6QXHSxB7yFF2IqU9fPNbel4VgSP4HVNXFLwfobDVDnFLIB/nMevZqk5dckXnfmukAERetnAKraiGKh5y//GUTmV9BeBCJ1unOvqntbe7JHM3seozEE6QlnRnJ/Jk/RcH8ZYDkiQhEhTlKcWtE41lTMohLh/El8Mt0yerExwai8/nm6O3IquM=
+#   bucket: kdl-african-rock-art
+#   acl: public_read
+#   skip_cleanup: true
+#   local-dir: ./_site
+#   on:
+#     repo: kingsdigitallab/african-rock-art
+#     branch: master
 notifications:
   slack:
     rooms:
-      secure: CmjESFXnUcXeNSkVu4GcAnzNRVm7CqzJb39hOv12Jt0OIjNyho7au0vqKA57IUi7j/HTR8qyd3EG+XN1WnPIuuRn7C0VCe/YfkQePZUMIq9jk/2xJq9IeDbuIRaHTVXz6r/PN8Ftcz4sc8jUhG+DQQrTmJwWnMp+iCCvDUo+LidkRDYAIOLMMZ+uQerRdtH1nW7o0o+uVPEK8gn926zm7dBWbK6egzpfPjdxa0gmgOrSJJ2zbDT8TesHOI4UD5zEF9XxhIkwai1eIdQlZ2narWO+IW5sw5GP8ckskGUItionwIkY7MjX4m1IcA2XiRv1Llai9lcHQCMuxZB8Jd1NtApBr5neBBLWD2e9Z6byi3V+dILMfh1A0WIkss5pQK4PwlEiM7ulzX9g18SADdqBNKEKg6+fw36hdjNZM7i5mGwnhKoTbu1KLmQgJ/C4zBCAlo3tO7Zxc4+O/zSRQ8lkvElTLriRbLuIjWrQ6WJ8k0OVozthQi3WJDKhhAbgaPkROtjqZ1VDt41/CblLNBM2+/7oVDXc3cQWtdwZuMiCgAd6tGEwB5hwY9xHfCZqkE2OAt00rDrfhCdyxgzIqTVIMIMv3M/8v/scWbG9aVZ9cOD6RvEsyzGnGWBDzhItyoMG11wdPBCYkpWE80gEWOzuM82Uu0xRlgVgPM6WdIUrNeY=
+      secure: cPVV6fuGjPIzKxtqGFj8UrupgmvLg8qMws2ywc2k+8ryg/L452o3CtvJsxe9XxdeDtSUntqG/sQQkh4bpGk9stndpbhosJHuKSCtwgE0j/vS+aUmXFzzr/9/lBZtPXHp4CcDq7MjIEwAQoNMXHbXbTH7TliZvCJV3DM6hufFogwr8SfDSrhMk0UOsDtt5UilagUbbCTkcDENS5Jz3INQp2YhqXCNDlJtuoeuREoqszkWk6b243KkFLTr5Dm8G922wofdVsK/PP1S5Bxy4t1R+59Lo3Q5k+VhxzpEGd+gTGVfRWt/Ax/gvxq3sed2pgLH54xY0w/glts1vfN3bJkHTcozOCIx9g4F42+6clDNySY1tmmz+OTwPhJGovfspRDJel0eDpRrrCVbMbG6+k6j78Zn5tPfn4ResR+I/EERnNuu2YdGTIOtsvWyA8UadCNWD8WBxAGwjoYsyZctBRniA2smxzCmgymw1ryShJqRY1uucvDFIERTfHcdhMWA4vW0qRrDJJeskvcvtS6bKVS3Zw3lCkt5x6RgnmjjcJUCLrrQVJ1xhS4CcyC/h7+m1md+wUFOCO63+xUuteuTOy8SmpNhOL9HwKvRvEZ5i5G2Fj8Evf7EeTjzuIgyCHuQLp6PMoEItt2dWitV85XfcJ9R850Wi3uNU/3ZtS8+CCstwM0=
       on_success: change
       on_failure: always
