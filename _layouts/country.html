@@ -1,15 +1,81 @@
 ---
 layout: default
 ---
+
+<nav class="container breadcrumbs">
+    <ul>
+        <li>
+            <a href="#">Homepage</a>
+        </li>
+        <li>
+            This page
+        </li>
+    </ul>
+</nav>
+
 <article class="country">
     {% assign self = page.contentful %}
 
-    <header class="post-header">
-        <h1 class="post-title">{{ self.name | escape }}</h1>
+    <header class="container">
+        <h1>{{ self.name | escape }}</h1>
     </header>
 
-    <div class="post-content">
+    {% comment %}
+        First chapter, Introduction, is displaying differently than the rest of
+        the page. Layout below:
+    {% endcomment %}
+
+    <div class="container featured-chapter">
+        <div class="column-five-twelveth">
+            <h2>Chapter title</h2>
+            <p>Chapter text</p>
+            <a href="#" class="button orange more">View featured rock art site</a>
+        </div>
+
+        <div class="column-seven-twelveth">
+            <img src="" alt="Chapter image to go here" class="full-width">
+            <p class="caption">Image caption here</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Highlight images</h2>
+        <p><a href="#">Browse rock art on collections online</a></p>
+        <div class="card column-one-third">
+            <a href="#"><img src="" alt=""></a>
+            <a href="#" class="more">Read more about this image</a>
+        </div>
+        <div class="card column-one-third">
+            <a href="#"><img src="" alt=""></a>
+            <a href="#" class="more">Read more about this image</a>
+        </div>
+        <div class="card column-one-third">
+            <a href="#"><img src="" alt=""></a>
+            <a href="#" class="more">Read more about this image</a>
+        </div>
+    </div>
+
+    {% comment %}
+    Looping all the chapters except the introduction
+    I will add the expand/collapse function after - Ginestra
+    {% endcomment %}
+    <div class="container chapter">
         {% include chapters.html chapters=self.country_introduction.chapters %}
     </div>
 
+    <div class="container">
+        <h2>Related content</h2>
+        <div class="card column-one-third">
+            <a href="#"><img src="" alt=""></a>
+            <h3><a href="#">Introduction to rock art in northern Africa</a></h3>
+            <a href="#" class="more">Find out more</a>
+        </div>
+        <div class="card column-one-third">
+            <a href="#"><img src="" alt=""></a>
+            <h3><a href="#">The art of the warrior</a></h3>
+            <a href="#" class="more">Find out more</a>
+        </div>
+        <div class="card column-one-third">
+        </div>
+    </div>
 </article>
