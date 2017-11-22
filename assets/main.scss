@@ -27,6 +27,20 @@
 [class*='column-']:last-of-type {
     padding-right: 0;
 }
+
+button,
+.button {
+    display: block;
+    padding: 16px;
+
+    &.expanded {
+        width: 100%;
+    }
+
+    &.orange {
+        background: $brand-color;
+    }
+}
     
 .container {
     display: block;
@@ -88,6 +102,46 @@ section {
 .card {
     background: white;
     border: 1px solid #f1f1f1;
+}
+
+/* Footer */
+
+footer,
+.footer {
+
+    line-height: 1.5;
+
+    a {
+        color: black;
+        font-weight: 700;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    ul {
+        margin: 0;
+    }
+
+}
+
+.footer__social {
+    ul {
+        clear: both;
+        display: both;
+        margin: 0;
+
+        li {
+            float: left;
+            margin: 0;
+            padding: 16px;
+
+            img {
+                max-height: 20px;
+            }
+        }
+    }
 }
 
 /* Media queries */
