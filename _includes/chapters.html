@@ -1,4 +1,4 @@
-{% for chapter in include.chapters %}
+{% for chapter in include.chapters | offset:include.offset %}
 
 <h2>{{ chapter.title }}</h2>
 
