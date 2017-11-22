@@ -17,20 +17,45 @@
 
 [class*='column-'] {
     float: left;
+    padding-bottom: 20px;
+    padding-right: 20px; // Gutters
 }
 
-// Gutters
-
-[class*='column-'] {
-    padding-right: 20px;
-}
 [class*='column-']:last-of-type {
-    padding-right: 0;
+    padding-right: 0; // No gutter on the last column
+}
+
+button,
+.button {
+    float: none;
+    padding: 8px 16px;
+
+    &.expanded {
+        display: block;
+        width: 100%;
+    }
+
+    &.orange {
+        background: $brand-color;
+        color: black;
+
+        &:hover {
+            background: darken($brand-color, 10%);
+            text-decoration: none;
+        }
+    }
+}
+
+.chapter,
+.featured-chapter {
+    margin-bottom: 16px !important;
 }
     
 .container {
+    clear: both;
     display: block;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     max-width: 940px;
     padding: 0 16px;
 
@@ -41,12 +66,63 @@
     }
 }
 
+h1 {
+    font-family: "Baskerville", serif;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 16px 0 8px;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    margin: 16px 0 8px;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+h5 {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+h6 {
+    font-size: 12px;
+    line-height: 16px;
+}
+
 hr {
     background: #000;
     border: 0;
     clear: both;
     display: block;
     height: 1px;
+}
+
+.more {
+    &:after {
+        content: "\2192";
+        padding-left: 16px;
+    }
+}
+
+p {
+    font-size: 16px;
+    line-height: 22px;
 }
 
 .page-content {
@@ -56,6 +132,51 @@ hr {
 section {
     display: block;
     padding: 1rem 0;
+}
+
+/* Navigation */
+
+.breadcrumbs {
+
+    clear: both;
+    display: block;
+    font-size: 12px;
+
+    &:after {
+        clear: both;
+    }
+
+    a {
+        color: black;
+        text-decoration: underline;
+
+        &:hover {
+            color: $brand-color;
+            text-decoration: none;
+        }
+    }
+
+    li {
+        float: left;
+        list-style: none;
+        margin: 0;
+        padding: 16px 8px 16px 0;
+
+        &:after {
+            content: "/";
+            padding: 0 8px;
+        }
+
+        &:last-child {
+            &:after {
+                content: "";
+            }
+        }
+    }
+
+    ul {
+        margin: 0;
+    }
 }
 
 /* Header */
@@ -75,9 +196,14 @@ section {
     color: white;
     width: 100%;
 
+    h1 {
+        font-family: "Helvetica Neue", sans-serif;
+        font-size: 38px;
+        line-height: 40px;
+    }
+
     h1, h2, h3, h4, h5, h6 {
         color: $brand-color;
-        font-family: "Helvetica Neue", serif !important;
     }
 }
 
@@ -88,6 +214,61 @@ section {
 .card {
     background: white;
     border: 1px solid #f1f1f1;
+
+    a {
+        color: black;
+    }
+}
+
+/* Images */
+
+.caption {
+    font-size: 12px;
+    line-height: 1;
+}
+
+.full-width {
+    width: 100%;
+}
+
+/* Footer */
+
+footer,
+.footer {
+
+    line-height: 1.5;
+
+    a {
+        color: black;
+        font-weight: 700;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    ul {
+        margin: 0;
+    }
+
+}
+
+.footer__social {
+    ul {
+        clear: both;
+        display: both;
+        margin: 0;
+
+        li {
+            float: left;
+            margin: 0;
+            padding: 16px;
+
+            img {
+                max-height: 20px;
+            }
+        }
+    }
 }
 
 /* Media queries */
@@ -116,6 +297,14 @@ section {
         width: 75%;
     }
 
+    .column-five-twelveth {
+        width: 41.66%;
+    }
+
+    .column-seven-twelveth {
+        width: 58.33%;
+    }
+
     .home {
         .site-header {
             min-height: 390px;
@@ -141,7 +330,9 @@ section {
     .column-one-third,
     .columns-tow-thirds,
     .column-one-quarter,
-    .column-three-quarters {
+    .column-three-quarters,
+    .column-five-twelveth,
+    .column-seven-twelveth {
         width: 100%;
     }
 

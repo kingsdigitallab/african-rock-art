@@ -96,8 +96,10 @@ layout: default
     <div class="container">
         <h2>Explore multimedia</h2>
         {% for item in project_page.media_carousel limit:3 %}
-        <h3>{{ item.title }}</h3>
-        <!--{# item.embed_code | safe #}-->
+        <div class="column-one-third">
+            <h3>{{ item.title }}</h3>
+            <!--{# item.embed_code | safe #}-->
+        </div>
         {% endfor %}
     </div>
 </section>
