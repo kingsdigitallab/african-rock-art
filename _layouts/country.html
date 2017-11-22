@@ -17,7 +17,7 @@ layout: default
     {% assign self = page.contentful %}
     {% assign introduction = self.country_introduction.chapters[0] %}
     {% assign introduction_image = self.country_introduction.chapters[1] %}
-    {% assign chapters = self.country_introduction.chapters | offset:2 %}
+    {% assign chapters = self.country_introduction.chapters %}
 
     <header class="container">
         <h1>{{ self.name | escape }}</h1>
@@ -30,48 +30,38 @@ layout: default
         </div>
 
         <div class="column-seven-twelveth">
-         {% include image.html image=introduction_image.image caption=introduction_image.caption class="full-width" %}
-     </div>
- </div>
+           {% include image.html image=introduction_image.image caption=introduction_image.caption class="full-width" %}
+       </div>
+   </div>
 
- <div class="container">
+   <div class="container">
     <h2>Highlight images</h2>
     <p><a href="#">Browse rock art on collections online</a></p>
+    {% for image in self.image_carousel | limit:3 %}
     <div class="card column-one-third">
-        <a href="#"><img src="" alt=""></a>
+        <a href="#"><img src="{{ image.url }}" alt=""></a>
         <a href="#" class="more">Read more about this image</a>
     </div>
-    <div class="card column-one-third">
-        <a href="#"><img src="" alt=""></a>
-        <a href="#" class="more">Read more about this image</a>
-    </div>
-    <div class="card column-one-third">
-        <a href="#"><img src="" alt=""></a>
-        <a href="#" class="more">Read more about this image</a>
-    </div>
+    {% endfor %}
 </div>
 
-    {% comment %}
-    Looping all the chapters except the introduction
-    I will add the expand/collapse function after - Ginestra
-    {% endcomment %}
-    <div class="container chapter">
-        {% include chapters.html chapters=self.country_introduction.chapters %}
-    </div>
+<div class="container chapter">
+    {% include chapters.html chapters=chapters offset=2 %}
+</div>
 
-    <div class="container">
-        <h2>Related content</h2>
-        <div class="card column-one-third">
-            <a href="#"><img src="" alt=""></a>
-            <h3><a href="#">Introduction to rock art in northern Africa</a></h3>
-            <a href="#" class="more">Find out more</a>
-        </div>
-        <div class="card column-one-third">
-            <a href="#"><img src="" alt=""></a>
-            <h3><a href="#">The art of the warrior</a></h3>
-            <a href="#" class="more">Find out more</a>
-        </div>
-        <div class="card column-one-third">
-        </div>
+<div class="container">
+    <h2>Related content</h2>
+    <div class="card column-one-third">
+        <a href="#"><img src="" alt=""></a>
+        <h3><a href="#">Introduction to rock art in northern Africa</a></h3>
+        <a href="#" class="more">Find out more</a>
     </div>
+    <div class="card column-one-third">
+        <a href="#"><img src="" alt=""></a>
+        <h3><a href="#">The art of the warrior</a></h3>
+        <a href="#" class="more">Find out more</a>
+    </div>
+    <div class="card column-one-third">
+    </div>
+</div>
 </article>
