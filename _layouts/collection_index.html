@@ -6,12 +6,12 @@ layout: default
 {% include breadcrumbs.html %}
 
 <div class="container">
-    <h1>Explore countries</h1>
+    <h1 class="page-heading">Explore countries</h1>
     {% for item in collection.docs %}
     <div class="column-ten-twelveth card">
         <div class="container">
             <div class="column-eight-tenth">
-                <h2>{{ item.title }}</h2>
+                <h2 class="title">{{ item.title }}</h2>
                 <p><a href="{{ item.url }}">{{ item.title }}</a></p>
             </div>
             <div class="column-two-tenth">

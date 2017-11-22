@@ -25,9 +25,15 @@
     padding-right: 0; // No gutter on the last column
 }
 
+a {
+    display: inline-block;
+}
+
 button,
 .button {
-    float: none;
+    display: inline-block;
+    font-weight: 700;
+    margin-bottom: 16px;
     padding: 8px 16px;
 
     &.expanded {
@@ -66,45 +72,6 @@ button,
     }
 }
 
-h1 {
-    font-family: "Baskerville", serif;
-    font-size: 38px;
-    font-weight: 400;
-    line-height: 40px;
-    margin: 16px 0 8px;
-}
-
-h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", sans-serif;
-    font-weight: 700;
-    margin: 16px 0 8px;
-}
-
-h2 {
-    font-size: 36px;
-    line-height: 36px;
-}
-
-h3 {
-    font-size: 24px;
-    line-height: 30px;
-}
-
-h4 {
-    font-size: 20px;
-    line-height: 24px;
-}
-
-h5 {
-    font-size: 16px;
-    line-height: 22px;
-}
-
-h6 {
-    font-size: 12px;
-    line-height: 16px;
-}
-
 hr {
     background: #000;
     border: 0;
@@ -120,9 +87,17 @@ hr {
     }
 }
 
+.orange {
+    color: $brand-color;
+}
+
 p {
     font-size: 16px;
     line-height: 24px;
+
+    a {
+        text-decoration: underline;
+    }
 }
 
 .page-content {
@@ -132,6 +107,40 @@ p {
 section {
     display: block;
     padding: 1rem 0;
+
+    .section-title {
+        font-family: "Baskerville", serif;
+        font-weight: 400;
+    }
+}
+
+.white {
+    color: white;
+}
+
+// Headings
+
+h1 {
+    font-family: "Baskerville", serif;
+    font-weight: 400;
+    margin: 24px 0;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    margin: 16px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    a {
+        color: black;
+    }
+}
+
+.page-heading {
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 700;
 }
 
 /* Navigation */
@@ -195,12 +204,6 @@ section {
     background: black;
     color: white;
     width: 100%;
-
-    h1 {
-        font-family: "Helvetica Neue", sans-serif;
-        font-size: 38px;
-        line-height: 40px;
-    }
 
     h1, h2, h3, h4, h5, h6 {
         color: $brand-color;
@@ -323,6 +326,14 @@ footer,
         }
     }
 
+    .hero {
+        .column-half {
+            h3 {
+                margin-top: 45px;
+            }
+        }
+    }
+
     .logo {
         min-width: 160px;
         padding: 35px 0 30px;
@@ -330,6 +341,47 @@ footer,
 
     .site-header {
         min-height: 120px;
+    }
+
+    // Headings
+
+    h1 {
+        font-size: 38px;
+        line-height: 40px;
+    }
+
+    h2 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+
+    h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    h6 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    // Cards
+
+    .card {
+        h2 {
+            font-size: 24px;
+            line-height: 30px;
+        }
     }
 
 }
@@ -368,6 +420,15 @@ footer,
     h4 {
         font-size: 16px;
         line-height: 24px;
+    }
+
+    // Cards
+
+    .card {
+        h2 {
+            font-size: 20px;
+            line-height: 24px;
+        }
     }
 
     .home {
