@@ -19,7 +19,7 @@ deploy:
   secret_access_key:
     secure: qOYejxdHnes4HuKomcuel61MYk2KtAJPBCZGYgp5c2UIOm2bIJATX5nEi0srzrBf8FAfhu+ca44amfIiSH+siaTlsdqDtHIC8Akt871tRb8kOGeFth7gBIfs9x7KgjMLlPLui9Z9Pd5jSud+xnXNtB4ys7T7yb4IM+Jo+XbRq2qM9KEeFrqE5A9XDcqdT7Xk6YPdENaBsGGu4C6KqD7nFhiWoKXPYK3deV3Mb1NDgPwcunMNTRfY6VDQ+hcCNrty636J5wFi54VlFPvzBNvIP8bRDVjq3veg1f1dslxQEpN1hL3nuJKo2uARJyFlaXFsJ90jgCcupdzR4HPLh4RV71a3ex764lh4kXLhBFgRRI6EMy0Q7Et0pwBxCYVS1+D6n5PwuHbuyXrqS+rHnZJv6xFR7vlmtOHcYxssNUFrlklm8Th9ID4KC+ANdGCVicU6mCKWaKbZH7kcAdT1a9NPEuwrynU81J/brIcIMnkzLuEXIU8kr+30FZn6QXHSxB7yFF2IqU9fPNbel4VgSP4HVNXFLwfobDVDnFLIB/nMevZqk5dckXnfmukAERetnAKraiGKh5y//GUTmV9BeBCJ1unOvqntbe7JHM3seozEE6QlnRnJ/Jk/RcH8ZYDkiQhEhTlKcWtE41lTMohLh/El8Mt0yerExwai8/nm6O3IquM=
   bucket: kdl-african-rock-art
-  local-dir: _site
+  local-dir: ./_site
   acl: public_read
   on:
     repo: kingsdigitallab/african-rock-art
