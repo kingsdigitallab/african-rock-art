@@ -14,7 +14,7 @@ contentful:
 description: African Rock Art Follow our digital journey across Africa. Discover 30,000
   years of rock art.
 email: info@britishmuseum.org
-exclude: [bower.json, env.sh*, Gemfile*, Rakefile, README.md, vendor]
+exclude: [bower.json, env.sh*, Gemfile*, Rakefile, README.md, script, vendor]
 github_username: kingsdigitallab
 google_analytics: UA-1005261-36
 include: [_pages]
