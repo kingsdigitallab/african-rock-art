@@ -1,83 +1,103 @@
 ---
 layout: default
 ---
-<div class="home">
 
-    <section class="hero">
-        <div class="container">
-            <h1 class="page-heading">African Rock Art</h1>
-            <p>Image project</p>
+<section class="hero">
+    <div class="container">
+        <h1 class="page-heading">African Rock Art</h1>
+        <p>Image project</p>
 
-            {% assign project_page = site.data.ara.project_page[0] %}
-            <p>{{ project_page.general_intro | markdownify }}</p>
+        {% assign project_page = site.data.ara.project_page[0] %}
+        <p>{{ project_page.general_intro | markdownify }}</p>
+    </div>
+</section>
+
+<section class="intro">
+    <div class="container">
+        <h2>Introduction</h2>
+
+        {% for introduction in project_page.introduction_articles %}
+        <div class="column-one-third">
+            <h3>{{ introduction.title }}</h3>
+            <a href="/introduction{{ introduction.slug | relative_url }}.html">
+                {% assign image = introduction.lead_image[0] %}
+                {% include image.html image=image %}
+            </a>
         </div>
-    </section>
+        {% endfor %}
+    </div>
+</section>
 
-    <section class="intro">
-        <div class="container">
-            <h2>Introduction</h2>
+<section class="countries">
+    <div class="container">
+        <h2>Explore countries</h2>
+        {% include map.svg %}
 
-            {% for introduction in project_page.introduction_articles %}
-            <div class="column-third">
-                <h3>{{ introduction.title }}</h3>
-                <a href="/introduction{{ introduction.slug | relative_url }}.html">
-                    {% assign image = introduction.lead_image[0] %}
-                    {% include image.html image=image %}
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-    </section>
-
-    <section class="countries">
-        <div class="container">
-            <h2>Explore countries</h2>
-            {% include map.svg %}
-
-            {% for country in project_page.countries limit:5 %}
+        {% for country in project_page.countries limit:3 %}
+        <div class="column-one-third">
             <h3>{{ country.name }}</h3>
             <a href="/country{{ country.slug | relative_url }}.html">
                 {% assign image = country.image_carousel[0] %}
                 {% include image.html image=image %}
             </a>
-            {% endfor %}
         </div>
-    </section>
+        {% endfor %}
+    </div>
+</section>
 
-    <section class="regions">
-        <div class="container">
-            <h2>Explore regions</h2>
-            {% for region in project_page.regional_articles %}
-            <h3>{{ region.title }}</h3>
+<section class="regions">
+    <div class="container">
+        <h2>Explore regions</h2>
+        {% for region in project_page.regional_articles %}
+        <div class="column-one-third">
+            <a href="/regional_introduction{{ region.slug | relative_url }}.html">
+                <h3>{{ region.title }}</h3>
+            </a>
             <a href="/regional_introduction{{ region.slug | relative_url }}.html">
                 {% assign image = region.lead_image[0] %}
                 {% include image.html image=image %}
             </a>
-            {% endfor %}
-        </div>
-    </section>
-
-    <section class="themes">
-        <div class="container">
-            <h2>Explore themes</h2>
-            {% for theme in project_page.thematic_articles limit:3 %}
-            <h3>{{ theme.title }}</h3>
-            <a href="/thematic{{ theme.slug | relative_url }}.html">
-                {% assign image = theme.lead_image %}
-                {% include image.html image=image %}
+            <hr>
+            <a href="/country{{ country.slug | relative_url }}.html" class="button">
+                Find out more &rarr;
             </a>
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="themes">
+    <div class="container">
+        <div class="column-one-quarter">
+            <h2>Explore themes</h2>
+        </div>
+        <div class="column-three-quarters">
+            {% for theme in project_page.thematic_articles limit:3 %}
+            <div class="container">
+                <div class="column-three-quarters">
+                    <a href="/thematic{{ theme.slug | relative_url }}.html">
+                        <h3>{{ theme.title }}</h3>
+                    </a>
+                </div>
+                <div class="column-one-quarter">
+                    <a href="/thematic{{ theme.slug | relative_url }}.html">
+                        {% assign image = theme.lead_image %}
+                        {% include image.html image=image %}
+                    </a>
+                </div>
+            </div>
             {% endfor %}
         </div>
-    </section>
+    </div>
+</section>
 
-    <section class="multimedia">
-        <div class="container">
-            <h2>Explore multimedia</h2>
-            {% for item in project_page.media_carousel limit:3 %}
-            <h3>{{ item.title }}</h3>
-            <!--{# item.embed_code | safe #}-->
-            {% endfor %}
-        </div>
-    </section>
-
-</div>
+<section class="multimedia">
+    <div class="container">
+        <h2>Explore multimedia</h2>
+        {% for item in project_page.media_carousel limit:3 %}
+        <h3>{{ item.title }}</h3>
+        <!--{# item.embed_code | safe #}-->
+        {% endfor %}
+    </div>
+</section>
