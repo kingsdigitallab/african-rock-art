@@ -55,12 +55,54 @@ button,
     }
 }
 
+h1 {
+    font-family: "Baskerville", serif;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+h5 {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+h6 {
+    font-size: 12px;
+    line-height: 16px;
+}
+
 hr {
     background: #000;
     border: 0;
     clear: both;
     display: block;
     height: 1px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 22px;
 }
 
 .page-content {
@@ -89,9 +131,14 @@ section {
     color: white;
     width: 100%;
 
+    h1 {
+        font-family: "Helvetica Neue", sans-serif;
+        font-size: 38px;
+        line-height: 40px;
+    }
+
     h1, h2, h3, h4, h5, h6 {
         color: $brand-color;
-        font-family: "Helvetica Neue", serif !important;
     }
 }
 
@@ -170,6 +217,14 @@ footer,
         width: 75%;
     }
 
+    .column-five-twelveth {
+        width: 41.66%;
+    }
+
+    .column-seven-twelveth {
+        width: 58.33%;
+    }
+
     .home {
         .site-header {
             min-height: 390px;
@@ -195,7 +250,9 @@ footer,
     .column-one-third,
     .columns-tow-thirds,
     .column-one-quarter,
-    .column-three-quarters {
+    .column-three-quarters,
+    .column-five-twelveth,
+    .column-seven-twelveth {
         width: 100%;
     }
 
