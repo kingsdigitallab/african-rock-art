@@ -15,45 +15,41 @@ layout: default
 
 <article class="country">
     {% assign self = page.contentful %}
+    {% assign introduction = self.country_introduction.chapters[0] %}
+    {% assign introduction_image = self.country_introduction.chapters[1] %}
+    {% assign chapters = self.country_introduction.chapters | offset:2 %}
 
     <header class="container">
         <h1>{{ self.name | escape }}</h1>
     </header>
 
-    {% comment %}
-        First chapter, Introduction, is displaying differently than the rest of
-        the page. Layout below:
-    {% endcomment %}
-
     <div class="container featured-chapter">
         <div class="column-five-twelveth">
-            <h2>Chapter title</h2>
-            <p>Chapter text</p>
-            <a href="#" class="button orange more">View featured rock art site</a>
+            <p>{{ introduction.body | markdownify }}</p>
+            <a href="/featured_site/{{ self.featured_site.slug }}.html" class="button orange more">View featured rock art site</a>
         </div>
 
         <div class="column-seven-twelveth">
-            <img src="" alt="Chapter image to go here" class="full-width">
-            <p class="caption">Image caption here</p>
-        </div>
-    </div>
+         {% include image.html image=introduction_image.image caption=introduction_image.caption class="full-width" %}
+     </div>
+ </div>
 
-    <div class="container">
-        <h2>Highlight images</h2>
-        <p><a href="#">Browse rock art on collections online</a></p>
-        <div class="card column-one-third">
-            <a href="#"><img src="" alt=""></a>
-            <a href="#" class="more">Read more about this image</a>
-        </div>
-        <div class="card column-one-third">
-            <a href="#"><img src="" alt=""></a>
-            <a href="#" class="more">Read more about this image</a>
-        </div>
-        <div class="card column-one-third">
-            <a href="#"><img src="" alt=""></a>
-            <a href="#" class="more">Read more about this image</a>
-        </div>
+ <div class="container">
+    <h2>Highlight images</h2>
+    <p><a href="#">Browse rock art on collections online</a></p>
+    <div class="card column-one-third">
+        <a href="#"><img src="" alt=""></a>
+        <a href="#" class="more">Read more about this image</a>
     </div>
+    <div class="card column-one-third">
+        <a href="#"><img src="" alt=""></a>
+        <a href="#" class="more">Read more about this image</a>
+    </div>
+    <div class="card column-one-third">
+        <a href="#"><img src="" alt=""></a>
+        <a href="#" class="more">Read more about this image</a>
+    </div>
+</div>
 
     {% comment %}
     Looping all the chapters except the introduction
