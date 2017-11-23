@@ -143,19 +143,27 @@ namespace :contentful do
     yaml = YAML::load_file(yaml_path)
 
     yaml.each do |key, value|
-      if key == 'image'
+      case key
+      when 'image'
         value.each do |item|
           if item['image']
-            url = 'https:' + item['image']['url'] + '?q=50'
-            puts 'Downloading ' + url
+            download_image(item['image'])
+          end
+        end
 
-            download = open(url)
-            filename = download.base_uri.to_s.split('/')[-1].split('?')[0]
-            IO.copy_stream(download, 'assets/images/' + filename)
+      when 'country'
+        value.each do |country|
+          if  country['image_carousel']
+            images = country['image_carousel']
+
+            images.each do |image|
+              download_image(image)
+            end
           end
         end
       end
     end
+
   end
 end
 
@@ -188,4 +196,13 @@ end
 
 def slugify(str)
   str.strip.downcase.gsub(/\W+/, '-')
+end
+
+def download_image(image)
+  url = 'https:' + image['url'] + '?q=50'
+  puts 'Downloading ' + url
+
+  download = open(url)
+  filename = download.base_uri.to_s.split('/')[-1].split('?')[0]
+  IO.copy_stream(download, 'assets/images/' + filename)
 end
