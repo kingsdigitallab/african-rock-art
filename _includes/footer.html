@@ -1,108 +1,106 @@
 <footer class="footer">
   <div class="container">
-    <div class="footer__row clearfix">
+    <div class="column-one-quarter social">
+      <ul>
+        {% for item in site.data.footer.socialLinks %}
+        <li>
+          <div>
+            <a href="{{ item.url }}" target="_blank">
+              <img alt="{{ item.alt }}" class="svg icon" src="{{ site.data.static.icons }}/{{ item.socialIcon }}.svg">
+            </a>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
 
-      <div class="footer__social">
-        <ul>
-          {% for item in site.data.footer.socialLinks %}
-          <li>
-            <div>
-              <a href="{{ item.url }}" target="_blank">
-                <img alt="{{ item.alt }}" class="svg icon" src="{{ site.data.static.icons }}/{{ item.socialIcon }}.svg">
-              </a>
-            </div>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
+    <div class="column-three-quarters">
+      <form method="post" action="//" id="enewsNullForm-footer"></form>
+      
+      <form class="margin16pxB alpha omega clear" id="adestra_footer_form" action="https://britishmuseum.msgfocus.com/s/" method="POST">
+        <input type="hidden" name="_account_id" value="1552">
+        <input type="hidden" name="_table_id" value="8">
+        <input type="hidden" name="_list_id" value="126">
+        <input type="hidden" name="_dedupe" value="1">
 
-      <div class="footer__newsletter-wrap">
-        <form method="post" action="//" id="enewsNullForm-footer"></form>
-        <form class="margin16pxB alpha omega clear" id="adestra_footer_form"
-        action="https://britishmuseum.msgfocus.com/s/" method="POST"><input type="hidden"
-        name="_account_id"
-        value="1552"><input
-        type="hidden" name="_table_id" value="8"><input type="hidden" name="_list_id"
-        value="126"><input
-        type="hidden" name="_dedupe" value="1">
-        <label for="email">Newsletter</label>
-
-        <div class="footer__newsletter">
-          <input type="email" name="8.email" id="email" placeholder="Enter your email address..."
-          class="input-search">
-
+        <div class="container">
+          <div class="column-two-thirds collapsed">
+            <label for="email">Newsletter</label>
+            <input type="email" name="8.email" id="email" placeholder="Enter your email address...">
+          </div>
           <input type="hidden" name="_static_update" value="1">
           <input type="hidden" name="_email_field" value="8.email">
-          <input type="hidden" id="return_page_footer" name="_rp"
-          value="http://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box?email=[*data('email')*]">
-          <button type="submit" value="Sign up" id="footer_submit_button" class="button"><span
-            class="text">Sign Up</span> <i class="icon arrow-cta"></i></button>
+          <input type="hidden" id="return_page_footer" name="_rp" value="http://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box?email=[*data('email')*]">
+          <div class="column-one-third collapsed">
+            <button type="submit" value="Sign up" id="footer_submit_button" class="button black more expanded">
+              Sign Up
+            </button>
           </div>
-        </form>
-      </div>
+        </div>
+      </form>
     </div>
-
-    <div class="footer__row footer__row--bottom clearfix">
-      <div class="footer__links">
-        <nav>
-          <ul>
-            <li>
-              <a href="http://britishmuseum.org" target="_blank" class="">About</a>
-            </li>
-            <li>
-              <a href="http://www.britishmuseum.org/about_us/contact.aspx">Press</a>
-            </li>
-            <li>
-              <a href="http://www.britishmuseum.org/about_us/contact.aspx">Contact us</a>
-            </li>
-            <li>
-              <a href="http://www.britishmuseum.org/about_us/contact.aspx">FAQ </a>
-            </li>
-            <li>
-              <a href="http://www.britishmuseum.org/about_us/contact.aspx">Legal </a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-
-      <div class="footer__jobs">
-        <h4>Come work with us!</h4>
-
-        <p>Find opportunities within the British Museum and the British Museum Company.</p>
-
-        <p><a href="">See jobs</a></p>
-
-        <p><a href="">See volunteer opportunities</a></p>
-
-      </div>
-
-      <div class="footer__address">
-        <p>
-          The British Museum
-          Great Russell Street
-          London WC1B 3DG
-          United Kingdom
-        </p>
-
-        <p>
-          +44 (0)20 7323 8299
-          <a href="mailto:info@britishmuseum.org">info@britishmuseum.org</a>
-        </p>
-      </div>
-
-    </div>
-    <div class="footer__row footer__row--bottom">
-      <div class="footer__column footer__column--left">
-        <p>
-          <a
-        href="http://www.britishmuseum.org/PDF/Modern%20Slavery%20Act%20Transparency%20Statement%202015-16.pdf"
-        title="null" target="_blank">Modern Slavery Act Statement</a>
-      </p>
-      </div>
-      <div class="footer__column footer__column--right">
-        <p>&copy; The Trustees of the British Museum</p>
-      </div>
-    </div>
-
   </div>
+
+  <div class="container">
+    <div class="column-one-third">
+      <nav>
+        <ul>
+          <li>
+            <a href="http://britishmuseum.org" target="_blank" class="">About</a>
+          </li>
+          <li>
+            <a href="http://www.britishmuseum.org/about_us/contact.aspx">Press</a>
+          </li>
+          <li>
+            <a href="http://www.britishmuseum.org/about_us/contact.aspx">Contact us</a>
+          </li>
+          <li>
+            <a href="http://www.britishmuseum.org/about_us/contact.aspx">FAQ </a>
+          </li>
+          <li>
+            <a href="http://www.britishmuseum.org/about_us/contact.aspx">Legal </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="column-one-third">
+      <h4>Come work with us!</h4>
+
+      <p>Find opportunities within the British Museum and the British Museum Company.</p>
+
+      <p><a href="" class="more">See jobs</a></p>
+
+      <p><a href="" class="more">See volunteer opportunities</a></p>
+    </div>
+
+    <div class="column-one-third">
+      <p>
+        The British Museum
+        Great Russell Street
+        London WC1B 3DG
+        United Kingdom
+      </p>
+
+      <p>
+        +44 (0)20 7323 8299
+        <a href="mailto:info@britishmuseum.org">info@britishmuseum.org</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="column-half">
+      <p>
+        <a href="http://www.britishmuseum.org/PDF/Modern%20Slavery%20Act%20Transparency%20Statement%202015-16.pdf" target="_blank">
+          Modern Slavery Act Statement
+        </a>
+      </p>
+    </div>
+
+    <div class="column-half align-left">
+      <p>&copy; The Trustees of the British Museum</p>
+    </div>
+  </div>
+
 </footer>
