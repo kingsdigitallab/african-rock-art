@@ -3,8 +3,15 @@
         <li>
             <a href="/">Homepage</a>
         </li>
+        {% if page.collection_title %}
+        <li>{{ page.collection_title }}</li>
+        {% elsif page.collection %}
         <li>
-            This page
+            <a href="index.html">{{ page.collection | split: "coll_" | last | capitalize }}</a>
         </li>
+        <li>
+            {{ page.title }}
+        </li>
+        {% endif %}
     </ul>
 </nav>
