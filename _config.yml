@@ -2,7 +2,6 @@ baseurl: ''
 collections:
   coll_country: {output: true, permalink: '/country/:name.html'}
   coll_country_information: {output: true, permalink: '/country_information/:name.html'}
-  coll_country_key_facts: {output: true, permalink: '/country_key_facts/:name.html'}
   coll_featured_site: {output: true, permalink: '/featured_site/:name.html'}
   coll_introduction: {output: true, permalink: '/introduction/:name.html'}
   coll_regional_introduction: {output: true, permalink: '/regional_introduction/:name.html'}
