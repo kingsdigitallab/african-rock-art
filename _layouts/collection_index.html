@@ -3,8 +3,6 @@ layout: default
 ---
 {% assign collection = site.collections | where: "label", page.collection | first %}
 
-{% include breadcrumbs.html %}
-
 <div class="container">
     <h1 class="page-heading">Explore countries</h1>
     {% for item in collection.docs %}
