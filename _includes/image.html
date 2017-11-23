@@ -1,4 +1,7 @@
-<img alt="{{ include.image.title }}" {% if include.class %}class="{{ include.class }}"{% endif %} src="{{ include.image.url }}?q=25">
+<img
+{% if include.image.title%}alt="{{ include.image.title }}"{% endif %}
+{% if include.class %}class="{{ include.class }}"{% endif %}
+src="{{ include.image.url }}?q=25">
 {% if include.caption %}
 <p class="caption">{{ include.caption }}</p>
 {% endif %}
