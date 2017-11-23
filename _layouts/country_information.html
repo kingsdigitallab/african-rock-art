@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article class="country_information">
+<article class="country_information container">
     {% assign self = page.contentful %}
 
-    <header class="post-header">
+    <header>
         <h1 class="post-title">{{ self.title | escape }}</h1>
     </header>
 
-    <div class="post-content">
+    <div>
         {{ self.title }}
     </div>
 

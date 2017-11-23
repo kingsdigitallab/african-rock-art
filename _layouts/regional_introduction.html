@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-<article class="regional_introduction">
+
+<article class="regional_introduction container">
     {% assign self = page.contentful %}
 
-    <header class="post-header">
+    <header>
         <h1 class="post-title">{{ self.title | escape }}</h1>
     </header>
 
-    <div class="post-content">
+    <div>
         {% include chapters.html chapters=self.chapters %}
     </div>
 
