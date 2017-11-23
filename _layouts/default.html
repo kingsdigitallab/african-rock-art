@@ -7,6 +7,10 @@
 
     {% include header.html %}
 
+    {% if page.url != "/" %}
+    {% include breadcrumbs.html %}
+    {% endif %}
+
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
             {{ content }}
