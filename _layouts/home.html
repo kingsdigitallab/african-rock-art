@@ -148,8 +148,15 @@ layout: default
         <h2 class="section-title">Explore multimedia</h2>
         {% for item in project_page.media_carousel limit:3 %}
         <div class="column-one-third">
-            <h3>{{ item.title }}</h3>
-            <!--{# item.embed_code | safe #}-->
+            <div class="overlap">
+                <div class="card">
+                    {% comment %} Image to go here {% endcomment %}
+                    <div class="card-content">
+                        <h3>{{ item.title }}</h3>
+                        <!--{# item.embed_code | safe #}-->
+                    </div>
+                </div>
+            </div>
         </div>
         {% endfor %}
     </div>
