@@ -283,6 +283,25 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
 }
 
+/* Multimedia */
+
+.overlap {
+    background: black;
+    position: relative;
+
+    .card {
+        background: black;
+        border: 0;
+    }
+
+    .card-content {
+        color: white;
+        // position: absolute;
+        text-align: center;
+        vertical-align: middle;
+    }
+}
+
 /* Footer */
 
 footer,
