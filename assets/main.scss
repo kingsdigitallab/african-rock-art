@@ -29,16 +29,21 @@ a {
     display: inline-block;
 }
 
+.align-left {
+    text-align: left;
+}
+
 button,
 .button {
+    border: 0;
     display: inline-block;
     font-weight: 700;
     margin-bottom: 16px;
     padding: 8px 16px;
 
-    &.expanded {
-        display: block;
-        width: 100%;
+    &.black {
+        background: black;
+        color: white;
     }
 
     &.orange {
@@ -56,6 +61,10 @@ button,
 .featured-chapter {
     margin-bottom: 16px !important;
 }
+
+.collapsed {
+    padding: 0;
+}
     
 .container {
     clear: both;
@@ -70,6 +79,15 @@ button,
         display: table;
         clear: both;
     }
+}
+
+.expanded {
+    display: block;
+    width: 100%;
+}
+
+.float-left {
+    float: left;
 }
 
 hr {
@@ -245,6 +263,15 @@ footer,
     a {
         color: black;
         font-weight: 700;
+        text-decoration: none;
+    }
+
+    h4, h5, h6 {
+        margin: 0;
+    }
+
+    label {
+        font-weight: 700;
     }
 
     li {
@@ -255,9 +282,19 @@ footer,
         margin: 0;
     }
 
+    .container {
+        border-top: 1px solid $grey-color-light;
+        padding-top: 32px;
+
+        .container {
+            border-top: none;
+            padding-top: 0;
+        }
+    }
+
 }
 
-.footer__social {
+.social {
     ul {
         clear: both;
         display: both;
@@ -266,7 +303,7 @@ footer,
         li {
             float: left;
             margin: 0;
-            padding: 16px;
+            padding: 0 16px;
 
             img {
                 max-height: 20px;
@@ -280,6 +317,23 @@ footer,
 @media screen and (min-width: 768px) {
 
     // Columns
+
+    .column-half,
+    .column-one-third,
+    .column-two-thirds,
+    .column-one-quarter,
+    .column-three-quarters,
+    .column-two-tenth,
+    .column-eight-tenth,
+    .column-five-twelveth,
+    .column-seven-twelveth,
+    .column-ten-twelveth {
+
+        &.collapsed {
+            padding-bottom: 0 !important;
+            padding-right: 0 !important;
+        }
+    }
 
     .column-half {
         width: 50%;
@@ -393,11 +447,14 @@ footer,
 
     .column-half,
     .column-one-third,
-    .columns-tow-thirds,
+    .column-two-thirds,
     .column-one-quarter,
     .column-three-quarters,
+    .column-two-tenth,
+    .column-eight-tenth,
     .column-five-twelveth,
-    .column-seven-twelveth {
+    .column-seven-twelveth,
+    .column-ten-twelveth {
         width: 100%;
     }
 
