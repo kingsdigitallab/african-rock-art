@@ -111,8 +111,8 @@ namespace :contentful do
       'fS8J0UehVuo8YuO2AswYS' => 'country'
     }
 
-    ignored_content_types = ['chapter', 'citation', 'embeded_media',
-                             'image', 'project_page']
+    ignored_content_types = ['chapter', 'citation', 'country_key_facts',
+                             'embeded_media', 'image', 'project_page']
 
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
     yaml = YAML::load_file(yaml_path)
