@@ -6,15 +6,18 @@ layout: default
 <div class="container">
     <h1 class="page-heading">Explore countries</h1>
     {% for item in collection.docs %}
+    {% assign introduction = item.contentful.country_introduction.chapters[0] %}
+    {% assign introduction_image = item.contentful.country_introduction.chapters[1] %}
+
     <div class="column-ten-twelveth collapsed">
         <div class="card">
             <div class="container">
                 <div class="column-eight-tenth card-content">
-                    <h2 class="title">{{ item.title }}</h2>
-                    <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+                    <h2 class="title"><a href="{{ item.url }}">{{ item.title }}</a></h2>
+                    <p>{{ introduction.body }}</p>
                 </div>
                 <div class="column-two-tenth card-content">
-                    <img src="" alt="Country image">
+                    {% include image.html image=introduction_image.image %}
                 </div>
             </div>
         </div>
