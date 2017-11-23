@@ -25,13 +25,27 @@ layout: default
 
    <div class="container">
     <h2>Highlight images</h2>
-    <p><a href="">Browse rock art on collections online</a></p>
-    {% for image in self.image_carousel | limit:3 %}
+    <p><a href="{{ self.col_url }}">Browse rock art on collections online</a></p>
+    {% for image in self.image_carousel %}
     <div class="card column-one-third">
-        <a href=""><img src="{{ image.url }}" alt=""></a>
+        <a href="">
+            {% include image.html image=image %}
+        </a>
         <a href="" class="more">Read more about this image</a>
     </div>
     {% endfor %}
+</div>
+
+<div class="container chapter">
+    <h2>Country overview</h2>
+    <h3>Date range</h3>
+    <p>{{ self.key_facts.date_range }}</p>
+    <h3>Image count</h3>
+    <p>{{ self.key_facts.image_count }}</p>
+    <h3>Main themes</h3>
+    <p>{{ self.key_facts.main_themes }}</p>
+    <h3>Famour for</h3>
+    <p>{{ self.key_facts.famous_for }}</p>
 </div>
 
 <div class="container chapter">
@@ -40,17 +54,14 @@ layout: default
 
 <div class="container">
     <h2>Related content</h2>
+    {% for related in self.thematic_articles %}
     <div class="card column-one-third">
-        <a href=""><img src="" alt=""></a>
-        <h3><a href="">Introduction to rock art in northern Africa</a></h3>
-        <a href="" class="more">Find out more</a>
+        <a href="/thematic/{{ related.slug }}.html">
+            {% include image.html image=related.lead_image %}
+        </a>
+        <h3><a href="/thematic/{{ related.slug }}.html">{{ related.title }}</a></h3>
+        <a href="/thematic/{{ related.slug }}.html" class="more">Find out more</a>
     </div>
-    <div class="card column-one-third">
-        <a href=""><img src="" alt=""></a>
-        <h3><a href="">The art of the warrior</a></h3>
-        <a href="" class="more">Find out more</a>
-    </div>
-    <div class="card column-one-third">
-    </div>
+    {% endfor %}
 </div>
 </article>

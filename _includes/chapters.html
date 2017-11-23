@@ -1,11 +1,10 @@
-{% for chapter in include.chapters | offset:include.offset %}
+{% for chapter in include.chapters offset:include.offset %}
 
+{% if chapter.image %}
+{% include image.html image=chapter.image caption=chapter.caption class="full-width" %}
+{% else %}
 <h2>{{ chapter.title }}</h2>
-
-{% if chapter.body %}
 <p>{{ chapter.body | markdownify }}</p>
-{% elsif chapter.image %}
-{% include image.html image=chapter.image %}
 {% endif %}
 
 {% endfor %}
