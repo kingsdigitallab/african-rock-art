@@ -15,22 +15,12 @@
     box-sizing: border-box;
 }
 
-[class*='column-'] {
-    float: left;
-    padding-bottom: 20px;
-    padding-right: 20px; // Gutters
-}
-
-[class*='column-']:last-of-type {
-    padding-right: 0; // No gutter on the last column
-}
-
 a {
     display: inline-block;
 }
 
-.align-left {
-    text-align: left;
+.align-right {
+    text-align: right;
 }
 
 button,
@@ -90,12 +80,29 @@ button,
     float: left;
 }
 
+form {
+    button {
+        font-size: 16px;
+        font-weight: 400 !important;
+        min-height: 40px;
+        text-transform: uppercase;
+    }
+
+    label {
+        line-height: 40px;
+    }
+}
+
 hr {
     background: #000;
     border: 0;
     clear: both;
     display: block;
     height: 1px;
+}
+
+input {
+    min-height: 40px;
 }
 
 .more {
@@ -154,6 +161,10 @@ h1, h2, h3, h4, h5, h6 {
     a {
         color: black;
     }
+}
+
+.padding {
+    padding: 16px;
 }
 
 .page-heading,
@@ -240,13 +251,32 @@ h1, h2, h3, h4, h5, h6 {
     a {
         color: black;
     }
+
+    .card-content {
+        padding: 16px;
+    }
+
+    h2, h3, h4 {
+        margin-top: 0;
+    }
+
+    .more {
+        font-weight: 700;
+        width: 100%;
+
+        &.hr {
+            border-top: 1px solid $grey-color-light;
+            padding-top: 12px;
+        }
+    }
 }
 
 /* Images */
 
 .caption {
     font-size: 12px;
-    line-height: 1;
+    line-height: 22px;
+    padding-top: 12px;
 }
 
 .full-width {
@@ -302,6 +332,7 @@ footer,
 
         li {
             float: left;
+            line-height: 40px;
             margin: 0;
             padding: 0 16px;
 
@@ -317,6 +348,16 @@ footer,
 @media screen and (min-width: 768px) {
 
     // Columns
+
+    [class*='column-'] {
+        float: left;
+        padding-bottom: 20px;
+        padding-right: 20px; // Gutters
+    }
+
+    [class*='column-']:last-of-type {
+        padding-right: 0; // No gutter on the last column
+    }
 
     .column-half,
     .column-one-third,
@@ -394,6 +435,10 @@ footer,
         padding: 35px 0 30px;
     }
 
+    .mobile {
+        display: none;
+    }
+
     .site-header {
         min-height: 120px;
     }
@@ -433,6 +478,9 @@ footer,
     // Cards
 
     .card {
+    
+        display: inline-block;
+
         h2 {
             font-size: 24px;
             line-height: 30px;
@@ -456,6 +504,10 @@ footer,
     .column-seven-twelveth,
     .column-ten-twelveth {
         width: 100%;
+    }
+
+    .desktop {
+        display: none;
     }
 
     // Headings
@@ -483,6 +535,9 @@ footer,
     // Cards
 
     .card {
+        display: block;
+        margin: 16px auto;
+
         h2 {
             font-size: 20px;
             line-height: 24px;
@@ -498,6 +553,15 @@ footer,
     .logo {
         height: 35px;
         padding: 0 0 0 20px;
+    }
+
+    // Footer
+
+    footer,
+    .footer,
+    footer .align-right,
+    .footer .align-right {
+        text-align: left;
     }
 
 }
