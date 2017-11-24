@@ -133,8 +133,11 @@ namespace :contentful do
     end
   end
 
-  desc 'Import assets from Contentful'
-  task :assets do
+  desc 'Import assets from Contentful; by default it only downloads new images, to overwrite existing images do `rake contentful:assets[true]`'
+  task :assets, [:force] do |t, args|
+    args.with_defaults(:force => false)
+    force = args[:force]
+
     puts 'Contentful assets import...'
 
     Rake::Task['contentful:process'].invoke
@@ -147,7 +150,7 @@ namespace :contentful do
       when 'image'
         value.each do |item|
           if item['image']
-            download_image(item['image'])
+            download_image(item['image'], force)
           end
         end
 
@@ -157,7 +160,7 @@ namespace :contentful do
             images = country['image_carousel']
 
             images.each do |image|
-              download_image(image)
+              download_image(image, force)
             end
           end
         end
@@ -198,11 +201,17 @@ def slugify(str)
   str.strip.downcase.gsub(/\W+/, '-')
 end
 
-def download_image(image)
-  url = 'https:' + image['url'] + '?q=50'
-  puts 'Downloading ' + url
+def download_image(image, force)
+  if not image['url']
+    return
+  end
 
-  download = open(url)
-  filename = download.base_uri.to_s.split('/')[-1].split('?')[0]
-  IO.copy_stream(download, 'assets/images/' + filename)
+  url = 'https:' + image['url'] + '?q=50'
+  filename = 'assets/images/' + url.split('/')[-1].split('?')[0]
+
+  if force or not File.file?(filename)
+    puts 'Downloading ' + url
+    download = open(url)
+    IO.copy_stream(download, filename)
+  end
 end
