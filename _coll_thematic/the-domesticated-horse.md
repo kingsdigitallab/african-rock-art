@@ -5,7 +5,7 @@ contentful:
     id: 7oNFGUa6g8qSweyAyyiCAe
     created_at: !ruby/object:DateTime 2015-11-26 18:11:30.861000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:51:34.879000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: The domesticated horse in northern African rock art
   slug: the-domesticated-horse
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 27bcd1mylKoMWiCQ2KuKMa
       created_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 1'
     body: Throughout northern Africa, there is a wealth of rock art depicting the
       domestic horse and its various uses, providing valuable evidence for the uses
@@ -31,7 +31,7 @@ contentful:
       id: 2EbfpTN9L6E0sYmuGyiaec
       created_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: n2MxgdjbMW2gm0IoOKkCU
@@ -46,7 +46,7 @@ contentful:
       id: 4QexWBEVXiAksikIK6g2S4
       created_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Horses and chariots
     title_internal: 'Thematic: horse, chapter 2'
     body: The first introduction of the domestic horse to Ancient Egypt- and thereby
@@ -63,7 +63,7 @@ contentful:
       id: 22x06a7DteI0C2U6w6oKes
       created_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1AZD3AxiUwwoYUWSWY8MGW
@@ -79,7 +79,7 @@ contentful:
       id: 1voXfvqIcQkgUYqq4w8isQ
       created_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 3'
     body: 'Some of the most renowned images of horses in Saharan rock art are also
       those of chariot teams: in particular, those of the so-called ‘flying gallop’
@@ -100,7 +100,7 @@ contentful:
       id: LWROS2FhUkywWI60eQYIy
       created_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6N6BF79qk8EUygwkIgwcce
@@ -117,7 +117,7 @@ contentful:
       id: 6eaH84QdUs46sEQoSmAG2u
       created_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Horse Riding
     title_internal: 'Thematic: horse, chapter 4'
     body: As well as the unique iconography of rock art chariot depictions, there
@@ -134,7 +134,7 @@ contentful:
       id: 6LTzLWMCTSak4IIukAAQMa
       created_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4NdhGNLc9yEck4My4uQwIo
@@ -151,7 +151,7 @@ contentful:
       id: 5YkSCzujy8o08yuomIu6Ei
       created_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1tpjS4kZZ6YoeiWeIi8I4C
@@ -166,7 +166,7 @@ contentful:
       id: 1vZDFfKXU0US2qkuaikG8m
       created_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 5'
     body: Traditional chronologies for Saharan rock art areas tend to place depictions
       of ridden horses chronologically after those of horses and chariots, and in
@@ -188,7 +188,7 @@ contentful:
       id: 2gaHPgtyEwsyQcUqEIaGaq
       created_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6quML2y0nuYgSaeG0GGYy4
@@ -204,7 +204,7 @@ contentful:
       id: 583LKSbz9SSg00uwsqquAG
       created_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Berber Horses
     title_internal: 'Thematic: horse, chapter 6'
     body: As the more manoeuvrable rider rose in popularity against the chariot as
@@ -222,7 +222,7 @@ contentful:
       id: 7zrBlvCEGkW86Qm8k2GQAK
       created_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: uOFcng0Q0gU8WG8kI2kyy
@@ -240,7 +240,7 @@ contentful:
       id: 45vpX8SP7aGeOS0qGaoo4a
       created_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 7'
     body: 'Certainly, from the 14th century AD, horses became a key commodity in trans-Saharan
       trade routes and became items of great military value in West Africa following
@@ -253,7 +253,7 @@ contentful:
       id: 7GeTQBofPamw0GeEAuGGee
       created_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5MaSKooQvYssI4us8G0MyO
@@ -270,7 +270,7 @@ contentful:
       id: 6mNtqnqaEE2geSkU0IiYYe
       created_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 8'
     body: 'Another intriguing possibility is that of gaining clues on the origins
       of modern horse breeds from rock art, in particular the ancient Barb breed native
@@ -291,7 +291,7 @@ contentful:
       id: 3OM1XJI6ruwGOwwmkKOKaY
       created_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6ZmNhZjLCoQSEIYKIYUUuk
@@ -308,7 +308,7 @@ contentful:
       id: 40E0pTCrUIkk00uGWsus4M
       created_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5mbJWrbZV6aQQOyamKMqIa
@@ -324,7 +324,7 @@ contentful:
       id: 3z5YSVu9y8caY6AoYWge2q
       created_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: The symbolism of the horse
     title_internal: 'Thematic: horse, chapter 9'
     body: However, caution must be taken in drawing such comparisons based on morphology
@@ -339,7 +339,7 @@ contentful:
       id: 1FRP1Z2hyQEWUSOoKqgic2
       created_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4EatwZfN72waIquQqWEeOs
@@ -355,7 +355,7 @@ contentful:
       id: 45pI4ivRk4IM6gaG40gUU0
       created_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2FcYImmyd2YuqMKQMwAM0s
@@ -370,7 +370,7 @@ contentful:
       id: 54hoc6Htwck8eyewsa6kA8
       created_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 10'
     body: The nature of the depictions in this sense speaks intriguingly of the apparent
       symbolism and implied value of the horse image in different cultural contexts.
@@ -385,7 +385,7 @@ contentful:
       id: 4XMm1Mdm7Y0QacMuy44EKa
       created_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 21xnJrk3dKwW6uSSkGumMS
@@ -401,7 +401,7 @@ contentful:
       id: 4rB9FCopjOCC4iA2wOG48w
       created_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3PfHuSbYGcqeo2U4AEKsmM
@@ -416,7 +416,7 @@ contentful:
       id: 6tFSQzFupywiK6aESCgCia
       created_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 11'
     body: |-
       In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (e.g. figs 5 &13), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
@@ -426,7 +426,7 @@ contentful:
       id: 2P6ERbclfOIcGEgI6e0IUq
       created_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3UXc5NiGTYQcmu2yuU42g
@@ -442,7 +442,7 @@ contentful:
       id: 32AXGC1EcoSi4KcogoY2qu
       created_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Blench, R.M. & MacDonald, K. C. 2000, *The Origins and Development
       of African Livestock:  archaeology, genetics, linguistics and ethnography*.
       London; New York, NY: UCL Press\n \nCurtis, C., Tallis, N., Johansen, A., 2012.

@@ -5,7 +5,7 @@ contentful:
     id: 20R5BacInqWCOAss00yQYs
     created_at: !ruby/object:DateTime 2015-11-26 18:44:17.012000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 18:33:47.976000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Kenya
   slug: kenya
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40899
@@ -31,7 +31,7 @@ contentful:
       id: 2kZmXHcYEkaWQGMK4sGq0Y
       created_at: !ruby/object:DateTime 2015-11-25 12:47:03.425000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 18:51:10.317000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Mfangano Island, Kenya
     slug: mfangano-island
     chapters:
@@ -39,7 +39,7 @@ contentful:
         id: 4ffcl2AJFuUmcS2oykeieO
         created_at: !ruby/object:DateTime 2015-11-25 13:54:02.102000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:54:02.102000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: featured site, chapter 1'
       body: 'Lake Victoria is the largest lake in Africa, and at 69,484km², the second
         largest in the world by surface area.   Sitting in a depression in the plateau
@@ -55,7 +55,7 @@ contentful:
         id: Ak4bSLKQyOCQESmSuukEk
         created_at: !ruby/object:DateTime 2015-11-25 12:47:44.566000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:45:35.105000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 37G9MkkxFuC0mu6qGwcs2y
@@ -70,7 +70,7 @@ contentful:
         id: 3MSOAnbnKoq0ACuaYEK0AK
         created_at: !ruby/object:DateTime 2015-11-25 13:55:03.942000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:55:03.942000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: featured site, chapter 2'
       body: Mawanga is a roughly triangular limestone cavern, about 18m wide across
         the mouth and 12m deep.  The roof slopes sharply to the back towards a raised
@@ -92,7 +92,7 @@ contentful:
         id: 2W5cMhvviwo6OEMc04u40E
         created_at: !ruby/object:DateTime 2015-11-25 12:49:05.022000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:46:53.507000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4RTDlc6IOIikMaMg8mQaoc
@@ -107,7 +107,7 @@ contentful:
         id: 5yjxz7az7yYSQi2u4UQaIk
         created_at: !ruby/object:DateTime 2015-11-25 12:49:47.517000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:47:08.898000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 516BFdHg1G4yO6IkWOQimW
@@ -122,7 +122,7 @@ contentful:
         id: 2UpIfZaJVSIyUweYYKak64
         created_at: !ruby/object:DateTime 2015-11-25 13:55:35.312000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:55:35.312000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: featured site, chapter 3'
       body: The circular shapes seen here are typical of an apparent wider East and
         Central African rock art tradition featuring a preponderance of circular motifs,
@@ -141,7 +141,7 @@ contentful:
         id: 1AWKNMNRSImMCASQusuWc0
         created_at: !ruby/object:DateTime 2015-11-25 12:50:25.070000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 17:17:59.954000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2wD915QEYQqsQCCyEusyoW
@@ -157,7 +157,7 @@ contentful:
         id: 7KbMWDFuY8CwgkwiQuiWew
         created_at: !ruby/object:DateTime 2015-11-25 13:56:16.375000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:56:16.375000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: featured site, chapter 4'
       body: 'Further examples of apparently Batwa origin rock art can be seen in neighbouring
         Uganda and Tanzania, a reminder that contemporary political borders do not
@@ -181,7 +181,7 @@ contentful:
         id: 5j3ZVzX81O8qs44GE4i6Oa
         created_at: !ruby/object:DateTime 2015-11-25 12:51:05.574000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 17:18:53.166000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: iF8lN8WDzqKWeu2OUQ8gc
@@ -196,7 +196,7 @@ contentful:
         id: 1MO5OjJiaQyeUYEkA0ioOi
         created_at: !ruby/object:DateTime 2015-11-25 13:57:11.093000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:57:11.093000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: featured site, chapter 5'
       body: 'The rock art sites of the eastern Lake Victoria region retain spiritual
         connotations for the communities living around them, even if their denoted
@@ -220,7 +220,7 @@ contentful:
         id: 38TIUovoUMimQ6G4UmiCOS
         created_at: !ruby/object:DateTime 2015-11-25 12:51:38.839000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 17:19:17.336000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4QK41OYhpSa0qogICAW2aQ
@@ -236,7 +236,7 @@ contentful:
         id: 6872dmGUjSMsOgWqW0GKOa
         created_at: !ruby/object:DateTime 2015-11-25 13:59:14.477000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:59:14.477000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: featured site, chapter 6'
       body: In 2014, Jack Obonyo, curator of the Abasuba Peace Museum, [visited The
         British Museum](http://www.britishmuseum.org/pdf/BM_Africa_Programme_Newsletter_spring_2015.pdf)
@@ -248,7 +248,7 @@ contentful:
         id: t1Gh6AyCYKqaQ442MgGUI
         created_at: !ruby/object:DateTime 2015-11-25 12:52:31.875000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 12:52:31.875000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |-
         Chaplin, J.H. 1974. *The Prehistoric rock art of the lake Victoria region*. Azania, IX, 1-50.
 
@@ -275,7 +275,7 @@ contentful:
       id: 3IwY0pYKpOaGSUWK6aU8WW
       created_at: !ruby/object:DateTime 2015-11-27 15:25:45.996000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 15:25:45.996000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Kenya: key facts'
     image_count: 1381 images
     date_range: Mostly 1,000 BC to the 20th century
@@ -288,14 +288,14 @@ contentful:
       id: 142GjmRwVygmAiU6Q0AYmA
       created_at: !ruby/object:DateTime 2015-11-26 15:35:38.627000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:43:02.363000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Kenya: country introduction'
     chapters:
     - sys:
         id: 2sEl2XznyQ66Eg22skoqYu
         created_at: !ruby/object:DateTime 2015-11-26 15:28:45.582000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:51:02.714000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Kenya: country, chapter 1'
       body: Rock art is distributed widely throughout Kenya, although historically
@@ -311,7 +311,7 @@ contentful:
         id: 6nL6NLL93GQUyiQaWAgakG
         created_at: !ruby/object:DateTime 2015-11-26 15:23:16.663000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 16:02:48.785000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 191BlqkgSUmU20ckCQqCyk
@@ -327,7 +327,7 @@ contentful:
         id: 2VIFeJyqys02i4Uc4wGmas
         created_at: !ruby/object:DateTime 2015-11-26 15:29:20.719000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 16:15:40.192000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and rock art distribution
       title_internal: 'Kenya: country, chapter 2'
       body: Kenya covers about 569,140km², bordering Ethiopia and Somalia in the north
@@ -343,7 +343,7 @@ contentful:
         id: 69Hu2xajVCWIyOCCI6cQuC
         created_at: !ruby/object:DateTime 2015-11-26 15:23:43.746000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 16:21:30.276000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4ZkoqzwyVaAuciGqmAUqwC
@@ -359,7 +359,7 @@ contentful:
         id: 54kNwI6Yq4wU88i6MoaM0K
         created_at: !ruby/object:DateTime 2015-11-26 15:30:05.512000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:30:05.512000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'Kenya: country, chapter 3'
       body: 'Although researchers had been noting and investigating rock art in the
@@ -385,7 +385,7 @@ contentful:
         id: 1VQjZKKOhCUCC0sMKmI2EG
         created_at: !ruby/object:DateTime 2015-11-26 15:24:16.333000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 17:16:53.891000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3o8IJEfzbWI4qiywkMu8WM
@@ -401,7 +401,7 @@ contentful:
         id: 4t7LVO1JeES8agW2AK2Q0k
         created_at: !ruby/object:DateTime 2015-11-26 15:31:05.485000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:31:13.826000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Themes
       title_internal: 'Kenya: country, chapter 4'
       body: "Figurative imagery only features prominently in about 10% of the known
@@ -441,7 +441,7 @@ contentful:
         id: 2J6pAiklT2mgAqmGWYiKm4
         created_at: !ruby/object:DateTime 2015-11-26 15:24:54.228000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:24:54.228000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6sJEag1degeScYa0IYY66a
@@ -456,7 +456,7 @@ contentful:
         id: 2FBovUnIEU0om2mG2qCKAM
         created_at: !ruby/object:DateTime 2015-11-26 15:31:50.127000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 17:19:42.052000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: country, chapter 5'
       body: Not all of Kenya's rock art is associated with pastoralists. Much of the
         symbolic art, particularly to the south and west, is attributed to the ’Batwa’,
@@ -479,7 +479,7 @@ contentful:
         id: 1Rc5KyPQDS0KG8mY0g2CwI
         created_at: !ruby/object:DateTime 2015-11-26 15:25:30.561000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 17:20:10.830000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1rIqvHUlxCgqW2caioAo4I
@@ -495,7 +495,7 @@ contentful:
         id: 63k9ZNUpEW0wseK2kKmSS2
         created_at: !ruby/object:DateTime 2015-11-26 15:32:19.445000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:32:19.445000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Kenya: country, chapter 6'
       body: It is instructive to consider the use of rock art sites within their physical
         contexts as well as the rock art motifs themselves.  Locality and landscape
@@ -515,7 +515,7 @@ contentful:
         id: 473wFp8s7CKyuyuIW22KCs
         created_at: !ruby/object:DateTime 2015-11-26 15:26:01.650000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:01:02.004000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6CNVylYrKwUkk0YCcaYmE4
@@ -531,7 +531,7 @@ contentful:
         id: 24Sdya41Gk4migwmYa60SW
         created_at: !ruby/object:DateTime 2015-11-26 15:32:57.237000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:32:57.237000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'Kenya: country, chapter 7'
       body: "Rock art ascribed to Batwa peoples could be anywhere between 15,000-1,000
@@ -559,7 +559,7 @@ contentful:
         id: 5FBcxryfEQMUwYeYakwMSo
         created_at: !ruby/object:DateTime 2015-11-26 15:26:31.130000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:41:13.806000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4dt5Tw7AXeoiMOkAqGIoWa
@@ -576,7 +576,7 @@ contentful:
         id: 1r3TUrs7ziOaQ08iEOQ2gC
         created_at: !ruby/object:DateTime 2015-11-26 15:27:37.639000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:55:17.747000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |
         Gramly, R. 1975.  *Meat-feasting Sites and Cattle Brands: Patterns of Rock-shelter Utilization in East Africa*.  Azania, Vol. 10, Issue 1, pp. 107-122
 

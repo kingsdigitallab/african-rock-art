@@ -5,7 +5,7 @@ contentful:
     id: bl0Xb7b67YkI4CMCwGwgy
     created_at: !ruby/object:DateTime 2015-11-27 11:40:20.548000000 Z
     updated_at: !ruby/object:DateTime 2015-12-11 11:41:57.403000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: The art of the warrior
   slug: the-art-of-the-warrior
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 2YeH0ki7Pq08iGWoyeI2SY
       created_at: !ruby/object:DateTime 2015-11-27 12:04:20.772000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:29:10.545000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 1'
     body: |
       Historically, much of the rock art from across northern Africa has been classified according to a particular style or ‘school’ of depictions. One such category of images, known as the Libyan Warrior School or Libyan Warrior style is found predominantly in Niger. Typically, this style
@@ -33,7 +33,7 @@ contentful:
       id: 3TQXxJGkAgOkCuQeq4eEEs
       created_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2HdsFc1kI0ogGEmGWi82Ci
@@ -49,7 +49,7 @@ contentful:
       id: IENFM2XWMKmW02sWeYkaI
       created_at: !ruby/object:DateTime 2015-11-27 12:05:01.774000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:30:21.015000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 2'
     body: |
       Libyan Warrior figures are almost exclusively located in the Aïr Mountains of Niger although can also be found in the Adrar des Iforas, north-east Mali extending into Algeria.  Defining the Libyan Warrior Period chronologically is a challenge and dates are fairly fluid; the earliest dates suggested start from 5,200 years ago; it certainly coincides with the Horse period between 3,000-2,000 years ago but has also been proposed to continue throughout the Camel Period, from 2,000 years ago to present.
@@ -59,7 +59,7 @@ contentful:
       id: 1vwQrEx1gA2USS0uSUEO8u
       created_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 69ZiYmRsreOiIUUEiCuMS6
@@ -75,7 +75,7 @@ contentful:
       id: 13aC6FIWtQAauy2SYC6CQu
       created_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 3'
     body: However, for the majority of figures their posture is remarkably similar
       even though objects of material culture and the types of garments they wear
@@ -93,7 +93,7 @@ contentful:
       id: 35mGQZhFio6a6Qs0Sm8Kec
       created_at: !ruby/object:DateTime 2015-11-25 17:27:34.827000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 16:24:34.980000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5UjAbnAcE0A0gAmCQmKkyU
@@ -108,7 +108,7 @@ contentful:
       id: 4thny4IiHKW66c2sGySMqE
       created_at: !ruby/object:DateTime 2015-11-25 17:28:05.405000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:31:49.083000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4Mq2eZY2bKogMqoCmu6gmW
@@ -124,7 +124,7 @@ contentful:
       id: 1D7OVEK1eouQAsg6e6esS4
       created_at: !ruby/object:DateTime 2015-11-27 12:05:50.702000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:36:43.690000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 4'
     body: A criticism of Saharan rock art research, in comparison to that which has
       focused on other parts of Africa, is an under-theorisation of how the art links
@@ -140,7 +140,7 @@ contentful:
       id: 6GvLgKrVXaSIQaAMECeE2m
       created_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 18c47Fe9jeoIi4CouE8Eya
@@ -156,7 +156,7 @@ contentful:
       id: 4wQK9fpysE0GEaGYOEocws
       created_at: !ruby/object:DateTime 2015-11-27 12:06:27.167000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:41:04.031000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 5'
     body: "Such a comment suggests that local ethnographies might assist in an understanding
       of more recent rock art, that not all figures described as Libyan-Warrior may
@@ -175,7 +175,7 @@ contentful:
       id: 2oNDIVZY2cY6y2ACUykYiW
       created_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2klydX5Lbm6sGIUO8cCuow
@@ -190,7 +190,7 @@ contentful:
       id: 3SOhBsJLQACesg4wogaksm
       created_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 6'
     body: "The Wodaabe have become particularly well-known in the West through visual
       anthropology, because of their emphasis on cultivating male personal beauty
@@ -218,7 +218,7 @@ contentful:
       id: 4AsNsHJ1n2USWMU68cIUko
       created_at: !ruby/object:DateTime 2015-11-27 11:46:03.474000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:12:29.767000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6QT0CdFAgoISmsuUk6u4OW
@@ -234,7 +234,7 @@ contentful:
       id: 5z7EqYMmFaI0Eom6AAgu6i
       created_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 10pBS62m3eugyAkY8iQYGs
@@ -250,7 +250,7 @@ contentful:
       id: 1UmQD1rR0IISqKmGe4UWYs
       created_at: !ruby/object:DateTime 2015-11-27 11:47:12.062000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 11:55:05.455000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5oL3JD0PbaEMMyu4mA0oGw
@@ -266,7 +266,7 @@ contentful:
       id: 45NYo7UU5ymOCYiqEYyQQO
       created_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 7'
     body: One of the recurring features of the Warrior engravings is the round discs
       that seem to be suspended from a figure’s arm or shoulder. Historically, these
@@ -276,7 +276,7 @@ contentful:
       id: 55JXs6mmfCoM6keQuwSeKA
       created_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3s0PrjlXlS2QwMKMk0giog
@@ -292,7 +292,7 @@ contentful:
       id: 2UL4zsEuwgekwI0ugSOSok
       created_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3XjtbP2JywoCw8Qm0O8iKo
@@ -308,7 +308,7 @@ contentful:
       id: 64MCgMHx60M8e0GSCaM2qm
       created_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 8'
     body: However, others may represent shoulder bags or flat baskets which are used
       as vessel covers or food trays; both of which are vital items in a nomadic lifestyle.
@@ -321,7 +321,7 @@ contentful:
       id: 78Ks1B0PPUA8YIm0ugMkQK
       created_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5SDdxljduwuQggsuWcYUCA
@@ -339,7 +339,7 @@ contentful:
       id: 5nvXXoq4Baa0IwOmMSiUkI
       created_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 9'
     body: Engraved figures are often depicted with geometric patterning across their
       torso which may reflect traditional garments. This armless Wodaabe vest is decorated
@@ -349,7 +349,7 @@ contentful:
       id: 1Huul8DwMcACSECuGoASE2
       created_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1PmWIHnxq0cAESkGiiWCkK
@@ -363,7 +363,7 @@ contentful:
       id: GT1E1E6FMc04CaQQUEuG6
       created_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: lz2F9O4kSWoi2g68csckA
@@ -378,7 +378,7 @@ contentful:
       id: MH7tazL1u0ocyy6ysc8ci
       created_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 10'
     body: |-
       There is also a consensus within Wodaabe society about beauty and ugliness; what makes something beautiful or indeed ugly generally is agreed upon, there is a commonality of taste. This may account for the paradox of why there is individuality within a corpus of images that inherently are comparable (Bovin,2001:16).
@@ -388,7 +388,7 @@ contentful:
       id: 5f7LkndYMoCiE0C6cYI642
       created_at: !ruby/object:DateTime 2015-11-27 12:02:44.521000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 17:01:56.918000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4S1bl6LKUEKg0mMiQMoS2i
@@ -403,7 +403,7 @@ contentful:
       id: 2s5eLxURwgEKUGYiCc62MM
       created_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3as8UfaNIk22iQwu2uccsO
@@ -419,7 +419,7 @@ contentful:
       id: 4c37ixkB72GaCAkSYwGmSI
       created_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 11'
     body: This brief review was motivated, in part, by the underlying problems inherent
       in the categorisation of visual culture. Historically assigned classifications
@@ -436,7 +436,7 @@ contentful:
       id: 2YpbTzVtq8og44KCIYKySK
       created_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |
       Bovin, Mette. 2001. *Nomads Who Cultivate Beauty*. Uppsala: Nordiska  Afrikainstitutet
 

@@ -5,14 +5,14 @@ contentful:
     id: 3FI9toCf966mwqGkewwm62
     created_at: !ruby/object:DateTime 2016-07-27 07:44:28.009000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:44:28.009000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Angola: country introduction'
   chapters:
   - sys:
       id: 4c7LrgmhRm6oEIsmKMyICO
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.048000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:10:43.664000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Angola: country, chapter 1'
     body: 'Angola is a country located in the south-west of Africa, stretching from
@@ -27,7 +27,7 @@ contentful:
       id: 6d4OdBQujeqc8gYMAUaQ8
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.855000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:43:02.760000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3fc97FP7N6Q4qaYY82yMee
@@ -43,7 +43,7 @@ contentful:
       id: 1LCP4wqQiYI4wSiSqsagwK
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.894000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.894000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and rock art distribution
     title_internal: 'Angola: country, chapter 2'
     body: Angola has a variety of climates.  The flat coastal plain ranges between
@@ -61,7 +61,7 @@ contentful:
       id: 4hwTXZMXe00gwO6uoyKY0Y
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.770000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:43:30.163000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2EhlaF5U6Qui8SueE66KUO
@@ -77,7 +77,7 @@ contentful:
       id: 6oDRzpZCTe0cioMMk0WmGs
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.825000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 10:00:25.820000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Angola: country, chapter 3'
     body: 'Rock art in Angola is primarily located in the coastal region, from north
@@ -91,7 +91,7 @@ contentful:
       id: 48podTUsCQm2Aai0M2CkqY
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.824000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:35:38.140000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Angola: country, chapter 4'
     body: 'Although there are some references in Portuguese chronicles from the 1500s
@@ -109,7 +109,7 @@ contentful:
       id: 19eEn5GF9e0Yqk4yYmoqKg
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.784000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:15:17.457000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: 'Themes '
     title_internal: 'Angola: country, chapter 5'
     body: 'The rock art in Angola has a wide variety of styles and themes, depending
@@ -133,7 +133,7 @@ contentful:
       id: avBmltKXBKIac040I4im4
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.027000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:13:04.815000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6JWgcpb6JUq0yCegs4MsGc
@@ -150,7 +150,7 @@ contentful:
       id: 2I6ljlCWZyAmqm8Gq402IE
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.760000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:16:27.004000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: " Chronology"
     title_internal: 'Angola: country, chapter 6'
     body: 'As is so often the case with rock art, the dating of images is complex
@@ -172,7 +172,7 @@ contentful:
       id: 1oBOeAZi0QEmAsekMIgq88
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.908000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:13:19.855000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 40lIKwvi8gwo4ckmuKguYk
@@ -189,7 +189,7 @@ contentful:
       id: 6qVsC6snf24G0ImyC6yGY8
       created_at: !ruby/object:DateTime 2016-07-27 07:45:30.575000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 10:00:54.672000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Clark, J.  Desmond & Zinderen Bakker, E.  M.  van, 1963. *Prehistoric
       cultures of northeast Angola and their significance in tropical Africa*.  Companhia
       de Diamantes de Angola, Lisboa, Servicos Culturais \n\nGutierrez, M. 1996. *L'art

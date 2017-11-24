@@ -5,7 +5,7 @@ contentful:
     id: 4af0chnVYAe0e4mqoQwaoy
     created_at: !ruby/object:DateTime 2015-11-25 15:07:32.113000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:53:48.674000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Cave of Swimmers, Egypt
   slug: cave-of-swimmers
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 4pHoZkgWDegMQsumuSUekM
       created_at: !ruby/object:DateTime 2015-11-25 15:04:41.300000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:04:41.300000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Egypt: featured site, chapter 1'
     body: The ‘Cave of Swimmers’ is one of the most famous rock art sites of the Sahara.
       It sits in Wadi Sura, loosely translated as the ‘Valley of Pictures’ due to
@@ -22,7 +22,7 @@ contentful:
       id: 1cUANarsnIIyGQ8MUGaKMM
       created_at: !ruby/object:DateTime 2015-11-25 15:01:11.701000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:35:42.682000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5LebP1Vcqs4A4US00uI0Q4
@@ -39,7 +39,7 @@ contentful:
       id: 5AJki82zIcK2AEyigEiu2g
       created_at: !ruby/object:DateTime 2015-11-25 15:05:05.937000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:44:27.933000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Egypt: featured site, chapter 2'
     body: The ‘Cave of Swimmers’ is the larger of two shallow caves situated side
       by side in the southern part of the Gilf Kebir plateau in Egypt’s Western Desert,
@@ -52,7 +52,7 @@ contentful:
       id: 1imxvhdhHEYsyKueK6coS
       created_at: !ruby/object:DateTime 2015-11-25 15:01:51.007000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:35:41.280000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2halaUUgAMe6ES0uycIIIG
@@ -67,7 +67,7 @@ contentful:
       id: 2iFZCE50AsqKM4C8ma0IO8
       created_at: !ruby/object:DateTime 2015-11-25 15:05:27.680000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:05:27.680000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Egypt: featured site, chapter 3'
     body: The book and film feature fictionalised versions of the cave and its real-life
       discoverer, László Almásy, as the title character. In reality, Almásy was a
@@ -83,7 +83,7 @@ contentful:
       id: 6tD8WMYexGWoiEYeEKAaIw
       created_at: !ruby/object:DateTime 2015-11-25 15:02:56.246000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:36:48.650000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3R3Ri8y5pe2I4AM8iauayW
@@ -99,7 +99,7 @@ contentful:
       id: 5VeXJi6wN2Cq00COCo08Sk
       created_at: !ruby/object:DateTime 2015-11-25 15:05:49.205000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:05:49.205000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Egypt: featured site, chapter 4'
     body: 'New rock art discoveries in this area have been made in recent years and
       add to the debate, which has continued, as have expeditions by academics, tourists
@@ -113,7 +113,7 @@ contentful:
       id: QzRyY82AYSMgMGCUcws2m
       created_at: !ruby/object:DateTime 2015-11-25 15:03:54.190000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:37:39.120000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6Fqf4hcw1OeG2IIO442ckW
@@ -130,7 +130,7 @@ contentful:
       id: 23YZHecGleqeiKYiAQQcq0
       created_at: !ruby/object:DateTime 2015-11-25 15:06:06.304000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:06:06.304000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Egypt: featured site, chapter 5'
     body: 'The ‘swimmers’ are not the only humans depicted here: there are others,
       some heavily adorned, some apparently engaged in activities. A meticulously

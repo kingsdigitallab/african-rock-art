@@ -5,7 +5,7 @@ contentful:
     id: 2t4epzwnhiUMcmeK4yIYQC
     created_at: !ruby/object:DateTime 2015-11-26 17:10:57.025000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:49:23.897000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: Gone fishing...
   slug: gone-fishing
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 3FSGABeX9C2aieeekCUc6I
       created_at: !ruby/object:DateTime 2015-11-26 16:58:39.843000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:58:59.910000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 1'
     body: Fishing is an ancient practice in Africa, dating back 100,000 years, when
       modern humans started moving into coastal environments. The remains of thousands
@@ -37,7 +37,7 @@ contentful:
       id: 5rah4C96eWkK6gUgYS2cKI
       created_at: !ruby/object:DateTime 2015-11-26 16:34:38.217000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:34:38.217000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5O1g77GG9UEIeyWWgoCwOa
@@ -54,7 +54,7 @@ contentful:
       id: 1s82PsQrCsS8C0QQQ0gYie
       created_at: !ruby/object:DateTime 2015-11-26 16:35:04.493000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:35:04.493000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3PqImAJY3CeKKkMwqeayoe
@@ -70,7 +70,7 @@ contentful:
       id: oie98q7G1MoEw4c6ggEai
       created_at: !ruby/object:DateTime 2015-11-26 16:35:28.865000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:35:28.865000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5TVVOzkAlaWKaK4oG2wqq8
@@ -88,7 +88,7 @@ contentful:
       id: cjcvGndmak60E82YEQmEC
       created_at: !ruby/object:DateTime 2015-11-26 16:59:31.911000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:59:31.911000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 2'
     body: |-
       We rarely consider the Sahara as the optimum environment for fishing. Seeing painted and engraved images of fish located in these waterless and unfavourable landscapes therefore seems at odds with our present-day knowledge of this vast desert. However, as we have noted before in these project pages (see introductions to Libya and Algeria), water-dependent animals such as crocodile and hippo have regularly been depicted in Saharan rock art, illustrating a once wetter and more fertile landscape. To date, the African rock art image project has catalogued representations of aquatic species in Libya, Algeria and Morocco, depicted with varying degrees of proficiency and ease of identification. This has been an insightful encounter, because it not only informs our thinking about the nature of the environment in the past and the way people were using their available resources, but also allows us to think about the cultural importance of water-based species.
@@ -100,7 +100,7 @@ contentful:
       id: 5J2YaEVcDSk8E8mqsYeYC6
       created_at: !ruby/object:DateTime 2015-11-26 16:36:02.168000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:36:02.168000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 62OPN6zwbKOym4YUAKCoAY
@@ -116,7 +116,7 @@ contentful:
       id: 4mxD1mNZu8OegCaGC60o8o
       created_at: !ruby/object:DateTime 2015-11-26 16:36:34.680000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:36:34.680000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: oV9yR91U3YSg2McmgeCA2
@@ -132,7 +132,7 @@ contentful:
       id: gbhjHlWzFCKyeeiUGEkaQ
       created_at: !ruby/object:DateTime 2015-11-26 17:00:13.905000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:00:13.905000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 3'
     body: Rock art imagery is replete with both very naturalistic representations
       and also those which are more conceptual or abstract in nature, and the depictions
@@ -149,7 +149,7 @@ contentful:
       id: 5XJMMCBGveKKqoIc8kGEQU
       created_at: !ruby/object:DateTime 2015-11-26 16:37:00.084000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:37:00.084000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4fQKRSGFIA6OMCe8waOWmM
@@ -165,7 +165,7 @@ contentful:
       id: 4gUY4mSYnKYk8UIMSGAike
       created_at: !ruby/object:DateTime 2015-11-26 16:37:27.294000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:37:27.294000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: rJLJBELLi0yAYiCuM4SWi
@@ -182,7 +182,7 @@ contentful:
       id: 1pIt8kfkgAQ6ueEWMSqyAM
       created_at: !ruby/object:DateTime 2015-11-26 16:37:55.248000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:37:55.248000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 14NfPoZlKIUOoacY8GWQ4c
@@ -198,7 +198,7 @@ contentful:
       id: 5Kvn7LZDEcc0iGm0O4u6uY
       created_at: !ruby/object:DateTime 2015-11-26 17:00:36.225000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:00:36.225000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 4'
     body: Figs. 6 and 8 show engravings of fish that bear close morphological resemblances
       to Catfish, with even the barbels depicted. Catfish seem to occur more regularly
@@ -214,7 +214,7 @@ contentful:
       id: sTBWoIZ2yyuS04mEIYYus
       created_at: !ruby/object:DateTime 2015-11-26 16:38:21.905000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:38:21.905000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3nZmrbE5yUEuc2qaWc2Age
@@ -230,7 +230,7 @@ contentful:
       id: 5RuLsZVAOswgaaKG8CK0AQ
       created_at: !ruby/object:DateTime 2015-11-26 16:38:50.016000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:38:50.016000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 7M6nZhpTuoUuOOk0oWu8ea
@@ -247,7 +247,7 @@ contentful:
       id: 3SIbv3l2WQqe4Wa08Ew6cI
       created_at: !ruby/object:DateTime 2015-11-26 17:00:55.256000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:00:55.256000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 5'
     body: In arid ecosystems, bodies of water are characterised by daily and seasonal
       fluctuations in water temperature, evaporation and other natural phenomena,
@@ -265,7 +265,7 @@ contentful:
       id: 20MArnOyXuuIgo4g642QQa
       created_at: !ruby/object:DateTime 2015-11-26 17:01:46.522000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:01:46.522000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Fishing
     title_internal: 'Thematic: fishing, chapter 6'
     body: Fish are likely to have been caught in a variety of ways, but in the Sahara
@@ -279,7 +279,7 @@ contentful:
       id: 1bwCettQ98qY2wEyiQMOmU
       created_at: !ruby/object:DateTime 2015-11-26 16:39:23.290000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:39:23.290000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4cgsOBoxReGOAiCqw2UYM8
@@ -295,7 +295,7 @@ contentful:
       id: 159mLyHGvyC4ccwOQMyQIs
       created_at: !ruby/object:DateTime 2015-11-26 17:02:05.585000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:02:05.585000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 7'
     body: Chronologically, the earliest barbed bone point records are from Katanda
       in the Upper Semliki Valley in modern-day Democratic Republic of the Congo,
@@ -309,7 +309,7 @@ contentful:
       id: 2IWFdXQZl6WwuCgA6oUa8u
       created_at: !ruby/object:DateTime 2015-11-26 17:02:48.620000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:02:48.620000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Other aquatic species
     title_internal: 'Thematic: fishing, chapter 8'
     body: Other aquatic species are more difficult to identify and are much rarer.
@@ -331,7 +331,7 @@ contentful:
       id: 5j7XInUteECEA6cSE48k4A
       created_at: !ruby/object:DateTime 2015-11-26 16:39:52.787000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:39:52.787000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 7pDQ1Q7cm4u4KKkayeugGY
@@ -347,7 +347,7 @@ contentful:
       id: 2pq6oldgxGsq48iIUsKEyg
       created_at: !ruby/object:DateTime 2015-11-26 16:40:52.658000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:40:52.658000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6k5J6VbwZOq2yg86Y4GsEc
@@ -363,7 +363,7 @@ contentful:
       id: k7ChxGbsyc2iSaOc0k62C
       created_at: !ruby/object:DateTime 2015-11-26 17:03:15.438000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:03:15.438000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Case study – Gobero
     title_internal: 'Thematic: fishing, chapter 9'
     body: A recently excavated cemetery site called Gobero (Fig. 14) (see citation),
@@ -377,7 +377,7 @@ contentful:
       id: 7D5HIm20CW4WMy0IgyQQOu
       created_at: !ruby/object:DateTime 2015-11-26 16:41:18.798000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:41:18.798000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5ZHSZA9fHOyAu8kaMceGOa
@@ -394,7 +394,7 @@ contentful:
       id: 1wHHAMslowaeSOAWaue4Om
       created_at: !ruby/object:DateTime 2015-11-26 17:03:47.119000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:03:47.119000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: fishing, chapter 10'
     body: |-
       Approximately 200 burials, ranging over a 5000-year period, were found on the edge of an ancient lake. Grave goods include bones or tusks from wild fauna, ceramics, lithic projectile points, and bone, ivory and shell ornaments. One adult male was buried in a recumbent pose seated on the carapace of a mud turtle. Microliths, bone harpoon points and hooks, and ceramics with dotted wavy-line and zigzag impressed motifs were found in the burial fill, in an associated midden area, and in nearby paleolake deposits. Nile perch (*Lates niloticus*), large catfish, and tilapia dominate the midden fauna, which also includes bones and teeth from hippos, several bovids, small carnivores, softshell turtles and crocodiles.
@@ -405,7 +405,7 @@ contentful:
       id: 6JNu3sK5DGaUyWo4omoc2M
       created_at: !ruby/object:DateTime 2015-11-26 16:58:14.227000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:58:14.227000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: 'Sereno P.C., Garcea E.A.A., Jousse H., Stojanowski C.M., Saliège
       J-F., et al. 2008. *Lakeside Cemeteries in the Sahara: 5000 Years of Holocene
       Population and Environmental Change*. PLoS ONE 3(8)'

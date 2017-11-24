@@ -5,7 +5,7 @@ contentful:
     id: e93mTnDufeoCyY4WeQakC
     created_at: !ruby/object:DateTime 2015-12-08 11:21:49.949000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 09:25:10.106000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: 'Tanzania '
   slug: tanzania
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?searchText=Tanzania&people=197356
@@ -59,7 +59,7 @@ contentful:
       id: 1MRBSR83yUwGoo8s4AKICk
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Kolo, Tanzania
     slug: kolo
     chapters:
@@ -67,7 +67,7 @@ contentful:
         id: 1NISbAVcjSMI4SEWE8WgAm
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.053000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:24:34.308000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: Kolo Chapter 1
       body: The Kondoa rock art sites are located on the eastern slopes of the Maasai
@@ -89,7 +89,7 @@ contentful:
         id: 2e0bNc68UUM0YKaM40Sm4C
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.871000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:57:32.216000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4qqgpg1KTmKwEA8kQsg8Qe
@@ -105,7 +105,7 @@ contentful:
         id: 5WqTYb2ohiCaseea44yMWg
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.050000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:22:52.499000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: 'Kolo Chapter 2 '
       body: "The sites at Kolo are the most famous of the Kondoa paintings. Kolo comprises
@@ -124,7 +124,7 @@ contentful:
         id: 5JuWPWO5Z6w8aeeWMqQ8oK
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.850000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:58:56.845000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6hDS1W5bdSYICYEse20Wuw
@@ -141,7 +141,7 @@ contentful:
         id: 1o3g8TuJuc8MiGyQ6g6g42
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.949000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:23:12.269000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: Kolo Chapter 3
       body: "__Art__\n\nAmong the animals depicted are elephants, giraffes, antelopes,
@@ -164,7 +164,7 @@ contentful:
         id: 2H6WyW8gaISq2KgkCGa2k0
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.861000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:05:45.603000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: Kolo chapter 4
       body: |+
         Ritual Practices
@@ -177,7 +177,7 @@ contentful:
         id: 5gBuZ4nsoo4M2QOoCOs8Cs
         created_at: !ruby/object:DateTime 2016-07-27 07:45:14.737000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:06:33.160000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6HJM4veidyg8KAO6WsaOcc
@@ -193,7 +193,7 @@ contentful:
         id: 4dRHbbM4IU0MQog4kuOCGY
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.820000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:23:50.727000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: Kolo chapter 5
       body: |-
@@ -204,7 +204,7 @@ contentful:
         id: 5SJRvFQ6NasOKwWYogwWqM
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:07:01.378000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 27ttIF1VA4e8ekcAcea4G6
@@ -220,7 +220,7 @@ contentful:
         id: 2O7PwT55ZmSSgsWkeEAQsq
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.796000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:51:08.628000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: Kolo Chapter 6
       body: |+
@@ -231,7 +231,7 @@ contentful:
         id: 4xFpVDUn2EA8c0k2WWGaaK
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:07:17.252000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4eWYwHYojCu0EIYyoQGgMI
@@ -248,7 +248,7 @@ contentful:
         id: 4khc2F5ABWm0kyKoUooa80
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.097000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:56:15.212000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Bwasiri, E.J 2008.  'The Management of Indigenous Heritage:
         A Case Study of Mongomi wa Kolo Rock Shelter, Central Tanzania'. MA Dissertation,
         University of the\nWitwatersrand \n\nLeakey, M. 1983. *Africa’s Vanishing
@@ -281,7 +281,7 @@ contentful:
       id: 3FRwoODqnSE2umUAesqOgm
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.756000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:48:46.210000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Tanzania: Key Facts'
     image_count: '1447'
     date_range: 10,000-3,000 years - a few hundred years ago
@@ -293,14 +293,14 @@ contentful:
       id: 1LiwPCnyFKmciIOKysACI0
       created_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Tanzania: Country Introduction'
     chapters:
     - sys:
         id: 43gtar9Bd6iwSOOug8Ca2K
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.035000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 12:30:57.863000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: Tanzania Chapter 1
       body: Containing some of the densest concentrations of rock art in East Africa,
@@ -313,7 +313,7 @@ contentful:
         id: 3cunSLA63KsGEGIw0C8ki
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.825000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:37:31.932000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6jqxlKBK8ggSwAyOIWC2w
@@ -329,7 +329,7 @@ contentful:
         id: 3fuknu8MJiS2CEUo8c48Mm
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.738000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:44:49.657000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and Rock Art distribution
       title_internal: Tanzania Chapter 2
       body: |-
@@ -343,7 +343,7 @@ contentful:
         id: 5bWgTlQsXCq2OQC0Koa8OU
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.912000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:38:18.560000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5XVIPjHq7K4MiWIm6i6qEk
@@ -360,7 +360,7 @@ contentful:
         id: 2s5iBeDTAMk8Y2Awqc024i
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: History of rock art research in Tanzania
       title_internal: Tanzania Chapter 3
       body: 'The existence of painted rock art was first reported  to Europeans in
@@ -384,7 +384,7 @@ contentful:
         id: MsqR1AiFOKQqiySkEIAwQ
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.806000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:41:21.774000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 28qJxjtSOoC6Aa2IgQk06q
@@ -400,7 +400,7 @@ contentful:
         id: i9BKWyIrJeYSQICcciYGC
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.691000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 12:32:37.897000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronologies
       title_internal: Tanzania Chapter 4
       body: "Scholars have classified the rock art in Tanzania into three main stylistic
@@ -429,7 +429,7 @@ contentful:
         id: 5yhqNSTj7USAE6224K28ce
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.089000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:41:54.311000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3fNBqZVcfK8k0Cgo4SsGs6
@@ -445,7 +445,7 @@ contentful:
         id: 7w5bbsaHIcGU8U4KyyQ8W6
         created_at: !ruby/object:DateTime 2016-07-27 07:45:17.860000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:45:13.087000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: Tanzania Chapter 5
       body: |2
 
@@ -454,7 +454,7 @@ contentful:
         id: QLuzPXhKqOmMSm0weqOGG
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.897000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:46:57.641000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3zoMrANvf2SgUmuAu2Wa4W
@@ -470,7 +470,7 @@ contentful:
         id: 55d7OVNn5YEii4KSYwE0wE
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.859000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:47:21.921000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4eRcBkspfOS2Ky4GE08qyC
@@ -486,7 +486,7 @@ contentful:
         id: 4OiTL2qHFeIEmGUE6OqUcA
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.827000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:45:27.688000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: Tanzania Chapter 6
       body: |
@@ -497,7 +497,7 @@ contentful:
         id: 59cgwuXiu4EyiwGuIog0Wi
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.760000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:47:47.628000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1BwSSd5li0MUw4c4QYyAKA
@@ -514,7 +514,7 @@ contentful:
         id: 4zC1ndduCQa8YUSqii26C6
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.874000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:45:36.649000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: Tanzania Chapter 7
       body: |
@@ -525,7 +525,7 @@ contentful:
         id: 4zIzfG4WDKe6SYSimcaEqg
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.886000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:49:16.769000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2iqeQFLDE06A8MW0UcUm2k
@@ -542,7 +542,7 @@ contentful:
         id: 5CTLCKcFag2yCMmCgoegE4
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.786000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 12:42:00.048000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Anati . E. (1996) ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14* September 1996\n\nBwasiri, E.J

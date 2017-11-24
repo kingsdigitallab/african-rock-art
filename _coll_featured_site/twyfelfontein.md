@@ -5,7 +5,7 @@ contentful:
     id: 2KwE2LvwScQG6CmU4eM2uw
     created_at: !ruby/object:DateTime 2016-09-26 14:56:44.920000000 Z
     updated_at: !ruby/object:DateTime 2016-09-26 14:56:44.920000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Twyfelfontein, Namibia
   slug: twyfelfontein
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 8m8JIwGB9YyiOoIaeIsS2
       created_at: !ruby/object:DateTime 2016-09-26 14:54:19.760000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:54:19.760000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 1'
     body: 'The proliferation of rock engravings at Twyfelfontein | /Ui-//aes in the
       north-west of central Namibia, forms the largest single grouping of ancient
@@ -34,7 +34,7 @@ contentful:
       id: guZseTx3LaEuKOia8Yuei
       created_at: !ruby/object:DateTime 2016-09-26 14:54:31.866000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:54:31.866000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4CdBm63EZaG0uscOGAOimI
@@ -50,7 +50,7 @@ contentful:
       id: 6vS54wtOMwQ0Ce4w2s0Wa0
       created_at: !ruby/object:DateTime 2016-09-26 14:54:37.644000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:54:37.644000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 2'
     body: The engravings are found in several loose conglomerations, on sandstone
       surfaces at the base of a hill scarp within the basin of the ephemeral Huab
@@ -68,7 +68,7 @@ contentful:
       id: 5AxeKFL1lYm4Oqm2wG2eow
       created_at: !ruby/object:DateTime 2016-09-26 14:54:49.830000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:54:49.830000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4TZJHdTWc0kgOOEqek4OUs
@@ -85,7 +85,7 @@ contentful:
       id: 6gb3MFviE0sMWWy4s2UQGi
       created_at: !ruby/object:DateTime 2016-09-26 14:55:05.395000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 17:03:01.797000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 3'
     body: The figurative images in the engraved art feature several different distinct
       styles, ranging from very naturalistic outlines of animals such as giraffes
@@ -101,7 +101,7 @@ contentful:
       id: 5sBqpeSh9uUUosCg2IikCu
       created_at: !ruby/object:DateTime 2016-09-26 14:55:17.975000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:55:17.975000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: XPX1r31GCsUmOaAIIMQy8
@@ -117,7 +117,7 @@ contentful:
       id: 16KMXlLrLAiU2mqWAscMCo
       created_at: !ruby/object:DateTime 2016-09-26 14:55:26.702000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:55:26.702000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 4'
     body: "It appears that the kudu figure is pregnant and it has been suggested that
       the choice of this animal may have been made in relation to female initiation
@@ -150,7 +150,7 @@ contentful:
       id: 7264zOqUmIAMsgq4QKMgOE
       created_at: !ruby/object:DateTime 2016-09-26 14:55:40.171000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 17:07:34.570000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5qTBuuWKukMoO4kcQYiQWa
@@ -166,7 +166,7 @@ contentful:
       id: 5wA7wWhUVaEywmwauICIiK
       created_at: !ruby/object:DateTime 2016-09-26 14:55:53.771000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:55:53.771000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 5'
     body: "Such interpretations are made on the basis that the artists followed the
       same cultural tradition as the ancestral San|Bushman. The few examples of painted
@@ -194,7 +194,7 @@ contentful:
       id: 6uFGb5fXZ6yEESYw6C4S0C
       created_at: !ruby/object:DateTime 2016-09-26 14:56:10.408000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:56:10.408000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6AdC84mjBuuGMsQo2oCCYo
@@ -212,7 +212,7 @@ contentful:
       id: 68rfcJmZDaAKGU0WAAysU0
       created_at: !ruby/object:DateTime 2016-09-26 14:56:16.915000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:56:16.915000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 6'
     body: 'In 1952 the site was made a National Monument and in 2007 Twyfelfontein
       | /Ui-//aes was inscribed on the UNESCO World Heritage list.  Portions of it
@@ -222,7 +222,7 @@ contentful:
       id: 2IwYq7P2DuyykIC6iwciC0
       created_at: !ruby/object:DateTime 2016-09-26 14:56:23.800000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 17:09:02.503000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Kinahan, J. and Kinahan, J. H. A. 2006. Twyfelfontein /Ui-//aes
       World Heritage Site Volume 1: Nomination dossier & Volume 2: Property management
       plan. National Committee for the Implementation of the World Heritage Convention

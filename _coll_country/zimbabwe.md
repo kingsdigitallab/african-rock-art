@@ -5,7 +5,7 @@ contentful:
     id: 5NA4gzQrYW8kYCq60q4GOw
     created_at: !ruby/object:DateTime 2015-12-08 11:20:37.367000000 Z
     updated_at: !ruby/object:DateTime 2016-09-12 13:45:29.652000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Zimbabwe
   slug: zimbabwe
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=27040
@@ -59,7 +59,7 @@ contentful:
       id: 196SFAKyP2Ec0gqcWAkawG
       created_at: !ruby/object:DateTime 2016-09-12 11:55:26.290000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:33:48.421000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Matobo Hills, Zimbabwe
     slug: matobo
     chapters:
@@ -67,7 +67,7 @@ contentful:
         id: dcn9MCXYc02mqO620qoe8
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.731000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.731000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: featured site, chapter 1'
       body: 'The Matobo Hills (also spelled as Matopo or Matopos Hills) are located
         to the south-west of Zimbabwe, in Matabeleland, one of the two main rock art
@@ -85,7 +85,7 @@ contentful:
         id: N3RjMUjWecQWss48koUyG
         created_at: !ruby/object:DateTime 2016-09-12 11:56:26.939000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:26.939000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: Jy8edAwMCGiAywQIyi0KI
@@ -100,7 +100,7 @@ contentful:
         id: 7Mivw9c0Q8osQi802O6gwO
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.437000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.437000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: featured site, chapter 2'
       body: 'The rock art of the Matobo Hills is as varied as that of the rest of
         Zimbabwe, mainly consisting of depictions of animals and human figures often
@@ -122,7 +122,7 @@ contentful:
         id: 1ueCDk3QMc40WGC6gk0qsE
         created_at: !ruby/object:DateTime 2016-09-12 11:56:47.135000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:47.135000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4JrH9kFufCQkEwgGqycIQG
@@ -138,7 +138,7 @@ contentful:
         id: 2Kp0Cep9RmeI4gyMAMMaCy
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.486000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.486000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: featured site, chapter 3'
       body: 'One of the characteristics of the Matobo Hills rock art is the incredible
         variety of colours used, which includes a wide range of reds, purples, oranges,
@@ -151,7 +151,7 @@ contentful:
         id: 3dGEtOvk6k6i6wQSUsu2I
         created_at: !ruby/object:DateTime 2016-09-12 11:56:54.742000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:54.742000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3ZbDDzdXZuKCEEWWm2WUoE
@@ -167,7 +167,7 @@ contentful:
         id: 7zD4PqA2mQyY0yCYUYS6wk
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.426000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:33:12.839000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: featured site, chapter 4'
       body: "Many of the depictions in the Matobo Hills are associated with hunter-gatherers,
         providing a great amount of information about the social, economic and spiritual
@@ -194,7 +194,7 @@ contentful:
         id: 5njv3ZB8WWG0e2MkM4wuIw
         created_at: !ruby/object:DateTime 2016-09-12 11:57:11.432000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:11.432000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1vZtYjldh2UmCICQEIC8UG
@@ -210,7 +210,7 @@ contentful:
         id: 2MAT92oDegwysmWWecW8go
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.570000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.570000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: featured site, chapter 5'
       body: 'Not all the paintings in the Matobo Hills can be ascribed to groups of
         hunter gatherers, though. Although fewer, there are some paintings that correspond
@@ -226,7 +226,7 @@ contentful:
         id: 1U1ln6bdtSIGYYiKu0M68M
         created_at: !ruby/object:DateTime 2016-09-12 11:57:35.126000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:35.126000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1iRymPGEvYW4YUwsWCuw66
@@ -240,7 +240,7 @@ contentful:
         id: 5MtdMVT44MIamC44CmcMog
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.463000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.463000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: featured site, chapter 6'
       body: 'The Matobo Hills constitute a perfect example of how nature and human
         presence can become imbricated, to create a living landscape in which every
@@ -254,7 +254,7 @@ contentful:
         id: 1Y6kzmIX4AimYGC4AYQM4
         created_at: !ruby/object:DateTime 2016-09-12 11:57:43.734000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:43.734000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: AlCcF5GAcC44Q268AUsuq
@@ -269,7 +269,7 @@ contentful:
         id: 4cN05gyK9aWYwscgeMuA4E
         created_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: Matobo Chapter 7
       body: "¹ San|Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -281,7 +281,7 @@ contentful:
         id: nZhwDQUvyCcK8kYqoWWK2
         created_at: !ruby/object:DateTime 2016-09-12 11:54:06.690000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.690000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Walker, N. (2012): The Rock Art of the Matobo Hills, Zimbabwe.
         Adoranten: 38-59\n\nParry, Elspeth (2012): Guide to the Rock Art of the Matopo
         Hills, Zimbabwe. Bulawayo, AmaBooks Publishers. \n"
@@ -305,7 +305,7 @@ contentful:
       id: 2H6YAlzi1yYIKMia26EGwc
       created_at: !ruby/object:DateTime 2016-09-12 12:01:05.308000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 12:01:05.308000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Zimbabwe: key facts'
     image_count: 1150 images
     date_range: Unknown, but most probably several thousands of years old
@@ -319,14 +319,14 @@ contentful:
       id: 57nTuvCZRm2kQIWosYeEQq
       created_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Zimbabwe: country introduction'
     chapters:
     - sys:
         id: 7wG2jigwgw4cGsusgAeCGc
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction - Geography and rock art distribution
       title_internal: 'Zimbabwe: country, chapter 1'
       body: 'Zimbabwe is a landlocked country surrounded by Mozambique, Zambia, Botswana
@@ -344,7 +344,7 @@ contentful:
         id: 1vTYjbXbXuoWIu8Og2Ga6u
         created_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 40o6cuVD1mg0GcouA8Iaym
@@ -359,7 +359,7 @@ contentful:
         id: 2P8CUhzioUcQ2WQUCmy4eK
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.382000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 18:50:57.591000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: History of the research
       title_internal: 'Zimbabwe: country, chapter 2'
       body: 'Zimbabwean rock art was first reported by Europeans in 1927, when Miles
@@ -386,7 +386,7 @@ contentful:
         id: cUUCZ3TJ1mmO48egCGE2k
         created_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2fUMJJmhu0gAW4Kkoscw2i
@@ -401,7 +401,7 @@ contentful:
         id: 1GwWneVcV2OGekOmYsisAk
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Themes
       title_internal: 'Zimbabwe: country, chapter 3'
       body: The rock art of Zimbabwe is some of the richest in Africa both in variety
@@ -422,7 +422,7 @@ contentful:
         id: 7cZfHMXB84oouoceeswCUQ
         created_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 51wED0wl4cSWQAWcEqAKek
@@ -437,7 +437,7 @@ contentful:
         id: 2JiGtVlFnOqOUEqWcOyCms
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: country, chapter 4'
       body: 'Along with human figures, animals are widely represented in Zimbabwean
         rock art, with kudu depictions dominating, but also with zebra, tsessebe and
@@ -456,7 +456,7 @@ contentful:
         id: 60AofQXYWsUsusmsKwaGyS
         created_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 37IO99TlpSsMKoCoOskwyO
@@ -471,7 +471,7 @@ contentful:
         id: 36YlRmgg8EIiueMgCamy6e
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: country, chapter 5'
       body: 'Human figures and animals are accompanied by many geometric symbols,
         usually related to trance-like contexts and include dots, wavy lines or stripes.
@@ -484,7 +484,7 @@ contentful:
         id: 5icNtVo3wWOg2EA62yK0gI
         created_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: nRXWoI9Gk8uy2go42GomE
@@ -499,7 +499,7 @@ contentful:
         id: 5RnaGufDxeImKGM0msMOs6
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.292000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 22:03:55.089000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Zimbabwe: country, chapter 6'
       body: |-
         Traditionally, the themes expressed in Zimbabwean rock art have been identified as the same as those of the San|Bushmen¹ from South Africa and in many cases are undoubtedly related, and provide key hints for their interpretation. However, there are also differences, such as the emphasis given to different animals, the higher presence of trees and plants in Zimbabwe or the smaller presence of trance scenes in the north compared to that of the Drakensberg. Moreover, the lack of ethnographic information for Zimbabwean paintings and their older chronology make it difficult to establish the same type of associations as those made for other areas with more direct connections rock art to known cultures, as happens in South Africa. Although in a minority, rock art of a later chronology can be attributed to Iron Age farmers, characterized by more schematic figures, usually white and painted thickly with the finger or the hand. As is the case in other areas in Central Africa, some of these later depictions are related to rain making and initiation ceremonies.
@@ -509,7 +509,7 @@ contentful:
         id: 62IspwBATCWA6aAe2Ymya8
         created_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4sy93JCmHKCso2muMWoOc0
@@ -524,7 +524,7 @@ contentful:
         id: 1ovLRkQ1IMUeuGQMoEaymO
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.470000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 19:02:39.778000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'Zimbabwe: country, chapter 6'
       body: "As with much rock art, the dating of Zimbabwe paintings is a challenging
@@ -543,7 +543,7 @@ contentful:
         id: 6j6wS0WtRmsKI20YK80AKC
         created_at: !ruby/object:DateTime 2016-09-12 11:59:48.982000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 12:00:17.005000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6J08sWPtfOs88AmM20u02u
@@ -559,7 +559,7 @@ contentful:
         id: MXZ2L6VLmU2KqsWqcqO2u
         created_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Garlake, Peter S. (1995): The hunter's vision: the prehistoric
         art of Zimbabwe. British Museum Press, London.\n\nGarlake, Peter S. (1987):
         The painted caves: an introduction to the prehistoric art of Zimbabwe. Modus

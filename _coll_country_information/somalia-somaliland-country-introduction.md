@@ -5,14 +5,14 @@ contentful:
     id: 2DBcI8BWaU6mcgAKK6KCsE
     created_at: !ruby/object:DateTime 2015-11-26 18:31:41.871000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:43:18.317000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Somalia/ Somaliland: country introduction'
   chapters:
   - sys:
       id: 1KQNUoZNrCkAQ2SymEAMC
       created_at: !ruby/object:DateTime 2015-11-26 18:26:17.254000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:26:17.254000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Somalia: country, chapter 1'
     body: Somalia is a country located at the corner of the Horn of Africa, bordered
@@ -29,7 +29,7 @@ contentful:
       id: 3dA1xqkTa0mKwo2mQcASWm
       created_at: !ruby/object:DateTime 2015-11-26 18:23:03.983000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:23:03.983000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4n4aYQQ3ws86seSuSQC2Q0
@@ -44,7 +44,7 @@ contentful:
       id: 2OBCFk5x3OmouqCga48C8U
       created_at: !ruby/object:DateTime 2015-11-26 18:26:58.643000000 Z
       updated_at: !ruby/object:DateTime 2017-01-11 14:18:51.197000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and rock art distribution
     title_internal: 'Somalia: country, chapter 2'
     body: 'The geography of Somaliland is characterized by a coastal semi-desert plain
@@ -67,7 +67,7 @@ contentful:
       id: 2OM3VEqOV2esQye48QAu2s
       created_at: !ruby/object:DateTime 2015-11-26 18:23:30.937000000 Z
       updated_at: !ruby/object:DateTime 2017-01-11 14:21:01.481000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2mLUneHM24eEYEQ8W4EKsq
@@ -83,7 +83,7 @@ contentful:
       id: 41tEkwH3cIckAgeM0MaO6o
       created_at: !ruby/object:DateTime 2015-11-26 18:27:28.491000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:27:28.491000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Somalia: country, chapter 3'
     body: A reconstruction of rock art research history is challenging due to its
@@ -107,7 +107,7 @@ contentful:
       id: 4w2Oo8iJG0A6a6suMusm8c
       created_at: !ruby/object:DateTime 2015-11-26 18:24:00.701000000 Z
       updated_at: !ruby/object:DateTime 2017-01-11 14:22:27.659000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3mWyGCLGFacW2aOUYmGQWs
@@ -123,7 +123,7 @@ contentful:
       id: 4gYGUVBkbKwWYqUwAsMs0U
       created_at: !ruby/object:DateTime 2015-11-26 18:27:53.242000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:27:53.242000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Themes
     title_internal: 'Somalia: country, chapter 4'
     body: The rock art has traditionally been ascribed to the so-called Ethiopian-Arabican
@@ -142,7 +142,7 @@ contentful:
       id: LmEAuSwhEG6iuQ6K8CioS
       created_at: !ruby/object:DateTime 2015-11-26 18:24:22.355000000 Z
       updated_at: !ruby/object:DateTime 2017-01-11 14:26:37.550000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 10vxtVrFIcuoaww8gEKCSY
@@ -158,7 +158,7 @@ contentful:
       id: 2twRKjr52EwkSI0UMUIws4
       created_at: !ruby/object:DateTime 2015-11-26 18:28:12.916000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:28:12.916000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Somalia: country, chapter 5'
     body: Along with cattle, other animals were represented (humped cows or zebus,
       dogs, sheep, dromedaries), although to a much lesser extent. Wild animals are
@@ -173,7 +173,7 @@ contentful:
       id: 2gSkte21PuqswWM2Q804gi
       created_at: !ruby/object:DateTime 2015-11-26 18:24:47.061000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:00:51.600000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 20zCz4hAbmiSm0MuGIkGQk
@@ -190,7 +190,7 @@ contentful:
       id: 5QuYRZm7SMewQCgO0g2sE2
       created_at: !ruby/object:DateTime 2015-11-26 18:28:43.949000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:13:57.212000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronology
     title_internal: 'Somalia: country, chapter 6'
     body: As in many other places, the establishment of accurate chronologies for
@@ -211,7 +211,7 @@ contentful:
       id: 5Qtce93TSEks2Ukmks8e4E
       created_at: !ruby/object:DateTime 2015-11-26 18:25:07.168000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:24:38.017000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 22wpEosKyYwyycaMgSmQMU
@@ -227,7 +227,7 @@ contentful:
       id: uPwtnjPhmK6y4kUImq4g8
       created_at: !ruby/object:DateTime 2015-11-26 18:29:03.262000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:29:03.262000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Somalia: country, chapter 7'
     body: Since the 1st millennium BC human figures armed with lances, bows and shields
       start to appear alongside the cattle, in some cases distributed in rows and
@@ -239,7 +239,7 @@ contentful:
       id: PLXVZ70YMuKQuMOOecEIi
       created_at: !ruby/object:DateTime 2015-11-26 18:25:31.222000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:41:52.403000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4njSKDcdtuaCGiSKGKmGEa
@@ -257,7 +257,7 @@ contentful:
       id: 62GO9AUWhq0GgwQC6keQAU
       created_at: !ruby/object:DateTime 2015-11-26 18:32:25.937000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:13:02.046000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |
       Bachechi, L. (1998): Contributo alla conoscenza dell’arte rupestre somala. *Rivista di Scienze Prehistoriche*, 49 (225-246).
 

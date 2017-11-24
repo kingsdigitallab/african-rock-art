@@ -5,7 +5,7 @@ contentful:
     id: 3KmS7DebO0e2skQsiuGOGo
     created_at: !ruby/object:DateTime 2017-11-21 09:03:26.866000000 Z
     updated_at: !ruby/object:DateTime 2017-11-21 16:37:48.704000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Nigeria
   slug: nigeria
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=37854
@@ -31,7 +31,7 @@ contentful:
       id: 56FnXwosA0kgA8WIM8Kusk
       created_at: !ruby/object:DateTime 2017-11-17 17:44:51.477000000 Z
       updated_at: !ruby/object:DateTime 2017-11-17 17:44:51.477000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Nigeria: key facts'
     image_count: 300 images
     date_range: 1500 BC -1500 AD
