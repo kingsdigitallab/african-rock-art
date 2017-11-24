@@ -5,7 +5,7 @@ contentful:
     id: 2fRpwDPsrmiQaUQMqSI8oA
     created_at: !ruby/object:DateTime 2017-03-13 02:40:28.121000000 Z
     updated_at: !ruby/object:DateTime 2017-03-13 02:40:28.121000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: Rock Art VR - Game Pass Shelter Mobile App
   slug: rockartvr
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 6nHJUYFyucgyyMKs6iYwwo
       created_at: !ruby/object:DateTime 2017-03-13 02:11:18.812000000 Z
       updated_at: !ruby/object:DateTime 2017-03-27 14:35:10.794000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3uawILzjCMg28ISmOO2Eyk
@@ -35,7 +35,7 @@ contentful:
       id: 2oGC8YIQnmIaewkKes6EqI
       created_at: !ruby/object:DateTime 2017-03-13 02:15:13.768000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:40:23.061000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 1'
     body: "Come and explore a rock art site in South Africa! Using digital imagery
       from the African Rock Art Image Project at the British Museum, this interactive
@@ -48,7 +48,7 @@ contentful:
       id: 5rjsmkdjUcSEOWIYKuuCIi
       created_at: !ruby/object:DateTime 2017-03-13 02:17:09.190000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:17:09.190000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 45vNSBVEZqgGyOcIAAsOw4
@@ -64,7 +64,7 @@ contentful:
       id: 4iG66vQ2MUu24GywiUEOYG
       created_at: !ruby/object:DateTime 2017-03-13 02:17:54.604000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:17:54.604000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 2'
     body: This app will take you to Game Pass Shelter, one of the most well-known
       rock art sites in South Africa. Situated in the Drakensberg mountains, the shelter
@@ -77,7 +77,7 @@ contentful:
       id: 2XMhIpm5TW4mUySacSUggg
       created_at: !ruby/object:DateTime 2017-03-13 02:19:05.899000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:19:05.899000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6Z7Fmlzd0kSYk2qU2S0eoo
@@ -91,7 +91,7 @@ contentful:
       id: 4f4xPt1kfeakUO4AE42yeg
       created_at: !ruby/object:DateTime 2017-03-13 02:20:07.762000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:20:07.762000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 3'
     body: This app uses images from the African Rock Art Image Project, the largest
       archive of digitised images (also known as ‘born digital’ artifacts) recording
@@ -104,7 +104,7 @@ contentful:
       id: CV5a7U4DReuiC0e2yeUai
       created_at: !ruby/object:DateTime 2017-03-13 02:23:08.612000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:23:08.612000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3fD4DQqyTS2UgwoyeqEYkc
@@ -120,7 +120,7 @@ contentful:
       id: 4Nw0ySbeZiIEuaimaYIowM
       created_at: !ruby/object:DateTime 2017-03-13 02:25:15.926000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:25:15.926000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 4'
     body: |-
       Using innovative digital technology and photogrammetry in combination with our extensive archival photographic collections, we started experimenting with making [3D models](https://sketchfab.com/britishmuseum/collections/african-rock-art) of rock art solely using 20-year-old digitised, archival photographs of the rock art sites.  Building on this work, we realised it would be possible to use these techniques to further contextualize rock art sites in their landscape environment, combining archival images and records with satellite imagery and 360° images of a site -- a technique which proves hugely important for possible reconstructions of heritage sites largely using historical photos!
@@ -130,7 +130,7 @@ contentful:
       id: 5i0X5VKYQEuYgCCUEUGsQm
       created_at: !ruby/object:DateTime 2017-03-13 02:26:10.014000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:26:20.136000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6hYygcn6LKye0KQu4WE2Qi
@@ -146,7 +146,7 @@ contentful:
       id: 6GhOyZzkrYAuG8agOSeA08
       created_at: !ruby/object:DateTime 2017-03-13 02:26:58.085000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:26:58.085000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 5'
     body: 'The app begins (after the title page and instructions for using the cardboard
       viewer) with an automated opening sequence  showing the location of Game Pass
@@ -157,7 +157,7 @@ contentful:
       id: 3O7wEtT9WgIIy6AWGw4guE
       created_at: !ruby/object:DateTime 2017-03-13 02:27:44.722000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:27:44.722000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4MLN0mgROgUe4e444yUUQE
@@ -171,7 +171,7 @@ contentful:
       id: 1cN6S7SmRywQYmGwKGsaw2
       created_at: !ruby/object:DateTime 2017-03-13 02:28:22.643000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:28:22.643000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 6'
     body: The interactive portion of the app then begins, with users following a path
       up the hillside to Game Pass Shelter, experiencing six places en route with
@@ -180,7 +180,7 @@ contentful:
       id: 75vDJziuic2I02EQKym8Gm
       created_at: !ruby/object:DateTime 2017-03-13 02:29:27.383000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:29:27.383000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: a2qVgKlOU0IgeU8CGkooi
@@ -196,7 +196,7 @@ contentful:
       id: 7EhyKmW3NSKGeYksYOMGs
       created_at: !ruby/object:DateTime 2017-03-13 02:30:08.600000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:30:08.600000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 7'
     body: This interactive tour is self-led and culminates with the user discovering
       two key rock art panels at the shelter site. When the user clicks on the highlighted
@@ -208,7 +208,7 @@ contentful:
       id: 3KTPOINSlW6I0O6iEysQW
       created_at: !ruby/object:DateTime 2017-03-13 02:32:53.962000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:32:53.962000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5bDwOlwnhm2CgCescKQoS6
@@ -228,7 +228,7 @@ contentful:
       id: 4whYOCUWdWiMY2MGiCWao0
       created_at: !ruby/object:DateTime 2017-03-13 02:33:43.173000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:33:43.173000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 8'
     body: 'The desired user’s outcomes for using the app include: 1) to gain a first-hand
       experience exploring an African rock art site virtually; 2) to learn about the
@@ -241,7 +241,7 @@ contentful:
       id: AmuS3r3zIkMIgSmIEKqcK
       created_at: !ruby/object:DateTime 2017-03-13 02:34:51.546000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:35:02.983000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1zVZ5PiOc0ukuISI6GUKQK
@@ -257,7 +257,7 @@ contentful:
       id: 75ifs3faSWy0qw2eUS4Yu4
       created_at: !ruby/object:DateTime 2017-03-13 02:37:17.726000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:44:02.813000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: rockartvr, chapter 9'
     body: "We lauched the app in November 2016 with an event in the Great Court at
       the British Museum, where over 150 visitors used the app for the first time
@@ -280,7 +280,7 @@ contentful:
       id: 3dnPPXO03ecUwA2ymasCKo
       created_at: !ruby/object:DateTime 2017-03-13 02:38:10.252000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:38:10.252000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6p0X9HegW4ikqMIUGCuMMc

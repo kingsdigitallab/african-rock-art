@@ -5,7 +5,7 @@ contentful:
     id: 3l1e5Bn0NOggigQsmiGG8q
     created_at: !ruby/object:DateTime 2015-11-25 16:45:15.719000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:52:38.130000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Niola Doa, Chad
   slug: niola-doa
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 2HKVwIp55eweW6WcioyIAg
       created_at: !ruby/object:DateTime 2015-11-25 16:42:21.650000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:42:21.650000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Chad: featured site, chapter 1'
     body: The Ennedi Plateau is a mountainous region in the north-eastern corner of
       Chad, an impressive sandstone massif eroded by wind and temperature changes
@@ -30,7 +30,7 @@ contentful:
       id: 5fxX9unUx2i8G6Cw0II2Qk
       created_at: !ruby/object:DateTime 2015-11-25 16:39:08.235000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:39:08.235000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3x13gapfeoswomWyA0gyWS
@@ -46,7 +46,7 @@ contentful:
       id: 5JEd4uYIEMAQsCKkKIeWIK
       created_at: !ruby/object:DateTime 2015-11-25 16:42:38.368000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:42:38.368000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Chad: featured site, chapter 2'
     body: 'Within this kaleidoscope, a series of engravings have become especially
       renowned for their singularity and quality: several groups of life-sized human
@@ -69,7 +69,7 @@ contentful:
       id: 6mkGfHTaJaqiAgiQYQqIYW
       created_at: !ruby/object:DateTime 2015-11-25 16:40:06.201000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:40:06.201000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1EOAe1GFKQSG2oWYiKSIYI
@@ -86,7 +86,7 @@ contentful:
       id: 6HD9yuFPckYYWOaWeQmA4Y
       created_at: !ruby/object:DateTime 2015-11-25 16:42:56.088000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:42:56.088000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Chad: featured site, chapter 3'
     body: Another characteristic feature of these images is their abnormally wide
       buttocks and thighs, which have been interpreted as steatopygia (a genetic condition
@@ -99,7 +99,7 @@ contentful:
       id: 3Nd1QIszi8wcWsm4W2CGw8
       created_at: !ruby/object:DateTime 2015-11-25 16:40:36.716000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:40:36.716000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4r9HybjNjOaMU2wI44IUWw
@@ -116,7 +116,7 @@ contentful:
       id: 5N8CCXZw5OCGiUGMQ8Sw8s
       created_at: !ruby/object:DateTime 2015-11-25 16:43:21.226000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:43:21.226000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Chad: featured site, chapter 4'
     body: |-
       In addition, almost all the figures are decorated with intricate geometric patterns (straight and wavy lines, squares, meanders and, in one case, schematic birds), which could be interpreted as garments, tattoos, scarifications or body paintings. In some cases, figures appear simply outlined, but these very rare cases were probably left unfinished. The decorative patterns extend to the ears, which are always depicted with geometric designs, and to the head, where these designs could correspond to hairstyles.
@@ -126,7 +126,7 @@ contentful:
       id: 2clJsITj8kM8uSE6skaYae
       created_at: !ruby/object:DateTime 2015-11-25 16:41:04.916000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:41:16.496000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3UndBeXLYs8mK4Y4OWkMU8
@@ -142,7 +142,7 @@ contentful:
       id: 5fnEMAOYzSs8quyaQiiUUA
       created_at: !ruby/object:DateTime 2015-11-25 16:43:40.154000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:43:40.154000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Chad: featured site, chapter 5'
     body: 'Regarding their chronology, as with most rock art depictions the Niola
       Doa figures are difficult to date, although they undoubtedly belong to the older
@@ -164,7 +164,7 @@ contentful:
       id: 2SoR8lQCF2SkAQAyGIYMc8
       created_at: !ruby/object:DateTime 2015-11-25 16:41:51.721000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:41:51.721000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Bailloud, Gerard (1997). *Art rupestre en Ennedi. Looking for
       rock paintings and engravings in the Ennedi Hills*, Sépia, Saint-Maur.\n \nSimonis,
       R., Faleschini, G. and Negro, G. (1994) *Niola Doa, ‘il luogo delle fanciulle’

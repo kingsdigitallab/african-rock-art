@@ -5,7 +5,7 @@ contentful:
     id: 5tEidWPQmAyy22u8wGEwC4
     created_at: !ruby/object:DateTime 2015-11-25 15:32:46.632000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:53:06.792000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Fighting cats, Libya
   slug: fighting-cats
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 1Bkxdxu3Pay6SEYMy8s08e
       created_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libya: featured site, chapter 1'
     body: Running from the Red Sea to the Atlantic Ocean, the Sahara is by far the
       world's largest hot desert. It covers over 3,500,000 square miles (9,000,000
@@ -30,7 +30,7 @@ contentful:
       id: 1bjII0uFguycUGI0skGqS2
       created_at: !ruby/object:DateTime 2015-11-25 15:24:17.896000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 14:44:36.006000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 23Sckf5aOU4E8WOkg8yoIG
@@ -46,7 +46,7 @@ contentful:
       id: 4eUSc4QsRW2Mey02S8a2IM
       created_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libya: featured site, chapter 2'
     body: |-
       Little is known about the people who lived in the Sahara thousands of years ago; however, through rock art, we can discern who they may have been and what images were important to them. Throughout the desert, rock art engravings and paintings depict an earlier story of the Sahara: the wild animals that lived there; the cattle herds that provided food and labour; their daily activities and beliefs are all displayed in caves and cliffs, valleys or plateaus.
@@ -58,7 +58,7 @@ contentful:
       id: 6ggzCnM132qAMoMao64uG4
       created_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: xe9mLFNrG0Ga6yUIoQycG
@@ -74,7 +74,7 @@ contentful:
       id: DcfkeeG0wKKEIAMACYiOY
       created_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libya: featured site, chapter 3'
     body: 'Deep in the Messak Settafet is a site that has intrigued researchers for
       decades: the image known as ‘Fighting Cats’. This iconic engraving shows two
@@ -87,7 +87,7 @@ contentful:
       id: 5OhCYs4J4Q0cWSgwEWUSSU
       created_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3UCMJpOah2ayA8keMYsGkU
@@ -103,7 +103,7 @@ contentful:
       id: 3aWDA5PA5is0yS4uQSKweS
       created_at: !ruby/object:DateTime 2015-11-25 15:28:48.305000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:29:09.496000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libya: featured site, chapter 4'
     body: The technical quality of the engravings is exceptional, with deeply outlined
       and carefully polished bodies and carved cupules within their heads to depict
@@ -119,7 +119,7 @@ contentful:
       id: 2hR3so8KWQKAWS0oqWiGKm
       created_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5WH8hIWyZOI0QWe0SyAkC8
@@ -135,7 +135,7 @@ contentful:
       id: smcYmLtACOMwSYasYoYI0
       created_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Libya: featured site, chapter 5'
     body: Several other engravings are found throughout the wadi. In its lower part
@@ -148,7 +148,7 @@ contentful:
       id: 6oRVe3BTckeksmGWA8gwyq
       created_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1xfjGHyp6wMGQuKQikCeMo
@@ -164,7 +164,7 @@ contentful:
       id: 2T0VuynIPK2CYgyck6uSK8
       created_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libya: featured site, chapter 6'
     body: Besides its impressive position in the landscape, their expressivity and
       complex interpretation, the Fighting Cats keep a secret within. On the polished
@@ -178,7 +178,7 @@ contentful:
       id: 3aPHfOC1lSUW68GuUkOAQK
       created_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1kO0IImYVGOk0oeQg6sqWm
@@ -194,7 +194,7 @@ contentful:
       id: 6GXWm1a2LSU0qg0iQEIeGw
       created_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libya: featured site, chapter 7'
     body: |-
       Another example of fighting cats has been found nearby, although it is neither so carefully made nor in such a prominent place. The similarity is, however, astonishing, and we may wonder if this second pair of beings could be a copy of the first pair, thus reflecting its symbolic importance in the people’s collective imagination.

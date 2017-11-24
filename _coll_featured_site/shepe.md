@@ -5,7 +5,7 @@ contentful:
     id: 5I6VFY4EX6GOW2mCag08aU
     created_at: !ruby/object:DateTime 2015-11-25 11:54:40.762000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:52:58.329000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Shepe, Ethiopia
   slug: shepe
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 4ixjUTf8kEQuQk4GMOy4W6
       created_at: !ruby/object:DateTime 2015-11-25 10:41:05.845000000 Z
       updated_at: !ruby/object:DateTime 2017-01-11 11:21:10.230000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Ethiopia: featured site, chapter 1'
     body: The site of Shepe (also known as Chabbé, Šappe or Mancheti) is located in
       the Sidamo Zone of Oromia, about 250 km to the south of Addis Ababa. The region
@@ -34,7 +34,7 @@ contentful:
         id: 5EG7K0Z26cUMISeKsAww4s
         created_at: !ruby/object:DateTime 2015-11-25 10:47:14.674000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 10:47:14.674000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: pU5IbmTygg4ka2kYisEyc
@@ -50,7 +50,7 @@ contentful:
       id: 5EG7K0Z26cUMISeKsAww4s
       created_at: !ruby/object:DateTime 2015-11-25 10:47:14.674000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 10:47:14.674000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: pU5IbmTygg4ka2kYisEyc
@@ -66,7 +66,7 @@ contentful:
       id: 1meXvF3KKYugMos2qqyyyA
       created_at: !ruby/object:DateTime 2015-11-25 10:50:09.415000000 Z
       updated_at: !ruby/object:DateTime 2017-01-11 11:21:36.739000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Ethiopia: featured site, chapter 2'
     body: 'The rock art of Shepe consists almost exclusively of engravings of humpless
       cows which follow very strict conventions: profile bodies, small heads with
@@ -84,7 +84,7 @@ contentful:
         id: 3t1tUJZNRY4kkQAIeKmIea
         created_at: !ruby/object:DateTime 2015-11-25 10:50:00.721000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 10:50:00.721000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4wQ6Srd7EI0ckCYoA4IaWS
@@ -99,7 +99,7 @@ contentful:
       id: 3t1tUJZNRY4kkQAIeKmIea
       created_at: !ruby/object:DateTime 2015-11-25 10:50:00.721000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 10:50:00.721000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4wQ6Srd7EI0ckCYoA4IaWS
@@ -114,7 +114,7 @@ contentful:
       id: 2MCiQOzg1WWksmyW4kiCko
       created_at: !ruby/object:DateTime 2015-11-25 10:51:18.446000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 10:51:18.446000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Ethiopia: featured site, chapter 3'
     body: The chronology of the Shepe cows is difficult to determine, but stylistically
       they have been related to the Laga Oda paintings in the area of Harar and to
@@ -130,7 +130,7 @@ contentful:
         id: 23e0al3lEEaeCEawuaEuei
         created_at: !ruby/object:DateTime 2015-11-25 10:51:09.956000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 10:51:09.956000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2NxPqNw24UkMkmY0oAeMUW
@@ -145,7 +145,7 @@ contentful:
       id: 23e0al3lEEaeCEawuaEuei
       created_at: !ruby/object:DateTime 2015-11-25 10:51:09.956000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 10:51:09.956000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2NxPqNw24UkMkmY0oAeMUW
@@ -160,7 +160,7 @@ contentful:
       id: 5Ts9l53bJ6uU4OKaqYEAMO
       created_at: !ruby/object:DateTime 2015-11-25 10:51:54.888000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:20:03.439000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Ethiopia: featured site, chapter 4'
     body: Regarding their meaning, only conjecture can be made at present, but it
       seems quite likely that they were made by pastoral communities to whom cattle
@@ -183,7 +183,7 @@ contentful:
       id: 435YtX7CQ08gcuU240ucwc
       created_at: !ruby/object:DateTime 2015-11-25 10:52:31.089000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:20:33.907000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Anfray, F. (1967): Les sculptures rupestres de Chabbè dans le Sidamo. *Annales d'Ethiopie* 7: 19-32.
 

@@ -5,7 +5,7 @@ contentful:
     id: 2kZmXHcYEkaWQGMK4sGq0Y
     created_at: !ruby/object:DateTime 2015-11-25 12:47:03.425000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 18:51:10.317000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Mfangano Island, Kenya
   slug: mfangano-island
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 4ffcl2AJFuUmcS2oykeieO
       created_at: !ruby/object:DateTime 2015-11-25 13:54:02.102000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 13:54:02.102000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Kenya: featured site, chapter 1'
     body: 'Lake Victoria is the largest lake in Africa, and at 69,484km², the second
       largest in the world by surface area.   Sitting in a depression in the plateau
@@ -28,7 +28,7 @@ contentful:
       id: Ak4bSLKQyOCQESmSuukEk
       created_at: !ruby/object:DateTime 2015-11-25 12:47:44.566000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 16:45:35.105000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 37G9MkkxFuC0mu6qGwcs2y
@@ -43,7 +43,7 @@ contentful:
       id: 3MSOAnbnKoq0ACuaYEK0AK
       created_at: !ruby/object:DateTime 2015-11-25 13:55:03.942000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 13:55:03.942000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Kenya: featured site, chapter 2'
     body: Mawanga is a roughly triangular limestone cavern, about 18m wide across
       the mouth and 12m deep.  The roof slopes sharply to the back towards a raised
@@ -65,7 +65,7 @@ contentful:
       id: 2W5cMhvviwo6OEMc04u40E
       created_at: !ruby/object:DateTime 2015-11-25 12:49:05.022000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 16:46:53.507000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4RTDlc6IOIikMaMg8mQaoc
@@ -80,7 +80,7 @@ contentful:
       id: 5yjxz7az7yYSQi2u4UQaIk
       created_at: !ruby/object:DateTime 2015-11-25 12:49:47.517000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 16:47:08.898000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 516BFdHg1G4yO6IkWOQimW
@@ -95,7 +95,7 @@ contentful:
       id: 2UpIfZaJVSIyUweYYKak64
       created_at: !ruby/object:DateTime 2015-11-25 13:55:35.312000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 13:55:35.312000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Kenya: featured site, chapter 3'
     body: The circular shapes seen here are typical of an apparent wider East and
       Central African rock art tradition featuring a preponderance of circular motifs,
@@ -114,7 +114,7 @@ contentful:
       id: 1AWKNMNRSImMCASQusuWc0
       created_at: !ruby/object:DateTime 2015-11-25 12:50:25.070000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 17:17:59.954000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2wD915QEYQqsQCCyEusyoW
@@ -129,7 +129,7 @@ contentful:
       id: 7KbMWDFuY8CwgkwiQuiWew
       created_at: !ruby/object:DateTime 2015-11-25 13:56:16.375000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 13:56:16.375000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Kenya: featured site, chapter 4'
     body: 'Further examples of apparently Batwa origin rock art can be seen in neighbouring
       Uganda and Tanzania, a reminder that contemporary political borders do not reflect
@@ -153,7 +153,7 @@ contentful:
       id: 5j3ZVzX81O8qs44GE4i6Oa
       created_at: !ruby/object:DateTime 2015-11-25 12:51:05.574000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 17:18:53.166000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: iF8lN8WDzqKWeu2OUQ8gc
@@ -168,7 +168,7 @@ contentful:
       id: 1MO5OjJiaQyeUYEkA0ioOi
       created_at: !ruby/object:DateTime 2015-11-25 13:57:11.093000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 13:57:11.093000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Kenya: featured site, chapter 5'
     body: 'The rock art sites of the eastern Lake Victoria region retain spiritual
       connotations for the communities living around them, even if their denoted modern
@@ -192,7 +192,7 @@ contentful:
       id: 38TIUovoUMimQ6G4UmiCOS
       created_at: !ruby/object:DateTime 2015-11-25 12:51:38.839000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 17:19:17.336000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4QK41OYhpSa0qogICAW2aQ
@@ -208,7 +208,7 @@ contentful:
       id: 6872dmGUjSMsOgWqW0GKOa
       created_at: !ruby/object:DateTime 2015-11-25 13:59:14.477000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 13:59:14.477000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Kenya: featured site, chapter 6'
     body: In 2014, Jack Obonyo, curator of the Abasuba Peace Museum, [visited The
       British Museum](http://www.britishmuseum.org/pdf/BM_Africa_Programme_Newsletter_spring_2015.pdf)
@@ -220,7 +220,7 @@ contentful:
       id: t1Gh6AyCYKqaQ442MgGUI
       created_at: !ruby/object:DateTime 2015-11-25 12:52:31.875000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 12:52:31.875000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Chaplin, J.H. 1974. *The Prehistoric rock art of the lake Victoria region*. Azania, IX, 1-50.
 

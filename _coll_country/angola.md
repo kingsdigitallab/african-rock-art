@@ -5,7 +5,7 @@ contentful:
     id: 2ewvBc9EUU0soG8q6G0sYi
     created_at: !ruby/object:DateTime 2015-12-08 11:21:05.925000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 09:20:56.610000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: 'Angola '
   slug: angola
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40180|108377|108375|108376
@@ -45,7 +45,7 @@ contentful:
       id: 4COYtGhxoAuK82cGysc2cu
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.121000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:32:41.107000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Tchitundu-Hulu
     slug: Tchitundu-Hulu
     chapters:
@@ -53,7 +53,7 @@ contentful:
         id: 26QSCtJ2726k0U4WG4uCS2
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.927000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.927000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Angola: featured site, chapter 1'
       body: 'Tchitundu-Hulu is the generic name for a group of four rock art sites
         located in the Namibe province on the south-west corner of Angola, by the
@@ -71,7 +71,7 @@ contentful:
         id: 4gU0r5PSy4CC8Q00ccMMuY
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.741000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:15.741000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 7MqUsgyUhi8IIoM8sGKKAO
@@ -87,7 +87,7 @@ contentful:
         id: 3PYi7QceDKQa44gamOE0o4
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.877000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.877000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Angola: featured site, chapter 2'
       body: 'As aforementioned, Tchitundu-Hulu comprises four rock art sites : Tchitundu-Hulu
         Mulume, Tchitundu-Hulu Mucai, Pedra das Zebras and Pedra da Lagoa.  The  first
@@ -102,7 +102,7 @@ contentful:
         id: fm44bXnRYc0OiwS4Ywogw
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.865000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.866000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Angola: featured site, chapter 3'
       body: 'Of the four sites, Tchitundu-Hulu Mulume is the largest , located at
         the top of the inselberg,  726 m in height.  The slopes of the outcrop are
@@ -116,7 +116,7 @@ contentful:
         id: 35UGg2OapGC2qG4O4Eo2I0
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.726000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:15.726000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2KFJl6V2WsekUsMaq8M4Ga
@@ -132,7 +132,7 @@ contentful:
         id: 4RvVnpbsXK0YcYSUUYyw68
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.862000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.862000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Angola: featured site, chapter 4'
       body: 'In comparison, Tchitundu-Hulu Mucai is situated on the plain around 1,000
         m from the inselberg, in a rock outcrop containing engravings on the top and
@@ -149,7 +149,7 @@ contentful:
         id: iZUL3BpxqEII82IQGGGGC
         created_at: !ruby/object:DateTime 2016-07-27 07:45:14.951000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:14.951000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1HfdgOK6lC4aCke6we2UGW
@@ -165,7 +165,7 @@ contentful:
         id: 5ngD52eGekKEMI2UMeGUWs
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.771000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:29:43.491000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: 'Angola: featured site, chapter 5'
       body: 'The chronology of the Tchitundu-Hulu rock art is difficult to establish,
@@ -185,7 +185,7 @@ contentful:
         id: 6MjjzjwufSQ6QqMqwweiaE
         created_at: !ruby/object:DateTime 2016-07-27 07:45:14.829000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:14.829000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6u3Ewi14cgUU28MWOQ0WMI
@@ -201,7 +201,7 @@ contentful:
         id: 4pyURXLHpYAWm8m882EKqw
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.737000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:30:49.386000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: 'Angola: featured site, chapter 6'
       body: The question of who made the engravings or paintings is another complex
@@ -218,7 +218,7 @@ contentful:
         id: txWp29xSGOSkuqgOYgeSi
         created_at: !ruby/object:DateTime 2016-07-27 07:45:30.621000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:59:36.553000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Caema Fernandes, J. B. (2014):  'As pinturas do abrigo do Tchitundu-Hulu
         Mucai. Um contributo para o conhecimento da arte rupestre da região.' Unpublished
         Masters dissertation \nInstituto Politécnico de Tomar – Universidade de Trás-os-Montes
@@ -243,7 +243,7 @@ contentful:
       id: 2onItF5XAo8ka8YWUsIAsu
       created_at: !ruby/object:DateTime 2016-07-27 07:45:24.354000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:24.354000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Angola: Key Facts'
     image_count: '26'
     date_range: 1,000 BC BC to 17th century AD
@@ -255,14 +255,14 @@ contentful:
       id: 3FI9toCf966mwqGkewwm62
       created_at: !ruby/object:DateTime 2016-07-27 07:44:28.009000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:44:28.009000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Angola: country introduction'
     chapters:
     - sys:
         id: 4c7LrgmhRm6oEIsmKMyICO
         created_at: !ruby/object:DateTime 2016-07-27 07:45:13.048000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:10:43.664000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Angola: country, chapter 1'
       body: 'Angola is a country located in the south-west of Africa, stretching from
@@ -277,7 +277,7 @@ contentful:
         id: 6d4OdBQujeqc8gYMAUaQ8
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.855000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:43:02.760000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3fc97FP7N6Q4qaYY82yMee
@@ -293,7 +293,7 @@ contentful:
         id: 1LCP4wqQiYI4wSiSqsagwK
         created_at: !ruby/object:DateTime 2016-07-27 07:45:12.894000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.894000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and rock art distribution
       title_internal: 'Angola: country, chapter 2'
       body: Angola has a variety of climates.  The flat coastal plain ranges between
@@ -311,7 +311,7 @@ contentful:
         id: 4hwTXZMXe00gwO6uoyKY0Y
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.770000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:43:30.163000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2EhlaF5U6Qui8SueE66KUO
@@ -327,7 +327,7 @@ contentful:
         id: 6oDRzpZCTe0cioMMk0WmGs
         created_at: !ruby/object:DateTime 2016-07-27 07:45:12.825000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 10:00:25.820000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: 'Angola: country, chapter 3'
       body: 'Rock art in Angola is primarily located in the coastal region, from north
@@ -342,7 +342,7 @@ contentful:
         id: 48podTUsCQm2Aai0M2CkqY
         created_at: !ruby/object:DateTime 2016-07-27 07:45:12.824000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:35:38.140000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'Angola: country, chapter 4'
       body: 'Although there are some references in Portuguese chronicles from the
@@ -361,7 +361,7 @@ contentful:
         id: 19eEn5GF9e0Yqk4yYmoqKg
         created_at: !ruby/object:DateTime 2016-07-27 07:45:12.784000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:15:17.457000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: 'Themes '
       title_internal: 'Angola: country, chapter 5'
       body: 'The rock art in Angola has a wide variety of styles and themes, depending
@@ -385,7 +385,7 @@ contentful:
         id: avBmltKXBKIac040I4im4
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.027000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:13:04.815000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6JWgcpb6JUq0yCegs4MsGc
@@ -402,7 +402,7 @@ contentful:
         id: 2I6ljlCWZyAmqm8Gq402IE
         created_at: !ruby/object:DateTime 2016-07-27 07:45:12.760000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:16:27.004000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: " Chronology"
       title_internal: 'Angola: country, chapter 6'
       body: 'As is so often the case with rock art, the dating of images is complex
@@ -425,7 +425,7 @@ contentful:
         id: 1oBOeAZi0QEmAsekMIgq88
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.908000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:13:19.855000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 40lIKwvi8gwo4ckmuKguYk
@@ -442,7 +442,7 @@ contentful:
         id: 6qVsC6snf24G0ImyC6yGY8
         created_at: !ruby/object:DateTime 2016-07-27 07:45:30.575000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 10:00:54.672000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Clark, J.  Desmond & Zinderen Bakker, E.  M.  van, 1963. *Prehistoric
         cultures of northeast Angola and their significance in tropical Africa*.  Companhia
         de Diamantes de Angola, Lisboa, Servicos Culturais \n\nGutierrez, M. 1996.

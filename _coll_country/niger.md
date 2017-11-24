@@ -5,7 +5,7 @@ contentful:
     id: 3GPYEG1KyQ4icW4yy46Y0G
     created_at: !ruby/object:DateTime 2015-11-26 18:53:05.784000000 Z
     updated_at: !ruby/object:DateTime 2017-11-21 09:51:04.892000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Niger
   slug: niger
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=13131
@@ -31,7 +31,7 @@ contentful:
       id: 3iEbGKCOjuqgaMOGUQiQuS
       created_at: !ruby/object:DateTime 2015-11-25 15:50:42.860000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:52:09.605000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Dabous, Niger
     slug: dabous
     chapters:
@@ -39,7 +39,7 @@ contentful:
         id: 5j5MjrxkwgewSk0EAgqMkS
         created_at: !ruby/object:DateTime 2015-11-25 15:44:58.105000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:44:58.105000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 1'
       body: Dabous is located in north-eastern Niger, where the Ténéré desert meets
         the slopes of the Aïr Mountains. The area has been part of the trans-Saharan
@@ -51,7 +51,7 @@ contentful:
         id: 5Tp7co5fdCUIi68CyKGm8o
         created_at: !ruby/object:DateTime 2015-11-25 15:38:46.775000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:38:46.775000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 56TaQ0UFBK8sEE4GWaQOcw
@@ -67,7 +67,7 @@ contentful:
         id: 59s9c4KH8skCgKkQMaWymw
         created_at: !ruby/object:DateTime 2015-11-25 15:45:19.771000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:45:19.771000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 2'
       body: |-
         Recorded in 1987 by French archaeologist Christian Dupuy, two remarkable life-size engravings of giraffe have generated much interest due to the size, realism and technique of the depictions. The two giraffe, thought to be one large male in front of a smaller female, were engraved on the weathered surface of a sandstone outcrop. The larger giraffe measures 5.4 m from top to toe and combines several techniques of production, including scraping, smoothing and deep engraving of the outlines.
@@ -77,7 +77,7 @@ contentful:
         id: 5ZK8nNmuzKa66KOEqquoqI
         created_at: !ruby/object:DateTime 2015-11-25 15:39:28.089000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:39:28.089000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6Y2u961dcWISC2E2CK62KS
@@ -93,7 +93,7 @@ contentful:
         id: ZKn6IIxaoeiw68c444iAM
         created_at: !ruby/object:DateTime 2015-11-25 15:40:08.118000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:40:08.118000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: n2nHWRqjXE0qkaEqCWK6Y
@@ -109,7 +109,7 @@ contentful:
         id: 1oNgYDPKxuquY6U6gsKY62
         created_at: !ruby/object:DateTime 2015-11-25 15:45:53.655000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:45:53.655000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 3'
       body: |-
         The engravings cannot be seen from ground level; they are only visible by climbing onto the boulder. They are thought to date from between 6,000 and 8,000 years ago – a period known as the Neolithic Subpluvial, when environmental conditions were much wetter and the Sahara was a vast savannah stretching for thousands of miles, able to sustain large mammals such as giraffe. The soft sandstone is likely to have been incised using a harder material such as flint; there are chisels of petrified wood in the surrounding desert sands which would have acted as good tools for abrading and polishing outlines. It is easy to imagine people in the past sitting on the rocky outcrop watching these long-necked, graceful animals and immortalising them in stone for future generations.
@@ -119,7 +119,7 @@ contentful:
         id: 3Xlo7BIZzy2umQ2Ac6M2QI
         created_at: !ruby/object:DateTime 2015-11-25 15:40:37.408000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:40:37.408000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4yEY9exQaswSA6k6Gu02c6
@@ -135,7 +135,7 @@ contentful:
         id: 2tsfZzpTFWoYacAQioAyQ0
         created_at: !ruby/object:DateTime 2015-11-25 15:46:12.778000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:46:12.778000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 4'
       body: |-
         While the giraffe have taken centre stage at this site because of their size and the skill of the execution, a systematic study of the area has identified 828 further engravings, including 704 zoomorphs (animal forms), 61 anthropomorphs (human forms), and 17 inscriptions of Tifinâgh script. The animals identified include: bovines (cattle ) (46%), ostrich (16%), antelope and gazelle (16%), giraffe (16%), and finally 12 dromedaries (camels), 11 canids (dog-like mammals), 6 rhinoceros, 3 equids (horses or donkeys), 2 monkeys, 2 elephants, and 1 lion.
@@ -145,7 +145,7 @@ contentful:
         id: gku8mXGHUA06KW8YGgU64
         created_at: !ruby/object:DateTime 2015-11-25 15:41:06.708000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:41:06.708000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5Lzyd3mFTUII2MEkgQ0ki2
@@ -161,7 +161,7 @@ contentful:
         id: dSvovYGs3C6YsimmmIEeA
         created_at: !ruby/object:DateTime 2015-11-25 15:46:46.760000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:46:46.760000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 5'
       body: Gobero is located at the western tip of the Ténéré desert in Niger, approximately
         150 km south-east of the Aïr Mountains. Situated on the edge of a paleaolake
@@ -175,7 +175,7 @@ contentful:
         id: 2bxmGW0ideQSs4esWCUCka
         created_at: !ruby/object:DateTime 2015-11-25 15:41:32.700000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:41:32.700000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 24rwZWG7UA02KCgcKeaOQS
@@ -191,7 +191,7 @@ contentful:
         id: 58NIyuAAcwEMy8WCsoIEwO
         created_at: !ruby/object:DateTime 2015-11-25 15:47:13.849000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:47:13.849000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 6'
       body: This cultural group were largely sedentary; their subsistence economy
         was based on fishing (Nile perch, catfish, soft-shell turtles) and hunting
@@ -207,7 +207,7 @@ contentful:
         id: 4M6x7TPSB2g20UC6ck0ism
         created_at: !ruby/object:DateTime 2015-11-25 15:41:59.887000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:08:32.539000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6HNDioOx44CMaGCccQQE2G
@@ -223,7 +223,7 @@ contentful:
         id: 1jPJvNv7dcciOCCiiUugQq
         created_at: !ruby/object:DateTime 2015-11-25 15:47:33.801000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:47:33.801000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 7'
       body: Unfortunately, the engravings have been subject to deterioration as a
         result of human intervention such as trampling, graffiti and fragments being
@@ -237,7 +237,7 @@ contentful:
         id: 2MlmKLhdHq6SQyiU0IyIww
         created_at: !ruby/object:DateTime 2015-11-25 15:48:27.320000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:48:27.320000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: featured site, chapter 8'
       body: In 2000, the giraffe engravings at Dabous were declared one of the 100
         Most Endangered Sites by the [World Monuments Watch](https://www.wmf.org/).
@@ -248,7 +248,7 @@ contentful:
         id: 5IQzdbUWHemE6WCkUUeQwi
         created_at: !ruby/object:DateTime 2015-11-25 15:43:52.331000000 Z
         updated_at: !ruby/object:DateTime 2015-12-08 18:25:23.674000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |+
         Dupuy Christian. ‘Réflexions sur l'identité des guerriers représentés dans les gravures de l'Adrar des Iforas et de l'Aïr’ in *Sahara*, 10, pp.31-54
 
@@ -276,7 +276,7 @@ contentful:
       id: 3GPdGGuBuU4oiKwq6GGsqk
       created_at: !ruby/object:DateTime 2015-11-26 10:50:06.558000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:50:06.558000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Niger: key facts'
     image_count: 2,439 images
     date_range: Mostly 10,000BC – AD 100
@@ -288,7 +288,7 @@ contentful:
       id: bl0Xb7b67YkI4CMCwGwgy
       created_at: !ruby/object:DateTime 2015-11-27 11:40:20.548000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:41:57.403000000 Z
-      content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+      content_type_id: thematic
     title: The art of the warrior
     slug: the-art-of-the-warrior
     lead_image:
@@ -304,7 +304,7 @@ contentful:
         id: 2YeH0ki7Pq08iGWoyeI2SY
         created_at: !ruby/object:DateTime 2015-11-27 12:04:20.772000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:29:10.545000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 1'
       body: |
         Historically, much of the rock art from across northern Africa has been classified according to a particular style or ‘school’ of depictions. One such category of images, known as the Libyan Warrior School or Libyan Warrior style is found predominantly in Niger. Typically, this style
@@ -316,7 +316,7 @@ contentful:
         id: 3TQXxJGkAgOkCuQeq4eEEs
         created_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2HdsFc1kI0ogGEmGWi82Ci
@@ -332,7 +332,7 @@ contentful:
         id: IENFM2XWMKmW02sWeYkaI
         created_at: !ruby/object:DateTime 2015-11-27 12:05:01.774000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:30:21.015000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 2'
       body: |
         Libyan Warrior figures are almost exclusively located in the Aïr Mountains of Niger although can also be found in the Adrar des Iforas, north-east Mali extending into Algeria.  Defining the Libyan Warrior Period chronologically is a challenge and dates are fairly fluid; the earliest dates suggested start from 5,200 years ago; it certainly coincides with the Horse period between 3,000-2,000 years ago but has also been proposed to continue throughout the Camel Period, from 2,000 years ago to present.
@@ -342,7 +342,7 @@ contentful:
         id: 1vwQrEx1gA2USS0uSUEO8u
         created_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 69ZiYmRsreOiIUUEiCuMS6
@@ -358,7 +358,7 @@ contentful:
         id: 13aC6FIWtQAauy2SYC6CQu
         created_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 3'
       body: However, for the majority of figures their posture is remarkably similar
         even though objects of material culture and the types of garments they wear
@@ -376,7 +376,7 @@ contentful:
         id: 35mGQZhFio6a6Qs0Sm8Kec
         created_at: !ruby/object:DateTime 2015-11-25 17:27:34.827000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 16:24:34.980000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5UjAbnAcE0A0gAmCQmKkyU
@@ -392,7 +392,7 @@ contentful:
         id: 4thny4IiHKW66c2sGySMqE
         created_at: !ruby/object:DateTime 2015-11-25 17:28:05.405000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:31:49.083000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4Mq2eZY2bKogMqoCmu6gmW
@@ -408,7 +408,7 @@ contentful:
         id: 1D7OVEK1eouQAsg6e6esS4
         created_at: !ruby/object:DateTime 2015-11-27 12:05:50.702000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:36:43.690000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 4'
       body: A criticism of Saharan rock art research, in comparison to that which
         has focused on other parts of Africa, is an under-theorisation of how the
@@ -424,7 +424,7 @@ contentful:
         id: 6GvLgKrVXaSIQaAMECeE2m
         created_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 18c47Fe9jeoIi4CouE8Eya
@@ -440,7 +440,7 @@ contentful:
         id: 4wQK9fpysE0GEaGYOEocws
         created_at: !ruby/object:DateTime 2015-11-27 12:06:27.167000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:41:04.031000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 5'
       body: "Such a comment suggests that local ethnographies might assist in an understanding
         of more recent rock art, that not all figures described as Libyan-Warrior
@@ -460,7 +460,7 @@ contentful:
         id: 2oNDIVZY2cY6y2ACUykYiW
         created_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2klydX5Lbm6sGIUO8cCuow
@@ -475,7 +475,7 @@ contentful:
         id: 3SOhBsJLQACesg4wogaksm
         created_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 6'
       body: "The Wodaabe have become particularly well-known in the West through visual
         anthropology, because of their emphasis on cultivating male personal beauty
@@ -503,7 +503,7 @@ contentful:
         id: 4AsNsHJ1n2USWMU68cIUko
         created_at: !ruby/object:DateTime 2015-11-27 11:46:03.474000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:12:29.767000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6QT0CdFAgoISmsuUk6u4OW
@@ -519,7 +519,7 @@ contentful:
         id: 5z7EqYMmFaI0Eom6AAgu6i
         created_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 10pBS62m3eugyAkY8iQYGs
@@ -535,7 +535,7 @@ contentful:
         id: 1UmQD1rR0IISqKmGe4UWYs
         created_at: !ruby/object:DateTime 2015-11-27 11:47:12.062000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:55:05.455000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5oL3JD0PbaEMMyu4mA0oGw
@@ -551,7 +551,7 @@ contentful:
         id: 45NYo7UU5ymOCYiqEYyQQO
         created_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 7'
       body: One of the recurring features of the Warrior engravings is the round discs
         that seem to be suspended from a figure’s arm or shoulder. Historically, these
@@ -561,7 +561,7 @@ contentful:
         id: 55JXs6mmfCoM6keQuwSeKA
         created_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3s0PrjlXlS2QwMKMk0giog
@@ -577,7 +577,7 @@ contentful:
         id: 2UL4zsEuwgekwI0ugSOSok
         created_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3XjtbP2JywoCw8Qm0O8iKo
@@ -593,7 +593,7 @@ contentful:
         id: 64MCgMHx60M8e0GSCaM2qm
         created_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 8'
       body: However, others may represent shoulder bags or flat baskets which are
         used as vessel covers or food trays; both of which are vital items in a nomadic
@@ -606,7 +606,7 @@ contentful:
         id: 78Ks1B0PPUA8YIm0ugMkQK
         created_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5SDdxljduwuQggsuWcYUCA
@@ -624,7 +624,7 @@ contentful:
         id: 5nvXXoq4Baa0IwOmMSiUkI
         created_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 9'
       body: Engraved figures are often depicted with geometric patterning across their
         torso which may reflect traditional garments. This armless Wodaabe vest is
@@ -634,7 +634,7 @@ contentful:
         id: 1Huul8DwMcACSECuGoASE2
         created_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1PmWIHnxq0cAESkGiiWCkK
@@ -648,7 +648,7 @@ contentful:
         id: GT1E1E6FMc04CaQQUEuG6
         created_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: lz2F9O4kSWoi2g68csckA
@@ -663,7 +663,7 @@ contentful:
         id: MH7tazL1u0ocyy6ysc8ci
         created_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 10'
       body: |-
         There is also a consensus within Wodaabe society about beauty and ugliness; what makes something beautiful or indeed ugly generally is agreed upon, there is a commonality of taste. This may account for the paradox of why there is individuality within a corpus of images that inherently are comparable (Bovin,2001:16).
@@ -673,7 +673,7 @@ contentful:
         id: 5f7LkndYMoCiE0C6cYI642
         created_at: !ruby/object:DateTime 2015-11-27 12:02:44.521000000 Z
         updated_at: !ruby/object:DateTime 2015-12-08 17:01:56.918000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4S1bl6LKUEKg0mMiQMoS2i
@@ -688,7 +688,7 @@ contentful:
         id: 2s5eLxURwgEKUGYiCc62MM
         created_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3as8UfaNIk22iQwu2uccsO
@@ -704,7 +704,7 @@ contentful:
         id: 4c37ixkB72GaCAkSYwGmSI
         created_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 11'
       body: This brief review was motivated, in part, by the underlying problems inherent
         in the categorisation of visual culture. Historically assigned classifications
@@ -722,7 +722,7 @@ contentful:
         id: 2YpbTzVtq8og44KCIYKySK
         created_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |
         Bovin, Mette. 2001. *Nomads Who Cultivate Beauty*. Uppsala: Nordiska  Afrikainstitutet
 
@@ -751,14 +751,14 @@ contentful:
       id: 3dMpIo4d4cQa2OI4me2ACQ
       created_at: !ruby/object:DateTime 2015-11-26 11:15:52.509000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:55:14.724000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Niger: country introduction'
     chapters:
     - sys:
         id: 1edWsVTqzcciiIAUaqYoG
         created_at: !ruby/object:DateTime 2015-11-26 11:03:04.104000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:49:15.950000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Niger: country, chapter 1'
       body: Niger is geographically diverse, having both the Sahel (savannah) and
@@ -777,7 +777,7 @@ contentful:
         id: 1E25PiKMde8CE8MgQIukKK
         created_at: !ruby/object:DateTime 2015-11-26 10:55:02.416000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:55:02.416000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2FAYj7hG88aQ0Quq6Wc6gE
@@ -793,7 +793,7 @@ contentful:
         id: 1WQHiGltOAqm4oAc46YAme
         created_at: !ruby/object:DateTime 2015-11-26 11:03:35.303000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:03:35.303000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 2'
       body: Links have been made between the rock art of Niger and that of several
         other countries – in particular, between the so-called Libyan Warrior art
@@ -807,7 +807,7 @@ contentful:
         id: 5bPNREZcAMsO8SuecSaoQy
         created_at: !ruby/object:DateTime 2015-11-26 10:55:34.135000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:55:34.135000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4h5Sa7Ex2M2aEa8YSGW6iU
@@ -823,7 +823,7 @@ contentful:
         id: 3OeKLV88XSow8C0iOKcqIg
         created_at: !ruby/object:DateTime 2015-11-26 11:04:29.851000000 Z
         updated_at: !ruby/object:DateTime 2015-12-07 17:12:48.554000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and rock art distribution
       title_internal: 'Niger: country, chapter 3'
       body: "Covering an area of 1.267 million km², this landlocked country borders
@@ -841,14 +841,14 @@ contentful:
         id: 516un196R2QI8MKOSMA6mW
         created_at: !ruby/object:DateTime 2015-12-07 17:13:15.478000000 Z
         updated_at: !ruby/object:DateTime 2015-12-07 17:13:15.478000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: Sub heading 1
       body: '__Aïr Mountains (northern Niger)__ '
     - sys:
         id: 57o3riQZdC2CE4IOSgoOke
         created_at: !ruby/object:DateTime 2015-11-26 10:56:09.992000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:56:09.992000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6wKZcUGktaAG0IYOagAIQ4
@@ -864,7 +864,7 @@ contentful:
         id: 5p9XKG2DjakmUkWuq6AuIK
         created_at: !ruby/object:DateTime 2015-11-26 11:05:00.923000000 Z
         updated_at: !ruby/object:DateTime 2015-12-08 14:54:12.049000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 4'
       body: Consisting predominantly of engravings, the majority of depictions in
         this region fall within the so-called Libyan Warrior period or style of art,
@@ -882,14 +882,14 @@ contentful:
         id: 61yqtntiEMEgWW8iAAa4Ao
         created_at: !ruby/object:DateTime 2015-12-08 14:54:32.334000000 Z
         updated_at: !ruby/object:DateTime 2015-12-08 14:54:48.031000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: Sub heading 2
       body: __Djado Plateau__
     - sys:
         id: Kjmi6uh5U2aGEuI0ggoEw
         created_at: !ruby/object:DateTime 2015-11-26 10:56:33.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:56:33.929000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6yxgQFojbUcOUSwyaWwEMC
@@ -905,7 +905,7 @@ contentful:
         id: olpDz3t6DeY0qgiiCeIq
         created_at: !ruby/object:DateTime 2015-11-26 11:05:22.441000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:05:22.441000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 5'
       body: Here, both paintings and engravings occur. The earliest engravings include
         images of wild animals such as elephants, rhinoceros, giraffe and other game,
@@ -917,7 +917,7 @@ contentful:
         id: 5F6G6OVWSI4UOWmaq0ocqS
         created_at: !ruby/object:DateTime 2015-11-26 10:57:18.063000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:57:18.063000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2ANvzNqFfiKkMWAAsWCWKQ
@@ -933,7 +933,7 @@ contentful:
         id: 3qTgmBHVQc48E4WUuQgkGM
         created_at: !ruby/object:DateTime 2015-11-26 11:05:56.545000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:05:56.545000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 6'
       body: The number of cattle depictions is small, but particular images of calves
         attached to a lead can be compared stylistically with images of cattle in
@@ -949,7 +949,7 @@ contentful:
         id: dGrDTSq3Xqm06eis6sUkU
         created_at: !ruby/object:DateTime 2015-11-26 11:06:48.293000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:06:48.293000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: History of rock art discovery in Niger
       title_internal: 'Niger: country, chapter 7'
       body: Until relatively recently rock art research has been sporadic in Niger.
@@ -972,7 +972,7 @@ contentful:
         id: 2dnMaAI1RyUiEgWiY8SEsS
         created_at: !ruby/object:DateTime 2015-11-26 10:57:51.550000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:57:51.550000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5OBSH7pvt6I6eOAc4OaqEG
@@ -988,7 +988,7 @@ contentful:
         id: 37Cl8z71uMqYsoeyqyOegs
         created_at: !ruby/object:DateTime 2015-11-26 11:07:24.753000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:07:24.753000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'Niger: country, chapter 8'
       body: 'The relative chronology for rock art in Niger can be based, as in other
@@ -997,7 +997,7 @@ contentful:
         id: uNjAW1yrkW6iyE0iqcsQy
         created_at: !ruby/object:DateTime 2015-11-26 10:58:19.111000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:51:42.139000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1vncvc4BCIG8ymWeS8c28q
@@ -1013,7 +1013,7 @@ contentful:
         id: 31SOSm8z04CU4MouUSUSQe
         created_at: !ruby/object:DateTime 2015-11-26 11:07:44.432000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:53:27.619000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 9'
       body: Early Hunter or Bubalus Period rock engravings are executed with deeply
         incised and smoothened lines, mainly depicting big game such as elephants,
@@ -1026,7 +1026,7 @@ contentful:
         id: 2HafBWCAcMOYykSgSywEK6
         created_at: !ruby/object:DateTime 2015-11-26 10:58:42.964000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:54:59.579000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2lW3L3iwz60ekeWsYKgOYC
@@ -1042,7 +1042,7 @@ contentful:
         id: 2lLu5BCrhuiWA0eOUSkQYo
         created_at: !ruby/object:DateTime 2015-11-26 11:08:13.631000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:08:13.631000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 10'
       body: Although the Bovidian Period is sparsely represented in comparison to
         other rock art regions, both on the Djado Plateau and the Aïr Mountains, this
@@ -1054,7 +1054,7 @@ contentful:
         id: 6JJPeizRe0WiQIc2yOEaIY
         created_at: !ruby/object:DateTime 2015-11-26 10:59:13.005000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:03:18.580000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3nBXTYYPN6ucuaImm24iuG
@@ -1070,7 +1070,7 @@ contentful:
         id: 6lPfzlhbskGkAcU6eiEuIQ
         created_at: !ruby/object:DateTime 2015-11-26 11:08:30.254000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:08:30.254000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 11'
       body: Engravings in the Tazina style are found on the Djado Plateau and have
         been likened to those in south-eastern Morocco. While dates in Niger are not
@@ -1080,7 +1080,7 @@ contentful:
         id: 5cO6JFSdgQgQMIK8egwYwA
         created_at: !ruby/object:DateTime 2015-11-26 10:59:45.306000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:04:32.984000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2wvcOF7LOQa6iEsWyQOUQi
@@ -1096,7 +1096,7 @@ contentful:
         id: 5s0XmNAWWIwwQ2m8q88AWe
         created_at: !ruby/object:DateTime 2015-11-26 11:00:12.745000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:05:53.718000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4fSRLSsTP2MCiquKAEsmkQ
@@ -1112,7 +1112,7 @@ contentful:
         id: 5lN8CVda2AG6QAaeyI20O8
         created_at: !ruby/object:DateTime 2015-11-26 11:08:51.981000000 Z
         updated_at: !ruby/object:DateTime 2015-12-08 14:57:22.081000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 12'
       body: Consisting predominantly of rock engravings and found in the Aïr Mountains,
         the Horse Period and Libyan Warrior Period date from around 3,000–1,500 years
@@ -1129,7 +1129,7 @@ contentful:
         id: IVnNUsnIeAcAiM42imyI4
         created_at: !ruby/object:DateTime 2015-11-26 11:00:38.006000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:06:56.071000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2bO7Zt5qJ6UI088i422mMe
@@ -1145,7 +1145,7 @@ contentful:
         id: ZjY1WlFDm8uM2oycKygUa
         created_at: !ruby/object:DateTime 2015-11-26 11:09:10.217000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:09:10.217000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Niger: country, chapter 13'
       body: A small number of engravings from the Camel Period occur on the Djado
         Plateau, but as camels were introduced to the Sahara up to 2,000 years ago,
@@ -1156,7 +1156,7 @@ contentful:
         id: 23N5waXqbei8UswAuiGa8g
         created_at: !ruby/object:DateTime 2015-11-26 11:02:17.186000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 11:02:17.186000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |-
         Coulson, David. ‘Sub-zone 3: Niger’, in *Rock art of Sahara and North Africa: Thematic study*. [ICOMOS](http://www.icomos.org/en/116-english-categories/resources/publications/222-rock-art-of-sahara-and-north-africa-thematic-study).
 

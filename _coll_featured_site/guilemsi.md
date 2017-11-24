@@ -5,7 +5,7 @@ contentful:
     id: QsOItel9sWUGymKiQe8QC
     created_at: !ruby/object:DateTime 2015-11-25 16:34:24.351000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 14:43:50.662000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Guilemsi, Mauritania
   slug: guilemsi
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 3PyEd6v57yqOQ4GyumkyG8
       created_at: !ruby/object:DateTime 2015-11-25 16:28:56.057000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:28:56.057000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 1'
     body: A significant concentration of rock art in Mauritania is in the region of
       Guilemsi, an 11-km long ridge, about 70 m high at its highest point. Guilemsi
@@ -28,7 +28,7 @@ contentful:
       id: 68H1B3nwreqsiWmGqa488G
       created_at: !ruby/object:DateTime 2015-11-25 16:21:40.277000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:21:40.277000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1uRo8OtMas0sE0uiOUSIok
@@ -44,7 +44,7 @@ contentful:
       id: 6MRt7S2BckWkaGcGW4iEMY
       created_at: !ruby/object:DateTime 2015-11-25 16:29:11.911000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:29:11.911000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 2'
     body: There are many stone constructions at Guilemsi that have been known to archaeologists
       for decades, although they have not received the academic attention that those
@@ -60,7 +60,7 @@ contentful:
       id: 2uYbn8i2oQQEcu4gMYyKCQ
       created_at: !ruby/object:DateTime 2015-11-25 16:22:17.768000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:46:44.250000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5MkqJUXrj2o4e8SmweeoW2
@@ -76,7 +76,7 @@ contentful:
       id: 1CiJq8i5liqkImaM4mEWe
       created_at: !ruby/object:DateTime 2015-11-25 16:29:28.225000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:29:28.226000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 3'
     body: The Tichitt Tradition is characterised by dry stonewall remains, and these
       are found at Guilemsi, although the extent of the connection with the Tichitt
@@ -89,7 +89,7 @@ contentful:
       id: 1blgrBPnEoSKqeCASmUgGI
       created_at: !ruby/object:DateTime 2015-11-25 16:22:58.090000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:22:58.090000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 7yy2sbn6PCoeuqyQOAgcA8
@@ -105,7 +105,7 @@ contentful:
       id: 2d8TB564qE4E6yw6I0MG2A
       created_at: !ruby/object:DateTime 2015-11-25 16:29:44.594000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:29:44.594000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 4'
     body: The rock art at Guilemsi appears to be all painted, which marks a contrast
       to Tichitt sites which more often feature engraved rock art. The only non-painted
@@ -119,7 +119,7 @@ contentful:
       id: 1pP6kJroQ4C2CYAim6KGQy
       created_at: !ruby/object:DateTime 2015-11-25 16:23:33.025000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:23:33.025000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6uIYZ0iOROas4Uqo4u4UyW
@@ -135,7 +135,7 @@ contentful:
       id: 3exPT8hfMAQ2SUIeGqKgSU
       created_at: !ruby/object:DateTime 2015-11-25 16:24:09.355000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:24:09.355000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2QrzxNR1jq4w8EO2KEUUoE
@@ -150,7 +150,7 @@ contentful:
       id: 3Q3fT8FApyQooa8cikOkiU
       created_at: !ruby/object:DateTime 2015-11-25 16:30:05.118000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:30:05.118000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 5'
     body: 'Cattle, perhaps the most common animal subject in Mauritanian rock art,
       are also depicted here, notably in another singular scene: one of an otherwise
@@ -166,7 +166,7 @@ contentful:
       id: 2WJOpXkkG4C4sce8wkcE4U
       created_at: !ruby/object:DateTime 2015-11-25 16:24:46.144000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:24:46.144000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 32ojd6nNewwy8qSU0kuYYk
@@ -182,7 +182,7 @@ contentful:
       id: Z2iJHm63qoW8e8wsAqCAK
       created_at: !ruby/object:DateTime 2015-11-25 16:25:17.499000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:25:17.499000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3Z70aGhdUsOCKyWyK6u8eE
@@ -198,7 +198,7 @@ contentful:
       id: 56Ia1KTWDKwuw0ekagww6K
       created_at: !ruby/object:DateTime 2015-11-25 16:30:23.129000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:30:23.129000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 6'
     body: 'Two of the most impressive panels of paintings from Guilemsi involve not
       cattle but another important domesticate: ridden horses. There is evidence of
@@ -219,7 +219,7 @@ contentful:
       id: 6mPD0Om12wAcaOmOiaumYk
       created_at: !ruby/object:DateTime 2015-11-25 16:25:53.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:25:53.929000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2CFj8amCm8aMkkmQ0emk0o
@@ -235,7 +235,7 @@ contentful:
       id: 2da6EUC7TC6wSWGAOwQaAO
       created_at: !ruby/object:DateTime 2015-11-25 16:26:22.515000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:26:22.515000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 58CHInxW4wagKgwCAsWcqY
@@ -251,7 +251,7 @@ contentful:
       id: 4UfKI7DmWA4A4eqocC0iMG
       created_at: !ruby/object:DateTime 2015-11-25 16:26:54.429000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:26:54.429000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3nZtTK8uIEc2MqGAqQC8c6
@@ -268,7 +268,7 @@ contentful:
       id: 16gHbuP8Hqo4KwCQK0sWeI
       created_at: !ruby/object:DateTime 2015-11-25 16:30:45.101000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:30:45.101000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 7'
     body: Another very interesting tableau is that in Fig. 11, which is to the right
       of the panel in Fig. 9, but in executed in a very different style. It appears
@@ -282,7 +282,7 @@ contentful:
       id: 60nybfnB4cmoOaIQq8sWkC
       created_at: !ruby/object:DateTime 2015-11-25 16:27:25.377000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:27:25.377000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1EGPJpRMnmuk6Y6c0Qigos
@@ -299,7 +299,7 @@ contentful:
       id: 41eYfH850QI2GswScg6uE8
       created_at: !ruby/object:DateTime 2015-11-25 16:31:05.524000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:31:05.524000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: featured site, chapter 8'
     body: |-
       It has been suggested that the painting of the horse scenes, in line with similar images from other rock art traditions, may be a cathartic spiritual exercise made, possibly by victims of raids, in response to violent intercultural contact. However as with the other images, without an accurate way of scientifically dating such paintings, it is hard to know exactly when they were painted and therefore difficult to propose of or by whom, much less ascribe motivations. Stone tools and the remains of iron smelting activity at Guilemsi suggest successive occupations, possibly over a long period.
@@ -310,7 +310,7 @@ contentful:
       id: 1Y8dbSWSLaGs4Iyeq8COE
       created_at: !ruby/object:DateTime 2015-11-25 16:28:18.975000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:28:18.975000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Challis, W., Campbell, A., Coulson, D., & Keenan, J., *Funerary Monuments and Horse Paintings: A Preliminary Report on the Archaeology of a Site in the Tagant Region of South East Mauritania- Near Dhar Tichitt*. The journal of North African Studies, Vol. 10, No. 3-4, pp. 459-470
 

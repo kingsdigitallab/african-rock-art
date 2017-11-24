@@ -5,7 +5,7 @@ contentful:
     id: 2Rh3XLBCreIy6ms4cKYKIQ
     created_at: !ruby/object:DateTime 2017-08-13 13:52:18.110000000 Z
     updated_at: !ruby/object:DateTime 2017-08-13 13:55:09.227000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: Contact Rock Art in South Africa
   slug: contact-rock-art-south-africa
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 4cLakkCQWQUUYiceIaW6AG
       created_at: !ruby/object:DateTime 2017-07-24 11:26:46.253000000 Z
       updated_at: !ruby/object:DateTime 2017-07-24 11:26:46.253000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Contact Art: thematic, chapter 1'
     body: "The impact of colonisation in South Africa as a result of Dutch and English
@@ -39,7 +39,7 @@ contentful:
       id: 3rcFEUcVbqgqQ0mYUmgYYu
       created_at: !ruby/object:DateTime 2017-07-24 11:39:12.810000000 Z
       updated_at: !ruby/object:DateTime 2017-07-24 11:39:12.810000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: History of European contact
     title_internal: 'Contact Art: thematic, chapter 2'
     body: Throughout the 15th century, Portuguese mariners navigated the western coast
@@ -55,7 +55,7 @@ contentful:
       id: 32Q6z3T9aU6WAUkuaI4Ikm
       created_at: !ruby/object:DateTime 2017-07-24 11:52:30.862000000 Z
       updated_at: !ruby/object:DateTime 2017-07-24 11:52:30.862000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2qghLSE632AsMMC22MskiE
@@ -71,7 +71,7 @@ contentful:
       id: 3C150sXEbCMQ8QMcYKui4C
       created_at: !ruby/object:DateTime 2017-07-24 11:55:02.770000000 Z
       updated_at: !ruby/object:DateTime 2017-07-24 11:55:02.770000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 3'
     body: On 25 March 1647 the Dutch vessel, the *Nieuwe Haerlem*, was wrecked in
       a storm in Table Bay. Sixty crewman and a junior merchant named Janszen remained
@@ -91,7 +91,7 @@ contentful:
       id: 1ob9WoGxQIKok6gWwiAkEO
       created_at: !ruby/object:DateTime 2017-07-24 16:22:58.502000000 Z
       updated_at: !ruby/object:DateTime 2017-07-24 16:22:58.502000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6GsT2CqeHus8GqO2Uiq4IU
@@ -106,7 +106,7 @@ contentful:
       id: 6TiCFpLBHGUYCuOaOWoeYC
       created_at: !ruby/object:DateTime 2017-07-24 16:24:49.190000000 Z
       updated_at: !ruby/object:DateTime 2017-07-24 16:24:49.190000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 4'
     body: 'However, the expansion of the Dutch East India Company to the north and
       east of the Cape region resulted in the marginalisation of local populations.
@@ -122,7 +122,7 @@ contentful:
       id: 4nHgrO0wmQkaUGguQKeC2I
       created_at: !ruby/object:DateTime 2017-08-07 23:08:33.429000000 Z
       updated_at: !ruby/object:DateTime 2017-08-07 23:08:33.429000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Contact Rock Art
     title_internal: 'Contact Art: thematic, chapter 5'
     body: "*Porterville* \n\n150km north-east of Cape Town in the Skurweberg Mountains,
@@ -132,7 +132,7 @@ contentful:
       id: 1O1Wk9Grbie4EiikoiyySE
       created_at: !ruby/object:DateTime 2017-08-07 23:11:59.954000000 Z
       updated_at: !ruby/object:DateTime 2017-08-07 23:11:59.954000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6GqC6D7ckgwSoCCKEQqiEm
@@ -147,7 +147,7 @@ contentful:
       id: 3tat1UEvxSwg6swC0OmWs2
       created_at: !ruby/object:DateTime 2017-08-07 23:15:03.471000000 Z
       updated_at: !ruby/object:DateTime 2017-08-07 23:15:03.471000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 6'
     body: The detailed depiction of the vessel suggests that the artist was visually
       familiar with European ships. However, while three of the mast flags are pointing
@@ -165,7 +165,7 @@ contentful:
       id: qkyiaZ7KjmACgou0suywM
       created_at: !ruby/object:DateTime 2017-08-07 23:20:27.981000000 Z
       updated_at: !ruby/object:DateTime 2017-08-07 23:20:27.981000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 7'
     body: "*Attakwaskloof* \n\nIn an east-facing sandstone overhang just north of
       Mossel Bay on the Southern Cape coast, the black charcoal outline of a sailing
@@ -189,7 +189,7 @@ contentful:
       id: 5jp2LySdcAseIEcsy08Ssw
       created_at: !ruby/object:DateTime 2017-08-13 13:20:40.339000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:20:40.339000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4oNe9JTftSCaOcw2YMicQG
@@ -204,7 +204,7 @@ contentful:
       id: 3ZSiZ5Zly8YeAcWKOs0M6k
       created_at: !ruby/object:DateTime 2017-08-13 13:24:03.300000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:24:03.300000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 8'
     body: "It is difficult to know exactly who the artists were of this so-called
       ‘contact art’, but the images of ships are likely to have been made by Khoe
@@ -228,7 +228,7 @@ contentful:
       id: 6w7bPvqDzG4mmwKSkC2ua4
       created_at: !ruby/object:DateTime 2017-08-13 13:27:37.213000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:27:37.213000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6OFVBr3mUgqcwCi4oC0u6m
@@ -244,7 +244,7 @@ contentful:
       id: 1hLrFnRQlm6eEgeG2IMIcg
       created_at: !ruby/object:DateTime 2017-08-13 13:29:22.353000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:31:09.148000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 9'
     body: Horses and mules are prevalent, often depicted feeding at troughs, running
       free and harnessed pulling wagons (Hall and Mazel, 2005:131). Of the 340 images
@@ -268,7 +268,7 @@ contentful:
       id: 6Zo0yGAQ3mY8wqw8U60W2s
       created_at: !ruby/object:DateTime 2017-08-13 13:33:31.366000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:33:31.366000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4kZxlR0vCEkWaQIAQ8Coi0
@@ -284,7 +284,7 @@ contentful:
       id: 4v55jtTmQEoe2sCauwUisQ
       created_at: !ruby/object:DateTime 2017-08-13 13:35:21.270000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:35:21.270000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 10'
     body: |
       Many of the wagons depicted at Swatruggens are of a type known as the Spring Wagon or Spring Wagonette. Of South African design, these wagons were manufactured in large numbers in the last three decades of the 19th century in response to the demand for transport to the diamond mines in the north of the country (Hall and Mazel, 2005:138). As such, the wagons seen in the Swartruggens rock art are likely to have been painted from the 1870s onwards but before 1885 when the railroad reached the diamond region of Kimberley in the north.
@@ -294,7 +294,7 @@ contentful:
       id: 4vGr1ql4RGaKSy0SMWieS2
       created_at: !ruby/object:DateTime 2017-08-13 13:38:13.733000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:38:13.733000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Artists and Subjects
     title_internal: 'Contact Art: thematic, chapter 11'
     body: "The identity of the artists and their relationships with the figures depicted
@@ -317,7 +317,7 @@ contentful:
       id: 4HFYx1dTdm2GEQI4Q6WwqC
       created_at: !ruby/object:DateTime 2017-08-13 13:39:57.014000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:39:57.014000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: iW6ebYDzHycokicK8kWSW
@@ -333,7 +333,7 @@ contentful:
       id: 1IpPlvLRE42IYkcmayCUGq
       created_at: !ruby/object:DateTime 2017-08-13 13:41:20.696000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:41:20.696000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 12'
     body: However, this does not apply to other examples of contact rock art. Recent
       research has shown that some depictions in the Maloti-Drakensberg reveal a cultural
@@ -351,7 +351,7 @@ contentful:
       id: 7cu4xgoZhe48gOqI4iM2YS
       created_at: !ruby/object:DateTime 2017-08-13 13:45:28.447000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:45:28.447000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4CQrxTBqow4SimQQGc62yI
@@ -368,7 +368,7 @@ contentful:
       id: 6DhPevH8J222e6GEEkqU2A
       created_at: !ruby/object:DateTime 2017-08-13 13:47:17.176000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:47:17.176000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Contact Art: thematic, chapter 13'
     body: Moreover, as well as the adjacencies of European and local material culture,
       rock art depictions show that traditional belief systems were incorporated into
@@ -383,7 +383,7 @@ contentful:
       id: 6eZhwxCwyQoUQkuWyQsooi
       created_at: !ruby/object:DateTime 2017-08-13 13:48:10.406000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:48:10.406000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5bo9lWxyO4YiiySIKuUIOs
@@ -399,7 +399,7 @@ contentful:
       id: 227ir2Bipm8mmc2YKSMWkO
       created_at: !ruby/object:DateTime 2017-08-13 13:49:19.393000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:49:19.393000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Summary
     title_internal: 'Contact Art: thematic, chapter 14'
     body: Not simply a visual record of encounters and experiences, contact rock art
@@ -411,7 +411,7 @@ contentful:
       id: 7z28m7agdUckmmAUeEsoao
       created_at: !ruby/object:DateTime 2017-08-13 13:50:20.817000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:50:20.817000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Adjibolosoo, Senyo B-S. K. (2001)  Portraits of Human Behavior
       and Performance: The Human Factor in Action. Oxford and Maryland: University
       of America Press.\n\nChallis, S. (2012) ‘Creolisation on the Nineteenth-century

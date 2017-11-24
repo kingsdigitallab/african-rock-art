@@ -5,7 +5,7 @@ contentful:
     id: 2XOggE9Gxaew6iMMKS4E4U
     created_at: !ruby/object:DateTime 2016-09-12 15:15:32.469000000 Z
     updated_at: !ruby/object:DateTime 2016-09-13 13:35:15.580000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Game Pass Shelter, South Africa
   slug: gamepass
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 5WhcFBd6owA0UwoG6iOg4Y
       created_at: !ruby/object:DateTime 2016-09-12 15:12:00.222000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:34:42.735000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Game Pass Shelter, South Africa
     title_internal: 'South Africa: featured site, chapter 1'
     body: "Game Pass shelter is one of the most well-known rock art sites in South
@@ -31,7 +31,7 @@ contentful:
       id: 6mZ8n44JbyOIMKaQYKgm4k
       created_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: XICyV4qumymqa8eIqCOeS
@@ -47,7 +47,7 @@ contentful:
       id: 3xOl8hqio0E2wYYKIKomag
       created_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3cyElw8MaIS24gq8ioCcka
@@ -63,7 +63,7 @@ contentful:
       id: 3ilqDwqo80Uq6Q42SosqQK
       created_at: !ruby/object:DateTime 2016-09-12 15:12:59.726000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 16:15:24.700000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 2'
     body: The most prominent painting panel at Game Pass shows a series of carefully
       depicted eland antelope in delicately shaded red, brown and white pigment, largely
@@ -83,7 +83,7 @@ contentful:
       id: 3oYyhNlOdWu4oaoG0qUEGC
       created_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 777S5VQyBO0cMwKC0ayqKe
@@ -99,7 +99,7 @@ contentful:
       id: 3t21DyQhhu6KYE24yOuW6E
       created_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 3'
     body: The rock paintings from this site were first brought to public attention
       in a 1915 issue of Scientific American, and it has been frequently published
@@ -113,7 +113,7 @@ contentful:
       id: 8JKh5DFTLqMsaCQWAAA4c
       created_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2QyopQgIx2AAMU46gEM2Wg
@@ -129,7 +129,7 @@ contentful:
       id: 1l6QCXODlWoa6kmgWAgco2
       created_at: !ruby/object:DateTime 2016-09-12 15:13:55.229000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 16:42:50.171000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 4'
     body: "This idea was partly inspired by the testimony of Qing, a San|Bushman man
       who, in 1873, had guided the Colonial Administrator Joseph Millerd Orpen to
@@ -160,7 +160,7 @@ contentful:
       id: 4cmGHIbGFqOEqYWwyi0S2e
       created_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5qjFwYmXkca88mMcWSiGgc
@@ -174,7 +174,7 @@ contentful:
       id: 1VRoS6FN4ga60gcYImm6c2
       created_at: !ruby/object:DateTime 2016-09-12 15:14:20.350000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 16:47:30.231000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 5'
     body: |
       Despite the historical presence of other large game animals in the Drakensberg, the eland is the most commonly depicted animal in rock art of the region. Patricia Vinnicombe, noting this and the focus on other particular subjects in the imagery at the expense of others, proposed in her pioneering 1976 study of the rock art of the Southern Drakensberg *People of the Eland* that the paintings are “not a realistic reflection of the daily pursuits or environment of the Bushmen” (Vinnicombe 1976:347). Vinnicombe recalled that when, in the 1930s, an old Sotho man named Mapote, who had San|Bushman half-siblings and had used to paint with them, was requested to demonstrate, he had said that since the San|Bushmen had been “of the eland”, he should first depict an eland. Based on this and recountings of a myth about the creation and death of the first eland from Qing and other contemporary Southern San|Bushman people, Vinnicombe concluded that the eland, although regularly hunted by the Drakensberg San|Bushmen, had been a particularly sacred or powerful animal to them and that “Through the act of painting and re-painting the eland… the mental conflict involved in destroying a creature that was prized and loved by their deity…was…ritually symbolised and resolved” (Vinnicombe, 1976:350).
@@ -184,7 +184,7 @@ contentful:
       id: n044NT3TZAYwKSakkogoU
       created_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 60II5zuUne2A80682sYYs2
@@ -199,7 +199,7 @@ contentful:
       id: 5Lheod1OGAYUW4Goi6GAUo
       created_at: !ruby/object:DateTime 2016-09-12 15:14:46.323000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 16:49:04.072000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 6'
     body: "The shamanistic approach to interpreting San|Bushman rock art images, for
       which the Game Pass panel is sometimes referred to as the ‘Rosetta Stone’, gained
@@ -217,7 +217,7 @@ contentful:
       id: 4XwNgMsBPaQ06My8Qs4gKU
       created_at: !ruby/object:DateTime 2016-09-13 13:35:11.603000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:35:11.603000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'South Africa Featured Site Chapter 7 '
     body: "¹ San|Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -229,7 +229,7 @@ contentful:
       id: 3brqyMy1K0IC0KyOc8AYmE
       created_at: !ruby/object:DateTime 2016-09-12 15:14:59.720000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:14:59.720000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |
       Francis, Michael. 2009. 'Contested Histories: A Critique of Rock Art in the Drakens-berg Mountains' in Visual Anthropology 22:4, pp. 327 — 343
 

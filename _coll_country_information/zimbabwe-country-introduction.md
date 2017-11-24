@@ -5,14 +5,14 @@ contentful:
     id: 57nTuvCZRm2kQIWosYeEQq
     created_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
     updated_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Zimbabwe: country introduction'
   chapters:
   - sys:
       id: 7wG2jigwgw4cGsusgAeCGc
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction - Geography and rock art distribution
     title_internal: 'Zimbabwe: country, chapter 1'
     body: 'Zimbabwe is a landlocked country surrounded by Mozambique, Zambia, Botswana
@@ -30,7 +30,7 @@ contentful:
       id: 1vTYjbXbXuoWIu8Og2Ga6u
       created_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 40o6cuVD1mg0GcouA8Iaym
@@ -45,7 +45,7 @@ contentful:
       id: 2P8CUhzioUcQ2WQUCmy4eK
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.382000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 18:50:57.591000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: History of the research
     title_internal: 'Zimbabwe: country, chapter 2'
     body: 'Zimbabwean rock art was first reported by Europeans in 1927, when Miles
@@ -72,7 +72,7 @@ contentful:
       id: cUUCZ3TJ1mmO48egCGE2k
       created_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2fUMJJmhu0gAW4Kkoscw2i
@@ -87,7 +87,7 @@ contentful:
       id: 1GwWneVcV2OGekOmYsisAk
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Themes
     title_internal: 'Zimbabwe: country, chapter 3'
     body: The rock art of Zimbabwe is some of the richest in Africa both in variety
@@ -107,7 +107,7 @@ contentful:
       id: 7cZfHMXB84oouoceeswCUQ
       created_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 51wED0wl4cSWQAWcEqAKek
@@ -122,7 +122,7 @@ contentful:
       id: 2JiGtVlFnOqOUEqWcOyCms
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Zimbabwe: country, chapter 4'
     body: 'Along with human figures, animals are widely represented in Zimbabwean
       rock art, with kudu depictions dominating, but also with zebra, tsessebe and
@@ -141,7 +141,7 @@ contentful:
       id: 60AofQXYWsUsusmsKwaGyS
       created_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 37IO99TlpSsMKoCoOskwyO
@@ -156,7 +156,7 @@ contentful:
       id: 36YlRmgg8EIiueMgCamy6e
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Zimbabwe: country, chapter 5'
     body: 'Human figures and animals are accompanied by many geometric symbols, usually
       related to trance-like contexts and include dots, wavy lines or stripes. One
@@ -169,7 +169,7 @@ contentful:
       id: 5icNtVo3wWOg2EA62yK0gI
       created_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: nRXWoI9Gk8uy2go42GomE
@@ -184,7 +184,7 @@ contentful:
       id: 5RnaGufDxeImKGM0msMOs6
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.292000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 22:03:55.089000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Zimbabwe: country, chapter 6'
     body: |-
       Traditionally, the themes expressed in Zimbabwean rock art have been identified as the same as those of the San|Bushmen¹ from South Africa and in many cases are undoubtedly related, and provide key hints for their interpretation. However, there are also differences, such as the emphasis given to different animals, the higher presence of trees and plants in Zimbabwe or the smaller presence of trance scenes in the north compared to that of the Drakensberg. Moreover, the lack of ethnographic information for Zimbabwean paintings and their older chronology make it difficult to establish the same type of associations as those made for other areas with more direct connections rock art to known cultures, as happens in South Africa. Although in a minority, rock art of a later chronology can be attributed to Iron Age farmers, characterized by more schematic figures, usually white and painted thickly with the finger or the hand. As is the case in other areas in Central Africa, some of these later depictions are related to rain making and initiation ceremonies.
@@ -194,7 +194,7 @@ contentful:
       id: 62IspwBATCWA6aAe2Ymya8
       created_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4sy93JCmHKCso2muMWoOc0
@@ -209,7 +209,7 @@ contentful:
       id: 1ovLRkQ1IMUeuGQMoEaymO
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.470000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 19:02:39.778000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronology
     title_internal: 'Zimbabwe: country, chapter 6'
     body: "As with much rock art, the dating of Zimbabwe paintings is a challenging
@@ -228,7 +228,7 @@ contentful:
       id: 6j6wS0WtRmsKI20YK80AKC
       created_at: !ruby/object:DateTime 2016-09-12 11:59:48.982000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 12:00:17.005000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6J08sWPtfOs88AmM20u02u
@@ -244,7 +244,7 @@ contentful:
       id: MXZ2L6VLmU2KqsWqcqO2u
       created_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Garlake, Peter S. (1995): The hunter's vision: the prehistoric
       art of Zimbabwe. British Museum Press, London.\n\nGarlake, Peter S. (1987):
       The painted caves: an introduction to the prehistoric art of Zimbabwe. Modus

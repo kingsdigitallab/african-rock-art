@@ -5,14 +5,14 @@ contentful:
     id: 1LiwPCnyFKmciIOKysACI0
     created_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Tanzania: Country Introduction'
   chapters:
   - sys:
       id: 43gtar9Bd6iwSOOug8Ca2K
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.035000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 12:30:57.863000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: Tanzania Chapter 1
     body: Containing some of the densest concentrations of rock art in East Africa,
@@ -25,7 +25,7 @@ contentful:
       id: 3cunSLA63KsGEGIw0C8ki
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.825000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:37:31.932000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6jqxlKBK8ggSwAyOIWC2w
@@ -41,7 +41,7 @@ contentful:
       id: 3fuknu8MJiS2CEUo8c48Mm
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.738000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:44:49.657000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and Rock Art distribution
     title_internal: Tanzania Chapter 2
     body: |-
@@ -55,7 +55,7 @@ contentful:
       id: 5bWgTlQsXCq2OQC0Koa8OU
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.912000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:38:18.560000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5XVIPjHq7K4MiWIm6i6qEk
@@ -72,7 +72,7 @@ contentful:
       id: 2s5iBeDTAMk8Y2Awqc024i
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: History of rock art research in Tanzania
     title_internal: Tanzania Chapter 3
     body: 'The existence of painted rock art was first reported  to Europeans in 1908
@@ -95,7 +95,7 @@ contentful:
       id: MsqR1AiFOKQqiySkEIAwQ
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.806000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:41:21.774000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 28qJxjtSOoC6Aa2IgQk06q
@@ -111,7 +111,7 @@ contentful:
       id: i9BKWyIrJeYSQICcciYGC
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.691000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 12:32:37.897000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronologies
     title_internal: Tanzania Chapter 4
     body: "Scholars have classified the rock art in Tanzania into three main stylistic
@@ -139,7 +139,7 @@ contentful:
       id: 5yhqNSTj7USAE6224K28ce
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.089000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:41:54.311000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3fNBqZVcfK8k0Cgo4SsGs6
@@ -155,7 +155,7 @@ contentful:
       id: 7w5bbsaHIcGU8U4KyyQ8W6
       created_at: !ruby/object:DateTime 2016-07-27 07:45:17.860000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:45:13.087000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: Tanzania Chapter 5
     body: |2
 
@@ -164,7 +164,7 @@ contentful:
       id: QLuzPXhKqOmMSm0weqOGG
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.897000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:46:57.641000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3zoMrANvf2SgUmuAu2Wa4W
@@ -180,7 +180,7 @@ contentful:
       id: 55d7OVNn5YEii4KSYwE0wE
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.859000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:47:21.921000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4eRcBkspfOS2Ky4GE08qyC
@@ -196,7 +196,7 @@ contentful:
       id: 4OiTL2qHFeIEmGUE6OqUcA
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.827000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:45:27.688000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: Tanzania Chapter 6
     body: |
@@ -207,7 +207,7 @@ contentful:
       id: 59cgwuXiu4EyiwGuIog0Wi
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.760000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:47:47.628000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1BwSSd5li0MUw4c4QYyAKA
@@ -224,7 +224,7 @@ contentful:
       id: 4zC1ndduCQa8YUSqii26C6
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.874000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:45:36.649000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: Tanzania Chapter 7
     body: |
@@ -235,7 +235,7 @@ contentful:
       id: 4zIzfG4WDKe6SYSimcaEqg
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.886000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:49:16.769000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2iqeQFLDE06A8MW0UcUm2k
@@ -252,7 +252,7 @@ contentful:
       id: 5CTLCKcFag2yCMmCgoegE4
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.786000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 12:42:00.048000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Anati . E. (1996) ‘Cultural Patterns in the Rock Art of Central
       Tanzania.’ in *The Prehistory of Africa. XIII International Congress of Prehistoric
       and Protohistoric Sciences Forli-Italia-8/14* September 1996\n\nBwasiri, E.J

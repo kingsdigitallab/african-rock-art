@@ -5,14 +5,14 @@ contentful:
     id: 5XIlz0Mp6EQW0CaG4wYWoi
     created_at: !ruby/object:DateTime 2015-11-26 11:46:22.368000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:30.802000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Algeria: country introduction'
   chapters:
   - sys:
       id: 4oh7iTmoQ8WCE48sGCIkoG
       created_at: !ruby/object:DateTime 2015-11-26 11:37:15.701000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:37:15.701000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Algeria: country, chapter 1'
     body: Algeria is Africa’s largest country geographically and has long been noted
@@ -27,7 +27,7 @@ contentful:
       id: KLxWuWwCkMWSuoA44EU8k
       created_at: !ruby/object:DateTime 2015-11-26 11:30:21.587000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:40:49.293000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3bBZIG7wBWQe2s06S4w0gE
@@ -43,7 +43,7 @@ contentful:
       id: 5NCDKmpHVuime8uwqkKiMe
       created_at: !ruby/object:DateTime 2015-11-26 11:37:45.377000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:37:45.377000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography
     title_internal: 'Algeria: country, chapter 2'
     body: Algeria is situated in the Maghreb region of North Africa, bordered on the
@@ -60,7 +60,7 @@ contentful:
       id: 1miMC9tEW0AqawCsYOO0co
       created_at: !ruby/object:DateTime 2015-11-26 11:30:59.823000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:30:59.823000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6T7rsl4ISssocM8K0O0g2U
@@ -76,7 +76,7 @@ contentful:
       id: 6JVjGRQumAUaMIuMyOUwyM
       created_at: !ruby/object:DateTime 2015-11-26 11:42:31.967000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:42:31.967000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Algeria: country, chapter 3'
     body: |-
@@ -87,7 +87,7 @@ contentful:
       id: 6ljYMZr61ieuSkgCI2sUCs
       created_at: !ruby/object:DateTime 2015-11-26 11:31:39.981000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:31:39.981000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6TFwgxGXtYy6OgA02aKUCC
@@ -104,7 +104,7 @@ contentful:
       id: 6yYmsmTCWQS88mMakgAOyu
       created_at: !ruby/object:DateTime 2015-11-26 11:43:01.493000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:43:01.493000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Early rock art
     title_internal: 'Algeria: country, chapter 4'
     body: The earliest pieces of rock art are engraved images reflecting a past vibrant
@@ -118,7 +118,7 @@ contentful:
       id: 6ymgBr7UZiEeqcYIK8ESQw
       created_at: !ruby/object:DateTime 2015-11-26 11:32:15.331000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:41:43.326000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: faUxnSK2ookUW6UWyoCOa
@@ -133,7 +133,7 @@ contentful:
       id: 61Gb2N3umIC8cAAq2q8SWK
       created_at: !ruby/object:DateTime 2015-11-26 11:43:56.920000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:44:04.420000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Round Head Period
     title_internal: 'Algeria: country, chapter 5'
     body: The area is especially famous for its Round Head paintings. Thought to be
@@ -151,7 +151,7 @@ contentful:
       id: 14fYsLFiwaOeGqSscuI4eW
       created_at: !ruby/object:DateTime 2015-11-26 11:32:46.062000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:32:46.062000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 79I1hxTRDyYiqcMG02kgE8
@@ -167,7 +167,7 @@ contentful:
       id: 4SqZjJi0EoeEIKuywW8eqM
       created_at: !ruby/object:DateTime 2015-11-26 11:44:33.802000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:44:33.802000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Pastoral Period
     title_internal: 'Algeria: country, chapter 6'
     body: The subsequent Pastoral Period, from around 7,500-4,000 years ago, portrays
@@ -182,7 +182,7 @@ contentful:
       id: 3VIsvEgqPSMMumIgAaO8WG
       created_at: !ruby/object:DateTime 2015-11-26 11:33:24.713000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:33:24.713000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2E7xpiKWhe6YEOymWI4W2U
@@ -198,7 +198,7 @@ contentful:
       id: 40HLnbmrO8uqoewYai0IwM
       created_at: !ruby/object:DateTime 2015-11-26 11:44:57.711000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:44:57.711000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Horse Period
     title_internal: 'Algeria: country, chapter 7'
     body: |-
@@ -209,7 +209,7 @@ contentful:
       id: 19xQJunRyCWOOOMKScgcqA
       created_at: !ruby/object:DateTime 2015-11-26 11:34:00.220000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:34:00.220000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: czVoXzqkG4KUm2A4QcWUO
@@ -225,7 +225,7 @@ contentful:
       id: 46nmFnhwM8uuaWOwceYYku
       created_at: !ruby/object:DateTime 2015-11-26 11:45:24.076000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:45:24.076000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Camel Period
     title_internal: 'Algeria: country, chapter 8'
     body: The last defined period stylistically is characterised by the depiction
@@ -237,7 +237,7 @@ contentful:
       id: 22za3qNw1SqCCSMKiQ4ose
       created_at: !ruby/object:DateTime 2015-11-26 11:34:35.045000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:34:35.045000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2F8RnTvFpKGUaYYcaY2YUS
@@ -253,7 +253,7 @@ contentful:
       id: 6rWROpK4k8wIAwAY8aMKo6
       created_at: !ruby/object:DateTime 2015-11-26 11:35:36.510000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:35:36.510000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Muzzolini, A. 2001. *Saharan Africa* in (ed) David S. Whitley, Handbook of Rock Art Research, pp 605-636. AltaMira Press, Walnut Creek
 

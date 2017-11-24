@@ -5,7 +5,7 @@ contentful:
     id: 1MRBSR83yUwGoo8s4AKICk
     created_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
-    content_type_id: 2MFOT4WINOAOokOw2ma6aS
+    content_type_id: featured_site
   title: Kolo, Tanzania
   slug: kolo
   chapters:
@@ -13,7 +13,7 @@ contentful:
       id: 1NISbAVcjSMI4SEWE8WgAm
       created_at: !ruby/object:DateTime 2016-07-27 07:45:19.053000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:24:34.308000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: Kolo Chapter 1
     body: The Kondoa rock art sites are located on the eastern slopes of the Maasai
@@ -34,7 +34,7 @@ contentful:
       id: 2e0bNc68UUM0YKaM40Sm4C
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.871000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:57:32.216000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4qqgpg1KTmKwEA8kQsg8Qe
@@ -50,7 +50,7 @@ contentful:
       id: 5WqTYb2ohiCaseea44yMWg
       created_at: !ruby/object:DateTime 2016-07-27 07:45:19.050000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:22:52.499000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Kolo Chapter 2 '
     body: "The sites at Kolo are the most famous of the Kondoa paintings. Kolo comprises
@@ -69,7 +69,7 @@ contentful:
       id: 5JuWPWO5Z6w8aeeWMqQ8oK
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.850000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:58:56.845000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6hDS1W5bdSYICYEse20Wuw
@@ -86,7 +86,7 @@ contentful:
       id: 1o3g8TuJuc8MiGyQ6g6g42
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.949000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:23:12.269000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: Kolo Chapter 3
     body: "__Art__\n\nAmong the animals depicted are elephants, giraffes, antelopes,
@@ -108,7 +108,7 @@ contentful:
       id: 2H6WyW8gaISq2KgkCGa2k0
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.861000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:05:45.603000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: Kolo chapter 4
     body: |+
       Ritual Practices
@@ -121,7 +121,7 @@ contentful:
       id: 5gBuZ4nsoo4M2QOoCOs8Cs
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.737000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:06:33.160000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6HJM4veidyg8KAO6WsaOcc
@@ -137,7 +137,7 @@ contentful:
       id: 4dRHbbM4IU0MQog4kuOCGY
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.820000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:23:50.727000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: Kolo chapter 5
     body: |-
@@ -148,7 +148,7 @@ contentful:
       id: 5SJRvFQ6NasOKwWYogwWqM
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:07:01.378000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 27ttIF1VA4e8ekcAcea4G6
@@ -164,7 +164,7 @@ contentful:
       id: 2O7PwT55ZmSSgsWkeEAQsq
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.796000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:51:08.628000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: Kolo Chapter 6
     body: |+
@@ -175,7 +175,7 @@ contentful:
       id: 4xFpVDUn2EA8c0k2WWGaaK
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:07:17.252000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4eWYwHYojCu0EIYyoQGgMI
@@ -192,7 +192,7 @@ contentful:
       id: 4khc2F5ABWm0kyKoUooa80
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.097000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:56:15.212000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Bwasiri, E.J 2008.  'The Management of Indigenous Heritage: A
       Case Study of Mongomi wa Kolo Rock Shelter, Central Tanzania'. MA Dissertation,
       University of the\nWitwatersrand \n\nLeakey, M. 1983. *Africa’s Vanishing Art
