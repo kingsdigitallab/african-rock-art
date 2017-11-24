@@ -6,8 +6,15 @@
         {% if page.collection_title %}
         <li>{{ page.collection_title }}</li>
         {% elsif page.collection %}
+        {% assign collection = site.collections | where: "label", page.collection | first %}
         <li>
-            <a href="index.html">{{ page.collection | split: "coll_" | last | capitalize }}</a>
+            {% if collection.has_index %}
+            <a href="index.html">
+                {% endif %}
+            {{ collection.title }}
+            {% if collection.has_index %}
+            </a>
+            {% endif %}
         </li>
         <li>
             {{ page.title }}
