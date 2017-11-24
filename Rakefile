@@ -115,21 +115,21 @@ namespace :contentful do
                              'embeded_media', 'image', 'project_page']
 
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
-    yaml = YAML::load_file(yaml_path)
+    yaml_data = File.read(yaml_path)
 
-    new_yaml = {}
-    yaml.each do |key, value|
-      # Converts content type ids into labels
-      key = labels[key] if labels.key?(key)
-      new_yaml[key] = value
-
-      if not ignored_content_types.include?(key)
-        create_content_pages(key, value)
-      end
+    labels.each do |key, value|
+      yaml_data = yaml_data.gsub(key, value)
     end
 
     File.open(yaml_path, 'w') do |f|
-      f.write(YAML.dump(new_yaml))
+      f.write(yaml_data)
+    end
+
+    yaml = YAML::load_file(yaml_path)
+    yaml.each do |key, value|
+      if not ignored_content_types.include?(key)
+        create_content_pages(key, value)
+      end
     end
   end
 
@@ -206,7 +206,7 @@ def download_image(image, force)
     return
   end
 
-  url = 'https:' + image['url'] + '?q=50'
+  url = 'https:' + image['url'] + '?fm=jpg&fl=progressive&q=50'
   filename = 'assets/images/' + url.split('/')[-1].split('?')[0]
 
   if force or not File.file?(filename)
