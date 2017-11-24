@@ -25,15 +25,15 @@ deploy:
   github_token:
     secure: OAAYH9A5ca76LJ8uGSbrIT/I3IOd6YAdmGrVbDSC4Ur1vOqQApb7WFTnICIEUdm4OAl2OGaz1IdF+i8ef8JBiVCZiyfK+CYt18OxKAPmM8p1nnmBgHzrBDp5ZCn915Ztsz5CQ2YdceCjxs4lvlnftGDzxCyCHIgK/YenkzmDZtTOZMW7OeoyBRi98gwiug/KSjiI9EHfsLkCMA+gAdftMZ/bahCD5ihYPpURAj2b6XwQ0nYIEUkUu5gwzcP1PbCRimdO//Xs8rkMfMnxPHcC3c3MkmPddiw/bcErQA+du+gYZLSBmc2QhHZW7wDMmp59oJIJMaUVLo3ciPSNbdIOQe4feh+k4+t8CAIc5vaEqeQnTZ+/jIQCg1j8ys2nsFjM48T+PxujwR9J4IR/2JFH1PPGvzVG9MVjcRh51y4P2wVMmWWnzwdCSg2dzCA8V0zFUDI+hmPExYQ7VC7bH9pCqRCYGTKEH//pxx1jfEazClZJqW25ebNFcsuNrpLrVXJwOnHi7r0/q7WR9ixGIaLRsCBz6VboqvN9TaEJsgUeySqY763UpC+UKCFTOMSmHqlULdqBBMYMlKmUBOXOMzHsnGbj1CO3qMN57sHDUbQgUlekEYcM4MJDkurwYSO4704JnLj8kG+0V0Sj7yQh4VcqXKL1J83owEv18ZApTRvvK70=
   on:
-    branch: master
+    branch: gh-pages
 # deploy:
 #   provider: s3
+#   skip_cleanup: true
 #   access_key_id:
 #   secret_access_key:
 #     secure:
 #   bucket: kdl-african-rock-art
 #   acl: public_read
-#   skip_cleanup: true
 #   local-dir: ./_site
 #   on:
 #     repo: kingsdigitallab/african-rock-art
