@@ -175,7 +175,10 @@ namespace :contentful do
   task :resize do
     puts 'Resizing images...'
     if find_executable('mogrify')
-      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*'
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*.jpg'
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*.jpeg'
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*.JPG'
+      system 'rm -f assets/images/*.*~'
     else
       puts 'Imagemagick not found'
     end
@@ -218,7 +221,7 @@ def download_image(image, force)
     return
   end
 
-  url = 'https:' + image['url'] + '?fm=jpg&fl=progressive&q=50'
+  url = 'https:' + image['url'] + '?w=1024'
   filename = 'assets/images/' + url.split('/')[-1].split('?')[0]
 
   if force or not File.file?(filename)
