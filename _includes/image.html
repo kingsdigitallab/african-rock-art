@@ -1,7 +1,16 @@
 <img
-{% if include.image.title%}alt="{{ include.image.title }}"{% endif %}
+{% if include.image.title %}
+alt="{{ include.image.title }}"
+{% else %}
+alt="no image title"
+{% endif %}
 {% if include.class %}class="{{ include.class }}"{% endif %}
-src="{{ site.data.static.images }}/{{ include.image.url | split: "/" | last }}">
+{% if include.image.url %}
+src="{{ site.data.static.images }}/{{ include.image.url | split: "/" | last }}"
+{% else %}
+src="{{ site.data.static.images }}/placeholder.png"
+{% endif %}
+>
 {% if include.caption %}
 <p class="caption">{{ include.caption }}</p>
 {% endif %}
