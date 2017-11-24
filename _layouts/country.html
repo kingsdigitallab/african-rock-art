@@ -5,7 +5,7 @@ layout: default
 <article class="country">
     {% assign self = page.contentful %}
     {% assign introduction = self.country_introduction.chapters[0] %}
-    {% assign introduction_image = self.country_introduction.chapters[1] %}
+    {% assign introduction_image = self.country_introduction.chapters | where: "sys.content_type_id", "image" | first %}
     {% assign chapters = self.country_introduction.chapters %}
 
     <header class="container">
@@ -15,7 +15,9 @@ layout: default
     <div class="container featured-chapter">
         <div class="column-five-twelveth">
             <p>{{ introduction.body | markdownify }}</p>
+            {% if self.feature_site %}
             <a href="/featured_site/{{ self.featured_site.slug }}.html" class="button orange more">View featured rock art site</a>
+            {% endif %}
         </div>
 
         <div class="column-seven-twelveth">

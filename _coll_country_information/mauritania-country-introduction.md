@@ -5,14 +5,14 @@ contentful:
     id: 5uLhtUXIeA0kma8usA44eM
     created_at: !ruby/object:DateTime 2015-11-26 13:13:33.481000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:40:48.819000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Mauritania: country introduction'
   chapters:
   - sys:
       id: 7ZVEMUYkGAcAwIGQ2aYiu
       created_at: !ruby/object:DateTime 2015-11-26 13:03:29.927000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:03:29.927000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Mauritania: country, chapter 1'
     body: Mauritania is one of Africa’s westernmost countries, stretching over 1,000
@@ -23,7 +23,7 @@ contentful:
       id: 6rGE0FRNFmqKCEwOOy2sEg
       created_at: !ruby/object:DateTime 2015-11-26 12:53:11.539000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:41:03.423000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6a9PIc2PD2GoSys6umKim
@@ -39,7 +39,7 @@ contentful:
       id: 6BfTuIwDOEMoiw6AUYSiYm
       created_at: !ruby/object:DateTime 2015-11-26 13:04:41.054000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:41:57.874000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and rock art distribution
     title_internal: 'Mauritania: country, chapter 2'
     body: |-
@@ -58,7 +58,7 @@ contentful:
       id: 1xRX7rqW0s4Wo0ewQCUGWu
       created_at: !ruby/object:DateTime 2015-11-26 13:05:22.127000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:05:22.127000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Mauritania: country, chapter 3'
     body: |-
@@ -69,7 +69,7 @@ contentful:
       id: 66wyHEf39KoaOmm4YA8ko
       created_at: !ruby/object:DateTime 2015-11-26 12:53:57.337000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:53:57.337000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4lA1J5Jly0MSImIsQ2GwUo
@@ -85,7 +85,7 @@ contentful:
       id: 3Lde3TfwY8aWu26K84weUa
       created_at: !ruby/object:DateTime 2015-11-26 13:05:45.305000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:05:45.305000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Themes
     title_internal: 'Mauritania: country, chapter 4'
     body: |-
@@ -96,7 +96,7 @@ contentful:
       id: AHzKqrsBricmEQwCmOYyQ
       created_at: !ruby/object:DateTime 2015-11-26 12:54:38.583000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:54:38.583000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5u1VecbrbOq4cCICyqiOAw
@@ -112,7 +112,7 @@ contentful:
       id: 4itpl0jzpKAqkcCa6yKqa6
       created_at: !ruby/object:DateTime 2015-11-26 13:06:05.325000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:06:05.325000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: country, chapter 5'
     body: |-
       Mauritanian rock art consists most commonly of similar-looking scenes of cattle, hunting tableaux, or camel depictions, but there are some exceptions of interest, for example: the monumental bull engraving from Akhrejit in the Dhar Tichitt, which is nearly 5 metres long; the unusually naturalistic paintings of cattle at Amogjar and Tenses in the Adrar; and the curiously shaped painted horses at Guilemsi in the Tagant-Titchitt region.
@@ -122,7 +122,7 @@ contentful:
       id: 3MShhKY9bWiw8u6WGkek6s
       created_at: !ruby/object:DateTime 2015-11-26 12:55:35.339000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:55:35.339000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5LOsfjF8UEYmIUaQ00cA8i
@@ -138,7 +138,7 @@ contentful:
       id: 2mhsdlyizy886WMQkoOmmM
       created_at: !ruby/object:DateTime 2015-11-26 12:56:29.522000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:56:29.522000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6Cccz71bd66Es0EcmMqICa
@@ -154,7 +154,7 @@ contentful:
       id: 5vzOFu8OlOEAUMGS0KYIw2
       created_at: !ruby/object:DateTime 2015-11-26 13:06:27.333000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:06:27.333000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronology
     title_internal: 'Mauritania: country, chapter 6'
     body: 'As is the case with all Saharan rock art, sites found in Mauritania are
@@ -175,7 +175,7 @@ contentful:
       id: 79JveWwduEWS0GOECouiCi
       created_at: !ruby/object:DateTime 2015-11-26 12:57:03.931000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:57:03.931000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: W4EibqP766CYAamWyqkQK
@@ -191,7 +191,7 @@ contentful:
       id: 4AtrIwkF7OaKCEAiQ2GASg
       created_at: !ruby/object:DateTime 2015-11-26 13:06:44.804000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:06:44.804000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: country, chapter 7'
     body: Mauny later proposed a more nuanced chronology, based also on style and
       technique, along the same lines as Monod’s. Mauny’s proposed divisions include
@@ -206,7 +206,7 @@ contentful:
       id: 4lUHWxICtWgQ0w6iy28iEI
       created_at: !ruby/object:DateTime 2015-11-26 13:07:10.157000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:07:10.157000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: country, chapter 8'
     body: 'Further evidence from the archaeological record and historical knowledge
       is helpful in ascribing dates and authorship to some of the rock art. The time
@@ -221,7 +221,7 @@ contentful:
       id: 48cLDAbqdim44m0G0kAiMm
       created_at: !ruby/object:DateTime 2015-11-26 12:58:12.334000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:58:12.334000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6gZ1qhryX6EM26sQo4MWYQ
@@ -237,7 +237,7 @@ contentful:
       id: 2f2rsdCUH6yWQkC2y4i6aC
       created_at: !ruby/object:DateTime 2015-11-26 13:07:28.228000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:07:28.228000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: country, chapter 9'
     body: The first solid archaeological evidence for horses this far west is from
       about 600 AD. However, horses and chariots could have been introduced over a
@@ -250,7 +250,7 @@ contentful:
       id: 3bDBY7ve9GkIoEAeqCKe6M
       created_at: !ruby/object:DateTime 2015-11-26 13:07:55.785000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:07:55.785000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Interpretation
     title_internal: 'Mauritania: country, chapter 10'
     body: 'Generally, the study of Mauritanian rock art traditions has focused more
@@ -274,7 +274,7 @@ contentful:
       id: 3j9ouDudwkk8qqEqqsOI4i
       created_at: !ruby/object:DateTime 2015-11-26 12:58:46.100000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:58:46.100000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4zNeoXAAesUaCGoaSic6qO
@@ -290,7 +290,7 @@ contentful:
       id: 5Rfj3BIjRugQEoOOwug8Qm
       created_at: !ruby/object:DateTime 2015-11-26 13:08:21.025000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:08:21.025000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: country, chapter 11'
     body: It is possible to make some more specific inferences based on style. Some
       of the more naturalistic cattle paintings from the Adrar have been compared
@@ -307,7 +307,7 @@ contentful:
       id: 2NWh1MPulOkK4kQSgKuwyO
       created_at: !ruby/object:DateTime 2015-11-26 12:59:21.672000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:59:21.672000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6NlmQWPzJSiCWEIek2ySa8
@@ -323,7 +323,7 @@ contentful:
       id: 32ujQ27WmIokwSaq0g8y8E
       created_at: !ruby/object:DateTime 2015-11-26 13:08:35.046000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:08:35.046000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Mauritania: country, chapter 12'
     body: At this point, however, such inferences are fragmentary and speculative,
       and it is clear that more comprehensive study of rock art in context in the
@@ -336,7 +336,7 @@ contentful:
       id: 4BBq4ePWQEC2Y2OmceCGgW
       created_at: !ruby/object:DateTime 2015-11-26 12:51:23.581000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:51:23.581000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Abd-El-Moniem, H. A., 2010. *Mauritanian Rock Art: A New Recording*. Biblioteca Alexandrina, Alexandria
 

@@ -1,3 +1,4 @@
+require 'mkmf'
 require 'open-uri'
 require 'yaml'
 
@@ -84,6 +85,8 @@ namespace :contentful do
     Rake::Task['contentful:process'].invoke
     puts '---'
     Rake::Task['contentful:assets'].invoke
+    puts '---'
+    Rake::Task['contentful:resize'].invoke
   end
 
   desc 'Import data from Contentful'
@@ -115,26 +118,29 @@ namespace :contentful do
                              'embeded_media', 'image', 'project_page']
 
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
+    yaml_data = File.read(yaml_path)
+
+    labels.each do |key, value|
+      yaml_data = yaml_data.gsub(key, value)
+    end
+
+    File.open(yaml_path, 'w') do |f|
+      f.write(yaml_data)
+    end
+
     yaml = YAML::load_file(yaml_path)
-
-    new_yaml = {}
     yaml.each do |key, value|
-      # Converts content type ids into labels
-      key = labels[key] if labels.key?(key)
-      new_yaml[key] = value
-
       if not ignored_content_types.include?(key)
         create_content_pages(key, value)
       end
     end
-
-    File.open(yaml_path, 'w') do |f|
-      f.write(YAML.dump(new_yaml))
-    end
   end
 
-  desc 'Import assets from Contentful'
-  task :assets do
+  desc 'Import assets from Contentful; by default it only downloads new images, to overwrite existing images do `rake contentful:assets[true]`'
+  task :assets, [:force] do |t, args|
+    args.with_defaults(:force => false)
+    force = args[:force]
+
     puts 'Contentful assets import...'
 
     Rake::Task['contentful:process'].invoke
@@ -143,18 +149,38 @@ namespace :contentful do
     yaml = YAML::load_file(yaml_path)
 
     yaml.each do |key, value|
-      if key == 'image'
+      case key
+      when 'image'
         value.each do |item|
           if item['image']
-            url = 'https:' + item['image']['url'] + '?q=50'
-            puts 'Downloading ' + url
+            download_image(item['image'], force)
+          end
+        end
 
-            download = open(url)
-            filename = download.base_uri.to_s.split('/')[-1].split('?')[0]
-            IO.copy_stream(download, 'assets/images/' + filename)
+      when 'country'
+        value.each do |country|
+          if  country['image_carousel']
+            images = country['image_carousel']
+
+            images.each do |image|
+              download_image(image, force)
+            end
           end
         end
       end
+    end
+  end
+
+  desc 'Resizes the images imported from Contentful to a maximum of 500k'
+  task :resize do
+    puts 'Resizing images...'
+    if find_executable('mogrify')
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*.jpg'
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*.jpeg'
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*.JPG'
+      system 'rm -f assets/images/*.*~'
+    else
+      puts 'Imagemagick not found'
     end
   end
 end
@@ -188,4 +214,19 @@ end
 
 def slugify(str)
   str.strip.downcase.gsub(/\W+/, '-')
+end
+
+def download_image(image, force)
+  if not image['url']
+    return
+  end
+
+  url = 'https:' + image['url'] + '?w=1024'
+  filename = 'assets/images/' + url.split('/')[-1].split('?')[0]
+
+  if force or not File.file?(filename)
+    puts 'Downloading ' + url
+    download = open(url)
+    IO.copy_stream(download, filename)
+  end
 end

@@ -5,7 +5,7 @@ contentful:
     id: 1KwPIcPzMga0YWq8ogEyCO
     created_at: !ruby/object:DateTime 2015-11-26 16:25:56.681000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:49:15.151000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: 'Sailors on sandy seas: camels in Saharan rock art'
   slug: camels-in-saharan-rock-art
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 1Q7xHD856UsISuceGegaqI
       created_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 1'
     body: 'If we were to choose a defining image for the Sahara Desert, it would probably
       depict an endless sea of yellow dunes under a blue sky and, off in the distance,
@@ -34,7 +34,7 @@ contentful:
       id: 4p7wUbC6FyiEYsm8ukI0ES
       created_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 46X3vtG1faouSYYws0Aywu
@@ -49,7 +49,7 @@ contentful:
       id: 1LsXHHPAZaIoUksC2US08G
       created_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 2'
     body: Yet, surprising as it seems, the camel is a relative newcomer to the Sahara
       – at least when compared to other domestic animals such as cattle, sheep, horses
@@ -67,7 +67,7 @@ contentful:
       id: j3q9XWFlMOMSK6kG2UWiG
       created_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6afrRs4VLUS4iEG0iwEoua
@@ -83,7 +83,7 @@ contentful:
       id: NxdAnazJaUkeMuyoSOy68
       created_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 3'
     body: 'What is it that makes camels so suited to deserts? It is not only their
       ability to transform the fat stored in their hump into water and energy, or
@@ -103,7 +103,7 @@ contentful:
       id: 2KjIpAzb9Kw4O82Yi6kg2y
       created_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6iaMmNK91YOU00S4gcgi6W
@@ -119,7 +119,7 @@ contentful:
       id: 12mIwQ0wG2qWasw4wKQkO0
       created_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4jTR7LKYv6IiY8wkc2CIum
@@ -134,7 +134,7 @@ contentful:
       id: 6UIdhB0rYsSQikE8Yom4G6
       created_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 4'
     body: As mentioned previously, camels came from the Arabian Peninsula through
       Egypt, where bone remains have been dated to the early 1st millennium BC. However,
@@ -154,7 +154,7 @@ contentful:
       id: YLb3uCAWcKm288oak4ukS
       created_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5aJ9wYpcHe6SImauCSGoM8
@@ -171,7 +171,7 @@ contentful:
       id: 3uitqbkcY8s8GCcicKkcI4
       created_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 5'
     body: Rock art can be extremely helpful in learning about the different ways in
       which camels were used in the first millennium AD. Images of camels are found
@@ -186,7 +186,7 @@ contentful:
       id: 5OWosKxtUASWIO6IUii0EW
       created_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3mY7XFQW6QY6KekSQm6SIu
@@ -203,7 +203,7 @@ contentful:
       id: 2Ocb7A3ig8OOkc2AAQIEmo
       created_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2xR2nZml7mQAse8CgckCa
@@ -219,7 +219,7 @@ contentful:
       id: 4iTHcZ38wwSyGK8UIqY2yQ
       created_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1ecCbVeHUGa2CsYoYSQ4Sm
@@ -235,7 +235,7 @@ contentful:
       id: 2zqiJv33OUM2eEMIK2042i
       created_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 6'
     body: |-
       That camels were used to transport goods is obvious, and depictions of long lines of animals are common, sometimes with saddles on which to place the packs and ropes to tie the animals together. However, if rock art depictions are some indication of camel use, it seems that until the Muslim conquest the main function of one-humped camels was as mounts, often linked to war. The Sahara desert contains dozens of astonishingly detailed images of warriors riding camels, armed with spears, long swords and shields, sometimes accompanied by infantry soldiers and horsemen. Although camels are not as good as horses for use as war mounts (they are too tall and make insecure platforms for shooting arrows), they were undoubtedly very useful in raids – the most common type of war activity in the desert – as well as being a symbol of prestige, wealth and authority among the desert warriors, much as they still are today.
@@ -245,7 +245,7 @@ contentful:
       id: 6dOm7ewqmA6oaM4cK4cy8c
       created_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5qXuQrcnUQKm0qCqoCkuGI
@@ -262,7 +262,7 @@ contentful:
       id: 5jE9BeKCBUEK8Igg8kCkUO
       created_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 7'
     body: 'Although North Arabian saddles are found throughout North Africa and are
       often depicted in rock art paintings, at some point a new kind of saddle was
@@ -281,7 +281,7 @@ contentful:
       id: 6yZaDQMr1Sc0sWgOG6MGQ8
       created_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 40zIycUaTuIG06mgyaE20K
@@ -297,7 +297,7 @@ contentful:
       id: 5jHyVlfWXugI2acowekUGg
       created_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6EvwTsiMO4qoiIY4gGCgIK
@@ -314,7 +314,7 @@ contentful:
       id: 57goC8PzUs6G4UqeG0AgmW
       created_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5JDO7LrdKMcSEOMEG8qsS8
@@ -331,7 +331,7 @@ contentful:
       id: 3QPr46gQP6sQWswuSA2wog
       created_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Camels: thematic, chapter 8'
     body: Since their introduction to the Sahara during the first centuries of the
       Christian era, camels have become indispensable for desert communities, providing
@@ -348,7 +348,7 @@ contentful:
       id: 54fiYzKXEQw0ggSyo0mk44
       created_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3idPZkkIKAOWCiKouQ8c8i
@@ -363,7 +363,7 @@ contentful:
       id: 1ymik3z5wMUEway6omqKQy
       created_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4Y85f5QkVGQiuYEaA2OSUC

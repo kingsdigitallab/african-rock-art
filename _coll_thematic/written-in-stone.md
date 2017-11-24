@@ -5,7 +5,7 @@ contentful:
     id: 5QHjLLZ7gs846I0a68CGCg
     created_at: !ruby/object:DateTime 2015-11-25 17:59:00.673000000 Z
     updated_at: !ruby/object:DateTime 2015-12-11 12:29:03.345000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: 'Written in stone: the Libyco-Berber scripts'
   slug: written-in-stone
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 3fpuPIJW9i2ESgqYsEMe02
       created_at: !ruby/object:DateTime 2015-11-25 17:49:07.520000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:49:16.531000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 1'
     body: 'A remarkable feature of North African rock art is the existence of numerous
       engraved or painted inscriptions which can be found throughout the Sahara Desert.
@@ -37,7 +37,7 @@ contentful:
       id: 6MFGcsOw2QYceK2eWSsGqY
       created_at: !ruby/object:DateTime 2015-11-25 17:43:10.618000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:43:10.618000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5m9CnpjjOgEIeiaW6k6SYk
@@ -55,7 +55,7 @@ contentful:
       id: TwRWy4YkkUmg2yMGIWOQw
       created_at: !ruby/object:DateTime 2015-11-25 17:49:54.544000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:25:34.918000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 2'
     body: Libyco-Berber characters were identified as written language as early as
       the 17th century, when some inscriptions in the language were documented in
@@ -71,7 +71,7 @@ contentful:
       id: pfjxB9ZjI4c68SYYOcc6C
       created_at: !ruby/object:DateTime 2015-11-25 17:43:34.886000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:32:09.149000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1i0U2eePgyWQKE8WgOEuug
@@ -88,7 +88,7 @@ contentful:
       id: 2QHgN5FuFGK4aoaWUcKuG2
       created_at: !ruby/object:DateTime 2015-11-25 17:50:30.377000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:50:30.377000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 3'
     body: A second, recent proposal has defended an indigenous (autochthonous) origin
       deriving from a stock of ancient signs –tribal tattoos, marks of ownership,
@@ -102,7 +102,7 @@ contentful:
       id: 67cDVCAn3GMK8m2guKMeuY
       created_at: !ruby/object:DateTime 2015-11-25 17:44:09.415000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:44:09.415000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4kXC2w9xCwAASweyCgwg2O
@@ -119,7 +119,7 @@ contentful:
       id: 4UXtnuK0VGkYKMGyuqseKI
       created_at: !ruby/object:DateTime 2015-11-25 17:50:56.343000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:50:56.343000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Libyco-Berber: thematic, chapter 4'
     body: 'How is the Libyco-Berber alphabet composed? In fact, we should talk about
@@ -135,7 +135,7 @@ contentful:
       id: 13CDv9voc48oCmC0wqG4AA
       created_at: !ruby/object:DateTime 2015-11-25 17:44:51.935000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:44:51.935000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5rTkM78qGckOKu2q4AIUAI
@@ -151,7 +151,7 @@ contentful:
       id: 1gWJWaxXZYc4IiUyiC8IkQ
       created_at: !ruby/object:DateTime 2015-11-25 17:51:32.328000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:51:32.328000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 5'
     body: 'The study of Libyco-Berber script faces some huge challenges. In addition
       to its aforementioned variability, it is necessary to differentiate the ancient
@@ -173,7 +173,7 @@ contentful:
       id: 6K1hjSQHrGSmMIwyi4aEci
       created_at: !ruby/object:DateTime 2015-11-25 17:46:00.776000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 16:42:34.417000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 373GOE3JagQYoyY2gySyMy
@@ -191,7 +191,7 @@ contentful:
       id: 3ik84OMvkQaEu6yOAeCMS6
       created_at: !ruby/object:DateTime 2015-11-25 17:51:51.719000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:51:51.719000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 6'
     body: Considering all these problems, what do we know about Libyco-Berber scripts?
       First of all, they normally used only consonants, although due to the influence
@@ -210,7 +210,7 @@ contentful:
       id: 1t5dVxKpiIqeqy82O4McOI
       created_at: !ruby/object:DateTime 2015-11-25 17:46:35.246000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:25:57.212000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 7x2yrpGfGEKaUQgyuiOYwk
@@ -226,7 +226,7 @@ contentful:
       id: 3Ju6IkGoneueE2gYQKaAQm
       created_at: !ruby/object:DateTime 2015-11-25 17:52:16.445000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:27:17.030000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 7'
     body: Of course, the Libyco-Berber scripts evolved through time, although discussion
       is still going on about the chronologies and rhythms of this process. After
@@ -244,7 +244,7 @@ contentful:
       id: 1fPVVfXalmoKy2mUUCQQOw
       created_at: !ruby/object:DateTime 2015-11-25 17:47:18.568000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:47:18.568000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2GLzuqBeIMgoUW0wqeiiKY
@@ -260,7 +260,7 @@ contentful:
       id: 5GOzFzswmcs8qgiqQgcQ2q
       created_at: !ruby/object:DateTime 2015-11-25 17:52:52.167000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:52:52.167000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 8'
     body: The many challenges that surround the study of Libyco-Berber scripts have
       led to a complex crossroads of terms, chronologies and theories which sometimes
@@ -275,7 +275,7 @@ contentful:
       id: 6qjMP5OeukCMEiWWieE4O8
       created_at: !ruby/object:DateTime 2015-11-25 17:47:52.571000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:47:52.571000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: FGpTfysHqEay4OMO66YSE
@@ -291,7 +291,7 @@ contentful:
       id: NeG74FoyYuOowaaaUYgQq
       created_at: !ruby/object:DateTime 2015-11-25 17:53:11.586000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:53:11.586000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 9'
     body: Undoubtedly, the deciphering of forgotten languages captures the imagination
       and is one of the most exciting challenges in the study of ancient cultures.
@@ -311,7 +311,7 @@ contentful:
       id: 4r54ew5pNSwQ8ckQ8w8swY
       created_at: !ruby/object:DateTime 2015-11-25 17:48:24.656000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:28:59.132000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |
       Le Quellec, J.L. 2012. Rock Art, Scripts and proto-scripts in Africa: the Libyco-berber example. In: Delmas, A. and Penn, P. (eds.), *Written Culture in a Colonial Context: Africa and the Americas 1500 – 1900*.  Brill Academic Publishers, Boston, pp. 3-29.
 

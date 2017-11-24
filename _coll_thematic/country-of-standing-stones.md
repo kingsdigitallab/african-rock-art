@@ -5,7 +5,7 @@ contentful:
     id: 2KyCxSpMowae0oksYsmawq
     created_at: !ruby/object:DateTime 2015-11-25 18:32:33.269000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:51:19.192000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: 'The country of the standing stones: stela in Southern Ethiopia'
   slug: country-of-standing-stones
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 7lbvgOvsBO0sgeSkwU68K8
       created_at: !ruby/object:DateTime 2015-11-25 18:28:36.149000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:28:36.149000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Stela: thematic, chapter 1'
     body: Ethiopia is home to some of the most impressive archaeological remains in
       Africa, such as the rock-hewn churches of Lalibela, the Axumite kingdom monoliths
@@ -36,7 +36,7 @@ contentful:
       id: 3q8L69s3O8YOWsS4MAI0gk
       created_at: !ruby/object:DateTime 2015-11-25 18:03:36.680000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:03:36.680000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3lhKPWDnSwEIKmoGaySEIy
@@ -52,7 +52,7 @@ contentful:
       id: wMW6zfth1mIgEiSqIy04S
       created_at: !ruby/object:DateTime 2015-11-25 18:28:55.931000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:28:55.931000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Stela: thematic, chapter 2'
     body: Although some of the most impressive stelae are located to the north-east
       of Ethiopia, in the region where the Axumite Kingdom flourished between the
@@ -68,7 +68,7 @@ contentful:
       id: 5BGRogcCPeYgq2SY62eyUk
       created_at: !ruby/object:DateTime 2015-11-25 18:24:59.375000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:24:59.375000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3HHuQorm12WGUu0kC0Uce
@@ -84,7 +84,7 @@ contentful:
       id: 3CBiLCh7ziUkMC264I4oSw
       created_at: !ruby/object:DateTime 2015-11-25 18:29:16.601000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:29:16.601000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Stela: thematic, chapter 3'
     body: 'Ethiopian stelae have been known to western scholars since the end of the
       19th century, with the first examples documented in 1885 to the north of Addis
@@ -108,7 +108,7 @@ contentful:
       id: 3OqDncSoogykaUgAyW0Mei
       created_at: !ruby/object:DateTime 2015-11-25 18:25:18.604000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:25:18.604000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5Zt1z4iJ44c2MWmWcGy4Ey
@@ -124,7 +124,7 @@ contentful:
       id: 5NnJiqSSNGkOuooYIEYIWO
       created_at: !ruby/object:DateTime 2015-11-25 18:25:38.253000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:25:38.253000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5N30tsfHVuW0AmIgeQo8Kk
@@ -139,7 +139,7 @@ contentful:
       id: 66kOG829XiiESyKSYUcOkI
       created_at: !ruby/object:DateTime 2015-11-25 18:29:40.626000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:29:40.626000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Stela: thematic, chapter 4'
     body: 'The Ethiopian stelae show a great variability in shapes and decorations,
       but at least three main groups could be defined. The first corresponds to the
@@ -165,7 +165,7 @@ contentful:
       id: 66jbDvBWhykGwIOOmaYesY
       created_at: !ruby/object:DateTime 2015-11-25 18:26:18.279000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:27:13.054000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5Bpxor1k1GMmUOoEWWqK2k
@@ -180,7 +180,7 @@ contentful:
       id: 3gftSkoIHSsmeCU6M8EkcE
       created_at: !ruby/object:DateTime 2015-11-25 18:27:02.886000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:27:02.886000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6WDEsfzmqQGkyyGImgYmcU
@@ -195,7 +195,7 @@ contentful:
       id: 41cBMB2SpOEqy0m66k64Gc
       created_at: !ruby/object:DateTime 2015-11-25 18:29:58.521000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:29:58.521000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Stela: thematic, chapter 5'
     body: 'Regardless of their chronology and shape, most of the stela seem to have
       a funerary function, marking the tombs of deceased which were buried in cemeteries
@@ -217,7 +217,7 @@ contentful:
       id: 5DJsnYIbRKiAiOqYMWICau
       created_at: !ruby/object:DateTime 2015-11-25 18:27:29.739000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:27:29.739000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5zepzVfNDiOQy8gOyAkGig
@@ -232,7 +232,7 @@ contentful:
       id: 6LBJQl0eT62A06YmiSqc4W
       created_at: !ruby/object:DateTime 2015-11-25 18:28:00.511000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:28:00.511000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |
       Roger Joussaume (dir.) (1995): *Tiya, l'Éthiopie des Mégalithes, du Biface a l'Art Rupestre dans la Corne d'Afrique*. Paris, UNESCO/CNS.
 

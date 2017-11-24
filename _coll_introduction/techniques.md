@@ -5,7 +5,7 @@ contentful:
     id: 5j76DfcDwk28WOmWMAm20C
     created_at: !ruby/object:DateTime 2015-11-26 09:47:55.196000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:55:17.424000000 Z
-    content_type_id: 5BpsmbwGhUi8wYwIEKO0Oa
+    content_type_id: introduction
   title: Techniques of production
   slug: techniques
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 3ATyteWLBeyy0IU6cUY8cc
       created_at: !ruby/object:DateTime 2015-11-26 09:42:50.596000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:42:50.596000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'General: how made, chapter 1'
     body: 'Rock art has been practised for tens of thousands of years and the techniques
@@ -39,7 +39,7 @@ contentful:
       id: HYM6VlWCu2Uk28UwcI6qw
       created_at: !ruby/object:DateTime 2015-11-26 09:40:34.705000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:12:00.737000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 53weII16ScuU6AQ6qWwIuS
@@ -55,7 +55,7 @@ contentful:
       id: 1rfIlXAQBWuOMK4sqiAwau
       created_at: !ruby/object:DateTime 2015-11-26 09:43:30.234000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:43:30.234000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Pictographs - Painting
     title_internal: 'General: how made, chapter 2'
     body: The pigments used in paintings are dependent on local resources, but typically
@@ -74,7 +74,7 @@ contentful:
       id: 5FvF7jgtQkqSuK6gcScAks
       created_at: !ruby/object:DateTime 2015-11-26 09:41:14.113000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:14:58.388000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5eo1GYHRFS6SYSWoum4Usy
@@ -90,7 +90,7 @@ contentful:
       id: 4CLJOn1uoEQyaSkAooaeQW
       created_at: !ruby/object:DateTime 2015-11-26 09:43:48.853000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:17:14.289000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'General: how made, chapter 3'
     body: A very specific type of image is the handprint. These can be made in two
       ways, positively and negatively; by covering the hand in paint and applying
@@ -103,7 +103,7 @@ contentful:
       id: 5H7r0joxbOgqeesE4m2MUU
       created_at: !ruby/object:DateTime 2015-11-26 09:44:30.108000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:44:30.108000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Petroglyphs – Engraving
     title_internal: 'General: how made, chapter 4'
     body: Three techniques were generally used to remove the rock surface; incising/engraving
@@ -121,7 +121,7 @@ contentful:
       id: 3GOG2oZPjGmmMCii2QS0yE
       created_at: !ruby/object:DateTime 2015-11-26 09:41:50.996000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:18:09.807000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1ViunR9pOs40oei6A4yC6q
@@ -137,7 +137,7 @@ contentful:
       id: 6EyM70F9YIq4eaIucMgaqa
       created_at: !ruby/object:DateTime 2015-11-26 09:44:52.817000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:44:52.817000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'General: how made, chapter 5'
     body: These methods of engraving are sometimes combined, as happens in the Sahara
       where the outline of pecked figures is polished afterwards. Although for the
