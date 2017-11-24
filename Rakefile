@@ -1,3 +1,4 @@
+require 'mkmf'
 require 'open-uri'
 require 'yaml'
 
@@ -84,6 +85,8 @@ namespace :contentful do
     Rake::Task['contentful:process'].invoke
     puts '---'
     Rake::Task['contentful:assets'].invoke
+    puts '---'
+    Rake::Task['contentful:resize'].invoke
   end
 
   desc 'Import data from Contentful'
@@ -166,7 +169,16 @@ namespace :contentful do
         end
       end
     end
+  end
 
+  desc 'Resizes the images imported from Contentful to a maximum of 500k'
+  task :resize do
+    puts 'Resizing images...'
+    if find_executable('mogrify')
+      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb assets/images/*'
+    else
+      puts 'Imagemagick not found'
+    end
   end
 end
 
