@@ -7,7 +7,7 @@ layout: default
     <h1 class="page-heading">Explore countries</h1>
     {% for item in collection.docs %}
     {% assign introduction = item.contentful.country_introduction.chapters[0] %}
-    {% assign introduction_image = item.contentful.country_introduction.chapters[1] %}
+    {% assign introduction_image = item.contentful.country_introduction.chapters | where: "sys.content_type_id", "image" | first %}
 
     <div class="column-ten-twelveth collapsed">
         <div class="card">

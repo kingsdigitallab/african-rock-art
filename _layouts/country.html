@@ -5,7 +5,7 @@ layout: default
 <article class="country">
     {% assign self = page.contentful %}
     {% assign introduction = self.country_introduction.chapters[0] %}
-    {% assign introduction_image = self.country_introduction.chapters[1] %}
+    {% assign introduction_image = self.country_introduction.chapters | where: "sys.content_type_id", "image" | first %}
     {% assign chapters = self.country_introduction.chapters %}
 
     <header class="container">
