@@ -5,14 +5,14 @@ contentful:
     id: 8t9OseGfHqIgcUCao2ysq
     created_at: !ruby/object:DateTime 2016-09-26 14:54:01.738000000 Z
     updated_at: !ruby/object:DateTime 2016-10-17 15:39:27.185000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Namibia: country introduction'
   chapters:
   - sys:
       id: 4UiO2GnKUMUwso4aYMqCaG
       created_at: !ruby/object:DateTime 2016-09-26 14:48:35.037000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 16:17:39.738000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Namibia: country, chapter 1'
     body: 'Nambia is home to over 1,200 rock art sites countrywide.  Most of these
@@ -22,14 +22,14 @@ contentful:
       id: 1dABVOGavUAI6goAY8miaA
       created_at: !ruby/object:DateTime 2016-10-17 15:38:31.464000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:38:31.464000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and rock art distribution
     title_internal: Namibia chapter 2
   - sys:
       id: 5gSXylxGD6eO20EyeOIQSY
       created_at: !ruby/object:DateTime 2016-09-26 14:49:11.461000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:49:11.461000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3Xk6O4MMsgEYY0WcaiCYqs
@@ -44,7 +44,7 @@ contentful:
       id: 3KVc3so4EMwom64W8mGmUs
       created_at: !ruby/object:DateTime 2016-09-26 14:49:17.497000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 16:18:37.366000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 3'
     body: 'Namibia covers an area of around 815,625km² in the south-west of Africa,
       bordering Angola and Zambia in the North, Botswana in the east, and South Africa
@@ -59,7 +59,7 @@ contentful:
       id: 1uThiykyCAYWWieyOKciQi
       created_at: !ruby/object:DateTime 2016-09-26 14:49:30.621000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:49:30.621000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 62AXX05gE8yACQgOgW0kqO
@@ -74,7 +74,7 @@ contentful:
       id: 3v5501rl28sYOwW2Cm8ga2
       created_at: !ruby/object:DateTime 2016-09-26 14:49:37.812000000 Z
       updated_at: !ruby/object:DateTime 2016-10-18 16:36:40.282000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 4'
     body: "Rock art is found across the country from the southern border almost to
       the northern border, although rock art sites are scarce in the far north.  The
@@ -104,7 +104,7 @@ contentful:
       id: 18lzX7RJb8skMkC0ousqMY
       created_at: !ruby/object:DateTime 2016-09-26 14:49:45.248000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:39:00.052000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: History of research
     title_internal: 'Namibia: country, chapter 5'
     body: 'The first published mention of rock art in south-western Africa may be
@@ -125,7 +125,7 @@ contentful:
       id: 6oW0rqforuI6AQIUaMu4Ks
       created_at: !ruby/object:DateTime 2016-09-26 14:50:03.966000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:50:03.966000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4nbVLA22Y0Uw06ICSeGYQm
@@ -141,7 +141,7 @@ contentful:
       id: 25d3VoqJDWy2OGSEM2a8so
       created_at: !ruby/object:DateTime 2016-09-26 14:50:14.861000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 16:36:47.346000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 6'
     body: "During the course of an earlier expedition, Maack had stumbled upon a singular
       painting in a Brandberg rock shelter. This image came to be well-known as the
@@ -171,7 +171,7 @@ contentful:
       id: pt0EDsK0SWU2Cg2EkuQKw
       created_at: !ruby/object:DateTime 2016-09-26 14:50:38.544000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:50:38.544000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4ZB32q4diwyQMIaOomeQOg
@@ -187,7 +187,7 @@ contentful:
       id: 2Oc2SJpN9msEGCM0iWUGsw
       created_at: !ruby/object:DateTime 2016-09-26 14:50:47.116000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:50:47.116000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 7'
     body: 'The Cologne programme also sponsored the excavation work of archaeologist
       Erich Wendt, who between 1968 and 1970 worked at numerous sites investigating
@@ -205,7 +205,7 @@ contentful:
       id: 1pTemf7LfaYckkgiam004s
       created_at: !ruby/object:DateTime 2016-09-26 14:51:03.951000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 16:40:09.534000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Themes
     title_internal: 'Namibia: country, chapter 8'
     body: "Much of the painted rock art in Namibia may be broadly compared to the
@@ -231,7 +231,7 @@ contentful:
       id: 3EiSSgVDtCWA4C4EOyW2ai
       created_at: !ruby/object:DateTime 2016-09-26 14:51:19.714000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:51:19.714000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3eVwGLF6ooeMySiG8G0a8U
@@ -247,7 +247,7 @@ contentful:
       id: 7LqBKmEh1YMWOEymKkiQSk
       created_at: !ruby/object:DateTime 2016-09-26 14:51:27.064000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:51:27.064000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 9'
     body: "Within Namibia, paintings come in a variety of styles, ranging from naturalistic
       to stylised.  Paintings found at Spitzkoppe tend to be smaller and cruder than
@@ -267,7 +267,7 @@ contentful:
       id: 2b4cKiDAbeuKMcO6siYG6Y
       created_at: !ruby/object:DateTime 2016-09-26 14:51:42.124000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:51:42.124000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3zUEF7pFUIeqsKeW2wOIkw
@@ -283,7 +283,7 @@ contentful:
       id: 1UtWlqa1926kMisQkuimQK
       created_at: !ruby/object:DateTime 2016-09-26 14:51:49.953000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:51:49.953000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 10'
     body: 'Engravings are often pecked and sometimes rubbed or polished.  Although
       engravings, like paintings, feature animal figures heavily, with images of ostriches
@@ -299,7 +299,7 @@ contentful:
       id: 6thXaCP5kIYysCy42IUgCC
       created_at: !ruby/object:DateTime 2016-09-26 14:52:14.154000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:52:14.154000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6lpq225cZOe0MKaC8cuuy6
@@ -314,7 +314,7 @@ contentful:
       id: 17KwAElNmCIGUoK4os22Gw
       created_at: !ruby/object:DateTime 2016-09-26 14:52:22.473000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 16:44:46.778000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Interpretation
     title_internal: 'Namibia: country, chapter 11'
     body: "Namibian rock paintings, and most engravings, have largely been interpreted
@@ -341,7 +341,7 @@ contentful:
       id: lwcNbhZZy8koW0Uq2KEkq
       created_at: !ruby/object:DateTime 2016-09-26 14:52:40.163000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:52:40.163000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5UMcF5DE2siok0k4UakAUW
@@ -357,7 +357,7 @@ contentful:
       id: 6x77m8o4vuuEMeqiSISGCK
       created_at: !ruby/object:DateTime 2016-09-26 14:52:47.433000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:52:47.433000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 12'
     body: "Other differences are found in style and emphasis: the frequency with which
       giraffe feature in Namibian paintings and engravings contrasts with the South
@@ -381,7 +381,7 @@ contentful:
       id: 6Ljhl9Tm5GGKeU6e6GMSOA
       created_at: !ruby/object:DateTime 2016-09-26 14:52:59.658000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 15:34:26.480000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronology
     title_internal: 'Namibia: country, chapter 13'
     body: "The pieces from the cave Wendt excavated (named ‘Apollo 11 Cave’ after
@@ -406,7 +406,7 @@ contentful:
       id: 3k0RnznV5Yu2uoGgc0UkCC
       created_at: !ruby/object:DateTime 2016-09-26 14:53:21.292000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:53:21.292000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5SxIVsUotUcuWoI2iyYOSO
@@ -421,7 +421,7 @@ contentful:
       id: 7hIopDzZzGI8iMiuEOOOyG
       created_at: !ruby/object:DateTime 2016-09-26 14:53:29.617000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:53:29.617000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Namibia: country, chapter 14'
     body: 'Engravings are more difficult to obtain dates for scientifically. Superimpositioning
       and other physical factors can serve to indicate which styles of image are more
@@ -437,7 +437,7 @@ contentful:
       id: 137eUF3ZZGUGy6SM4cWimS
       created_at: !ruby/object:DateTime 2016-09-26 14:53:45.520000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:53:45.520000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4I7MYP97u8AK8YE88UGOKS
@@ -454,7 +454,7 @@ contentful:
       id: 2Looo7MWBGKQQKAooSausA
       created_at: !ruby/object:DateTime 2016-09-26 14:53:53.399000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:53:53.399000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |
       CeSMAP- Study Centre and Museum of Prehistoric Art of Pinerolo. 1997. African pictograms.  Pinerolo, Centro Studi e Museo di arte preistorica.
 

@@ -5,7 +5,7 @@ contentful:
     id: 4bGUyz1ry0oCGaqWIUegck
     created_at: !ruby/object:DateTime 2015-11-26 18:50:22.357000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 15:37:07.605000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Egypt
   slug: egypt
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=42209
@@ -52,7 +52,7 @@ contentful:
       id: 4af0chnVYAe0e4mqoQwaoy
       created_at: !ruby/object:DateTime 2015-11-25 15:07:32.113000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:53:48.674000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Cave of Swimmers, Egypt
     slug: cave-of-swimmers
     chapters:
@@ -60,7 +60,7 @@ contentful:
         id: 4pHoZkgWDegMQsumuSUekM
         created_at: !ruby/object:DateTime 2015-11-25 15:04:41.300000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:04:41.300000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: featured site, chapter 1'
       body: The ‘Cave of Swimmers’ is one of the most famous rock art sites of the
         Sahara. It sits in Wadi Sura, loosely translated as the ‘Valley of Pictures’
@@ -69,7 +69,7 @@ contentful:
         id: 1cUANarsnIIyGQ8MUGaKMM
         created_at: !ruby/object:DateTime 2015-11-25 15:01:11.701000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:35:42.682000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5LebP1Vcqs4A4US00uI0Q4
@@ -86,7 +86,7 @@ contentful:
         id: 5AJki82zIcK2AEyigEiu2g
         created_at: !ruby/object:DateTime 2015-11-25 15:05:05.937000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:44:27.933000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: featured site, chapter 2'
       body: The ‘Cave of Swimmers’ is the larger of two shallow caves situated side
         by side in the southern part of the Gilf Kebir plateau in Egypt’s Western
@@ -100,7 +100,7 @@ contentful:
         id: 1imxvhdhHEYsyKueK6coS
         created_at: !ruby/object:DateTime 2015-11-25 15:01:51.007000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:35:41.280000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2halaUUgAMe6ES0uycIIIG
@@ -115,7 +115,7 @@ contentful:
         id: 2iFZCE50AsqKM4C8ma0IO8
         created_at: !ruby/object:DateTime 2015-11-25 15:05:27.680000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:05:27.680000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: featured site, chapter 3'
       body: The book and film feature fictionalised versions of the cave and its real-life
         discoverer, László Almásy, as the title character. In reality, Almásy was
@@ -131,7 +131,7 @@ contentful:
         id: 6tD8WMYexGWoiEYeEKAaIw
         created_at: !ruby/object:DateTime 2015-11-25 15:02:56.246000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:36:48.650000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3R3Ri8y5pe2I4AM8iauayW
@@ -147,7 +147,7 @@ contentful:
         id: 5VeXJi6wN2Cq00COCo08Sk
         created_at: !ruby/object:DateTime 2015-11-25 15:05:49.205000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:05:49.205000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: featured site, chapter 4'
       body: 'New rock art discoveries in this area have been made in recent years
         and add to the debate, which has continued, as have expeditions by academics,
@@ -162,7 +162,7 @@ contentful:
         id: QzRyY82AYSMgMGCUcws2m
         created_at: !ruby/object:DateTime 2015-11-25 15:03:54.190000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:37:39.120000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6Fqf4hcw1OeG2IIO442ckW
@@ -179,7 +179,7 @@ contentful:
         id: 23YZHecGleqeiKYiAQQcq0
         created_at: !ruby/object:DateTime 2015-11-25 15:06:06.304000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:06:06.304000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: featured site, chapter 5'
       body: 'The ‘swimmers’ are not the only humans depicted here: there are others,
         some heavily adorned, some apparently engaged in activities. A meticulously
@@ -208,7 +208,7 @@ contentful:
       id: 1p0szJra88OeCEWCkE2Yky
       created_at: !ruby/object:DateTime 2015-11-26 10:46:28.092000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:47:28.403000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Egypt: key facts'
     image_count: 342 images
     date_range: Mostly 6,000 BC – 30 BC
@@ -220,14 +220,14 @@ contentful:
       id: 3HkyZVGe2suiyEMe6ICs4U
       created_at: !ruby/object:DateTime 2015-11-26 10:45:19.662000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:42:03.255000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Egypt: country introduction'
     chapters:
     - sys:
         id: 1RtA0G7m6ok8cOWi20EC2s
         created_at: !ruby/object:DateTime 2015-11-26 10:37:46.214000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:05:57.139000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Egypt: country, chapter 1'
       body: The rock art of Egypt was largely unknown outside of the region until
@@ -242,7 +242,7 @@ contentful:
         id: JXxIothd6gke6u68aMS2k
         created_at: !ruby/object:DateTime 2015-11-26 10:33:39.571000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:09:08.552000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4yqh628H2wae4Mwe6MQGWa
@@ -258,7 +258,7 @@ contentful:
         id: 3Cs9Muna1qeMOCAUyCCuQm
         created_at: !ruby/object:DateTime 2015-11-26 10:38:16.091000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:38:16.091000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography
       title_internal: 'Egypt: country, chapter 2'
       body: Egypt covers about 996,000km² at Africa’s north-east corner and until
@@ -271,7 +271,7 @@ contentful:
         id: 7IH4mS5LW0cSGcgEaa6ESO
         created_at: !ruby/object:DateTime 2015-11-26 10:38:54.278000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:38:54.278000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'Egypt: country, chapter 3'
       body: |-
@@ -282,7 +282,7 @@ contentful:
         id: 3CzPFWoTFeIMaCsMgSy0sg
         created_at: !ruby/object:DateTime 2015-11-26 10:39:46.908000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:44:29.300000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Themes
       title_internal: 'Egypt: country, chapter 4'
       body: In desert areas, recognisably stylised Pharaonic-period inscriptions and
@@ -303,7 +303,7 @@ contentful:
         id: 2YNlS4f9ZuswQuwKQmIEkU
         created_at: !ruby/object:DateTime 2015-11-26 10:34:25.538000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:09:37.165000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3MIwpw8kAMIuGukggC2mUo
@@ -319,7 +319,7 @@ contentful:
         id: 4jirnWi9nqW0e44wqkOwMi
         created_at: !ruby/object:DateTime 2015-11-26 10:40:02.893000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:07:08.214000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: country, chapter 5'
       body: Possible links between ancient Egyptian culture and wider Saharan rock
         art traditions have been discussed since the rock art of northern Africa first
@@ -330,7 +330,7 @@ contentful:
         id: 69gKt6UfRuqKcSuCWUYOkc
         created_at: !ruby/object:DateTime 2015-11-26 10:40:26.215000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:21:14.317000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'Egypt: country, chapter 6'
       body: Certainly, not all rock art found in Egypt has direct links to Pharaonic
@@ -345,7 +345,7 @@ contentful:
         id: 6JMuLUburS0sqo4aGIgq4e
         created_at: !ruby/object:DateTime 2015-11-26 10:35:03.483000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:21:43.897000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1BqBCPqhDiiM0qqeM6Eeie
@@ -361,7 +361,7 @@ contentful:
         id: 68oUY9MIOA82MUu0SUuYIU
         created_at: !ruby/object:DateTime 2015-11-26 10:40:44.511000000 Z
         updated_at: !ruby/object:DateTime 2016-07-22 19:36:46.175000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: country, chapter 7'
       body: This development fostered both ancient Egyptian culture and isolated populations
         of animals elsewhere driven out of their environments by encroaching desert,
@@ -374,7 +374,7 @@ contentful:
         id: 5iFCF3Y5AsMoKE8mqa2gMK
         created_at: !ruby/object:DateTime 2015-11-26 10:35:44.393000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:28:38.595000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2eE8VylT2ocoEoAQ22m2Qq
@@ -390,7 +390,7 @@ contentful:
         id: 4lif35hFsIWGGeYmQIK2Sc
         created_at: !ruby/object:DateTime 2015-11-26 10:41:00.987000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 15:30:05.093000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Egypt: country, chapter 8'
       body: Some of Egypt’s most striking and famous rock art is found far from the
         Nile at Gilf Kebir, a vast sandstone plateau in the desert near the Libyan
@@ -408,7 +408,7 @@ contentful:
         id: 3MnIkobDNSIWoYeec8QmsI
         created_at: !ruby/object:DateTime 2015-11-26 10:41:27.078000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:41:27.078000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Interpretation
       title_internal: 'Egypt: country, chapter 9'
       body: The motivation behind producing these images remains elusive. Where a
@@ -426,7 +426,7 @@ contentful:
         id: 3Wc0ODJNxmUc86aiSCseWM
         created_at: !ruby/object:DateTime 2015-11-26 10:36:22.741000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 10:36:22.741000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2QN2xRgnrOcQKsIM224CYY
@@ -443,7 +443,7 @@ contentful:
         id: 6D5UoHwwO4sg8gmUA8ikWs
         created_at: !ruby/object:DateTime 2015-11-26 10:37:10.022000000 Z
         updated_at: !ruby/object:DateTime 2016-07-22 19:38:21.856000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |+
         Huyge, D. 2009, *Rock Art*. In Willeke Wendrich (ed.), UCLA Encyclopedia of Egyptology, Los Angeles, p. 4
 

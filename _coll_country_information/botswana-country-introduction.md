@@ -5,14 +5,14 @@ contentful:
     id: 70Jk3F9iU0OaCQGQWkGqM6
     created_at: !ruby/object:DateTime 2016-09-12 11:04:27.819000000 Z
     updated_at: !ruby/object:DateTime 2016-09-12 11:04:27.819000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Botswana: country introduction'
   chapters:
   - sys:
       id: 5wtp5JwhDUU0cMoCcWgGgy
       created_at: !ruby/object:DateTime 2016-09-12 11:25:13.083000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:25:13.083000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Botswana: country, chapter 1'
     body: 'Botswana, a landlocked country in southern Africa, has a landscape defined
@@ -26,7 +26,7 @@ contentful:
       id: 2UQ5NTtwJO42YcwmMkwQEC
       created_at: !ruby/object:DateTime 2016-09-12 11:25:32.308000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:25:32.308000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 3nU9N3ePduuQ60SQsiuYUO
@@ -43,7 +43,7 @@ contentful:
       id: 2ZUfI0WpgssmaomWYocswq
       created_at: !ruby/object:DateTime 2016-09-12 11:26:11.853000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:26:11.853000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and rock art distribution
     title_internal: 'Botswana: country, chapter 2'
     body: The Republic of Botswana is bordered by South Africa to the south, Namibia
@@ -60,7 +60,7 @@ contentful:
       id: 5gcQn3IFgAE6UYMQMyUgik
       created_at: !ruby/object:DateTime 2016-09-12 11:26:28.774000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:26:28.774000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 67txlVj7aMsymikMMMKm4U
@@ -75,7 +75,7 @@ contentful:
       id: FXOBNXwFq0WAuyUQC4uGm
       created_at: !ruby/object:DateTime 2016-09-12 11:26:42.821000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:41:00.509000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Botswana: country, chapter 3'
     body: |
@@ -86,7 +86,7 @@ contentful:
       id: vMbGVjcFe8YOcigyG6iuc
       created_at: !ruby/object:DateTime 2016-09-12 11:26:52.599000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:26:52.599000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 54OlxJkeXK0ywWs4oQMqAK
@@ -102,7 +102,7 @@ contentful:
       id: dqvTnHT7xeCC0omYUgyas
       created_at: !ruby/object:DateTime 2016-09-12 11:26:59.386000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:26:59.386000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Botswana: country, chapter 4'
     body: |
@@ -113,7 +113,7 @@ contentful:
       id: 6oBrvFH0WcGAAOqYEg2Q4s
       created_at: !ruby/object:DateTime 2016-09-12 11:27:09.816000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:27:09.816000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6Nezz3ZlxCMOeSOiEKuG0s
@@ -129,7 +129,7 @@ contentful:
       id: 7DJn8Jqhy0cwGwksoWSOIS
       created_at: !ruby/object:DateTime 2016-09-12 11:27:18.797000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:41:18.565000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Distribution and themes
     title_internal: 'Botswana: country, chapter 5'
     body: |-
@@ -142,7 +142,7 @@ contentful:
       id: 5TetNeY7kWwAQWW0gks2ya
       created_at: !ruby/object:DateTime 2016-09-12 11:27:26.815000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:27:26.815000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4bfNSUilHiW0aqEus0CQeI
@@ -157,7 +157,7 @@ contentful:
       id: 4zsMKPKa9qCmqy0YU4mCu0
       created_at: !ruby/object:DateTime 2016-09-12 11:27:35.809000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:27:35.809000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 19Wy6q0o68Saeo0uISC4e6
@@ -172,7 +172,7 @@ contentful:
       id: 5Uz37dTcS4WM0wsMqykGyM
       created_at: !ruby/object:DateTime 2016-09-12 11:27:44.093000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:27:44.093000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Botswana: country, chapter 6'
     body: '250 km east of the Tsodilo Hills, on the eastern side of the Okavango Delta,
       lie the Gubatshaa Hills. Paintings here consist of geometric designs and finger
@@ -183,7 +183,7 @@ contentful:
       id: G2bUDmiGmi4UwaEcU8GeC
       created_at: !ruby/object:DateTime 2016-09-12 11:27:53.423000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:27:53.423000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: FTRXrT2TQao4qQ2O6Yiea
@@ -200,7 +200,7 @@ contentful:
       id: 47oOZzqdvqw4624OYwIwMY
       created_at: !ruby/object:DateTime 2016-09-12 11:28:00.942000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:28:00.942000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Botswana: country, chapter 7'
     body: 'Rock art is rare in the south-east of the country, but the site of Manyana
       is noteworthy because it is the only one that has been excavated. The paintings
@@ -218,7 +218,7 @@ contentful:
       id: 2eBKXXsYDuuoy4UmoGAcce
       created_at: !ruby/object:DateTime 2016-09-12 11:28:09.513000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:28:09.513000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5DlH7qo75uqEUsW4qmGywg
@@ -234,7 +234,7 @@ contentful:
       id: dPgwiUL3AkUeqOoAcmgG0
       created_at: !ruby/object:DateTime 2016-09-12 11:28:17.317000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:42:22.619000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Cupules and grooves
     title_internal: 'Botswana: country, chapter 8'
     body: Cupules and grooves engravings can be found in the Tsodilo Hills, and also
@@ -247,7 +247,7 @@ contentful:
       id: 5dJBDiteWQoIui2AKAAC00
       created_at: !ruby/object:DateTime 2016-09-12 11:28:26.560000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:28:26.560000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 66x1NGJT6Eku8UIAYqQEMW
@@ -263,7 +263,7 @@ contentful:
       id: 4Jy5ySl2ByIo6wE442Ua4k
       created_at: !ruby/object:DateTime 2016-09-12 11:28:33.030000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:28:33.030000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Botswana: country, chapter 9'
     body: Because the identity of the artists are unknown to us we can only speculate
       on the function and/or meanings of the art in relation to other rock art traditions
@@ -281,7 +281,7 @@ contentful:
       id: 4MTpPfi0MgCWMswEYQocii
       created_at: !ruby/object:DateTime 2016-09-12 11:03:48.079000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:03:48.079000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: "Campbell, Alec; Robbins, Larry, Taylor, Michael (2010) Tsodilo
       Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University
       Press.\n\nVan der Ryst, Maria; Lombard, Marlize; Biemond, Wim. (2004) Rocks

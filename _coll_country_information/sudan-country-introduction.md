@@ -5,14 +5,14 @@ contentful:
     id: 4fITEJHibm4iy8ykmE2s0G
     created_at: !ruby/object:DateTime 2015-11-26 12:22:39.465000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:14.925000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Sudan: country introduction'
   chapters:
   - sys:
       id: 1sqHdOmWbeyY42OCS0Sc4u
       created_at: !ruby/object:DateTime 2015-11-26 12:18:28.564000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:18:28.564000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Sudan: country, chapter 1'
     body: 'Sudan''s known rock art mainly consists of paintings and engravings on
@@ -27,7 +27,7 @@ contentful:
       id: 1993CZTJXsyeWaOscywWs4
       created_at: !ruby/object:DateTime 2015-11-26 12:14:29.575000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:12:37.390000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4rPFCqitX2sUOAGUEAqui4
@@ -43,7 +43,7 @@ contentful:
       id: 2qQoPRbg6Q0aMQsc2WWicu
       created_at: !ruby/object:DateTime 2015-11-26 12:18:56.395000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:18:56.395000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography
     title_internal: 'Sudan: country, chapter 2'
     body: Sudan covers nearly 2,000,000 km² and is geographically diverse, dominated
@@ -59,7 +59,7 @@ contentful:
       id: 4pTDZNCHuo8Wi22GSsSSMK
       created_at: !ruby/object:DateTime 2015-11-26 12:19:26.835000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:19:26.835000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Sudan: country, chapter 3'
     body: Historically, rock art research in Sudan has either been incorporated into
@@ -76,7 +76,7 @@ contentful:
       id: 4O1OTdhzb2UIQYeuuickg6
       created_at: !ruby/object:DateTime 2015-11-26 12:19:49.980000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:20:08.533000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Rock art types
     title_internal: 'Sudan: country, chapter 4'
     body: |-
@@ -89,7 +89,7 @@ contentful:
       id: 4T61G6jdTqmkMKWiEmIcEe
       created_at: !ruby/object:DateTime 2015-11-26 12:15:01.481000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:13:14.413000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: AMf0wybjzMekgCuSAs28E
@@ -105,7 +105,7 @@ contentful:
       id: 1KCSPDy6Dyqm2g6OkEeGMy
       created_at: !ruby/object:DateTime 2015-11-26 12:20:29.697000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:20:29.697000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronology
     title_internal: 'Sudan: country, chapter 5'
     body: The understanding of much of Sudanese prehistory as it relates to rock art
@@ -127,7 +127,7 @@ contentful:
       id: 5E1CsZXmy4g0484oGIG2W6
       created_at: !ruby/object:DateTime 2015-11-26 12:15:30.625000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:13:29.546000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4pB2o28EnCOk6w8m8IwciG
@@ -143,7 +143,7 @@ contentful:
       id: 3xX43VnxhuGoG0KKMca2iG
       created_at: !ruby/object:DateTime 2015-11-26 12:20:54.588000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:20:54.588000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Sudan: country, chapter 6'
     body: 'Ascribing dates to rock art like that at Jebel Uweinat is also uncertain
@@ -166,7 +166,7 @@ contentful:
       id: 26BMChmzneksWYm4uQeK6u
       created_at: !ruby/object:DateTime 2015-11-26 12:16:01.977000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:13:48.660000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2JHzf9XFUACqyq0AAaw8CQ
@@ -183,7 +183,7 @@ contentful:
       id: 6LV3FmRkCkCOm8UgKQ2e26
       created_at: !ruby/object:DateTime 2015-11-26 12:17:53.755000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:17:53.755000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Jesse, F. 2005. *Rock Art in Lower Wadi Howar, northwest Sudan*. Sahara vol.16, pp. 27-38
 

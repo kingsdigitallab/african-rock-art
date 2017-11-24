@@ -5,7 +5,7 @@ contentful:
     id: 6hiXYeBCfYyAgq0uSYYA4q
     created_at: !ruby/object:DateTime 2015-11-26 10:12:12.305000000 Z
     updated_at: !ruby/object:DateTime 2016-10-14 13:19:39.829000000 Z
-    content_type_id: 5BpsmbwGhUi8wYwIEKO0Oa
+    content_type_id: introduction
   title: Origins of rock art in Africa
   slug: origins
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: fZLY1sn2JGo800I8oW2us
       created_at: !ruby/object:DateTime 2015-11-26 10:12:41.393000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:28:15.527000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'General: origins, chapter 1'
     body: The oldest scientifically-dated rock art in Africa dates from around 30,000
@@ -30,7 +30,7 @@ contentful:
       id: 3B1nQ7Xsooq6Ae4EyE0Oko
       created_at: !ruby/object:DateTime 2015-11-26 10:10:47.465000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:10:47.465000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2cVEIKXUmwQqwyOwauuGYc
@@ -45,7 +45,7 @@ contentful:
       id: 6sHCGiplbG4SuMYmeE8UW2
       created_at: !ruby/object:DateTime 2015-11-26 10:13:10.958000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:13:10.958000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'General: origins, chapter 2'
     body: Between 1969 and 1972, German archaeologist, W.E. Wendt, researching in
       an area known locally as 'Goachanas', unearthed several painted slabs in a cave
@@ -60,7 +60,7 @@ contentful:
       id: 4jqrHFkmpqs8GWogw8cEAU
       created_at: !ruby/object:DateTime 2015-11-26 10:13:34.687000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:13:34.687000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Art and our modern mind
     title_internal: 'General: origins, chapter 3'
     body: |-
@@ -71,7 +71,7 @@ contentful:
       id: 4HfDzzg8rC6mA0eU6IQkm2
       created_at: !ruby/object:DateTime 2015-11-26 10:14:13.397000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:14:13.397000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Pattern and design
     title_internal: 'General: origins, chapter 4'
     body: |-
@@ -82,7 +82,7 @@ contentful:
       id: 5On76lx0FUGsGGkymAwei4
       created_at: !ruby/object:DateTime 2015-11-26 10:11:15.382000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:11:15.382000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4lvOlwlUMwQqe6Cm2ka20c
@@ -97,7 +97,7 @@ contentful:
       id: jgRuQ2IIAocma4AWygyke
       created_at: !ruby/object:DateTime 2015-11-26 10:14:30.893000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:14:30.893000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'General: origins, chapter 5'
     body: |-
       For many archaeologists, the incised pieces of ochre at Blombos are the most complex and best-formed evidence for early abstract representations, and are unequivocal evidence for symbolic thought and language. The debate about when we became a symbolic species and acquired fully syntactical language – what archaeologists term ‘modern human behaviour’ – is both complex and contested. It has been proposed that these cross-hatch patterns are clear evidence of thinking symbolically, because the motifs are not representational and as such are culturally constructed and arbitrary. Moreover, in order for the meaning of this motif to be conveyed to others, language is a prerequisite.
@@ -107,7 +107,7 @@ contentful:
       id: 4jbiaStTHWG8oUgEUMOisG
       created_at: !ruby/object:DateTime 2015-11-26 10:11:50.180000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:29:25.645000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5KFpq9vW9O6k6umooQYiKA
@@ -123,7 +123,7 @@ contentful:
       id: 64NOsXlchaeM2YIEAcQoGw
       created_at: !ruby/object:DateTime 2015-11-26 10:14:48.739000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:14:48.739000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'General: origins, chapter 6'
     body: Personal ornamentation and engraved designs are the earliest evidence of
       art in Africa, and are inextricably tied up with the development of human cognition.

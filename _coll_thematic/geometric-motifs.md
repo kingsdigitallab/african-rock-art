@@ -5,7 +5,7 @@ contentful:
     id: 6h9anIEQRGmu8ASywMeqwc
     created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: Geometric motifs and cattle brands
   slug: geometric-motifs
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 5plObOxqdq6MuC0k4YkCQ8
       created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:05:35.909000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Geometric motifs: thematic, chapter 1'
     body: |-
       The rock art of Eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
@@ -31,7 +31,7 @@ contentful:
       id: 71cjHu2xrOC8O6IwSmMSS2
       created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5yD7fOuAdU4cemkewCqCMO
@@ -47,7 +47,7 @@ contentful:
       id: 36QhSWVHKgOeMQmSMcGeWs
       created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: ''
     title_internal: 'Geometric motifs: thematic, chapter 2'
     body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
@@ -64,7 +64,7 @@ contentful:
       id: 4t76LZy5zaSMGM4cUAsYOq
       created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1lBqQePHxK2Iw8wW8S8Ygw
@@ -81,7 +81,7 @@ contentful:
       id: 3HGWtlhoS424kQCMo6soOe
       created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
       updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Geometric motifs: thematic, chapter 3'
     body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a similar
       visible relationship. The southernmost site is well known for its 167 megalithic
@@ -94,7 +94,7 @@ contentful:
       id: kgoyTkeS0oQIoaOaaWwwm
       created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 19lqDiCw7UOomiMmYagQmq
@@ -111,7 +111,7 @@ contentful:
       id: 2JZ8EjHqi4U8kWae8oEOEw
       created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
       updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Geometric motifs: thematic, chapter 4'
     body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
       of animals signifies a sense of belonging rather than a mark of ownership as
@@ -133,7 +133,7 @@ contentful:
       id: 3sW37nPBleC8WSwA8SEEQM
       created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5yUlpG85GMuW2IiMeYCgyy
@@ -149,7 +149,7 @@ contentful:
       id: 6zBkbWkTaEoMAugoiuAwuK
       created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
       updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Geometric motifs: thematic, chapter 5'
     body: "However, not all pastoralist geometric motifs can be associated with meat-feasting
       or livestock branding; they may have wider symbolism or be symbolic of something
@@ -175,7 +175,7 @@ contentful:
       id: 2oNK384LbeCqEuSIWWSGwc
       created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
       updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |-
       Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
 

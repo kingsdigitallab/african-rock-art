@@ -5,7 +5,7 @@ contentful:
     id: R61tF3euwCmWCUiIgi42q
     created_at: !ruby/object:DateTime 2015-11-26 17:46:43.669000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:49:40.702000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: Hairdressing in the Acacus
   slug: hairdressing-in-the-acacus
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 6eJZLBozwQuAI08GMkwSi6
       created_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 1'
     body: Hair is a global form of social communication. Among numerous social groups
       throughout Africa, hairstyling and hairdressing hold great cultural and aesthetic
@@ -35,7 +35,7 @@ contentful:
       id: 3w7Qbm8FOw2oqQsm6WsI0W
       created_at: !ruby/object:DateTime 2015-11-26 17:38:46.614000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:38:46.614000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5vt4IZCBSEmAQESGiGIS6Q
@@ -51,7 +51,7 @@ contentful:
       id: 6x5pF6pyus2WomGOkkGweC
       created_at: !ruby/object:DateTime 2015-11-26 17:42:59.906000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:42:59.906000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 2'
     body: |-
       We have recently documented a particularly interesting set of images from Uan Amil, at Wadi Teshuinat in the Acacus Mountains, south-western Libya, which reflect the cultural significance of hair in African societies. The scenes depict groups of people engaged in a variety of communal social practices wearing elaborate coiffures (Fig. 1), together with some very discrete moments of personal hairdressing.
@@ -61,7 +61,7 @@ contentful:
       id: 1XeQI6NL3qeuiosIEoiESE
       created_at: !ruby/object:DateTime 2015-11-26 17:39:31.382000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:39:31.382000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2PRW2sBJWgiEwA40U2GSiC
@@ -78,7 +78,7 @@ contentful:
       id: 2GniIJcZiUSuYWQYYeQmOS
       created_at: !ruby/object:DateTime 2015-11-26 17:43:22.643000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:43:22.643000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 3'
     body: 'The rock shelter of Uan Amil was discovered in 1957 by the Italian-Libyan
       Joint Archaeological Mission surveying in the Acacus and Messak regions of Libya.
@@ -97,7 +97,7 @@ contentful:
       id: 5Vp0rW88lqs6UcgaSm6egI
       created_at: !ruby/object:DateTime 2015-11-26 17:39:56.320000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:39:56.320000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1KUdkb6fbmW8KOsKWEcu02
@@ -114,7 +114,7 @@ contentful:
       id: 59XlSp8P7O0ms8UI0auQCw
       created_at: !ruby/object:DateTime 2015-11-26 17:43:42.266000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:43:42.266000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 4'
     body: |-
       The Wodaabe number around 125,000. As pastoral nomads they migrate often and over large geographical areas, keeping mahogany-coloured Zebu cattle which have a hump on their back and long horns, shaped like a lyre. As a cultural group they have attracted much anthropological attention because of their traditional values of beauty (in particular the male beauty pageant) which pervades their everyday lives and practices.
@@ -124,7 +124,7 @@ contentful:
       id: 5mnMqJRcbuQqk0ucEOAGCw
       created_at: !ruby/object:DateTime 2015-11-26 17:40:22.244000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:40:22.244000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2blaCOYdgYsqqCGakGIwoA
@@ -140,7 +140,7 @@ contentful:
       id: qhIjVs2Vxe4muMCWawu0k
       created_at: !ruby/object:DateTime 2015-11-26 17:44:06.559000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:44:06.559000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 5'
     body: |-
       A long, narrow face is also admired and this is enhanced by shaping the hair on top of the head, and also using an ostrich feather to elongate the face (Bovin, 2001:26). The painting in Fig. 4, also from Wadi Teshuinat, characterises this.
@@ -150,7 +150,7 @@ contentful:
       id: 6aPxu2uKyci0Kee8G4gQcm
       created_at: !ruby/object:DateTime 2015-11-26 17:40:47.827000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:40:47.827000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4gAFUKBZEsGKMie4cMomwS
@@ -167,7 +167,7 @@ contentful:
       id: 74IrMM3qGkksSuA4yWU464
       created_at: !ruby/object:DateTime 2015-11-26 17:44:28.703000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:44:28.703000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 6'
     body: The importance of hair styling and its importance in social practices are
       evident in Figs. 3 and 6 where hair-washing, hairstyling or hair preparation
@@ -186,7 +186,7 @@ contentful:
       id: tvHqAC4aqc2QQWIS8WA26
       created_at: !ruby/object:DateTime 2015-11-26 17:42:04.601000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:42:04.601000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 1a8FFEsdsuQeYggMCAasii
@@ -203,7 +203,7 @@ contentful:
       id: 5qMQLHHz7Uqg460WGO6AW0
       created_at: !ruby/object:DateTime 2015-11-26 17:44:46.392000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:44:46.392000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: hairdressing, chapter 7'
     body: The Wodaabe invest vast amounts of time and resources in their outward appearance
       and the need to beautify and refine. ‘Art’ is not just something that is aesthetically

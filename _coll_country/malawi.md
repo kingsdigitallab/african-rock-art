@@ -5,7 +5,7 @@ contentful:
     id: 3Rc64q2rIcq4sGuGywWmAm
     created_at: !ruby/object:DateTime 2015-12-08 11:21:35.564000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 09:23:54.459000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: 'Malawi '
   slug: malawi
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=107993%7C107992%7C108205%7C107988%7C107990%7C107989%7C107991%7C107982%7C27049
@@ -38,7 +38,7 @@ contentful:
       id: 5C6UTnDXt6A4q6ggIcYMmu
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.921000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:51:26.975000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: 'Namzeze, Malawi '
     slug: namzeze
     chapters:
@@ -46,7 +46,7 @@ contentful:
         id: 5kJvUt9jLqo0GuIoWskUgA
         created_at: !ruby/object:DateTime 2016-07-27 07:45:24.101000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:32:20.393000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: featured site, chapter 1'
       body: 'Namzeze, one of the most emblematic sites in the Chongoni rock art area,
         is currently one of the three that can be visited and is open to the public.  Unlike
@@ -61,7 +61,7 @@ contentful:
         id: MUbQnik9qKECmGamGEkKa
         created_at: !ruby/object:DateTime 2016-07-27 07:45:24.019000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:33:30.093000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1IFNGAi4IkScieYwOmGiMA
@@ -78,7 +78,7 @@ contentful:
         id: 5R7b3Vb7H2UueCms0uC6Cy
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.819000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:34:17.661000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3mGBPrPBdYqWW4MUUissms
@@ -94,7 +94,7 @@ contentful:
         id: 1DWS9OfqHuK6Sca6IMYEEU
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.189000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:23.189000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: featured site, chapter 2'
       body: "The superimpositions in the panel above show that the red, schematic
         paintings covering most of the rock face are undoubtedly older than those
@@ -116,7 +116,7 @@ contentful:
         id: 1sxQJiwCfecQeO88iQiQgm
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.173000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:34:50.814000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 26hf0yyVDWY6MAGWQeiaMY
@@ -132,7 +132,7 @@ contentful:
         id: 4NKmod8inm0CKoKWeIE4CW
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.031000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:23.031000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: featured site, chapter 3'
       body: The second type of painting found in Namzeze is radically different and
         depicts mainly quadrupeds and birds, as well as some geometric symbols and
@@ -150,7 +150,7 @@ contentful:
         id: 5LnKSbFOfuiEwG4gKk2muG
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.972000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.972000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1AdufAw4d6U6ioCOEiQyye
@@ -166,7 +166,7 @@ contentful:
         id: 4b9kxjjlvWgowy6QaKISeM
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.920000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.920000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: featured site, chapter 4'
       body: 'Regarding the interpretation of the paintings, they are directly related
         to the *nyau*, a secret society of the Chewa and other neighbouring groups
@@ -182,7 +182,7 @@ contentful:
         id: 10PySD1RyuIycESgkSC6wc
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.859000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.859000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 7iE4ypc2QwGUOmSAscwqC8
@@ -198,7 +198,7 @@ contentful:
         id: 7oK266GlZ6uWwAyIQU2Ka2
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.733000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:05:31.732000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: featured site, chapter 5'
       body: "In fact, some of the more than 100 types of masks can be easily identified
         in the rock shelters.  The most common is the *kasiyamaliro*, a big structure
@@ -217,7 +217,7 @@ contentful:
         id: 3aGsr1Cs7Ccqu2AeSqo6GI
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.151000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.151000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3oM6s0shy0UgQe8MAgy0GK
@@ -234,7 +234,7 @@ contentful:
         id: 1XMXz5051iESkU004EmQsi
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.173000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.173000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2hJ1GBmp4cgOsaYWaCU684
@@ -249,7 +249,7 @@ contentful:
         id: 4uCXTRqJMQeYuogAgOWY8Y
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.059000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.059000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: featured site, chapter 6'
       body: "Paintings associated to the *nyau* secret society were used during a
         very specific period of time (before that other styles of white paintings
@@ -269,7 +269,7 @@ contentful:
         id: 43haKDmJdC0QCSgEkw0gyW
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.058000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 10:01:31.562000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: 'Smith, B. 2001. ''Forbidden Images: Rock Paintings and the Nyau
         Secret Society of Central Malawi and Eastern Zambia''. *African Archaeological
         Review, 18 (4)* pp. 187-212'
@@ -293,7 +293,7 @@ contentful:
       id: TDxrMhDuc8QiYm8sa4Kqm
       created_at: !ruby/object:DateTime 2016-07-27 07:45:24.278000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:24.278000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Malawi: Key Facts'
     image_count: '759'
     date_range: 1,000 BC onwards
@@ -305,14 +305,14 @@ contentful:
       id: Yh91lE4KycSSwYOQQOqkW
       created_at: !ruby/object:DateTime 2016-07-27 07:44:27.867000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.867000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Malawi: country introduction'
     chapters:
     - sys:
         id: 3xJlmjTd44aAqYWCeI82ac
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.966000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.966000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Malawi: country, chapter 1'
       body: "Malawi is a landlocked country in south-eastern Africa, located between
@@ -329,7 +329,7 @@ contentful:
         id: 5KKSbUlQm4MUMEgAUaweyu
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.937000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.937000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and rock art distribution
       title_internal: 'Malawi: country, chapter 2'
       body: 'The geography of Malawi is conditioned by the Great Rift Valley, which
@@ -346,7 +346,7 @@ contentful:
         id: 1zuN2gMyiAg88cw2aKGYWe
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.761000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.761000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: pDDj71RyBUyqiqsouEeew
@@ -361,7 +361,7 @@ contentful:
         id: 2iANG11zHqMAmKYmsIKeu8
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.150000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.150000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: country, chapter 3'
       body: 'Although rock art can be found in several areas in Malawi, the main concentration
         of sites is located in the Chongoni area, in the westernmost part of central
@@ -380,7 +380,7 @@ contentful:
         id: 271lgJ95Pmkmu0s8a4Qw2k
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.218000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.218000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3lEqMHYBwIse0EmgGkOygW
@@ -396,7 +396,7 @@ contentful:
         id: 5qpJtPXB4W0a4a04aQeSgG
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.145000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.145000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'Malawi: country, chapter 4'
       body: 'Rock art in Malawi has been documented by Europeans since at least the
@@ -419,7 +419,7 @@ contentful:
         id: 1JMW93aEcQSEcwcG06gg6y
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.025000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.025000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2OXCOlKLfWO4yUYMc6YiOK
@@ -435,7 +435,7 @@ contentful:
         id: 5lHiHzAofecm6YEEG8YGOu
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.950000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.950000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: country, chapter 5'
       body: 'Another important aspect of rock art research in Malawi has been to look
         at the maintenance of painting traditions until relatively recent times. These
@@ -449,7 +449,7 @@ contentful:
         id: 1oucgcWELuwwQ8QgCG4kKY
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.830000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.830000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: 'Themes '
       title_internal: 'Malawi: country, chapter 6'
       body: 'Rock art in Malawi is clearly defined in two groups with different styles,
@@ -468,7 +468,7 @@ contentful:
         id: 2shnvvJ5isC2AcYeUmYogI
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.783000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:55:24.416000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2D4MCayW9iK0Oi00QGWsIq
@@ -484,7 +484,7 @@ contentful:
         id: 1ggf46GoBKEqigYYyegCyC
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.069000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:56:52.968000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Malawi: country, chapter 7'
       body: 'The second and more modern rock art tradition found in Malawi is represented
         by white figures made with white clay daubed onto rock surfaces with the finger.
@@ -506,7 +506,7 @@ contentful:
         id: 2QkvnVmQb64kASYWcmGcge
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.051000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.051000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3jS61b3w2AMEwogGu2CoEI
@@ -523,7 +523,7 @@ contentful:
         id: 5x1toGMQuWueQmUiYUmSa2
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.009000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.009000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'Malawi: country, chapter 8'
       body: 'Although it is generally accepted that the red schematic paintings are
@@ -540,7 +540,7 @@ contentful:
         id: 5qd3rUg0MwUMKM2CkEgII
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.940000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:28:33.674000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2xzgTrXwqQKa0Wa0w6K06k
@@ -558,7 +558,7 @@ contentful:
         id: Ao0sic2MKGOE4G66MYqkm
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.885000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 10:02:45.154000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Lindgren, N.E. & Schoffeleers, J.M. 1978. 'Rock art and nyau
         symbolism in Malawi'  *Malawi Government, Department of Antiquities 18.* Malawi,
         Montfort Press  \n\nSmith, B.W. 1995.  'Rock art in south-Central Africa:

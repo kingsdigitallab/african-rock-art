@@ -5,14 +5,14 @@ contentful:
     id: 6aJoaZnAAMsKUGGaAmkYIe
     created_at: !ruby/object:DateTime 2015-11-26 12:42:41.014000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:41:48.166000000 Z
-    content_type_id: Q4XNev9Iom0uGquue2eoS
+    content_type_id: country_information
   title: 'Morocco: country introduction'
   chapters:
   - sys:
       id: 3PqAqA0X0cKoOKsc2ciiae
       created_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Introduction
     title_internal: 'Morocco: country, chapter 1'
     body: 'Morocco is located at the north-western corner of Africa, in a unique area
@@ -27,7 +27,7 @@ contentful:
       id: 4htOF13DGEcYas2yAUI6oI
       created_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4Jt8P55Z56SkEegOMO6euY
@@ -43,7 +43,7 @@ contentful:
       id: 2UTNFDWbM4wCMAA2weoWUw
       created_at: !ruby/object:DateTime 2015-11-26 12:39:56.904000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:32:33.859000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 46fV0mfFKMUYyywY0iUGYK
@@ -59,7 +59,7 @@ contentful:
       id: 4Dc0V6fW8wWcquEyqkemKK
       created_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Geography and rock art distribution
     title_internal: 'Morocco: country, chapter 2'
     body: Morocco has a very variable geography, with the Atlas Mountains crossing
@@ -76,7 +76,7 @@ contentful:
       id: 1ZpASVa0UcU4EEagkAm4MQ
       created_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 6AO1Pff4UowYQMsYU444qS
@@ -92,7 +92,7 @@ contentful:
       id: 30E1RdstwIuyse04A6sAUE
       created_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Morocco: country, chapter 3'
     body: The second main zone, an arid region where the majority of Moroccan rock
       art sites are situated, contains the oldest engravings in the country, some
@@ -105,7 +105,7 @@ contentful:
       id: 1GwI61s72o2AgsESI8kkCI
       created_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Research history
     title_internal: 'Morocco: country, chapter 4'
     body: 'European audiences began studying the rock art in Morocco decades after
@@ -125,7 +125,7 @@ contentful:
       id: 4Rkp5dL3BegaOyGkisoMwg
       created_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Themes
     title_internal: 'Morocco: country, chapter 5'
     body: 'As in most countries, mammals are the most frequent depictions, especially
@@ -140,7 +140,7 @@ contentful:
       id: ZigzuAFbcOgC8IEGkwEQi
       created_at: !ruby/object:DateTime 2015-11-26 12:40:59.047000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:36:19.352000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2iKZIRebewsGGQiKiOgQq
@@ -155,7 +155,7 @@ contentful:
       id: 2XErL5q2oE6yg4sYSseM8C
       created_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title: Chronology
     title_internal: 'Morocco: country, chapter 6'
     body: A consensus has yet to be achieved about Moroccan rock art chronology between
@@ -173,7 +173,7 @@ contentful:
       id: 6wwVooOVZSw6SyKQ6eooma
       created_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2nR1MWquOoWQiikYooK22Q
@@ -189,7 +189,7 @@ contentful:
       id: UN3bodv8KAWYgsEuyCM2E
       created_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: |+
       Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 

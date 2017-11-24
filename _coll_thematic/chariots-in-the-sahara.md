@@ -5,7 +5,7 @@ contentful:
     id: 72UN6TbsDmocqeki00gS4I
     created_at: !ruby/object:DateTime 2015-11-26 17:35:22.951000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:47:35.130000000 Z
-    content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+    content_type_id: thematic
   title: Chariots in the Sahara
   slug: chariots-in-the-sahara
   lead_image:
@@ -21,7 +21,7 @@ contentful:
       id: 3pSkk40LWUWs28e0A2ocI2
       created_at: !ruby/object:DateTime 2015-11-26 17:27:59.282000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:27:59.282000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 1'
     body: A number of sites we have been cataloguing recently, located in the Libyan
       Desert, notably the Fezzan region, have included paintings of chariots in a
@@ -34,7 +34,7 @@ contentful:
       id: 2Hjql4WXLOsmCogY4EAWSq
       created_at: !ruby/object:DateTime 2015-11-26 17:18:19.534000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:18:19.534000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 2Ed8OkQdX2YIYAIEQwiY8W
@@ -50,7 +50,7 @@ contentful:
       id: 3TiPUtUxgAQUe0UGoQUqO0
       created_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 2'
     body: The chariot has been one of the great empowering innovations of history.
       It likely originated in Mesopotamia about 3000 BC due to advances in metallurgy
@@ -66,7 +66,7 @@ contentful:
       id: 5ZxcAksrFSKEGacE2iwQuk
       created_at: !ruby/object:DateTime 2015-11-26 17:19:58.050000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:19:58.050000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5neJpIDOpyUQAWC8q0mCIK
@@ -82,7 +82,7 @@ contentful:
       id: 2Grf0McSJ2Uq4SUaUQAMwU
       created_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 3'
     body: The chariot in the Sahara was probably introduced by the Garamantes, a cultural
       group thought to be descended from Berbers and Saharan pastoralists. There is
@@ -98,7 +98,7 @@ contentful:
       id: 6fOKcyIgKcyMi8uC4WW6sG
       created_at: !ruby/object:DateTime 2015-11-26 17:20:33.572000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:20:33.572000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4DBpxlJqeAS4O0eYeCO2Ms
@@ -114,7 +114,7 @@ contentful:
       id: CAQ4O5QWhaCeOQAMmgGSo
       created_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 4'
     body: On average there are about 500 drawings of chariots across the Sahara, from
       the Fezzan in Libya through the Aïr of Niger into northern Mali and then westward
@@ -135,7 +135,7 @@ contentful:
       id: 5cgk0mmvKwC0IGsCyIsewG
       created_at: !ruby/object:DateTime 2015-11-26 17:20:59.281000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:20:59.281000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4XYASoQz6UQggUGI8gqkgq
@@ -152,7 +152,7 @@ contentful:
       id: 5pKuD1vPdmcs2o8eQeumM4
       created_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 5'
     body: The absence of archaeological evidence for chariots has led to the suggestion
       that some representations of chariots may have been the result of cultural diffusion,
@@ -166,7 +166,7 @@ contentful:
       id: wckVt1SCpqs0IYeaAsWeS
       created_at: !ruby/object:DateTime 2015-11-26 17:21:42.421000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:22:31.484000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 279BaN9Z4QeOYAWCMSkyeQ
@@ -183,7 +183,7 @@ contentful:
       id: 7fKfpmISPYs04YOi8G0kAm
       created_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 28JPIQ4mYQCMYQmMQ0Oke8
@@ -198,7 +198,7 @@ contentful:
       id: 3xUchEu4sECWq4mAoEYYM4
       created_at: !ruby/object:DateTime 2015-11-26 17:23:33.472000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:23:33.472000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 697LgKlm3SWSQOu8CqSuIO
@@ -214,7 +214,7 @@ contentful:
       id: 6bQzinrqXmYESoWqyYYyuI
       created_at: !ruby/object:DateTime 2015-11-26 17:24:01.069000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:24:01.069000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 5RKPaYinvOW6yyCGYcIsmK
@@ -230,7 +230,7 @@ contentful:
       id: 5qthr4HJaEoIe2sOOqiU4K
       created_at: !ruby/object:DateTime 2015-11-26 17:29:40.388000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:29:40.388000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 6'
     body: |-
       Figs. 7 and 8 may or may not depict chariots. The rectangular shape in the top left of Fig. 7 and to the left in Fig. 8 are potentially abstracted forms of the chariot similar to the ‘flattened out’ depictions above in Figs. 5 and 6. The representation in Fig. 7 sits alongside distinguishing figures of the Horse Period when chariots were being used, such as geometric bi-triangular figures, spears or lances, women wearing long dresses, and animals drawn in a fairly naturalistic style.
@@ -240,7 +240,7 @@ contentful:
       id: 2NEHx4J06IMSceEyC4w0CA
       created_at: !ruby/object:DateTime 2015-11-26 17:24:30.605000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:24:30.605000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 74j3IOLwLS8IocMCACY2W
@@ -256,7 +256,7 @@ contentful:
       id: 1YKtISfrKAQ6M4mMawIOYK
       created_at: !ruby/object:DateTime 2015-11-26 17:30:08.834000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:30:08.834000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 7'
     body: |-
       In a similar manner to the schematic chariots, the depictions in Figs. 3 and 9 display the entire platform and both wheels of the chariot. In addition, more than one horse is depicted as a single horse in profile with numerous legs indicating multiple horses; an artistic technique first seen during the Upper Palaeolithic in Europe. Interestingly, in the Libyan rock art of the Acacus Mountains it seemed that animals could be conceived of in profile and in movement, but chariots were conceived of differently, and are represented in plain view, seen from above or in three-quarters perspective.
@@ -266,7 +266,7 @@ contentful:
       id: 4nHApyWfWowgG0qASeKEwk
       created_at: !ruby/object:DateTime 2015-11-26 17:25:19.180000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:25:19.180000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4Mn54dTjEQ80ssSOK0q0Mq
@@ -284,7 +284,7 @@ contentful:
       id: 5dtoX8DJv2UkguMM24uWwK
       created_at: !ruby/object:DateTime 2015-11-26 17:26:17.455000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:26:17.455000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 7zQLgo270Am82CG0Qa6gaE
@@ -301,7 +301,7 @@ contentful:
       id: 74fcVRriowwOQeWua2uMMY
       created_at: !ruby/object:DateTime 2015-11-26 17:30:27.301000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:30:27.301000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 8'
     body: Vast trading network across the Sahara Desert not only facilitated the spread
       of goods, but the routes served as a conduit for cultural diffusion through
@@ -317,7 +317,7 @@ contentful:
       id: 266zWxwbfC86gaKyG8myCU
       created_at: !ruby/object:DateTime 2015-11-26 17:26:53.266000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:26:53.266000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 4rwQF960rueIOACosUMwoa
@@ -334,7 +334,7 @@ contentful:
       id: 2mTEgMGc5iiM00MOE4WSqU
       created_at: !ruby/object:DateTime 2015-11-26 17:27:28.284000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:27:28.284000000 Z
-      content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+      content_type_id: image
     image:
       sys:
         id: 70cjifYtVeeqIOoOCouaGS
@@ -350,7 +350,7 @@ contentful:
       id: 5Z6SQu2oLuG40IIWEqKgWE
       created_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
-      content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+      content_type_id: chapter
     title_internal: 'Thematic: chariots, chapter 9'
     body: A hoard of 100,000 Roman coins from the Diocletian period (not the above)
       were unearthed near Misurata, Libya, probably used to pay both regular Roman
@@ -361,7 +361,7 @@ contentful:
       id: vVxzecw1jwam6aCcEA8cY
       created_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
-      content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+      content_type_id: citation
     citation_line: Mattingley, David. ‘Kingdom of the Sands', in *Current Archaeology*,
       Vol. 57 No 2, March/April 2004
   background_images:

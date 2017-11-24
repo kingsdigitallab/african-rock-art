@@ -5,7 +5,7 @@ contentful:
     id: OVTOPBl4COkU8SqsoSWYw
     created_at: !ruby/object:DateTime 2015-11-26 18:52:36.781000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 15:35:53.327000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Morocco
   slug: morocco
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40983
@@ -38,7 +38,7 @@ contentful:
       id: 3ljdBZ1Fra2Kokks0oYiwW
       created_at: !ruby/object:DateTime 2015-11-25 15:15:17.431000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:39:26.150000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Oukaïmeden, Morocco
     slug: oukaimeden
     chapters:
@@ -46,7 +46,7 @@ contentful:
         id: 5ggUMhTP3y0uOGcMkYkEI
         created_at: !ruby/object:DateTime 2015-11-25 15:16:09.455000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:16:09.455000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Morocco: featured site, chapter 1'
       body: |-
         Oukaïmeden is an alpine-like valley set 2,630 metres above sea level at the core of Morocco’s High Atlas. Records from the 16th century onwards refer to its seasonal profit as summer pasturage by herders coming from villages settled at mid-altitude. It is a well-known place due to the existence of a ski resort, and a well-frequented tourist destination for people coming from Marrakech during the summer. It is also home to one of the most impressive collections of rock art engravings in Morocco, with about 250 rock art sites and one thousand depictions scattered throughout the valley.
@@ -55,7 +55,7 @@ contentful:
         id: 5rhQdcEWMo0ewS4Sq4OWcu
         created_at: !ruby/object:DateTime 2015-11-25 15:11:07.744000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:11:07.744000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5A7q4PnbI4sYmQsi2u4yYg
@@ -70,7 +70,7 @@ contentful:
         id: 5VOOpZKsb6eY2MMYacY6G4
         created_at: !ruby/object:DateTime 2015-11-25 15:11:50.001000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:11:50.001000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1h9eCgWFYce8eqiq2KSGkU
@@ -86,7 +86,7 @@ contentful:
         id: 6uSaQ0ylC88yMwE4sKCkcq
         created_at: !ruby/object:DateTime 2015-11-25 15:16:30.214000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:16:30.214000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Morocco: featured site, chapter 2'
       body: High Atlas rock art is remarkably different not only from the rest of
         Moroccan rock art, but also from most other depictions documented throughout
@@ -105,7 +105,7 @@ contentful:
         id: 4uVJ5RvCgUiCuEEsKAogs2
         created_at: !ruby/object:DateTime 2015-11-25 15:12:18.882000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:12:18.882000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3OAdh6uCrCIgCeuQ2E0koa
@@ -120,7 +120,7 @@ contentful:
         id: 2rFEuu8dXSEmUYccCEwUAE
         created_at: !ruby/object:DateTime 2015-11-25 15:12:51.006000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:12:51.006000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2joH7nmXU42sE00g0GUgMq
@@ -136,7 +136,7 @@ contentful:
         id: 51fcUCW4Skk64u24W2yEam
         created_at: !ruby/object:DateTime 2015-11-25 15:16:49.016000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:16:49.016000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Morocco: featured site, chapter 3'
       body: Chronologically speaking, it seems Oukaïmeden engravings started to appear
         during the mid-3rd millennium BC, when the Sahara desert became increasingly
@@ -156,7 +156,7 @@ contentful:
         id: 1x3JfrZOaUEKmcAmkosm02
         created_at: !ruby/object:DateTime 2015-11-25 15:13:24.362000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:38:01.412000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2nGxKesCSgWOeqSqa2eoAc
@@ -172,7 +172,7 @@ contentful:
         id: 7DEhcGYGoogSOGqOMmImam
         created_at: !ruby/object:DateTime 2015-11-25 15:17:08.360000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:17:08.360000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Morocco: featured site, chapter 4'
       body: 'Unlike most of the rock art sites in North Africa, Oukaïmeden was not
         inhabited the whole year: the heavy snow that falls during the winter prevented
@@ -185,7 +185,7 @@ contentful:
         id: 1PdfGxdelmo8gkSyeu4kWK
         created_at: !ruby/object:DateTime 2015-11-25 15:14:00.276000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:14:00.276000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: RXRm1UgosSw248YEayEgC
@@ -202,7 +202,7 @@ contentful:
         id: 28aOey79CAaGems6OOqW4C
         created_at: !ruby/object:DateTime 2015-11-25 15:17:25.702000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:38:58.399000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Morocco: featured site, chapter 5'
       body: |-
         Although Oukaïmeden rock art is distributed throughout the valley, there are some sites with scenes that stand above the rest due to their complexity and significance. One of them is the so-called Elephants’ Frieze, a horizontal rock face where four elephants, a feline, a rhinoceros or warthog and two human figures facing the animals were depicted. Two later, vertical Libyan-Berber inscriptions were added to the panel. The scene is placed near a shelter, facing a stream which constitutes one of the main access routes to the valley grazing areas.
@@ -213,7 +213,7 @@ contentful:
         id: 5qcDvyXGlUeO0OYGECIQYG
         created_at: !ruby/object:DateTime 2015-11-25 15:14:50.132000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:14:50.132000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |-
         Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 
@@ -242,7 +242,7 @@ contentful:
       id: 55xcaWNyV2q0u8YuWKWgCU
       created_at: !ruby/object:DateTime 2015-11-26 11:27:12.053000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:27:12.053000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Morocco: key facts'
     image_count: 921 images
     date_range: Mostly 3,000 BC to AD 700
@@ -254,14 +254,14 @@ contentful:
       id: 6aJoaZnAAMsKUGGaAmkYIe
       created_at: !ruby/object:DateTime 2015-11-26 12:42:41.014000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:41:48.166000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Morocco: country introduction'
     chapters:
     - sys:
         id: 3PqAqA0X0cKoOKsc2ciiae
         created_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Morocco: country, chapter 1'
       body: 'Morocco is located at the north-western corner of Africa, in a unique
@@ -277,7 +277,7 @@ contentful:
         id: 4htOF13DGEcYas2yAUI6oI
         created_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4Jt8P55Z56SkEegOMO6euY
@@ -293,7 +293,7 @@ contentful:
         id: 2UTNFDWbM4wCMAA2weoWUw
         created_at: !ruby/object:DateTime 2015-11-26 12:39:56.904000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:32:33.859000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 46fV0mfFKMUYyywY0iUGYK
@@ -309,7 +309,7 @@ contentful:
         id: 4Dc0V6fW8wWcquEyqkemKK
         created_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and rock art distribution
       title_internal: 'Morocco: country, chapter 2'
       body: Morocco has a very variable geography, with the Atlas Mountains crossing
@@ -327,7 +327,7 @@ contentful:
         id: 1ZpASVa0UcU4EEagkAm4MQ
         created_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6AO1Pff4UowYQMsYU444qS
@@ -343,7 +343,7 @@ contentful:
         id: 30E1RdstwIuyse04A6sAUE
         created_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Morocco: country, chapter 3'
       body: The second main zone, an arid region where the majority of Moroccan rock
         art sites are situated, contains the oldest engravings in the country, some
@@ -356,7 +356,7 @@ contentful:
         id: 1GwI61s72o2AgsESI8kkCI
         created_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'Morocco: country, chapter 4'
       body: 'European audiences began studying the rock art in Morocco decades after
@@ -376,7 +376,7 @@ contentful:
         id: 4Rkp5dL3BegaOyGkisoMwg
         created_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Themes
       title_internal: 'Morocco: country, chapter 5'
       body: 'As in most countries, mammals are the most frequent depictions, especially
@@ -391,7 +391,7 @@ contentful:
         id: ZigzuAFbcOgC8IEGkwEQi
         created_at: !ruby/object:DateTime 2015-11-26 12:40:59.047000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:36:19.352000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2iKZIRebewsGGQiKiOgQq
@@ -406,7 +406,7 @@ contentful:
         id: 2XErL5q2oE6yg4sYSseM8C
         created_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'Morocco: country, chapter 6'
       body: A consensus has yet to be achieved about Moroccan rock art chronology
@@ -425,7 +425,7 @@ contentful:
         id: 6wwVooOVZSw6SyKQ6eooma
         created_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2nR1MWquOoWQiikYooK22Q
@@ -441,7 +441,7 @@ contentful:
         id: UN3bodv8KAWYgsEuyCM2E
         created_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |+
         Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 

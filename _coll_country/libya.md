@@ -5,7 +5,7 @@ contentful:
     id: 5s1jlhJi6W0U0QcE4moqs4
     created_at: !ruby/object:DateTime 2015-11-26 18:51:28.567000000 Z
     updated_at: !ruby/object:DateTime 2017-11-21 09:50:47.124000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: Libya
   slug: libya
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=37611
@@ -45,7 +45,7 @@ contentful:
       id: 5tEidWPQmAyy22u8wGEwC4
       created_at: !ruby/object:DateTime 2015-11-25 15:32:46.632000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:53:06.792000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Fighting cats, Libya
     slug: fighting-cats
     chapters:
@@ -53,7 +53,7 @@ contentful:
         id: 1Bkxdxu3Pay6SEYMy8s08e
         created_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Libya: featured site, chapter 1'
       body: Running from the Red Sea to the Atlantic Ocean, the Sahara is by far the
         world's largest hot desert. It covers over 3,500,000 square miles (9,000,000
@@ -70,7 +70,7 @@ contentful:
         id: 1bjII0uFguycUGI0skGqS2
         created_at: !ruby/object:DateTime 2015-11-25 15:24:17.896000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 14:44:36.006000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 23Sckf5aOU4E8WOkg8yoIG
@@ -86,7 +86,7 @@ contentful:
         id: 4eUSc4QsRW2Mey02S8a2IM
         created_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Libya: featured site, chapter 2'
       body: |-
         Little is known about the people who lived in the Sahara thousands of years ago; however, through rock art, we can discern who they may have been and what images were important to them. Throughout the desert, rock art engravings and paintings depict an earlier story of the Sahara: the wild animals that lived there; the cattle herds that provided food and labour; their daily activities and beliefs are all displayed in caves and cliffs, valleys or plateaus.
@@ -98,7 +98,7 @@ contentful:
         id: 6ggzCnM132qAMoMao64uG4
         created_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: xe9mLFNrG0Ga6yUIoQycG
@@ -114,7 +114,7 @@ contentful:
         id: DcfkeeG0wKKEIAMACYiOY
         created_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Libya: featured site, chapter 3'
       body: 'Deep in the Messak Settafet is a site that has intrigued researchers
         for decades: the image known as ‘Fighting Cats’. This iconic engraving shows
@@ -127,7 +127,7 @@ contentful:
         id: 5OhCYs4J4Q0cWSgwEWUSSU
         created_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3UCMJpOah2ayA8keMYsGkU
@@ -143,7 +143,7 @@ contentful:
         id: 3aWDA5PA5is0yS4uQSKweS
         created_at: !ruby/object:DateTime 2015-11-25 15:28:48.305000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:29:09.496000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Libya: featured site, chapter 4'
       body: The technical quality of the engravings is exceptional, with deeply outlined
         and carefully polished bodies and carved cupules within their heads to depict
@@ -159,7 +159,7 @@ contentful:
         id: 2hR3so8KWQKAWS0oqWiGKm
         created_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5WH8hIWyZOI0QWe0SyAkC8
@@ -175,7 +175,7 @@ contentful:
         id: smcYmLtACOMwSYasYoYI0
         created_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: 'Libya: featured site, chapter 5'
       body: Several other engravings are found throughout the wadi. In its lower part
@@ -188,7 +188,7 @@ contentful:
         id: 6oRVe3BTckeksmGWA8gwyq
         created_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1xfjGHyp6wMGQuKQikCeMo
@@ -204,7 +204,7 @@ contentful:
         id: 2T0VuynIPK2CYgyck6uSK8
         created_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Libya: featured site, chapter 6'
       body: Besides its impressive position in the landscape, their expressivity and
         complex interpretation, the Fighting Cats keep a secret within. On the polished
@@ -218,7 +218,7 @@ contentful:
         id: 3aPHfOC1lSUW68GuUkOAQK
         created_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1kO0IImYVGOk0oeQg6sqWm
@@ -234,7 +234,7 @@ contentful:
         id: 6GXWm1a2LSU0qg0iQEIeGw
         created_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Libya: featured site, chapter 7'
       body: |-
         Another example of fighting cats has been found nearby, although it is neither so carefully made nor in such a prominent place. The similarity is, however, astonishing, and we may wonder if this second pair of beings could be a copy of the first pair, thus reflecting its symbolic importance in the people’s collective imagination.
@@ -260,7 +260,7 @@ contentful:
       id: 3edAINBxMk2qYSWCOCisMg
       created_at: !ruby/object:DateTime 2015-11-26 11:24:38.459000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:24:38.459000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'Libya: key facts'
     image_count: 3,899 images
     date_range: Mostly 10,000 BC to AD 100
@@ -272,7 +272,7 @@ contentful:
       id: bl0Xb7b67YkI4CMCwGwgy
       created_at: !ruby/object:DateTime 2015-11-27 11:40:20.548000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:41:57.403000000 Z
-      content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+      content_type_id: thematic
     title: The art of the warrior
     slug: the-art-of-the-warrior
     lead_image:
@@ -288,7 +288,7 @@ contentful:
         id: 2YeH0ki7Pq08iGWoyeI2SY
         created_at: !ruby/object:DateTime 2015-11-27 12:04:20.772000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:29:10.545000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 1'
       body: |
         Historically, much of the rock art from across northern Africa has been classified according to a particular style or ‘school’ of depictions. One such category of images, known as the Libyan Warrior School or Libyan Warrior style is found predominantly in Niger. Typically, this style
@@ -300,7 +300,7 @@ contentful:
         id: 3TQXxJGkAgOkCuQeq4eEEs
         created_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2HdsFc1kI0ogGEmGWi82Ci
@@ -316,7 +316,7 @@ contentful:
         id: IENFM2XWMKmW02sWeYkaI
         created_at: !ruby/object:DateTime 2015-11-27 12:05:01.774000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:30:21.015000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 2'
       body: |
         Libyan Warrior figures are almost exclusively located in the Aïr Mountains of Niger although can also be found in the Adrar des Iforas, north-east Mali extending into Algeria.  Defining the Libyan Warrior Period chronologically is a challenge and dates are fairly fluid; the earliest dates suggested start from 5,200 years ago; it certainly coincides with the Horse period between 3,000-2,000 years ago but has also been proposed to continue throughout the Camel Period, from 2,000 years ago to present.
@@ -326,7 +326,7 @@ contentful:
         id: 1vwQrEx1gA2USS0uSUEO8u
         created_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 69ZiYmRsreOiIUUEiCuMS6
@@ -342,7 +342,7 @@ contentful:
         id: 13aC6FIWtQAauy2SYC6CQu
         created_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 3'
       body: However, for the majority of figures their posture is remarkably similar
         even though objects of material culture and the types of garments they wear
@@ -360,7 +360,7 @@ contentful:
         id: 35mGQZhFio6a6Qs0Sm8Kec
         created_at: !ruby/object:DateTime 2015-11-25 17:27:34.827000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 16:24:34.980000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5UjAbnAcE0A0gAmCQmKkyU
@@ -376,7 +376,7 @@ contentful:
         id: 4thny4IiHKW66c2sGySMqE
         created_at: !ruby/object:DateTime 2015-11-25 17:28:05.405000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:31:49.083000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4Mq2eZY2bKogMqoCmu6gmW
@@ -392,7 +392,7 @@ contentful:
         id: 1D7OVEK1eouQAsg6e6esS4
         created_at: !ruby/object:DateTime 2015-11-27 12:05:50.702000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:36:43.690000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 4'
       body: A criticism of Saharan rock art research, in comparison to that which
         has focused on other parts of Africa, is an under-theorisation of how the
@@ -408,7 +408,7 @@ contentful:
         id: 6GvLgKrVXaSIQaAMECeE2m
         created_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 18c47Fe9jeoIi4CouE8Eya
@@ -424,7 +424,7 @@ contentful:
         id: 4wQK9fpysE0GEaGYOEocws
         created_at: !ruby/object:DateTime 2015-11-27 12:06:27.167000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:41:04.031000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 5'
       body: "Such a comment suggests that local ethnographies might assist in an understanding
         of more recent rock art, that not all figures described as Libyan-Warrior
@@ -444,7 +444,7 @@ contentful:
         id: 2oNDIVZY2cY6y2ACUykYiW
         created_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2klydX5Lbm6sGIUO8cCuow
@@ -459,7 +459,7 @@ contentful:
         id: 3SOhBsJLQACesg4wogaksm
         created_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 6'
       body: "The Wodaabe have become particularly well-known in the West through visual
         anthropology, because of their emphasis on cultivating male personal beauty
@@ -487,7 +487,7 @@ contentful:
         id: 4AsNsHJ1n2USWMU68cIUko
         created_at: !ruby/object:DateTime 2015-11-27 11:46:03.474000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:12:29.767000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 6QT0CdFAgoISmsuUk6u4OW
@@ -503,7 +503,7 @@ contentful:
         id: 5z7EqYMmFaI0Eom6AAgu6i
         created_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 10pBS62m3eugyAkY8iQYGs
@@ -519,7 +519,7 @@ contentful:
         id: 1UmQD1rR0IISqKmGe4UWYs
         created_at: !ruby/object:DateTime 2015-11-27 11:47:12.062000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:55:05.455000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5oL3JD0PbaEMMyu4mA0oGw
@@ -535,7 +535,7 @@ contentful:
         id: 45NYo7UU5ymOCYiqEYyQQO
         created_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 7'
       body: One of the recurring features of the Warrior engravings is the round discs
         that seem to be suspended from a figure’s arm or shoulder. Historically, these
@@ -545,7 +545,7 @@ contentful:
         id: 55JXs6mmfCoM6keQuwSeKA
         created_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3s0PrjlXlS2QwMKMk0giog
@@ -561,7 +561,7 @@ contentful:
         id: 2UL4zsEuwgekwI0ugSOSok
         created_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3XjtbP2JywoCw8Qm0O8iKo
@@ -577,7 +577,7 @@ contentful:
         id: 64MCgMHx60M8e0GSCaM2qm
         created_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 8'
       body: However, others may represent shoulder bags or flat baskets which are
         used as vessel covers or food trays; both of which are vital items in a nomadic
@@ -590,7 +590,7 @@ contentful:
         id: 78Ks1B0PPUA8YIm0ugMkQK
         created_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5SDdxljduwuQggsuWcYUCA
@@ -608,7 +608,7 @@ contentful:
         id: 5nvXXoq4Baa0IwOmMSiUkI
         created_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 9'
       body: Engraved figures are often depicted with geometric patterning across their
         torso which may reflect traditional garments. This armless Wodaabe vest is
@@ -618,7 +618,7 @@ contentful:
         id: 1Huul8DwMcACSECuGoASE2
         created_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 1PmWIHnxq0cAESkGiiWCkK
@@ -632,7 +632,7 @@ contentful:
         id: GT1E1E6FMc04CaQQUEuG6
         created_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: lz2F9O4kSWoi2g68csckA
@@ -647,7 +647,7 @@ contentful:
         id: MH7tazL1u0ocyy6ysc8ci
         created_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 10'
       body: |-
         There is also a consensus within Wodaabe society about beauty and ugliness; what makes something beautiful or indeed ugly generally is agreed upon, there is a commonality of taste. This may account for the paradox of why there is individuality within a corpus of images that inherently are comparable (Bovin,2001:16).
@@ -657,7 +657,7 @@ contentful:
         id: 5f7LkndYMoCiE0C6cYI642
         created_at: !ruby/object:DateTime 2015-11-27 12:02:44.521000000 Z
         updated_at: !ruby/object:DateTime 2015-12-08 17:01:56.918000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4S1bl6LKUEKg0mMiQMoS2i
@@ -672,7 +672,7 @@ contentful:
         id: 2s5eLxURwgEKUGYiCc62MM
         created_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3as8UfaNIk22iQwu2uccsO
@@ -688,7 +688,7 @@ contentful:
         id: 4c37ixkB72GaCAkSYwGmSI
         created_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
         updated_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 11'
       body: This brief review was motivated, in part, by the underlying problems inherent
         in the categorisation of visual culture. Historically assigned classifications
@@ -706,7 +706,7 @@ contentful:
         id: 2YpbTzVtq8og44KCIYKySK
         created_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |
         Bovin, Mette. 2001. *Nomads Who Cultivate Beauty*. Uppsala: Nordiska  Afrikainstitutet
 
@@ -734,7 +734,7 @@ contentful:
       id: 72UN6TbsDmocqeki00gS4I
       created_at: !ruby/object:DateTime 2015-11-26 17:35:22.951000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:47:35.130000000 Z
-      content_type_id: 4WLq0TTLleEcMmEYw66Q8w
+      content_type_id: thematic
     title: Chariots in the Sahara
     slug: chariots-in-the-sahara
     lead_image:
@@ -750,7 +750,7 @@ contentful:
         id: 3pSkk40LWUWs28e0A2ocI2
         created_at: !ruby/object:DateTime 2015-11-26 17:27:59.282000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:27:59.282000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 1'
       body: A number of sites we have been cataloguing recently, located in the Libyan
         Desert, notably the Fezzan region, have included paintings of chariots in
@@ -763,7 +763,7 @@ contentful:
         id: 2Hjql4WXLOsmCogY4EAWSq
         created_at: !ruby/object:DateTime 2015-11-26 17:18:19.534000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:18:19.534000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2Ed8OkQdX2YIYAIEQwiY8W
@@ -779,7 +779,7 @@ contentful:
         id: 3TiPUtUxgAQUe0UGoQUqO0
         created_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 2'
       body: The chariot has been one of the great empowering innovations of history.
         It likely originated in Mesopotamia about 3000 BC due to advances in metallurgy
@@ -795,7 +795,7 @@ contentful:
         id: 5ZxcAksrFSKEGacE2iwQuk
         created_at: !ruby/object:DateTime 2015-11-26 17:19:58.050000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:19:58.050000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5neJpIDOpyUQAWC8q0mCIK
@@ -811,7 +811,7 @@ contentful:
         id: 2Grf0McSJ2Uq4SUaUQAMwU
         created_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 3'
       body: The chariot in the Sahara was probably introduced by the Garamantes, a
         cultural group thought to be descended from Berbers and Saharan pastoralists.
@@ -828,7 +828,7 @@ contentful:
         id: 6fOKcyIgKcyMi8uC4WW6sG
         created_at: !ruby/object:DateTime 2015-11-26 17:20:33.572000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:20:33.572000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4DBpxlJqeAS4O0eYeCO2Ms
@@ -844,7 +844,7 @@ contentful:
         id: CAQ4O5QWhaCeOQAMmgGSo
         created_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 4'
       body: On average there are about 500 drawings of chariots across the Sahara,
         from the Fezzan in Libya through the Aïr of Niger into northern Mali and then
@@ -865,7 +865,7 @@ contentful:
         id: 5cgk0mmvKwC0IGsCyIsewG
         created_at: !ruby/object:DateTime 2015-11-26 17:20:59.281000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:20:59.281000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4XYASoQz6UQggUGI8gqkgq
@@ -882,7 +882,7 @@ contentful:
         id: 5pKuD1vPdmcs2o8eQeumM4
         created_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 5'
       body: The absence of archaeological evidence for chariots has led to the suggestion
         that some representations of chariots may have been the result of cultural
@@ -896,7 +896,7 @@ contentful:
         id: wckVt1SCpqs0IYeaAsWeS
         created_at: !ruby/object:DateTime 2015-11-26 17:21:42.421000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:22:31.484000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 279BaN9Z4QeOYAWCMSkyeQ
@@ -913,7 +913,7 @@ contentful:
         id: 7fKfpmISPYs04YOi8G0kAm
         created_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 28JPIQ4mYQCMYQmMQ0Oke8
@@ -928,7 +928,7 @@ contentful:
         id: 3xUchEu4sECWq4mAoEYYM4
         created_at: !ruby/object:DateTime 2015-11-26 17:23:33.472000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:23:33.472000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 697LgKlm3SWSQOu8CqSuIO
@@ -944,7 +944,7 @@ contentful:
         id: 6bQzinrqXmYESoWqyYYyuI
         created_at: !ruby/object:DateTime 2015-11-26 17:24:01.069000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:24:01.069000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5RKPaYinvOW6yyCGYcIsmK
@@ -960,7 +960,7 @@ contentful:
         id: 5qthr4HJaEoIe2sOOqiU4K
         created_at: !ruby/object:DateTime 2015-11-26 17:29:40.388000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:40.388000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 6'
       body: |-
         Figs. 7 and 8 may or may not depict chariots. The rectangular shape in the top left of Fig. 7 and to the left in Fig. 8 are potentially abstracted forms of the chariot similar to the ‘flattened out’ depictions above in Figs. 5 and 6. The representation in Fig. 7 sits alongside distinguishing figures of the Horse Period when chariots were being used, such as geometric bi-triangular figures, spears or lances, women wearing long dresses, and animals drawn in a fairly naturalistic style.
@@ -970,7 +970,7 @@ contentful:
         id: 2NEHx4J06IMSceEyC4w0CA
         created_at: !ruby/object:DateTime 2015-11-26 17:24:30.605000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:24:30.605000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 74j3IOLwLS8IocMCACY2W
@@ -986,7 +986,7 @@ contentful:
         id: 1YKtISfrKAQ6M4mMawIOYK
         created_at: !ruby/object:DateTime 2015-11-26 17:30:08.834000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:30:08.834000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 7'
       body: |-
         In a similar manner to the schematic chariots, the depictions in Figs. 3 and 9 display the entire platform and both wheels of the chariot. In addition, more than one horse is depicted as a single horse in profile with numerous legs indicating multiple horses; an artistic technique first seen during the Upper Palaeolithic in Europe. Interestingly, in the Libyan rock art of the Acacus Mountains it seemed that animals could be conceived of in profile and in movement, but chariots were conceived of differently, and are represented in plain view, seen from above or in three-quarters perspective.
@@ -996,7 +996,7 @@ contentful:
         id: 4nHApyWfWowgG0qASeKEwk
         created_at: !ruby/object:DateTime 2015-11-26 17:25:19.180000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:25:19.180000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4Mn54dTjEQ80ssSOK0q0Mq
@@ -1014,7 +1014,7 @@ contentful:
         id: 5dtoX8DJv2UkguMM24uWwK
         created_at: !ruby/object:DateTime 2015-11-26 17:26:17.455000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:26:17.455000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 7zQLgo270Am82CG0Qa6gaE
@@ -1031,7 +1031,7 @@ contentful:
         id: 74fcVRriowwOQeWua2uMMY
         created_at: !ruby/object:DateTime 2015-11-26 17:30:27.301000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:30:27.301000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 8'
       body: Vast trading network across the Sahara Desert not only facilitated the
         spread of goods, but the routes served as a conduit for cultural diffusion
@@ -1047,7 +1047,7 @@ contentful:
         id: 266zWxwbfC86gaKyG8myCU
         created_at: !ruby/object:DateTime 2015-11-26 17:26:53.266000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:26:53.266000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4rwQF960rueIOACosUMwoa
@@ -1064,7 +1064,7 @@ contentful:
         id: 2mTEgMGc5iiM00MOE4WSqU
         created_at: !ruby/object:DateTime 2015-11-26 17:27:28.284000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:27:28.284000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 70cjifYtVeeqIOoOCouaGS
@@ -1080,7 +1080,7 @@ contentful:
         id: 5Z6SQu2oLuG40IIWEqKgWE
         created_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'Thematic: chariots, chapter 9'
       body: A hoard of 100,000 Roman coins from the Diocletian period (not the above)
         were unearthed near Misurata, Libya, probably used to pay both regular Roman
@@ -1091,7 +1091,7 @@ contentful:
         id: vVxzecw1jwam6aCcEA8cY
         created_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: Mattingley, David. ‘Kingdom of the Sands', in *Current Archaeology*,
         Vol. 57 No 2, March/April 2004
     background_images:
@@ -1114,14 +1114,14 @@ contentful:
       id: 5v13g3YNLUGuGwMgSI0e6s
       created_at: !ruby/object:DateTime 2015-11-26 12:35:54.777000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:42:46.961000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'Libya: country introduction'
     chapters:
     - sys:
         id: 4WfnZcehd66ieoiASe6Ya2
         created_at: !ruby/object:DateTime 2015-11-26 12:29:44.896000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:29:44.896000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'Libya: country, chapter 1'
       body: 'Rock art occurs in two main areas in Libya: the Tadrart Acacus and the
@@ -1139,7 +1139,7 @@ contentful:
         id: 4VNJEMI25aagoiEuoUckqg
         created_at: !ruby/object:DateTime 2015-11-26 12:26:30.631000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:26:30.631000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 16a6qAimaaWYqcwqUqMKIm
@@ -1155,7 +1155,7 @@ contentful:
         id: 6vqAmqiuY0AIEyUGOcAyQC
         created_at: !ruby/object:DateTime 2015-11-26 12:30:08.049000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:30:08.049000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography
       title_internal: 'Libya: country, chapter 2'
       body: The fourth largest country in Africa, Libya is located in the Maghreb
@@ -1172,7 +1172,7 @@ contentful:
         id: 1icEVGCcP2Um64EkAs0OAg
         created_at: !ruby/object:DateTime 2015-11-26 12:27:03.984000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:27:03.984000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: YbgSaS84Eu0gE8yKEcI48
@@ -1187,7 +1187,7 @@ contentful:
         id: 2HfBZlyHUA4MCEuqma8QeC
         created_at: !ruby/object:DateTime 2015-11-26 12:30:46.023000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:30:46.023000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'Libya: country, chapter 3'
       body: The Messak rock art has been known to Europeans since Heinrich Barth’s
@@ -1204,7 +1204,7 @@ contentful:
         id: 5LSSbrA6FqIKi86kuWC0w0
         created_at: !ruby/object:DateTime 2015-11-26 12:31:13.353000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:31:13.353000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology and early rock art
       title_internal: 'Libya: country, chapter 4'
       body: |-
@@ -1215,7 +1215,7 @@ contentful:
         id: 3UZhGFp3eosaOSOaUGwEOs
         created_at: !ruby/object:DateTime 2015-11-26 12:27:31.261000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:27:31.261000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4eOnyF3wVymkGMgOkmQsYm
@@ -1231,7 +1231,7 @@ contentful:
         id: 4FFgcDY7xucWsKmsiUQa8E
         created_at: !ruby/object:DateTime 2015-11-26 12:31:36.221000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:31:36.221000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Round Head Period
       title_internal: 'Libya: country, chapter 5'
       body: From around 9,000 years ago, the archaeological record in the Acacus changes;
@@ -1249,7 +1249,7 @@ contentful:
         id: 5zzGfyoQUw00yqkeuYuQ4M
         created_at: !ruby/object:DateTime 2015-11-26 12:28:01.442000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:28:01.442000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2diYKwS63u0MYs8eC4aesU
@@ -1265,7 +1265,7 @@ contentful:
         id: 1UNszL8ap2g6CqEi60aUGC
         created_at: !ruby/object:DateTime 2015-11-26 12:32:06.214000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:32:06.214000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Pastoral Period
       title_internal: 'Libya: country, chapter 6'
       body: The introduction of domesticates into the region has been identified archaeologically
@@ -1278,7 +1278,7 @@ contentful:
         id: 65IyLhOxpecyEUyiQOaSe4
         created_at: !ruby/object:DateTime 2015-11-26 12:28:36.906000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:28:36.906000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3EDRZDxlckISY0Gc0c44QK
@@ -1294,7 +1294,7 @@ contentful:
         id: 1qfXWyJGO0SAIM40qw4aa4
         created_at: !ruby/object:DateTime 2015-11-26 12:32:47.033000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 14:42:33.634000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Horse and Camel Periods
       title_internal: 'Libya: country, chapter 7'
       body: |-
@@ -1305,7 +1305,7 @@ contentful:
         id: 33lGJfCTG0iWmcaMS8Miqy
         created_at: !ruby/object:DateTime 2015-11-26 12:29:09.712000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:29:09.712000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 4ShhlHTP4A08k6Ck0WmCme
@@ -1322,7 +1322,7 @@ contentful:
         id: 51iLulV0KkWce0SIkgewo
         created_at: !ruby/object:DateTime 2015-11-26 12:25:53.864000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:25:53.864000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |-
         Brooks, N., I. Chiapello, S. di Lernia, N. Drake, M.Legrand, C. Moulin and J. Pospero. 2005. *The Climate-Environment-Society Nexus in the Sahara from Prehistoric Times to the Present Day*. The Journal of North African Studies, Vol. 10, No 3-4, pp. 253-292
 

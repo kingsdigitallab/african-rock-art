@@ -5,7 +5,7 @@ contentful:
     id: 6kCSAOUxGwi44GMaGwiqOC
     created_at: !ruby/object:DateTime 2015-12-08 11:20:21.669000000 Z
     updated_at: !ruby/object:DateTime 2016-10-18 09:49:06.298000000 Z
-    content_type_id: fS8J0UehVuo8YuO2AswYS
+    content_type_id: country
   name: South Africa
   slug: south-africa
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40953
@@ -59,7 +59,7 @@ contentful:
       id: 2XOggE9Gxaew6iMMKS4E4U
       created_at: !ruby/object:DateTime 2016-09-12 15:15:32.469000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:35:15.580000000 Z
-      content_type_id: 2MFOT4WINOAOokOw2ma6aS
+      content_type_id: featured_site
     title: Game Pass Shelter, South Africa
     slug: gamepass
     chapters:
@@ -67,7 +67,7 @@ contentful:
         id: 5WhcFBd6owA0UwoG6iOg4Y
         created_at: !ruby/object:DateTime 2016-09-12 15:12:00.222000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:34:42.735000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Game Pass Shelter, South Africa
       title_internal: 'South Africa: featured site, chapter 1'
       body: "Game Pass shelter is one of the most well-known rock art sites in South
@@ -85,7 +85,7 @@ contentful:
         id: 6mZ8n44JbyOIMKaQYKgm4k
         created_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: XICyV4qumymqa8eIqCOeS
@@ -101,7 +101,7 @@ contentful:
         id: 3xOl8hqio0E2wYYKIKomag
         created_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3cyElw8MaIS24gq8ioCcka
@@ -117,7 +117,7 @@ contentful:
         id: 3ilqDwqo80Uq6Q42SosqQK
         created_at: !ruby/object:DateTime 2016-09-12 15:12:59.726000000 Z
         updated_at: !ruby/object:DateTime 2016-09-30 16:15:24.700000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 2'
       body: The most prominent painting panel at Game Pass shows a series of carefully
         depicted eland antelope in delicately shaded red, brown and white pigment,
@@ -138,7 +138,7 @@ contentful:
         id: 3oYyhNlOdWu4oaoG0qUEGC
         created_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 777S5VQyBO0cMwKC0ayqKe
@@ -154,7 +154,7 @@ contentful:
         id: 3t21DyQhhu6KYE24yOuW6E
         created_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 3'
       body: The rock paintings from this site were first brought to public attention
         in a 1915 issue of Scientific American, and it has been frequently published
@@ -169,7 +169,7 @@ contentful:
         id: 8JKh5DFTLqMsaCQWAAA4c
         created_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2QyopQgIx2AAMU46gEM2Wg
@@ -185,7 +185,7 @@ contentful:
         id: 1l6QCXODlWoa6kmgWAgco2
         created_at: !ruby/object:DateTime 2016-09-12 15:13:55.229000000 Z
         updated_at: !ruby/object:DateTime 2016-09-30 16:42:50.171000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 4'
       body: "This idea was partly inspired by the testimony of Qing, a San|Bushman
         man who, in 1873, had guided the Colonial Administrator Joseph Millerd Orpen
@@ -216,7 +216,7 @@ contentful:
         id: 4cmGHIbGFqOEqYWwyi0S2e
         created_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5qjFwYmXkca88mMcWSiGgc
@@ -230,7 +230,7 @@ contentful:
         id: 1VRoS6FN4ga60gcYImm6c2
         created_at: !ruby/object:DateTime 2016-09-12 15:14:20.350000000 Z
         updated_at: !ruby/object:DateTime 2016-09-30 16:47:30.231000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 5'
       body: |
         Despite the historical presence of other large game animals in the Drakensberg, the eland is the most commonly depicted animal in rock art of the region. Patricia Vinnicombe, noting this and the focus on other particular subjects in the imagery at the expense of others, proposed in her pioneering 1976 study of the rock art of the Southern Drakensberg *People of the Eland* that the paintings are “not a realistic reflection of the daily pursuits or environment of the Bushmen” (Vinnicombe 1976:347). Vinnicombe recalled that when, in the 1930s, an old Sotho man named Mapote, who had San|Bushman half-siblings and had used to paint with them, was requested to demonstrate, he had said that since the San|Bushmen had been “of the eland”, he should first depict an eland. Based on this and recountings of a myth about the creation and death of the first eland from Qing and other contemporary Southern San|Bushman people, Vinnicombe concluded that the eland, although regularly hunted by the Drakensberg San|Bushmen, had been a particularly sacred or powerful animal to them and that “Through the act of painting and re-painting the eland… the mental conflict involved in destroying a creature that was prized and loved by their deity…was…ritually symbolised and resolved” (Vinnicombe, 1976:350).
@@ -240,7 +240,7 @@ contentful:
         id: n044NT3TZAYwKSakkogoU
         created_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 60II5zuUne2A80682sYYs2
@@ -255,7 +255,7 @@ contentful:
         id: 5Lheod1OGAYUW4Goi6GAUo
         created_at: !ruby/object:DateTime 2016-09-12 15:14:46.323000000 Z
         updated_at: !ruby/object:DateTime 2016-09-30 16:49:04.072000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 6'
       body: "The shamanistic approach to interpreting San|Bushman rock art images,
         for which the Game Pass panel is sometimes referred to as the ‘Rosetta Stone’,
@@ -273,7 +273,7 @@ contentful:
         id: 4XwNgMsBPaQ06My8Qs4gKU
         created_at: !ruby/object:DateTime 2016-09-13 13:35:11.603000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:35:11.603000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa Featured Site Chapter 7 '
       body: "¹ San|Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -285,7 +285,7 @@ contentful:
         id: 3brqyMy1K0IC0KyOc8AYmE
         created_at: !ruby/object:DateTime 2016-09-12 15:14:59.720000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:14:59.720000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: |
         Francis, Michael. 2009. 'Contested Histories: A Critique of Rock Art in the Drakens-berg Mountains' in Visual Anthropology 22:4, pp. 327 — 343
 
@@ -316,7 +316,7 @@ contentful:
       id: 3bOoDYEftKw6emikskymiu
       created_at: !ruby/object:DateTime 2016-09-12 15:15:50.428000000 Z
       updated_at: !ruby/object:DateTime 2016-09-30 16:50:58.347000000 Z
-      content_type_id: 4fXS1cA1XGKq4a6IM86Wm
+      content_type_id: country_key_facts
     title_internal: 'South Africa: key facts'
     image_count: 1,506 images
     date_range: Mostly 8,000 BC to the 20th Century
@@ -331,14 +331,14 @@ contentful:
       id: 3bwz5wde0EMm0iu06IOk0W
       created_at: !ruby/object:DateTime 2016-09-12 15:22:12.732000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:22:12.732000000 Z
-      content_type_id: Q4XNev9Iom0uGquue2eoS
+      content_type_id: country_information
     title: 'South Africa: country introduction'
     chapters:
     - sys:
         id: 2LBn1DZ1m8gqQUMiKCSayA
         created_at: !ruby/object:DateTime 2016-09-12 15:16:12.647000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 22:01:59.313000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Introduction
       title_internal: 'South Africa: country, chapter 1'
       body: |
@@ -349,7 +349,7 @@ contentful:
         id: 6rGZi909xKeQSMcYmISMgA
         created_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2bsw2WPaTKumMQ80maQ6iG
@@ -365,7 +365,7 @@ contentful:
         id: 3SiNGUuMNi4EQ6S6iEg6u
         created_at: !ruby/object:DateTime 2016-09-12 15:16:42.238000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:43:41.595000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Geography and rock art distribution
       title_internal: 'South Africa: country, chapter 2'
       body: South Africa covers around 1,213,090 km², encircling Lesotho and bordered
@@ -385,7 +385,7 @@ contentful:
         id: DfGG3aLwUC26MWusakCaQ
         created_at: !ruby/object:DateTime 2016-09-12 15:16:52.597000000 Z
         updated_at: !ruby/object:DateTime 2016-10-24 12:32:11.801000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Hunter-gatherer rock art
       title_internal: 'South Africa: country, chapter 3'
       body: Much of both the painted and engraved rock art of South Africa is characterised
@@ -402,7 +402,7 @@ contentful:
         id: 71sZP8YT0A8Eg6SUEqQE0K
         created_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2q8dJPCe2AKcAeogKWikue
@@ -418,7 +418,7 @@ contentful:
         id: dbiRhTPqBamyEw8Wa8Am0
         created_at: !ruby/object:DateTime 2016-09-12 15:17:21.602000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 19:41:29.750000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Farmer rock art
       title_internal: 'South Africa: country, chapter 4'
       body: "Some paintings and engravings in South Africa were made by Bantu language-speaking
@@ -434,7 +434,7 @@ contentful:
         id: avwg4dFD5muMuGwi64OG8
         created_at: !ruby/object:DateTime 2016-09-12 15:17:28.334000000 Z
         updated_at: !ruby/object:DateTime 2016-10-24 12:32:54.111000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Herder rock art and other traditions
       title_internal: 'South Africa: country, chapter 5'
       body: Some rock art styles and motifs elsewhere in South Africa seem to belong
@@ -456,7 +456,7 @@ contentful:
         id: 1mBBOrIKNWY4m20ywAQEG4
         created_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: afH4Qvv6OAAu6iW2sQumq
@@ -473,7 +473,7 @@ contentful:
         id: 2tA0V2wO16oKa8kgyOeACw
         created_at: !ruby/object:DateTime 2016-09-12 15:17:56.399000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:44:50.312000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Research history
       title_internal: 'South Africa: country, chapter 6'
       body: 'Rock art sites throughout what is now South Africa have likely always
@@ -491,7 +491,7 @@ contentful:
         id: 19Up0IjuAa2c2WQuks6Qka
         created_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 5pQOdclMWsYUoiqUe6UWUk
@@ -506,7 +506,7 @@ contentful:
         id: 57UPgZOAQgOMC2YmuSUeUA
         created_at: !ruby/object:DateTime 2016-09-12 15:20:19.692000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 19:45:24.815000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: ''
       title_internal: 'South Africa: country, chapter 7'
       body: "Scholarly interest in Southern African rock art increased in the early
@@ -525,7 +525,7 @@ contentful:
         id: 3ji8ZxGSA0qEugGSKc4AiM
         created_at: !ruby/object:DateTime 2016-09-12 15:20:34.228000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 19:47:14.726000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 49XE8B9AUwcsyuwKS4qIoS
@@ -541,7 +541,7 @@ contentful:
         id: 2JAfr47aaAUicKcoeSqiGu
         created_at: !ruby/object:DateTime 2016-09-12 15:20:41.600000000 Z
         updated_at: !ruby/object:DateTime 2016-10-24 12:33:33.820000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: country, chapter 8'
       body: In 1976, Vinnicombe published the seminal work *"People of the Eland"*,
         analysing paintings from 150 Drakensberg sites and attempting to gain insight
@@ -560,7 +560,7 @@ contentful:
         id: 21vXKwU4akskQ6YAsYIo0i
         created_at: !ruby/object:DateTime 2016-09-12 15:20:48.780000000 Z
         updated_at: !ruby/object:DateTime 2016-10-24 12:36:25.686000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Themes and interpretations
       title_internal: 'South Africa: country, chapter 9'
       body: "Shamanistic interpretations of San|Bushman paintings and engravings draw
@@ -590,7 +590,7 @@ contentful:
         id: 6PJbU7cpFYUUMSYqEgS0Am
         created_at: !ruby/object:DateTime 2016-09-12 15:21:09.071000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 19:47:35.457000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 2hL4pRsxIkw224k00EKeqQ
@@ -607,7 +607,7 @@ contentful:
         id: 3AxyfldmRa4wWoGSgc2cei
         created_at: !ruby/object:DateTime 2016-09-12 15:21:17.413000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:21:17.413000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title_internal: 'South Africa: country, chapter 10'
       body: 'Although the focus in South African rock art research has been on San|Bushman
         art, research has also been done on other rock art traditions, suggesting
@@ -627,7 +627,7 @@ contentful:
         id: 4uS7XV338ke8iiQQ6asKC4
         created_at: !ruby/object:DateTime 2016-09-12 15:21:30.588000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:21:30.588000000 Z
-        content_type_id: 7Ak9U6HXygSaUMmQQWIGQu
+        content_type_id: chapter
       title: Chronology
       title_internal: 'South Africa: country, chapter 11'
       body: "The earliest scientifically dated examples of clearly visible painted
@@ -662,7 +662,7 @@ contentful:
         id: 2Qms4PsSqQiUMGg4c4CIaS
         created_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
-        content_type_id: 3NZwbeG360yGuoKUUCU8Oy
+        content_type_id: image
       image:
         sys:
           id: 3BojqKseXY0IQkcKOwoC6K
@@ -679,7 +679,7 @@ contentful:
         id: 1i9uCQ3wrss8UGuMQgC0oW
         created_at: !ruby/object:DateTime 2016-09-12 15:21:54.192000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:21:54.192000000 Z
-        content_type_id: 7bbOALHvAQ8cQ6yS2wOmw0
+        content_type_id: citation
       citation_line: "Eastwood, E. & Eastwood, C. 2006. Capturing the Spoor: An exploration
         of Southern African Rock Art. Cape Town, David Philip\n\nLewis-Williams, J.D.
         & Challis, S. 2011. Deciphering Ancient Minds: The Mystery of San|BushmanBushman
