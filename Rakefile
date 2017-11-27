@@ -45,6 +45,9 @@ end
 # Usage: rake test, rake test:prod
 task :test => ['test:all']
 namespace :test do
+  HTML_PROOFER_OPTIONS =
+    # '--internal_domains ["africanrockart.britishmuseum.org"] '\
+    '--allow-hash-href --assume-extension --empty-alt-ignore'
 
   desc 'Test development and production sites'
   task :all do
@@ -58,7 +61,7 @@ namespace :test do
   task :dev do
     puts 'Validating development HTML output in _site...'
     Rake::Task['build:dev'].invoke
-    system 'bundle exec htmlproofer ./_site'
+    system 'bundle exec htmlproofer ./_site ' + HTML_PROOFER_OPTIONS
   end
 
   desc 'Test production site'
