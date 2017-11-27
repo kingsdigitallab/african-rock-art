@@ -15,7 +15,7 @@ layout: default
     <div class="container featured-chapter">
         <div class="column-five-twelveth">
             <p>{{ introduction.body | markdownify }}</p>
-            {% if self.feature_site %}
+            {% if self.featured_site %}
             <a href="/featured_site/{{ self.featured_site.slug }}.html" class="button orange more">View featured rock art site</a>
             {% endif %}
         </div>
