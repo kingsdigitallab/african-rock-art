@@ -71,7 +71,7 @@ layout: default
         </div>
 
         <div class="mobile">
-            {% for country in project_page.countries %}
+            {% for country in project_page.countries limit:3 %}
             <div class="column-one-third">
                 <div class="card">
                     {% assign url = "/country/" | append: country.slug | append: ".html" | relative_url %}
@@ -86,6 +86,7 @@ layout: default
                 </div>
             </div>
             {% endfor %}
+            <p><a href="{{ '/country/' | relative_url }}" class="padding">View all countries</a></p>
         </div>
     </div>
 </section>
