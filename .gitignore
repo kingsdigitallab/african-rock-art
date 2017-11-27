@@ -5,4 +5,4 @@
 *.log
 _site
 env.sh
-vendor
+./vendor
