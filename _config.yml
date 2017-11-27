@@ -1,4 +1,4 @@
-baseurl: 'african-rock-art'
+baseurl: '/african-rock-art'
 collections:
   coll_country: {has_index: true, output: true, permalink: '/country/:name.html',
     title: Country}
