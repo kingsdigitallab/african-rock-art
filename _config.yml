@@ -31,6 +31,10 @@ defaults:
   values:
     breadcrumbs:
     - {label: Thematic, url: index.html}
+- scope: {type: coll_regional_introduction}
+  values:
+    breadcrumbs:
+    - {label: Regional introduction}
 description: African Rock Art Follow our digital journey across Africa. Discover 30,000
   years of rock art.
 email: info@britishmuseum.org
