@@ -4,7 +4,7 @@ layout: default
 {% assign collection = site.collections | where: "label", page.collection | first %}
 
 <div class="container">
-    <h1 class="page-heading">Explore countries</h1>
+    <h1 class="page-heading">Explore {{ page.title }} </h1>
     {% for item in collection.docs %}
     {% assign introduction = item.contentful.country_introduction.chapters[0] %}
     {% assign introduction_image = item.contentful.country_introduction.chapters | where: "sys.content_type_id", "image" | first %}
@@ -13,7 +13,9 @@ layout: default
         <div class="card">
             <div class="container">
                 <div class="column-eight-tenth card-content">
-                    <h2 class="title"><a href="{{ item.url }}">{{ item.title }}</a></h2>
+                    <h2 class="title">
+                        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    </h2>
                     <p>{{ introduction.body }}</p>
                 </div>
                 <div class="column-two-tenth card-content">

@@ -15,63 +15,67 @@ layout: default
     <div class="container featured-chapter">
         <div class="column-five-twelveth">
             <p>{{ introduction.body | markdownify }}</p>
+
             {% if self.featured_site %}
-            <a href="/featured_site/{{ self.featured_site.slug }}.html" class="button orange more">View featured rock art site</a>
+            {% assign url = "/featured_site/" | append: self.featured_site.slug | append: ".html" | relative_url %}
+            <a class="button orange more" href="{{ url }}">View featured rock art site</a>
             {% endif %}
         </div>
 
         <div class="column-seven-twelveth">
-           {% include image.html image=introduction_image.image caption=introduction_image.caption class="full-width" %}
-       </div>
-   </div>
-
-   <div class="container">
-    <h2>Highlight images</h2>
-    <p><a href="{{ self.col_url }}">Browse rock art on collections online</a></p>
-    {% for image in self.image_carousel limit:3 %}
-    <div class="column-one-third">
-        <div class="card">
-            <a href="">
-                {% include image.html image=image %}
-            </a>
-            <div class="card-content">
-                <a href="" class="more">Read more about this image</a>
-            </div>
+            {% include image.html image=introduction_image.image caption=introduction_image.caption class="full-width" %}
         </div>
     </div>
-    {% endfor %}
-</div>
 
-<div class="container chapter">
-    <h2>Country overview</h2>
-    <h3>Date range</h3>
-    <p>{{ self.key_facts.date_range }}</p>
-    <h3>Image count</h3>
-    <p>{{ self.key_facts.image_count }}</p>
-    <h3>Main themes</h3>
-    <p>{{ self.key_facts.main_themes }}</p>
-    <h3>Famour for</h3>
-    <p>{{ self.key_facts.famous_for }}</p>
-</div>
-
-<div class="container chapter">
-    {% include chapters.html chapters=chapters offset=2 %}
-</div>
-
-<div class="container">
-    <h2>Related content</h2>
-    {% for related in self.thematic_articles limit:3 %}
-    <div class="column-one-third">
-        <div class="card">
-            <a href="/thematic/{{ related.slug }}.html">
-                {% include image.html image=related.lead_image %}
-            </a>
-            <div class="card-content">
-                <h3><a href="/thematic/{{ related.slug }}.html">{{ related.title }}</a></h3>
-                <a href="/thematic/{{ related.slug }}.html" class="more hr">Find out more</a>
+    <div class="container">
+        <h2>Highlight images</h2>
+        <p><a href="{{ self.col_url }}">Browse rock art on collections online</a></p>
+        {% for image in self.image_carousel limit:3 %}
+        <div class="column-one-third">
+            <div class="card">
+                <a href="">
+                    {% include image.html image=image %}
+                </a>
+                <div class="card-content">
+                    <a href="" class="more">Read more about this image</a>
+                </div>
             </div>
         </div>
+        {% endfor %}
     </div>
-    {% endfor %}
-</div>
+
+    <div class="container chapter">
+        <h2>Country overview</h2>
+        <h3>Date range</h3>
+        <p>{{ self.key_facts.date_range }}</p>
+        <h3>Image count</h3>
+        <p>{{ self.key_facts.image_count }}</p>
+        <h3>Main themes</h3>
+        <p>{{ self.key_facts.main_themes }}</p>
+        <h3>Famour for</h3>
+        <p>{{ self.key_facts.famous_for }}</p>
+    </div>
+
+    <div class="container chapter">
+        {% include chapters.html chapters=chapters offset=2 %}
+    </div>
+
+    <div class="container">
+        <h2>Related content</h2>
+        {% for related in self.thematic_articles limit:3 %}
+        <div class="column-one-third">
+            <div class="card">
+                {% assign url = "/thematic/" | append: related.slug | append: ".html" | relative_url %}
+
+                <a href="{{ url }}">
+                    {% include image.html image=related.lead_image %}
+                </a>
+                <div class="card-content">
+                    <h3><a href="{{ url }}">{{ related.title }}</a></h3>
+                    <a href="{{ url }}" class="more hr">Find out more</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </article>
