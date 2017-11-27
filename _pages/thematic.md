@@ -1,5 +1,6 @@
 ---
 layout: collection_index
 permalink: /thematic/index.html
-title: Thematic
+title: Themes
+collection: coll_thematic
 ---

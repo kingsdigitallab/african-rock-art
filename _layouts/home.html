@@ -21,17 +21,19 @@ layout: default
             Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
             <p><strong>Ut enim ad minim veniam</strong><br>
-            Quis Nostrud<br>
-            Exercitation Ullamco<br>
+                Quis Nostrud<br>
+                Exercitation Ullamco<br>
             Laboris nisi ut aliquip ex ea commodo consequat</p>
 
             <p>Lorem ipsum<br>
-            <a href="">Link</a></p>
+                <a href="">Link</a>
+            </p>
 
             <a href="" class="button orange">ARCADIA</a>
 
             <p>Lorem ipsum<br>
-            <a href="">Another link</a></p>
+                <a href="">Another link</a>
+            </p>
         </div>
     </div>
 </section>
@@ -43,13 +45,15 @@ layout: default
         {% for introduction in project_page.introduction_articles %}
         <div class="column-one-third">
             <div class="card">
-                <a href="/introduction{{ introduction.slug | relative_url }}.html">
+                {% assign url = "/introduction/" | append: introduction.slug | append: ".html" | relative_url %}
+
+                <a href="{{ url }}">
                     {% assign image = introduction.lead_image[0] %}
                     {% include image.html image=image %}
                 </a>
                 <div class="card-content">
                     <h3>{{ introduction.title }}</h3>
-                    <a href="/introduction{{ introduction.slug | relative_url }}.html" class="more hr">Find out more</a>
+                    <a href="{{ url }}" class="more hr">Find out more</a>
                 </div>
             </div>
         </div>
@@ -69,7 +73,9 @@ layout: default
             {% for country in project_page.countries %}
             <div class="column-one-third">
                 <div class="card">
-                    <a href="/country{{ country.slug | relative_url }}.html">
+                    {% assign url = "/country/" | append: country.slug | append: ".html" | relative_url %}
+
+                    <a href="{{ url }}">
                         {% assign image = country.image_carousel[0] %}
                         {% include image.html image=image %}
                     </a>
@@ -89,25 +95,21 @@ layout: default
         {% for region in project_page.regional_articles %}
         <div class="column-one-third">
             <div class="card">
-                <a href="/regional_introduction{{ region.slug | relative_url }}.html">
+                {% assign url = "/regional_introduction/" | append: region.slug | append: ".html" | relative_url %}
+
+                <a href="{{ url }}">
                     {% assign image = region.lead_image[0] %}
                     {% include image.html image=image %}
                 </a>
-
                 <div class="card-content">
                     <h3>
-                        <a href="/regional_introduction{{ region.slug | relative_url }}.html">
-                            {{ region.title }}
-                        </a>
+                        <a href="{{ url }}">{{ region.title }}</a>
                     </h3>
-                    <a href="/regional_introduction{{ region.slug | relative_url }}.html" class="more hr">
-                        Find out more
-                    </a>
+                    <a href="{{ url }}" class="more hr">Find out more</a>
                 </div>
             </div>
         </div>
         {% endfor %}
-        </div>
     </div>
 </section>
 
@@ -120,16 +122,16 @@ layout: default
             {% for theme in project_page.thematic_articles limit:3 %}
             <div class="container">
                 <div class="card">
+                    {% assign url = "/thematic/" | append: theme.slug | append: ".html" | relative_url %}
+
                     <div class="card-content">
                         <div class="column-three-quarters">
                             <h3>
-                                <a href="/thematic{{ theme.slug | relative_url }}.html">
-                                    {{ theme.title }}
-                                </a>
+                                <a href="{{ url }}">{{ theme.title }}</a>
                             </h3>
                         </div>
                         <div class="column-one-quarter">
-                            <a href="/thematic{{ theme.slug | relative_url }}.html">
+                            <a href="{{ url }}">
                                 {% assign image = theme.lead_image %}
                                 {% include image.html image=image %}
                             </a>
@@ -138,7 +140,8 @@ layout: default
                 </div>
             </div>
             {% endfor %}
-            <p><a href="" class="padding">View all themes</a></p>
+
+            <p><a href="{{ '/thematic/' | relative_url }}" class="padding">View all themes</a></p>
         </div>
     </div>
 </section>
