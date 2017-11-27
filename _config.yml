@@ -14,6 +14,23 @@ contentful:
   spaces:
   - ara: {access_token: ENV_CONTENTFUL_ACCESS_TOKEN, all_entries: true, destination: '',
       space: ENV_CONTENTFUL_SPACE_ID}
+defaults:
+- scope: {type: coll_country}
+  values:
+    breadcrumbs:
+    - {label: Country, url: index.html}
+- scope: {type: coll_introduction}
+  values:
+    breadcrumbs:
+    - {label: Introduction}
+- scope: {type: coll_featured_site}
+  values:
+    breadcrumbs:
+    - {label: Featured site}
+- scope: {type: coll_thematic}
+  values:
+    breadcrumbs:
+    - {label: Thematic, url: index.html}
 description: African Rock Art Follow our digital journey across Africa. Discover 30,000
   years of rock art.
 email: info@britishmuseum.org
