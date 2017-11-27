@@ -13,12 +13,12 @@ addons:
     packages:
     - libcurl4-openssl-dev
 sudo: false
-notifications:
-  slack:
-    rooms:
-      - secure: W5Xt/NebWaoWrPwcZEKLbz3j07nVmQ5m+SBnd8Am95Dw7dX2ip+h3fLJr6QeNQJ9rd/Pr0R2R9BboDM8/JKlZYcfTjiTf4SHKsu5OdeK87FnpO5I25I40w4RpIaQCzHN2knBIPke5L0JUBi9gwoXZ5UXJtNIyDWz940oQ/mCY6KHQ7D8rydG/sd8+BRljGEHbtto3aghiZE9Nn0bUylWi5cZTwhsaNUgJ3nTPalB2AJjX49sBmNOzEtJxUQ1/nsqo57/FCeRcytnGT4pyKa9R6YGUz7jXqnQhRqPepZuUP7jYw6XpfVelyM5m0fAU8d7PAAuvKenp5IY7WVpw+rVn0CE51YANSgl7lzCRlzV9KislOGBb08tESoauJb/DXe1LYul0guda6bLX3JZzyv+u+7ZWlAQTmInejqTibTygz+Rqh8SGy8ujgq2wryVOQKM7NR795zoD7QX+KcDtD/AuvADqhg82Fzy0WWArSrsi8zTFKuDxiBpaJi5r82RZZ4zsYdb1dfSeQMa2WeVRP4Sw1Hgw26QPFRXKaT5jlbGHySvWBMS9TauXipmCghOEDkUGQHNeUiOQJWB1ZwIT/f7dWUEfjqTm4/KSr/k5RNFh5r8yLDC7sEVxK2rHea1W1SY3pvcU8tbG4RS4wG7S72BP1QOytYxceOgzcdi6+OqrB4=
-    on_success: change
-    on_failure: always
+# notifications:
+#   slack:
+#     rooms:
+#       - secure: W5Xt/NebWaoWrPwcZEKLbz3j07nVmQ5m+SBnd8Am95Dw7dX2ip+h3fLJr6QeNQJ9rd/Pr0R2R9BboDM8/JKlZYcfTjiTf4SHKsu5OdeK87FnpO5I25I40w4RpIaQCzHN2knBIPke5L0JUBi9gwoXZ5UXJtNIyDWz940oQ/mCY6KHQ7D8rydG/sd8+BRljGEHbtto3aghiZE9Nn0bUylWi5cZTwhsaNUgJ3nTPalB2AJjX49sBmNOzEtJxUQ1/nsqo57/FCeRcytnGT4pyKa9R6YGUz7jXqnQhRqPepZuUP7jYw6XpfVelyM5m0fAU8d7PAAuvKenp5IY7WVpw+rVn0CE51YANSgl7lzCRlzV9KislOGBb08tESoauJb/DXe1LYul0guda6bLX3JZzyv+u+7ZWlAQTmInejqTibTygz+Rqh8SGy8ujgq2wryVOQKM7NR795zoD7QX+KcDtD/AuvADqhg82Fzy0WWArSrsi8zTFKuDxiBpaJi5r82RZZ4zsYdb1dfSeQMa2WeVRP4Sw1Hgw26QPFRXKaT5jlbGHySvWBMS9TauXipmCghOEDkUGQHNeUiOQJWB1ZwIT/f7dWUEfjqTm4/KSr/k5RNFh5r8yLDC7sEVxK2rHea1W1SY3pvcU8tbG4RS4wG7S72BP1QOytYxceOgzcdi6+OqrB4=
+#     on_success: change
+#     on_failure: always
 deploy:
   provider: pages
   skip_cleanup: true
