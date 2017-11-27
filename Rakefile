@@ -68,7 +68,7 @@ namespace :test do
   task :prod do
     puts 'Validating production HTML output in _site...'
     Rake::Task['build:prod'].invoke
-    system 'bundle exec htmlproofer ./_site'
+    system 'bundle exec htmlproofer ./_site ' + HTML_PROOFER_OPTIONS
   end
 end
 
