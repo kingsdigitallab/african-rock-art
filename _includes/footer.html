@@ -6,7 +6,7 @@
         <li>
           <div>
             <a href="{{ item.url }}" target="_blank">
-              <img alt="{{ item.alt }}" class="svg icon" src="{{ site.data.static.icons }}/{{ item.socialIcon }}.svg">
+              <img alt="{{ item.alt }}" class="svg icon" src="{{ site.data.static.icons | relative_url }}/{{ item.socialIcon }}.svg">
             </a>
           </div>
         </li>
@@ -16,7 +16,7 @@
 
     <div class="column-three-quarters">
       <form method="post" action="//" id="enewsNullForm-footer"></form>
-      
+
       <form class="margin16pxB alpha omega clear" id="adestra_footer_form" action="https://britishmuseum.msgfocus.com/s/" method="POST">
         <input type="hidden" name="_account_id" value="1552">
         <input type="hidden" name="_table_id" value="8">

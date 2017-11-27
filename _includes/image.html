@@ -6,9 +6,9 @@ alt="no image title"
 {% endif %}
 {% if include.class %}class="{{ include.class }}"{% endif %}
 {% if include.image.url %}
-src="{{ site.data.static.images }}/{{ include.image.url | split: "/" | last }}"
+src="{{ site.data.static.images | relative_url }}/{{ include.image.url | split: "/" | last }}"
 {% else %}
-src="{{ site.data.static.images }}/placeholder.png"
+src="{{ site.data.static.images | relative_url }}/placeholder.png"
 {% endif %}
 >
 {% if include.caption %}
