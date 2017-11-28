@@ -9,8 +9,8 @@ layout: default
         <h1 class="post-title">{{ self.title | escape }}</h1>
     </header>
 
-    <div class="post-content">
-        {{ self.title }}
+    <div>
+        {% include chapters.html chapters=self.chapters %}
     </div>
 
 </article>
