@@ -6,7 +6,7 @@
         {% if page.breadcrumbs %}
         {% for crumb in page.breadcrumbs %}
         <li>
-            {% if crumb.url %}<a href="{{ crumb.url | relative_url }}">{% endif %}
+            {% if crumb.url %}<a href="{{ crumb.url }}">{% endif %}
                 {{ crumb.label }}
             {% if crumb.url %}</a>{% endif %}
         </li>
