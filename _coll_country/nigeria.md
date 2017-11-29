@@ -29,10 +29,10 @@ contentful:
     sys:
       id: 56FnXwosA0kgA8WIM8Kusk
       created_at: !ruby/object:DateTime 2017-11-17 17:44:51.477000000 Z
-      updated_at: !ruby/object:DateTime 2017-11-17 17:44:51.477000000 Z
+      updated_at: !ruby/object:DateTime 2017-11-28 17:31:13.877000000 Z
       content_type_id: country_key_facts
     title_internal: 'Nigeria: key facts'
-    image_count: 300 images
+    image_count: 439 images
     date_range: 1500 BC -1500 AD
     main_areas: North-West and South-East, Cross River State
     techniques: Paintings and engraved standing stones
