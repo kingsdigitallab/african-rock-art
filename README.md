@@ -22,7 +22,7 @@ echo "Install Bundler gem (may need sudo)"
 echo "Install Dependencies"
 bundle install --path vendor/bundle && bundle install
 echo "Start Jekyll Server"
-rake serve
+bundle exec rake serve
 ```
 
 Open your browser and go to: [localhost:4000](http://localhost:4000)
@@ -35,15 +35,15 @@ To import content from the Contentful CMS, copy the file `env.sh.sample` into a 
 echo "Edit Contentful settings"
 cp env.sh.sample env.sh && nano env.sh
 echo "Import and process Contentful data"
-rake contentful
+bundle exec rake contentful
 ```
 
 ## Utilities
 
-The project has a `Rakefile` that contains taks and build utilities. To see the tasks available run the command `rake --tasks` inside the project directory. Current tasks:
+The project has a `Rakefile` that contains taks and build utilities. To see the tasks available run the command `bundle exec rake --tasks` inside the project directory. Current tasks:
 
 ```bash
-$ rake --tasks
+$ bundle exec rake --tasks
 rake build:dev                 # Regenerate files for development
 rake build:prod                # Regenerate files for production
 rake contentful:all            # Import and process data from Contentful
@@ -58,4 +58,4 @@ rake test:dev                  # Test development site
 rake test:prod                 # Test production site
 ```
 
-By default, running `rake` will run the `test:all` task. [ImageMagick](https://www.imagemagick.org/) is needed to run the `contentful:resize`  task.
+By default, running `bundle exec rake` will run the `test:all` task. [ImageMagick](https://www.imagemagick.org/) is needed to run the `contentful:resize`  task.
