@@ -1,5 +1,4 @@
 ---
-layout: introduction
 contentful:
   sys:
     id: 5j76DfcDwk28WOmWMAm20C
