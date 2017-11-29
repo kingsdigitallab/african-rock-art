@@ -93,6 +93,10 @@ form {
     }
 }
 
+.hide {
+    display: none;
+}
+
 hr {
     background: #000;
     border: 0;
@@ -137,6 +141,10 @@ section {
         font-family: "Baskerville", serif;
         font-weight: 400;
     }
+}
+
+.show {
+    display: block;
 }
 
 .white {
@@ -241,6 +249,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Main content */
+
+// Accordions
+
+.accordion {
+    .chapter-title {
+        border-top: 1px solid #b1b1b1;
+        cursor: pointer;
+        padding: 16px 0;
+        position: relative;
+
+        &:after {
+            color: #b1b1b1;
+            content: "+";
+            position: absolute;
+            right: 0;
+        }
+    }
+}
 
 // Cards
 
