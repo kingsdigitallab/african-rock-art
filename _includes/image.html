@@ -6,9 +6,8 @@ class="lazyload{% if include.class %} {{ include.class }}{% endif %}"
 data-sizes="auto"
 {% if include.image.url %}
 data-src="{{ site.data.static.images | relative_url }}/{{ include.image.url | split: "/" | last }}"
-{% else %}
-data-src="{{ site.data.static.images | relative_url }}/placeholder.png"
 {% endif %}
+src="{{ site.data.static.images | relative_url }}/placeholder.png"
 >
 {% if include.caption %}
 <p class="caption">{{ include.caption }}</p>
