@@ -47,10 +47,12 @@ layout: default
             <div class="card">
                 {% assign url = "/introduction/" | append: introduction.slug | append: ".html" | relative_url %}
 
-                <a href="{{ url }}">
-                    {% assign image = introduction.lead_image[0] %}
-                    {% include image.html image=image %}
-                </a>
+                <div class="card-image">
+                    <a href="{{ url }}">
+                        {% assign image = introduction.lead_image[0] %}
+                        {% include image.html image=image %}
+                    </a>
+                </div>
                 <div class="card-content">
                     <h3>{{ introduction.title }}</h3>
                     <a href="{{ url }}" class="more hr">Find out more</a>
@@ -76,10 +78,12 @@ layout: default
                 <div class="card">
                     {% assign url = "/country/" | append: country.slug | append: ".html" | relative_url %}
 
-                    <a href="{{ url }}">
-                        {% assign image = country.image_carousel[0] %}
-                        {% include image.html image=image %}
-                    </a>
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% assign image = country.image_carousel[0] %}
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
                     <div class="card-content">
                         <h3>{{ country.name }}</h3>
                     </div>
@@ -99,10 +103,12 @@ layout: default
             <div class="card">
                 {% assign url = "/regional_introduction/" | append: region.slug | append: ".html" | relative_url %}
 
-                <a href="{{ url }}">
-                    {% assign image = region.lead_image[0] %}
-                    {% include image.html image=image %}
-                </a>
+                <div class="card-image">
+                    <a href="{{ url }}">
+                        {% assign image = region.lead_image[0] %}
+                        {% include image.html image=image %}
+                    </a>
+                </div>
                 <div class="card-content">
                     <h3>
                         <a href="{{ url }}">{{ region.title }}</a>
