@@ -14,9 +14,11 @@ layout: default
         {% for image in self.image_carousel %}
         <div class="column-one-quarter">
             <div class="card">
-                <a href="">
-                    {% include image.html image=image %}
-                </a>
+                <div c;ass="card-image">
+                    <a href="">
+                        {% include image.html image=image %}
+                    </a>
+                </div>
                 <div class="card-content">
                     <a href="" class="more">
                     </a>
