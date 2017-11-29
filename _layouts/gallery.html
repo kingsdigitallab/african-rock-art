@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="container">
+    {% assign self = page.contentful %}
+
+    <header>
+        <h1 class="post-title">{{ self.title | escape }}</h1>
+    </header>
+
+    <div class="container">
+        <h2>Gallery</h2>
+        {% for image in self.image_carousel %}
+        <div class="column-one-quarter">
+            <div class="card">
+                <a href="">
+                    {% include image.html image=image %}
+                </a>
+                <div class="card-content">
+                    <a href="" class="more">
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+</article>

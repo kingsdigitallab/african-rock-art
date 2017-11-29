@@ -1,5 +1,4 @@
 ---
-layout: country_information
 contentful:
   sys:
     id: 142GjmRwVygmAiU6Q0AYmA
