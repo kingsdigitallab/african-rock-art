@@ -210,7 +210,7 @@ def create_content_pages(key, data)
 
   # Creates one content file per item
   data.each do |item|
-    item_hash = { 'layout' => key, 'contentful' => item }
+    item_hash = {'contentful' => item }
     slug = item['sys']['id']
 
     if item['slug'] && !item['slug'].empty?
@@ -227,6 +227,8 @@ def create_content_pages(key, data)
       f.write('---')
     end
   end
+
+  FileUtils.copy_entry(dir_path, '_coll_gallery') if key.eql? 'country'
 end
 
 def slugify(str)
