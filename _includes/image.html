@@ -1,14 +1,13 @@
 <img
 {% if include.image.title %}
 alt="{{ include.image.title }}"
-{% else %}
-alt="no image title"
 {% endif %}
-{% if include.class %}class="{{ include.class }}"{% endif %}
+class="lazyload{% if include.class %} {{ include.class }}{% endif %}"
+data-sizes="auto"
 {% if include.image.url %}
-src="{{ site.data.static.images | relative_url }}/{{ include.image.url | split: "/" | last }}"
+data-src="{{ site.data.static.images | relative_url }}/{{ include.image.url | split: "/" | last }}"
 {% else %}
-src="{{ site.data.static.images | relative_url }}/placeholder.png"
+data-src="{{ site.data.static.images | relative_url }}/placeholder.png"
 {% endif %}
 >
 {% if include.caption %}
