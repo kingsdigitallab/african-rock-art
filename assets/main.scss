@@ -230,7 +230,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .home {
     .site-header {
-        background: url("{{ '/assets/images/background.jpg' | relative_url }}") top center no-repeat;
+        background: url("{{ '/assets/images/background.jpg' | relative_url }}") left top no-repeat;
         background-size: cover;
     }
 }
