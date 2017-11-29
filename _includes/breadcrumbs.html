@@ -1,24 +1,19 @@
 <nav class="container breadcrumbs">
     <ul>
         <li>
-            <a href="/">Homepage</a>
+            <a href="{{ site.baseurl }}">Homepage</a>
         </li>
-        {% if page.collection_title %}
-        <li>{{ page.collection_title }}</li>
-        {% elsif page.collection %}
-        {% assign collection = site.collections | where: "label", page.collection | first %}
+        {% if page.breadcrumbs %}
+        {% for crumb in page.breadcrumbs %}
         <li>
-            {% if collection.has_index %}
-            <a href="index.html">
-                {% endif %}
-            {{ collection.title }}
-            {% if collection.has_index %}
-            </a>
-            {% endif %}
+            {% if crumb.url %}<a href="{{ crumb.url }}">{% endif %}
+                {{ crumb.label }}
+            {% if crumb.url %}</a>{% endif %}
         </li>
+        {% endfor %}
+        {% endif %}
         <li>
             {{ page.title }}
         </li>
-        {% endif %}
     </ul>
 </nav>
