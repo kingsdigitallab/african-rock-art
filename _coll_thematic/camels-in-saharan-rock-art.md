@@ -1,5 +1,4 @@
 ---
-layout: thematic
 contentful:
   sys:
     id: 1KwPIcPzMga0YWq8ogEyCO

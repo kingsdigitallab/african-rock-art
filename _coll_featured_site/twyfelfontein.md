@@ -1,5 +1,4 @@
 ---
-layout: featured_site
 contentful:
   sys:
     id: 2KwE2LvwScQG6CmU4eM2uw

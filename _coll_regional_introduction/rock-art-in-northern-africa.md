@@ -1,5 +1,4 @@
 ---
-layout: regional_introduction
 contentful:
   sys:
     id: 6z8ygHLwjeeCkI0SeOOogm
