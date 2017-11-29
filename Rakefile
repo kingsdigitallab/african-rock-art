@@ -188,14 +188,20 @@ namespace :contentful do
   desc 'Resizes the images imported from Contentful to a maximum of 500k'
   task :resize do
     puts 'Resizing images...'
+
+    images_path = 'assets/images'
+    low_quality_path = "#{images_path}/low"
+    Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
+
     if find_executable('mogrify')
-      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb '\
-        'assets/images/*.jpg'
-      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb '\
-        'assets/images/*.jpeg'
-      system 'mogrify -resize "1024" -quality 100 -define jpeg:extent=500kb '\
-        'assets/images/*.JPG'
-      system 'rm -f assets/images/*.*~'
+      %w[jpg jpeg JPG].each do |ext|
+        system "mogrify -resize 1024 -quality 100 \
+        -define jpeg:extent=500kb #{images_path}/*.#{ext}"
+        system "mogrify -path #{low_quality_path} \
+        -quality 10 #{images_path}/*.#{ext}"
+      end
+
+      system "rm -f #{images_path}/*.*~"
     else
       puts 'Imagemagick not found'
     end
@@ -210,7 +216,7 @@ def create_content_pages(key, data)
 
   # Creates one content file per item
   data.each do |item|
-    item_hash = {'contentful' => item }
+    item_hash = { 'contentful' => item }
     slug = item['sys']['id']
 
     if item['slug'] && !item['slug'].empty?
