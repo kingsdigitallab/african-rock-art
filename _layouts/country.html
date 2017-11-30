@@ -35,9 +35,11 @@ layout: default
         {% for image in self.image_carousel limit:3 %}
         <div class="column-one-third">
             <div class="card">
-                <a href="">
-                    {% include image.html image=image %}
-                </a>
+                <div class="card-image">
+                    <a href="">
+                        {% include image.html image=image %}
+                    </a>
+                </div>
                 <div class="card-content">
                     <a href="" class="more">Read more about this image</a>
                 </div>
@@ -58,7 +60,7 @@ layout: default
         <p>{{ self.key_facts.famous_for }}</p>
     </div>
 
-    <div class="container chapter">
+    <div class="container chapter accordion">
         {% include chapters.html chapters=chapters offset=2 %}
     </div>
 
@@ -69,9 +71,11 @@ layout: default
             <div class="card">
                 {% assign url = "/thematic/" | append: related.slug | append: ".html" | relative_url %}
 
-                <a href="{{ url }}">
-                    {% include image.html image=related.lead_image %}
-                </a>
+                <div class="card-image">
+                    <a href="{{ url }}">
+                        {% include image.html image=related.lead_image %}
+                    </a>
+                </div>
                 <div class="card-content">
                     <h3><a href="{{ url }}">{{ related.title }}</a></h3>
                     <a href="{{ url }}" class="more hr">Find out more</a>
