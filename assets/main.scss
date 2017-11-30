@@ -252,18 +252,24 @@ h1, h2, h3, h4, h5, h6 {
 
 // Accordions
 
-.accordion {
-    .chapter-title {
-        border-top: 1px solid #b1b1b1;
-        cursor: pointer;
-        padding: 16px 0;
-        position: relative;
+.country {
+    .accordion {
+        .chapter-content {
+            display: none;
+        }
+        
+        .chapter-title {
+            border-top: 1px solid #b1b1b1;
+            cursor: pointer;
+            padding: 16px 0;
+            position: relative;
 
-        &:after {
-            color: #b1b1b1;
-            content: "+";
-            position: absolute;
-            right: 0;
+            &:after {
+                color: #b1b1b1;
+                content: "+";
+                position: absolute;
+                right: 0;
+            }
         }
     }
 }
