@@ -93,6 +93,10 @@ form {
     }
 }
 
+.hide {
+    display: none;
+}
+
 hr {
     background: #000;
     border: 0;
@@ -137,6 +141,10 @@ section {
         font-family: "Baskerville", serif;
         font-weight: 400;
     }
+}
+
+.show {
+    display: block;
 }
 
 .white {
@@ -222,7 +230,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .home {
     .site-header {
-        background: url("{{ '/assets/images/background.jpg' | relative_url }}") top center no-repeat;
+        background: url("{{ '/assets/images/background.jpg' | relative_url }}") left top no-repeat;
         background-size: cover;
     }
 }
@@ -242,6 +250,24 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Main content */
 
+// Accordions
+
+.accordion {
+    .chapter-title {
+        border-top: 1px solid #b1b1b1;
+        cursor: pointer;
+        padding: 16px 0;
+        position: relative;
+
+        &:after {
+            color: #b1b1b1;
+            content: "+";
+            position: absolute;
+            right: 0;
+        }
+    }
+}
+
 // Cards
 
 .card {
@@ -254,6 +280,11 @@ h1, h2, h3, h4, h5, h6 {
 
     .card-content {
         padding: 16px;
+    }
+
+    .card-image {
+        height: 180px;
+        overflow: hidden;
     }
 
     h2, h3, h4 {
