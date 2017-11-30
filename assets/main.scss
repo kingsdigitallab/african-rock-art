@@ -254,10 +254,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .country {
     .accordion {
-        .chapter-content {
+        .chapter-content, .chapter-image {
             display: none;
         }
-        
+
         .chapter-title {
             border-top: 1px solid #b1b1b1;
             cursor: pointer;
