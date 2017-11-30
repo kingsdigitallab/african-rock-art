@@ -4,7 +4,7 @@
 {% include image.html image=chapter.image caption=chapter.caption class="full-width" %}
 {% else %}
 <h2 class="chapter-title">{{ chapter.title }}</h2>
-<div class="chapter-content hide">
+<div class="chapter-content">
     <p>{{ chapter.body | markdownify }}</p>
 </div>
 {% endif %}
