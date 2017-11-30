@@ -4,9 +4,9 @@ layout: default
 
 <article class="country">
     {% assign self = page.contentful %}
-    {% assign introduction = self.country_introduction.chapters[0] %}
-    {% assign introduction_image = self.country_introduction.chapters | where: "sys.content_type_id", "image" | first %}
     {% assign chapters = self.country_introduction.chapters %}
+    {% assign introduction = chapters[0] %}
+    {% assign introduction_image = chapters | where: "sys.content_type_id", "image" | first  %}
 
     <header class="container">
         <h1 class="page-heading">{{ self.name | escape }}</h1>
@@ -50,20 +50,20 @@ layout: default
 
     <div class="container chapter">
         <h2>Country overview</h2>
-        <h3>Date range</h3>
-        <p>{{ self.key_facts.date_range }}</p>
-        <h3>Image count</h3>
-        <p>{{ self.key_facts.image_count }}</p>
-        <h3>Main themes</h3>
-        <p>{{ self.key_facts.main_themes }}</p>
-        <h3>Famour for</h3>
-        <p>{{ self.key_facts.famous_for }}</p>
+        {% assign fields = "date_range, image_count, main_themes, famous_for" | split: ", " %}
+        {% for field in fields %}
+        {% if self.key_facts[field] %}
+        <h3>{{ field | split: "_" | join: " " | capitalize }}</h3>
+        <p>{{ self.key_facts[field] }}</p>
+        {% endif %}
+        {% endfor %}
     </div>
 
     <div class="container chapter accordion">
-        {% include chapters.html chapters=chapters offset=2 %}
+        {% include chapters.html chapters=chapters %}
     </div>
 
+    {% if self.thematic_articles %}
     <div class="container">
         <h2>Related content</h2>
         {% for related in self.thematic_articles limit:3 %}
@@ -84,4 +84,5 @@ layout: default
         </div>
         {% endfor %}
     </div>
+    {% endif %}
 </article>
