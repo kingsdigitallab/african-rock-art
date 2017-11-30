@@ -5,9 +5,12 @@ alt="{{ include.image.title }}"
 class="lazyload{% if include.class %} {{ include.class }}{% endif %}"
 data-sizes="auto"
 {% if include.image.url %}
-data-src="{{ site.data.static.images | relative_url }}/{{ include.image.url | split: "/" | last }}"
-{% endif %}
+{% assign name = include.image.url | split: "/" | last %}
+data-src="{{ site.data.static.images | relative_url }}/{{ name }}"
+src="{{ site.data.static.images | relative_url }}/{{ name }}"
+{% else %}
 src="{{ site.data.static.images | relative_url }}/placeholder.png"
+{% endif %}
 >
 {% if include.caption %}
 <p class="caption">{{ include.caption }}</p>

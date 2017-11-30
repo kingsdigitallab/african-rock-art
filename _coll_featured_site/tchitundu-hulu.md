@@ -3,10 +3,10 @@ contentful:
   sys:
     id: 4COYtGhxoAuK82cGysc2cu
     created_at: !ruby/object:DateTime 2016-07-27 07:45:12.121000000 Z
-    updated_at: !ruby/object:DateTime 2016-07-27 09:32:41.107000000 Z
+    updated_at: !ruby/object:DateTime 2017-11-29 19:47:47.835000000 Z
     content_type_id: featured_site
   title: Tchitundu-Hulu
-  slug: Tchitundu-Hulu
+  slug: tchitundu-hulu
   chapters:
   - sys:
       id: 26QSCtJ2726k0U4WG4uCS2
