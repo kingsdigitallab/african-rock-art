@@ -7,7 +7,7 @@ contentful:
     content_type_id: country
   name: Botswana
   slug: botswana
-  col_url: 'http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=19305|108608|108619|108618|108610|108613|108574|108572|108562|108568|108571|108570|108557|108558|14789|108560 '
+  col_url: 'http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=19305\\|108608|108619\\|108618|108610\\|108613|108574\\|108572|108562\\|108568|108571\\|108570|108557\\|108558|14789\\|108560 '
   map_progress: true
   intro_progress: true
   image_carousel:
@@ -79,8 +79,8 @@ contentful:
         content_type_id: chapter
       title: Rock Art
       title_internal: 'Botswana: featured site, chapter 2'
-      body: The paintings at Tsodilo are unique in comparison to other San|Bushmen
-        rock art in both techniques and subject matter. San|Bushmen paintings are
+      body: The paintings at Tsodilo are unique in comparison to other San\\|Bushmen
+        rock art in both techniques and subject matter. San\\|Bushmen paintings are
         well-known throughout southern Africa for their fine-line detail because they
         were brush painted, but those at Tsodilo are finger painted. In addition,
         160 depictions of cattle are portrayed in the same style as wild animals,
@@ -277,7 +277,7 @@ contentful:
       title_internal: 'Botswana: featured site, chapter 10'
       body: "It is a bit of a mystery about who actually created the paintings at
         Tsodilo, as the red images at Tsodilo do not fit neatly into other known styles
-        of rock art in southern Africa. They do not show the fine brush work of San|Bushmen¹
+        of rock art in southern Africa. They do not show the fine brush work of San\\|Bushmen¹
         in other parts of southern Africa, nor the cruder style of white paintings
         attributed to later Bantu-speaking farmers.\n\nIt is possible that they were
         painted by the Khoesan during the first millennium AD, the original settlers
@@ -403,7 +403,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:31:38.744000000 Z
         content_type_id: chapter
       title_internal: Botswana Chapter 14
-      body: "¹ San|Bushmen is a collective term used to describe the many different
+      body: "¹ San\\|Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
         and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
         terms by some members of these groups, although others have positively adopted
@@ -554,7 +554,7 @@ contentful:
       title: ''
       title_internal: 'Botswana: country, chapter 4'
       body: |
-        In 1963 Alec Campbell visited the region with George Silberbauer, an ethnographer who had studied the San|Bushmen in Botswana. As Director of Botswana’s National Museum, Campbell had a little government funding to record the rock art and excavate the rock shelters. Subsequently he collaborated with archaeologists Larry Robbins, Mike Murphy, and paleo-geographer George Brook.
+        In 1963 Alec Campbell visited the region with George Silberbauer, an ethnographer who had studied the San\\|Bushmen in Botswana. As Director of Botswana’s National Museum, Campbell had a little government funding to record the rock art and excavate the rock shelters. Subsequently he collaborated with archaeologists Larry Robbins, Mike Murphy, and paleo-geographer George Brook.
 
         During the 1990s, Campbell, along with the staff from the National Museum recorded around 400 rock art sites numbering over 4,000 individual paintings. In 2001 Tsodilo Hills became a UNESCO World Heritage Site because of its spiritual significance to local peoples, as well as its unique record of human settlement over many millennia.
     - sys:
@@ -581,11 +581,11 @@ contentful:
       title: Distribution and themes
       title_internal: 'Botswana: country, chapter 5'
       body: |-
-        Tuli Block is a narrow fringe of land in the far east of the country that borders South Africa and lies on the banks of the Limpopo River. This area is characterised by rock engravings of human and animal footprints, and cupules, which hold spiritual importance both for San|Bushman¹ hunter-gatherers and Tswana farmers. The engravings are thought to refer to a local myth that tells of an ancestor, named Matsieng, who is believed to have emerged from a waterhole followed by his animals. However, there are several localities in the region that claim this origin myth. It is thought the engravings in this area were created by the San|Bushmen and linked to their belief system, appropriated later by the Tswana farmers.
+        Tuli Block is a narrow fringe of land in the far east of the country that borders South Africa and lies on the banks of the Limpopo River. This area is characterised by rock engravings of human and animal footprints, and cupules, which hold spiritual importance both for San\\|Bushman¹ hunter-gatherers and Tswana farmers. The engravings are thought to refer to a local myth that tells of an ancestor, named Matsieng, who is believed to have emerged from a waterhole followed by his animals. However, there are several localities in the region that claim this origin myth. It is thought the engravings in this area were created by the San\\|Bushmen and linked to their belief system, appropriated later by the Tswana farmers.
 
-        The most renowned rock art in Botswana comes from the Tsodilo Hills in the north-west of the country. With more than 4,500 paintings preserved in an area of 10km² it has been termed the “Louvre of the Desert”.  Tsodilo is made up of four main hills; Male Hill, Female Hill, Child Hill and North Hill, and paintings occur on all four. The subject matter, comprised of red and white paintings, includes animals, human figures and geometric designs. Red paintings are likely to have been made by San|Bushmen, while the white paintings are more difficult to attribute authorship to but may be a later continuation of the red tradition. There are no engraved images at Tsodilo but cupules and ground grooves are a common feature.  Dating of the paintings at Tsodilo has been difficult, and because many of them occur on exposed surfaces where they are susceptible to damage by the sun, rain and wind, what remains is probably not very old. However, paintings of cattle, which are also badly faded, probably date to between AD 800 and 1150 when people kept these animals in this area.
+        The most renowned rock art in Botswana comes from the Tsodilo Hills in the north-west of the country. With more than 4,500 paintings preserved in an area of 10km² it has been termed the “Louvre of the Desert”.  Tsodilo is made up of four main hills; Male Hill, Female Hill, Child Hill and North Hill, and paintings occur on all four. The subject matter, comprised of red and white paintings, includes animals, human figures and geometric designs. Red paintings are likely to have been made by San\\|Bushmen, while the white paintings are more difficult to attribute authorship to but may be a later continuation of the red tradition. There are no engraved images at Tsodilo but cupules and ground grooves are a common feature.  Dating of the paintings at Tsodilo has been difficult, and because many of them occur on exposed surfaces where they are susceptible to damage by the sun, rain and wind, what remains is probably not very old. However, paintings of cattle, which are also badly faded, probably date to between AD 800 and 1150 when people kept these animals in this area.
 
-        ¹ San|Bushmen is a collective term used to describe the many different hunter-gatherer-fisher groups living in southern Africa who have related languages and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive terms by some members of these groups, although others have positively adopted them.
+        ¹ San\\|Bushmen is a collective term used to describe the many different hunter-gatherer-fisher groups living in southern Africa who have related languages and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive terms by some members of these groups, although others have positively adopted them.
     - sys:
         id: 5TetNeY7kWwAQWW0gks2ya
         created_at: !ruby/object:DateTime 2016-09-12 11:27:26.815000000 Z

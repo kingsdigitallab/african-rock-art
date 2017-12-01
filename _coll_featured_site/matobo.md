@@ -124,7 +124,7 @@ contentful:
       figures – can be easily related to trance or rain-making activities similar
       to those seen in South Africa. These paintings have been interpreted as representing
       the trance experiences of shamans (the term ‘shaman’ is derived from Siberian
-      concepts of Shamanism and its applicability to San|Bushman¹ cultures has been
+      concepts of Shamanism and its applicability to San\\|Bushman¹ cultures has been
       questioned, but it is utilised here on the understanding that it sufficiently
       represents trancers in this academic context, where it is the most frequently
       used term to describe them). However, unlike in South Africa, the Matobo Hills
@@ -214,7 +214,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
       content_type_id: chapter
     title_internal: Matobo Chapter 7
-    body: "¹ San|Bushmen is a collective term used to describe the many different
+    body: "¹ San\\|Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
       and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
       terms by some members of these groups, although others have positively adopted

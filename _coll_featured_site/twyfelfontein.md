@@ -121,27 +121,27 @@ contentful:
     body: "It appears that the kudu figure is pregnant and it has been suggested that
       the choice of this animal may have been made in relation to female initiation
       practices. This is because the female kudu has a symbolic importance relating
-      to women’s behaviour in the cosmology of some San|Bushman¹ people, traditionally
+      to women’s behaviour in the cosmology of some San\\|Bushman¹ people, traditionally
       hunter-gatherer people whose ancestors are thought to have made most of southern
       Africa’s rock paintings and engravings.  Other animals known to have symbolic
-      and metaphorical significance to San|Bushman people are also depicted here (giraffe
-      images are most numerous) and these images have been interpreted in the vein
-      of other southern African rock art sites, where images are thought to reflect
-      the experiences of shamans while in a trance state, and may have multiple metaphorical
-      and other cultural meanings.  \n\nThe engravings were certainly made in strategic
-      locations and not simply on any available rock surface, with some images having
-      been deliberately made in places that are difficult to reach and to see.  The
-      reason for this is unclear, though it has been suggested that such placement
-      might be in relation to the images serving a preparatory function for shamans
-      preparing to enter a trance.  Some of the engravings have exaggerated features
-      such as elongated limbs and extremities which may reflect trance experience.
-      \ One of the engravings appears to depict a lion with pugmarks (paw prints)
-      instead of feet and third at the end of the tail.  Each of those in the feet
-      have five instead of the correct four pads and this has been interpreted as
-      meaning that the figure represents a human shaman in trance who has taken on
-      lion form.  A similar suggestion has been made regarding the frequent depictions
-      of ostriches (Kinahan, 2006).  \n\n¹ San|Bushmen is a collective term used to
-      describe the many different hunter-gatherer-fisher groups living in southern
+      and metaphorical significance to San\\|Bushman people are also depicted here
+      (giraffe images are most numerous) and these images have been interpreted in
+      the vein of other southern African rock art sites, where images are thought
+      to reflect the experiences of shamans while in a trance state, and may have
+      multiple metaphorical and other cultural meanings.  \n\nThe engravings were
+      certainly made in strategic locations and not simply on any available rock surface,
+      with some images having been deliberately made in places that are difficult
+      to reach and to see.  The reason for this is unclear, though it has been suggested
+      that such placement might be in relation to the images serving a preparatory
+      function for shamans preparing to enter a trance.  Some of the engravings have
+      exaggerated features such as elongated limbs and extremities which may reflect
+      trance experience.  One of the engravings appears to depict a lion with pugmarks
+      (paw prints) instead of feet and third at the end of the tail.  Each of those
+      in the feet have five instead of the correct four pads and this has been interpreted
+      as meaning that the figure represents a human shaman in trance who has taken
+      on lion form.  A similar suggestion has been made regarding the frequent depictions
+      of ostriches (Kinahan, 2006).  \n\n¹ San\\|Bushmen is a collective term used
+      to describe the many different hunter-gatherer-fisher groups living in southern
       Africa who have related languages and cultural traditions. Both 'San' and 'Bushmen'
       are considered offensive terms by some members of these groups, although others
       have positively adopted them.\n"
@@ -168,10 +168,10 @@ contentful:
       content_type_id: chapter
     title_internal: 'Namibia: featured site, chapter 5'
     body: "Such interpretations are made on the basis that the artists followed the
-      same cultural tradition as the ancestral San|Bushman. The few examples of painted
-      rock art at the site certainly appear to conform to the hunter-gatherer tradition
-      found elsewhere in Namibia.   Following this approach, the geometric engraved
-      forms may be interpreted as illustrative of so-called ‘entoptic’ phenomena:
+      same cultural tradition as the ancestral San\\|Bushman. The few examples of
+      painted rock art at the site certainly appear to conform to the hunter-gatherer
+      tradition found elsewhere in Namibia.   Following this approach, the geometric
+      engraved forms may be interpreted as illustrative of so-called ‘entoptic’ phenomena:
       shapes and patterns observed when entering a trance state, though an alternative
       origin for some of the geometrics with particular line and circle motifs has
       also been suggested. This proposal suggests that they were made by ancestral
