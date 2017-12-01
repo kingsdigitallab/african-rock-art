@@ -59,6 +59,7 @@ exclude: [bower.json, env.sh*, Gemfile*, Rakefile, README.md, script, vendor]
 github_username: kingsdigitallab
 google_analytics: UA-1005261-36
 include: [_pages]
+kramdown: {hard_wrap: false}
 markdown: kramdown
 theme: minima
 title: African Rock Art

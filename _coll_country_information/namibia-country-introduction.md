@@ -210,22 +210,23 @@ contentful:
     body: "Much of the painted rock art in Namibia may be broadly compared to the
       wider hunter-gatherer rock art oeuvre found throughout southern Africa, similar
       in theme and composition and believed to be a part of the same general tradition,
-      which is generally attributed to San|Bushman¹ people and their ancestors.  Imagery
-      includes scenes of human figures carrying bows and other implements, wild animals
-      and unidentified shapes in different pigments.  Overall, human figures dominate
-      in the paintings of Namibia, making up more than 2/3 of the painted figures,
-      and where the gender can be recognised, they are more commonly male than female.
-      \ Prominent painting subjects and styles in the rock art of Namibia (particularly
-      the best-studied west-central region) include, at some sites, clearly delineated
-      dots and patterns on human figures, a particular tradition of showing human
-      figures with voluminous decorated hairstyles, and more images of giraffe and
-      kudu, gemsbok and springbok antelope than in other southern African regions.
-      \ Other images of animals include those of zebras, elephants, rhinoceros and
-      ostriches.  More occasional motifs found include plants, cattle, sheep and handprints.
-      \n\n¹ San|Bushmen is a collective term used to describe the many different hunter-gatherer-fisher
-      groups living in southern Africa who have related languages and cultural traditions.
-      Both 'San' and 'Bushmen' are considered offensive terms by some members of these
-      groups, although others have positively adopted them."
+      which is generally attributed to San\\|Bushman¹ people and their ancestors.
+      \ Imagery includes scenes of human figures carrying bows and other implements,
+      wild animals and unidentified shapes in different pigments.  Overall, human
+      figures dominate in the paintings of Namibia, making up more than 2/3 of the
+      painted figures, and where the gender can be recognised, they are more commonly
+      male than female.  Prominent painting subjects and styles in the rock art of
+      Namibia (particularly the best-studied west-central region) include, at some
+      sites, clearly delineated dots and patterns on human figures, a particular tradition
+      of showing human figures with voluminous decorated hairstyles, and more images
+      of giraffe and kudu, gemsbok and springbok antelope than in other southern African
+      regions.  Other images of animals include those of zebras, elephants, rhinoceros
+      and ostriches.  More occasional motifs found include plants, cattle, sheep and
+      handprints. \n\n¹ San\\|Bushmen is a collective term used to describe the many
+      different hunter-gatherer-fisher groups living in southern Africa who have related
+      languages and cultural traditions. Both 'San' and 'Bushmen' are considered offensive
+      terms by some members of these groups, although others have positively adopted
+      them."
   - sys:
       id: 3EiSSgVDtCWA4C4EOyW2ai
       created_at: !ruby/object:DateTime 2016-09-26 14:51:19.714000000 Z
@@ -318,24 +319,24 @@ contentful:
     title_internal: 'Namibia: country, chapter 11'
     body: "Namibian rock paintings, and most engravings, have largely been interpreted
       in the vein largely espoused by  researchers over the past 30 years.  This postulates
-      that much of this rock art reflects the experience of San|Bushman shamans entering
-      trance states and that rather than being scenes from daily life, the depictions
-      of animals and activities are highly symbolic within San|Bushman cosmology,
-      with images acting as reservoirs of spiritual power.  This avenue of interpretation
-      originates largely from the study of rock art in South Africa and Lesotho.  While
-      it appears broadly applicable here, the fact that direct attributions to known
-      cultural groups in this area are difficult somewhat hinders direct comparisons
-      with Namibian rock art.  While hunter-gatherer rock painting production in South
-      Africa was practiced until the recent past, it appears to have ceased in Namibia
-      around a thousand  years ago and modern San|Bushman groups in the Kalahari area
-      have no tradition of rock art production.   \n\nAdditionally, hundreds of miles
-      and different geographical environments separate the rock art centres of north-western
-      Namibia from those in neighbouring countries. This is particularly apparent
-      in the differences in terms of animal subject matter, with the numerous depictions
-      of gemsbok and springbok, explicable by the rock art creators being semi-desert
-      dwellers where gemsbok and springbok are found locally though largely absent
-      from rock art elsewhere in southern Africa, where these animals are not found.
-      \n"
+      that much of this rock art reflects the experience of San\\|Bushman shamans
+      entering trance states and that rather than being scenes from daily life, the
+      depictions of animals and activities are highly symbolic within San\\|Bushman
+      cosmology, with images acting as reservoirs of spiritual power.  This avenue
+      of interpretation originates largely from the study of rock art in South Africa
+      and Lesotho.  While it appears broadly applicable here, the fact that direct
+      attributions to known cultural groups in this area are difficult somewhat hinders
+      direct comparisons with Namibian rock art.  While hunter-gatherer rock painting
+      production in South Africa was practiced until the recent past, it appears to
+      have ceased in Namibia around a thousand  years ago and modern San\\|Bushman
+      groups in the Kalahari area have no tradition of rock art production.   \n\nAdditionally,
+      hundreds of miles and different geographical environments separate the rock
+      art centres of north-western Namibia from those in neighbouring countries. This
+      is particularly apparent in the differences in terms of animal subject matter,
+      with the numerous depictions of gemsbok and springbok, explicable by the rock
+      art creators being semi-desert dwellers where gemsbok and springbok are found
+      locally though largely absent from rock art elsewhere in southern Africa, where
+      these animals are not found. \n"
   - sys:
       id: lwcNbhZZy8koW0Uq2KEkq
       created_at: !ruby/object:DateTime 2016-09-26 14:52:40.163000000 Z
@@ -364,18 +365,18 @@ contentful:
       led some to propose that the giraffe, similarly, must have held a particular
       symbolic meaning for the painters of the region.  Based on associated imagery,
       placement of the rock art sites, and some ethnography (written records of insights
-      from contemporary San|Bushman culture compiled by anthropologists) it has been
-      suggested that giraffes may have been linked with rain in local belief systems,
-      with some Namibian rock painting sites are associated specifically with rainmaking
-      or healing activities. \n\nWhile the more naturalistic examples of engravings
-      are thought to have also been produced by ancient hunter-gatherers, as with
-      the paintings, it has been suggested that some geometric engravings were produced
-      \ by herding people, possibly ancestral Khoenkhoen, perhaps in relation to initiation
-      rites.  Schematic finger paintings have also been attributed to pastoralist
-      people.  All attributions are tentative, however, because the majority of the
-      art is thought to be many hundreds of years old and the historical distinctions
-      between hunter-gatherers and herders is by no means clear-cut in the archaeological
-      record.\n"
+      from contemporary San\\|Bushman culture compiled by anthropologists) it has
+      been suggested that giraffes may have been linked with rain in local belief
+      systems, with some Namibian rock painting sites are associated specifically
+      with rainmaking or healing activities. \n\nWhile the more naturalistic examples
+      of engravings are thought to have also been produced by ancient hunter-gatherers,
+      as with the paintings, it has been suggested that some geometric engravings
+      were produced  by herding people, possibly ancestral Khoenkhoen, perhaps in
+      relation to initiation rites.  Schematic finger paintings have also been attributed
+      to pastoralist people.  All attributions are tentative, however, because the
+      majority of the art is thought to be many hundreds of years old and the historical
+      distinctions between hunter-gatherers and herders is by no means clear-cut in
+      the archaeological record.\n"
   - sys:
       id: 6Ljhl9Tm5GGKeU6e6GMSOA
       created_at: !ruby/object:DateTime 2016-09-26 14:52:59.658000000 Z

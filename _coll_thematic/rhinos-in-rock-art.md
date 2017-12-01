@@ -71,7 +71,7 @@ contentful:
       continent and while their meaning is not always known, they are often depicted
       using great artistry, skill and knowledge of animal physiology. However, research
       undertaken in southern Africa has demonstrated that in some contexts rhinoceros
-      may be incorporated into the cosmological belief systems of the San|Bushman
+      may be incorporated into the cosmological belief systems of the San\\|Bushman
       people (several culturally linked groups of indigenous people of southern Africa
       who were traditionally hunter-gatherers).\n\n"
   - sys:
@@ -153,7 +153,7 @@ contentful:
       content_type_id: chapter
     title_internal: 'Rhinos: thematic, chapter 5'
     body: |
-      In both species, a layer of fat sits between the hide and the flesh of the animal and in the white rhinoceros this can be up to or exceed a thickness of 50mm. It is well known that San|Bushmen believed the fat around the heart of the eland contained high levels of supernatural potency, and like the eland, they believed the rhinoceros to be especially potent animals (Ouzman, 1996:45)
+      In both species, a layer of fat sits between the hide and the flesh of the animal and in the white rhinoceros this can be up to or exceed a thickness of 50mm. It is well known that San\\|Bushmen believed the fat around the heart of the eland contained high levels of supernatural potency, and like the eland, they believed the rhinoceros to be especially potent animals (Ouzman, 1996:45)
 
       Rhinoceros in rock art imagery are both painted and engraved, but the prevalence of engraved images in southern African rock art is pronounced. Rhinoceros are well represented, even dominant, at numerous engraving sites in the Free State, Gauteng, Northern Cape and North West provinces of South Africa and at numerous Namibian sites (Ouzman, 1996:42)
   - sys:
@@ -202,20 +202,20 @@ contentful:
       ‘scenes’ and non-realistic features on both animals and humans such as the addition
       or absence of limbs, conflation of human and animal morphology and exaggerated
       attributes (Ouzman, 1996:36) These features are critical to our understanding
-      of the images as they are inextricably tied in to San|Bushman belief systems.\n\nThere
-      are very few references to rhinoceros in San|Bushman ethnography. However, what
-      does exist indicates that rhinoceros were of supernatural importance to certain
-      groups of San|Bushmen (Ouzman, 1996:42). One particular site named Thaba Sione
-      in South Africa, is primarily known for its numerous engravings of rhinoceros
-      and may have been chosen as an engraving site because rhinoceros were known
-      to have frequented the site. \n\nThaba Sione (Zion’s Hill) a low hill of less
-      than nine metres in height is an important archaeological and rock art site
-      in the North West province. It is scattered with more than 450 engraved dolerite
-      boulders with the seasonal Thlakajeng River running 350 metres south-west containing
-      numerous waterholes. The hill is bounded by 27 standing stones that have been
-      rubbed smooth by rhinoceros after wallowing in the muddy waterholes of the river
-      (Ouzman, 1996:40). Interestingly, one third of all the stones that he been rubbed
-      by rhinoceros are also engraved (Lewis-Williams & Blundell, 1998:111).\n"
+      of the images as they are inextricably tied in to San\\|Bushman belief systems.\n\nThere
+      are very few references to rhinoceros in San\\|Bushman ethnography. However,
+      what does exist indicates that rhinoceros were of supernatural importance to
+      certain groups of San\\|Bushmen (Ouzman, 1996:42). One particular site named
+      Thaba Sione in South Africa, is primarily known for its numerous engravings
+      of rhinoceros and may have been chosen as an engraving site because rhinoceros
+      were known to have frequented the site. \n\nThaba Sione (Zion’s Hill) a low
+      hill of less than nine metres in height is an important archaeological and rock
+      art site in the North West province. It is scattered with more than 450 engraved
+      dolerite boulders with the seasonal Thlakajeng River running 350 metres south-west
+      containing numerous waterholes. The hill is bounded by 27 standing stones that
+      have been rubbed smooth by rhinoceros after wallowing in the muddy waterholes
+      of the river (Ouzman, 1996:40). Interestingly, one third of all the stones that
+      he been rubbed by rhinoceros are also engraved (Lewis-Williams & Blundell, 1998:111).\n"
   - sys:
       id: 1IlptwbzFmIaSkIWWAqw8U
       created_at: !ruby/object:DateTime 2017-05-17 15:02:36.385000000 Z
@@ -242,9 +242,9 @@ contentful:
       Sione has been estimated to fall within a broad estimate of between 1,200 -
       10,000 years old (Ouzman, 1995:55). Rock art of the last 2,000 years correlates
       with a number of different cultural groups such as farmers, pastoralists, hunter-gatherers
-      etc. However, the rock art at Thaba Sione is attributed to San|Bushmen and widely
-      understood to reflect a shamanic belief system. Situated close to a waterhole
-      it has been proposed that Thaba Sione was selected specifically by the San|Bushmen
+      etc. However, the rock art at Thaba Sione is attributed to San\\|Bushmen and
+      widely understood to reflect a shamanic belief system. Situated close to a waterhole
+      it has been proposed that Thaba Sione was selected specifically by the San\\|Bushmen
       for rain-making beliefs and practices, but appears to have been modified as
       a result of Bantu-speaking farmers moving into the area from around 1500 years
       ago.\n\nIt is thought that the population of Thaba Sione were similar in social,
@@ -393,7 +393,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-06-14 17:25:34.931000000 Z
       content_type_id: chapter
     title_internal: 'Rhinos: thematic, chapter 11'
-    body: "San|Bushman shamans were also inextricably linked with rain-making ceremonies.
+    body: "San\\|Bushman shamans were also inextricably linked with rain-making ceremonies.
       The ritual involved the whole of the community but it was the shaman, while
       in a trance-like state, that captured the rain in a perceived animal-like state.
       The rain animal was either seen as an ill-tempered ‘rain-bull’, characterised
@@ -403,27 +403,27 @@ contentful:
       with large bodies and were often horned; one of the few ethnographic accounts
       that refer to rhinoceros implicate them in rain-making (Ouzman, 1996:52).  \n\nIn
       some contexts certain physical and behavioural characteristics of rhinoceros
-      may have been perceived by some San|Bushman as closely paralleling the perceived
+      may have been perceived by some San\\|Bushman as closely paralleling the perceived
       appearance and behaviour of a rain animal. These features include its fat and
-      horns, its association with water and its nocturnal habits (in San|Bushman accounts
-      of rain-making, shamans capture the rain animals at night). If rhinoceros were
-      associated with rain animals, the more gregarious white rhinoceros might have
-      been equated with the rain-cow while the ill-tempered black rhinoceros with
-      the angry rain-bull (Ouzman, 1996:54).\n\nAt further sites in the Free State
-      province of South Africa and the Erongo Mountains of Namibia, painted therianthropic
-      figures (part-human, part-rhinoceros) depicting unusual body postures reminiscent
-      of the *Great Trance Dance* and non-realistic features such as exaggerated horn
-      size also seem draw on the rhinoceros as an animal of potency (Hollmann and
-      Lewis-Williams, 2006). Furthermore, a golden rhinoceros from the Iron Age site
-      of Mapungubwe in northern South Africa is testament to the status in which these
-      animals were held, not only by San/Bushmen, but by other cultural groups in
-      southern Africa. Thriving between 1220-1300 AD, and inhabited by ancestors of
-      the Shona people of Zimbabwe, Mapungubwe was the centre of the largest kingdom
-      in the subcontinent, trading gold and ivory with China, India and Egypt. Made
-      of gold foil wrapped around a wooden core, the rhinoceros is a symbol of leadership
-      among the Shona.\n\nRhinos have been represented in rock art for more than 30,000
-      years, and have played a significant spiritual and cultural role in African
-      societies.\n"
+      horns, its association with water and its nocturnal habits (in San\\|Bushman
+      accounts of rain-making, shamans capture the rain animals at night). If rhinoceros
+      were associated with rain animals, the more gregarious white rhinoceros might
+      have been equated with the rain-cow while the ill-tempered black rhinoceros
+      with the angry rain-bull (Ouzman, 1996:54).\n\nAt further sites in the Free
+      State province of South Africa and the Erongo Mountains of Namibia, painted
+      therianthropic figures (part-human, part-rhinoceros) depicting unusual body
+      postures reminiscent of the *Great Trance Dance* and non-realistic features
+      such as exaggerated horn size also seem draw on the rhinoceros as an animal
+      of potency (Hollmann and Lewis-Williams, 2006). Furthermore, a golden rhinoceros
+      from the Iron Age site of Mapungubwe in northern South Africa is testament to
+      the status in which these animals were held, not only by San/Bushmen, but by
+      other cultural groups in southern Africa. Thriving between 1220-1300 AD, and
+      inhabited by ancestors of the Shona people of Zimbabwe, Mapungubwe was the centre
+      of the largest kingdom in the subcontinent, trading gold and ivory with China,
+      India and Egypt. Made of gold foil wrapped around a wooden core, the rhinoceros
+      is a symbol of leadership among the Shona.\n\nRhinos have been represented in
+      rock art for more than 30,000 years, and have played a significant spiritual
+      and cultural role in African societies.\n"
   - sys:
       id: 6ZjeUWwA5aCEMUiIgukK48
       created_at: !ruby/object:DateTime 2017-06-14 17:29:46.863000000 Z
