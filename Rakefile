@@ -56,6 +56,7 @@ namespace :test do
       timeframe: '30d'
     },
     assume_extension: true,
+    disable_external: true,
     internal_domains: ['kingsdigitallab.github.io'],
     empty_alt_ignore: true,
     url_swap: { %r{/african-rock-art/?} => '/' }
@@ -135,12 +136,16 @@ namespace :contentful do
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
     yaml_data = File.read(yaml_path)
 
+    # some terms are encoded in the content using | which should not be
+    # converted into HTML tables, so they need to be escaped
+    yaml_data = yaml_data.gsub(/(\w+)\|(\w+)/, '\1\\\\\|\2')
     labels.each do |key, value|
       yaml_data = yaml_data.gsub(Regexp.quote(key), value)
     end
 
     File.open(yaml_path, 'w') do |f|
       f.write(yaml_data)
+      f.close()
     end
 
     yaml = YAML.load_file(yaml_path)
