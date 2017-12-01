@@ -26,7 +26,7 @@ contentful:
     body: "The impact of colonisation in South Africa as a result of Dutch and English
       settlement from 1652 onwards has been well-documented - with devastating consequences
       socially, economically and culturally for many indigenous populations. \nOne
-      of those impacts was the demise of rock art as a cultural practice by many San|Bushmen,
+      of those impacts was the demise of rock art as a cultural practice by many San\\|Bushmen,
       with the last rock art being made around 100 years ago. Nevertheless, rock art
       has provided some interesting glimpses into Colonial events, experiences and
       encounters from an indigenous perspective. Depictions of ships, horse-drawn
@@ -207,7 +207,7 @@ contentful:
     title_internal: 'Contact Art: thematic, chapter 8'
     body: "It is difficult to know exactly who the artists were of this so-called
       ‘contact art’, but the images of ships are likely to have been made by Khoe
-      pastoralists and San|Bushmen hunter-gatherers who were the indigenous populations
+      pastoralists and San\\|Bushmen hunter-gatherers who were the indigenous populations
       when Dutch ships started landing around the southern coastline of South Africa.\n\n*Swartruggens*\n\nLater
       colonial period rock art can be found in a cluster of sites in the Swartruggens
       Hills, on the eastern margins of the Cederburg Mountains. Increasingly, European

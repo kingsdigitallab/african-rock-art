@@ -399,6 +399,23 @@ footer,
     }
 }
 
+/* Map */
+
+.map {
+    svg {
+        g path {
+            fill: #acacac;
+        }
+        #areas g path {
+            fill: #457b3a;
+            &:hover {
+                cursor: pointer;
+                fill: #172a12;
+            }
+        }
+    }
+}
+
 /* Media queries */
 
 @media screen and (min-width: 768px) {

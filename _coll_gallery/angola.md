@@ -7,7 +7,7 @@ contentful:
     content_type_id: country
   name: 'Angola '
   slug: angola
-  col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40180|108377|108375|108376
+  col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40180\\|108377|108375\\|108376
   map_progress: true
   intro_progress: true
   image_carousel:
