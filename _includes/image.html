@@ -13,5 +13,13 @@ src="{{ site.data.static.images | relative_url }}/placeholder.png"
 {% endif %}
 >
 {% if include.caption %}
-<p class="caption">{{ include.caption }}</p>
+<p class="caption">
+    {% if include.link %}
+    <a href="{{ include.link }}">
+        {% endif %}
+        {{ include.caption }}
+        {% if include.link %}
+    </a>
+    {% endif %}
+</p>
 {% endif %}
