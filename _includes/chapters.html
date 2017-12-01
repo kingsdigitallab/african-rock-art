@@ -1,21 +1,26 @@
 {% for chapter in include.chapters offset:include.offset %}
 
 {% if chapter.image %}
+
 <div class="chapter-image">
-    {% include image.html image=chapter.image caption=chapter.caption class="
-    full-width" %}
+    {% include image.html image=chapter.image caption=chapter.caption link=chapter.col_link class="full-width" %}
 </div>
+
 {% else %}
+
+{% if chapter.title and chapter.title != blank %}
 <h2 class="chapter-title">
-    {% if chapter.title != '' %}
     {{ chapter.title }}
-    {% else %}
-    Chapter title missing!
-    {% endif %}
 </h2>
 <div class="chapter-content">
     <p>{{ chapter.body | markdownify }}</p>
 </div>
+{% else %}
+<div class="chapter-content">
+    <p>{{ chapter.body | markdownify }}</p>
+</div>
+{% endif %}
+
 {% endif %}
 
 {% endfor %}
