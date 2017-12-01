@@ -24,7 +24,7 @@ contentful:
       content_type_id: chapter
     title_internal: 'Southern Africa: regional, chapter 1'
     body: |+
-      The southern African countries of Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Botswana and Namibia contain thousands of rock art sites and southern African rock art has been studied extensively.  Due to perceived similarities in subject matter, even across great distances, much southern African rock art has been ascribed to hunter-gatherer painters and engravers who appear to have had a shared set of cultural references.  These have been linked with beliefs and practices which remain common to modern San|Bushman¹ people, a number of traditional hunter-gatherer groups who continue to live in Southern Africa, principally in Namibia, Botswana and South Africa.  There are, however, differences in style and technique between regions, and various rock art traditions are attributed to other cultural groups and their ancestors.  As is often the case with rock art, the accurate attribution of authorship, date and motivation is difficult to establish, but the rock art of this region continues to be studied and the richness of the material in terms of subject matter, as well as in the context of the archaeological record, has much to tell us, both about its own provenance and the lives of the people who produced it.
+      The southern African countries of Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Botswana and Namibia contain thousands of rock art sites and southern African rock art has been studied extensively.  Due to perceived similarities in subject matter, even across great distances, much southern African rock art has been ascribed to hunter-gatherer painters and engravers who appear to have had a shared set of cultural references.  These have been linked with beliefs and practices which remain common to modern San\\|Bushman¹ people, a number of traditional hunter-gatherer groups who continue to live in Southern Africa, principally in Namibia, Botswana and South Africa.  There are, however, differences in style and technique between regions, and various rock art traditions are attributed to other cultural groups and their ancestors.  As is often the case with rock art, the accurate attribution of authorship, date and motivation is difficult to establish, but the rock art of this region continues to be studied and the richness of the material in terms of subject matter, as well as in the context of the archaeological record, has much to tell us, both about its own provenance and the lives of the people who produced it.
 
 
   - sys:
@@ -186,11 +186,11 @@ contentful:
     body: "This kind of imagery is found in a variety of styles, and some of those
       producing ‘contact’ images in the Cape may have been people of Khoekhoen heritage.
       The Khoekhoen were traditionally cattle and sheep herders, culturally related
-      to modern Nama people and more loosely to San|Bushman hunter-gatherers.  A distinct
-      tradition of rock art has been suggested to be of ancestral Khoekhoen origin.
-      This art is predominantly geometric in form, with a particular focus on circle
-      and dotted motifs, and engravings in this style are often found near watercourses.
-      \ \n"
+      to modern Nama people and more loosely to San\\|Bushman hunter-gatherers.  A
+      distinct tradition of rock art has been suggested to be of ancestral Khoekhoen
+      origin. This art is predominantly geometric in form, with a particular focus
+      on circle and dotted motifs, and engravings in this style are often found near
+      watercourses.  \n"
   - sys:
       id: 3zUtkjM57Omyko6Q2O0YMG
       created_at: !ruby/object:DateTime 2016-09-13 13:04:05.564000000 Z
@@ -241,7 +241,7 @@ contentful:
     body: Rather than showing scenes from daily life, as was once assumed, it is now
       usually accepted that hunter-gatherer art in southern Africa shows images and
       motifs of spiritual and cultural importance. In particular, it is thought that
-      some images reflect trance visions of San|Bushman spiritual leaders, or shamans,  during
+      some images reflect trance visions of San\\|Bushman spiritual leaders, or shamans,  during
       which they are considered to enter the world of spirits, where they are held
       to perform tasks for themselves and their communities, such as healing the sick
       or encouraging rain. This interpretation, which has been widely accepted, explains
@@ -273,10 +273,10 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-10-17 10:15:06.059000000 Z
       content_type_id: chapter
     title_internal: 'Southern Africa: regional, chapter 8'
-    body: "The rock art attributed to ancestral San|Bushman hunter-gatherers has many
-      varied motifs, some of which may also relate to specific themes such as initiation
-      or rainmaking (indeed within its cultural context one image may have several
-      significances).  San|Bushman informants in the 19th century told researchers
+    body: "The rock art attributed to ancestral San\\|Bushman hunter-gatherers has
+      many varied motifs, some of which may also relate to specific themes such as
+      initiation or rainmaking (indeed within its cultural context one image may have
+      several significances).  San\\|Bushman informants in the 19th century told researchers
       that certain ambiguously shaped animals in the rock art repertoire represented
       animals related to water.  Images such as these are known to researchers as
       'rain animals' and it has been suggested that certain images could reflect—or
@@ -374,7 +374,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
       content_type_id: chapter
     title_internal: Southern Africa Chapter 11
-    body: "¹ San|Bushmen is a collective term used to describe the many different
+    body: "¹ San\\|Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
       and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
       terms by some members of these groups, although others have positively adopted
@@ -390,7 +390,7 @@ contentful:
 
       Garlake, Peter S. (1995): The hunter's vision: the prehistoric art of Zimbabwe. British Museum Press, London.
 
-      Lewis-Williams, J.D. 1981. Believing and Seeing: Symbolic Meanings in San|BushmanRock Paintings. Johannesburg, University of Witwatersrand Press
+      Lewis-Williams, J.D. 1981. Believing and Seeing: Symbolic Meanings in San\\|BushmanRock Paintings. Johannesburg, University of Witwatersrand Press
 
       Maggs, T. 1995. Neglected Rock Art: The Rock Engravings of Agriculturist Communities in South Africa. South African Archaeological Bulletin. Vol. 50 No. 162 pp. 132.142
 
