@@ -207,7 +207,7 @@ namespace :contentful do
     Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
     if find_executable('mogrify')
-      %w[jpg jpeg JPG].each do |ext|
+      %w[jpg jpeg JPG png].each do |ext|
         system "mogrify -resize 1024 -quality 100 \
         -define jpeg:extent=500kb #{images_path}/*.#{ext}"
         system "mogrify -path #{low_quality_path} \
