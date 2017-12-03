@@ -6,7 +6,33 @@ require 'open-uri'
 require 'rubocop/rake_task'
 require 'yaml'
 
+contentful_labels = {
+  '2MFOT4WINOAOokOw2ma6aS': 'featured_site',
+  '3NZwbeG360yGuoKUUCU8Oy': 'image',
+  '4WLq0TTLleEcMmEYw66Q8w': 'thematic',
+  '4avEHZ2i4EkkmWQGg6Cc0c': 'embeded_media',
+  '4fXS1cA1XGKq4a6IM86Wm': 'country_key_facts',
+  '5BpsmbwGhUi8wYwIEKO0Oa': 'introduction',
+  '76etbn9kNUiAY0q6YYu0SY': 'project_page',
+  '7Ak9U6HXygSaUMmQQWIGQu': 'chapter',
+  '7Kul7fgXh6YSseagSee8co': 'regional_introduction',
+  '7bbOALHvAQ8cQ6yS2wOmw0': 'citation',
+  'Q4XNev9Iom0uGquue2eoS': 'country_information',
+  'fS8J0UehVuo8YuO2AswYS': 'country'
+}
+
+contentful_ignored_content_types =
+  %w[chapter citation country_key_facts embeded_media image project_page]
+
+# -----------------------------------------------------------------------------
+# Default task
+# -----------------------------------------------------------------------------
+
 task default: %w[test]
+
+# -----------------------------------------------------------------------------
+# Rubocop tasks
+# -----------------------------------------------------------------------------
 
 RuboCop::RakeTask.new
 
@@ -115,42 +141,24 @@ namespace :contentful do
   task :process do
     puts 'Contentful data processing...'
 
-    labels = {
-      '2MFOT4WINOAOokOw2ma6aS': 'featured_site',
-      '3NZwbeG360yGuoKUUCU8Oy': 'image',
-      '4WLq0TTLleEcMmEYw66Q8w': 'thematic',
-      '4avEHZ2i4EkkmWQGg6Cc0c': 'embeded_media',
-      '4fXS1cA1XGKq4a6IM86Wm': 'country_key_facts',
-      '5BpsmbwGhUi8wYwIEKO0Oa': 'introduction',
-      '76etbn9kNUiAY0q6YYu0SY': 'project_page',
-      '7Ak9U6HXygSaUMmQQWIGQu': 'chapter',
-      '7Kul7fgXh6YSseagSee8co': 'regional_introduction',
-      '7bbOALHvAQ8cQ6yS2wOmw0': 'citation',
-      'Q4XNev9Iom0uGquue2eoS': 'country_information',
-      'fS8J0UehVuo8YuO2AswYS': 'country'
-    }
-
-    ignored_content_types = %w[chapter citation country_key_facts
-                               embeded_media image project_page]
-
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
     yaml_data = File.read(yaml_path)
 
     # some terms are encoded in the content using | which should not be
     # converted into HTML tables, so they need to be escaped
     yaml_data = yaml_data.gsub(/(\w+)\|(\w+)/, '\1\\\\\|\2')
-    labels.each do |key, value|
+    contentful_labels.each do |key, value|
       yaml_data = yaml_data.gsub(Regexp.quote(key), value)
     end
 
     File.open(yaml_path, 'w') do |f|
       f.write(yaml_data)
-      f.close()
+      f.close
     end
 
     yaml = YAML.load_file(yaml_path)
     yaml.each do |key, value|
-      unless ignored_content_types.include?(key)
+      unless contentful_ignored_content_types.include?(key)
         create_content_pages(key, value)
       end
     end
@@ -203,7 +211,19 @@ namespace :contentful do
         system "mogrify -resize 1024 -quality 100 \
         -define jpeg:extent=500kb #{images_path}/*.#{ext}"
         system "mogrify -path #{low_quality_path} \
-        -quality 10 #{images_path}/*.#{ext}"
+            -quality 10 #{images_path}/*.#{ext}"
+
+        %w[140x140 300x180 540x324].each do |size|
+          size_path = "#{images_path}/#{size}"
+          Dir.mkdir(size_path) unless File.exist?(size_path)
+          low_quality_path = "#{size_path}/low"
+          Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
+
+          system "mogrify -path #{size_path} \
+            -resize #{size}! #{images_path}/*.#{ext}"
+          system "mogrify -path #{low_quality_path} \
+            -quality 10 #{size_path}/*.#{ext}"
+        end
       end
 
       system "rm -f #{images_path}/*.*~"
@@ -224,12 +244,11 @@ def create_content_pages(key, data)
     item_hash = { 'contentful' => item }
     slug = item['sys']['id']
 
-    if item['slug'] && !item['slug'].empty?
-      slug = item['slug']
-    elsif item['title'] && !item['title'].empty?
-      slug = slugify(item['title'])
-    elsif item['name'] && !item['name'].empty?
-      slug = slugify(item['name'])
+    %w[slug title name].each do |field|
+      next unless item.include?(field) && !item[field].empty?
+      puts(field, item[field])
+      slug = slugify(item[field])
+      break
     end
 
     file_path = File.join(dir_path, slug + '.md')
