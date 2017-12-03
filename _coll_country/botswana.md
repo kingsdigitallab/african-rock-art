@@ -7,7 +7,7 @@ contentful:
     content_type_id: country
   name: Botswana
   slug: botswana
-  col_url: 'http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=19305\\|108608|108619\\|108618|108610\\|108613|108574\\|108572|108562\\|108568|108571\\|108570|108557\\|108558|14789\\|108560 '
+  col_url: 'http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=19305\\|108608\\|108619\\|108618\\|108610\\|108613\\|108574\\|108572\\|108562\\|108568\\|108571\\|108570\\|108557\\|108558\\|14789\\|108560 '
   map_progress: true
   intro_progress: true
   image_carousel:
