@@ -246,7 +246,6 @@ def create_content_pages(key, data)
 
     %w[slug title name].each do |field|
       next unless item.include?(field) && !item[field].empty?
-      puts(field, item[field])
       slug = slugify(item[field])
       break
     end
