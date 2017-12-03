@@ -3,23 +3,19 @@
 {% if chapter.image %}
 
 <div class="chapter-image">
-    {% include image.html image=chapter.image caption=chapter.caption link=chapter.col_link class="full-width" %}
+    {% include image.html image=chapter.image caption=chapter.caption link=chapter.col_link %}
 </div>
 
 {% else %}
 
-{% if chapter.title and chapter.title != blank %}
+{% if chapter.title and chapter.title != '' %}
 <h2 class="chapter-title">
     {{ chapter.title }}
 </h2>
-<div class="chapter-content">
-    <p>{{ chapter.body | markdownify }}</p>
-</div>
-{% else %}
-<div class="chapter-content">
-    <p>{{ chapter.body | markdownify }}</p>
-</div>
 {% endif %}
+<div class="chapter-content">
+    <p>{{ chapter.body | markdownify }}</p>
+</div>
 
 {% endif %}
 
