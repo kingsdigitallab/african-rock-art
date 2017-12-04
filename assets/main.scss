@@ -41,6 +41,11 @@ a {
     text-align: right;
 }
 
+.baskerville {
+    font-family: $auxiliary-font;
+    font-weight: 400;
+}
+
 button,
 .button {
     border: 0;
@@ -208,7 +213,6 @@ h1, h2, h3, h4, h5, h6 {
 
     clear: both;
     display: block;
-    font-size: 12px;
 
     &:after {
         clear: both;
@@ -274,6 +278,7 @@ h1, h2, h3, h4, h5, h6 {
         .chapter-title {
             border-top: 1px solid #b1b1b1;
             cursor: pointer;
+            margin: 0;
             padding: 16px 0;
             position: relative;
 
@@ -373,6 +378,7 @@ footer,
     }
 
     h4, h5, h6 {
+        font-size: 16px;
         margin: 0;
     }
 
@@ -603,7 +609,8 @@ footer,
 
     // Headings
 
-    h1 {
+    h1,
+    .baskerville {
         font-size: 38px;
         line-height: 40px;
     }
@@ -637,7 +644,7 @@ footer,
 
     .card {
 
-        display: inline-block;
+        // display: inline-block;
         width: 100%;
 
         h2 {
@@ -646,6 +653,12 @@ footer,
         }
     }
 
+    // Chapters
+
+    .chapter-title {
+        font-size: 24px;
+        line-height: 30px;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -671,7 +684,8 @@ footer,
 
     // Headings
 
-    h1 {
+    h1,
+    .baskerville {
         font-size: 30px;
         line-height: 40px;
     }
@@ -711,6 +725,13 @@ footer,
             font-size: 20px;
             line-height: 24px;
         }
+    }
+
+    // Chapters
+
+    .chapter-title {
+        font-size: 20px;
+        line-height: 24px;
     }
 
     .home {

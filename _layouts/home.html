@@ -128,17 +128,17 @@ layout: default
         </div>
         <div class="column-three-quarters">
             {% for theme in project_page.thematic_articles limit:3 %}
-            <div class="container">
-                <div class="card">
+            <div class="card">
+                <div class="container">
                     {% assign url = "/thematic/" | append: theme.slug | append: ".html" | relative_url %}
 
-                    <div class="card-content">
-                        <div class="column-three-quarters">
-                            <h3>
-                                <a href="{{ url }}">{{ theme.title }}</a>
-                            </h3>
-                        </div>
-                        <div class="column-one-quarter">
+                    <div class="column-three-quarters card-content">
+                        <h3>
+                            <a href="{{ url }}">{{ theme.title }}</a>
+                        </h3>
+                    </div>
+                    <div class="column-one-quarter">
+                        <div class="square-thumbnail">
                             <a href="{{ url }}">
                                 {% assign image = theme.lead_image %}
                                 {% include image.html image=image %}
