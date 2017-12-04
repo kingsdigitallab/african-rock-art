@@ -61,8 +61,8 @@ button,
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 940px;
-    padding: 0 16px;
+    max-width: 1120px;
+    // padding: 0 16px;
 
     &:after {
         content: "";
@@ -228,12 +228,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 
-.home {
-    .site-header {
-        background: url("{{ '/assets/images/background.jpg' | relative_url }}") left top no-repeat;
-        background-size: cover;
-    }
-}
 
 
 /* Hero */
@@ -291,6 +285,8 @@ h1, h2, h3, h4, h5, h6 {
     .card-image {
         height: 180px;
         overflow: hidden;
+
+
     }
 
     h2, h3, h4 {
@@ -418,6 +414,48 @@ footer,
 
 /* Media queries */
 
+@media screen and (min-width: 1441px) {
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-2560x723.jpg' | relative_url }}") left center no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-1440x669.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+}
+
+@media screen and (max-width: 1280px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-1280x731.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }    
+}
+
+@media screen and (max-width: 768px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-768x429.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+        }
+    }    
+}
+
 @media screen and (min-width: 768px) {
 
     // Columns
@@ -428,9 +466,9 @@ footer,
         padding-right: 20px; // Gutters
     }
 
-    [class*='column-']:last-of-type {
-        padding-right: 0; // No gutter on the last column
-    }
+    // [class*='column-']:last-of-type {
+    //     padding-right: 0; // No gutter on the last column
+    // }
 
     .column-half,
     .column-one-third,
@@ -488,12 +526,11 @@ footer,
     .column-ten-twelveth {
         width: 83.33%;
     }
-
-    .home {
-        .site-header {
-            min-height: 390px;
-        }
-    }
+    
+    // .container {
+    //     padding-left: 34px;
+    //     padding-right: 34px;
+    // }
 
     .hero {
         .column-half {
@@ -618,6 +655,11 @@ footer,
         }
     }
 
+    // .container {
+    //     padding-left: 20px;
+    //     padding-right: 20px;
+    // }
+
     .home {
         .site-header {
             height: 160px;
@@ -638,4 +680,21 @@ footer,
         text-align: left;
     }
 
+}
+
+@media screen and (max-width: 480px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+        }
+    }    
+}
+
+@media scree and (max-width: 320px) {
+    // .container {
+    //     padding-left: 10px;
+    //     padding-right: 10px;
+    // }
 }
