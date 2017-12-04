@@ -2,10 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// @import "default";
 @import "fonts";
 @import "bm-minima";
-// @import "style";
 
 /* Addtional CSS */
 
@@ -61,8 +59,6 @@ button,
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1120px;
-    // padding: 0 16px;
 
     &:after {
         content: "";
@@ -228,8 +224,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 
-
-
 /* Hero */
 
 .hero {
@@ -285,8 +279,6 @@ h1, h2, h3, h4, h5, h6 {
     .card-image {
         height: 180px;
         overflow: hidden;
-
-
     }
 
     h2, h3, h4 {
@@ -301,6 +293,14 @@ h1, h2, h3, h4, h5, h6 {
             border-top: 1px solid $grey-color-light;
             padding-top: 12px;
         }
+    }
+
+    .square-thumbnail {
+        float: right;
+        height: 140px;
+        margin-top: 20px;
+        overflow: hidden;
+        width: 140px;
     }
 }
 
@@ -426,6 +426,10 @@ footer,
             height: 390px;
         }
     }
+
+    .container {
+        max-width: 1276px;
+    }
 }
 
 @media screen and (max-width: 1440px) {
@@ -436,6 +440,10 @@ footer,
             background-size: cover;
             height: 390px;
         }
+    }
+
+    .container {
+        max-width: 1120px;
     }
 }
 
@@ -448,6 +456,16 @@ footer,
             height: 390px;
         }
     }
+
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        max-width: 940px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -457,6 +475,10 @@ footer,
             background: url("{{ '/assets/images/backgrounds/homepage-bg-768x429.jpg' | relative_url }}") left top no-repeat;
             background-size: cover;
         }
+    }
+
+    .container {
+        max-width: 700px;
     }
 }
 
@@ -531,15 +553,11 @@ footer,
         width: 83.33%;
     }
 
-    // .container {
-    //     padding-left: 34px;
-    //     padding-right: 34px;
-    // }
-
     .hero {
         .column-half {
             h3 {
                 margin-top: 45px;
+                margin-bottom: 22px;
             }
         }
     }
@@ -659,11 +677,6 @@ footer,
         }
     }
 
-    // .container {
-    //     padding-left: 20px;
-    //     padding-right: 20px;
-    // }
-
     .home {
         .site-header {
             height: 160px;
@@ -688,6 +701,10 @@ footer,
 
 @media screen and (max-width: 480px) {
 
+    .container {
+        max-width: 460px;
+    }
+
     .home {
         .site-header {
             background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
@@ -697,8 +714,8 @@ footer,
 }
 
 @media scree and (max-width: 320px) {
-    // .container {
-    //     padding-left: 10px;
-    //     padding-right: 10px;
-    // }
+
+    .container {
+        max-width: 320px;
+    }
 }
