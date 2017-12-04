@@ -64,8 +64,8 @@ button,
         color: black;
 
         &:hover {
-            background: darken($brand-color, 10%);
-            text-decoration: none;
+            background: #d96e02;
+            color: black;
         }
     }
 }
@@ -259,6 +259,12 @@ h1, h2, h3, h4, h5, h6 {
     background: black;
     color: white;
     width: 100%;
+
+    a {
+        &:hover {
+            color: #d96e02;
+        }
+    }
 
     h1, h2, h3, h4, h5, h6 {
         color: $brand-color;
