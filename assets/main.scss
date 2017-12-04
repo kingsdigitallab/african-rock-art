@@ -428,9 +428,9 @@ footer,
         padding-right: 20px; // Gutters
     }
 
-    [class*='column-']:last-of-type {
-        padding-right: 0; // No gutter on the last column
-    }
+    // [class*='column-']:last-of-type {
+    //     padding-right: 0; // No gutter on the last column
+    // }
 
     .column-half,
     .column-one-third,
@@ -487,6 +487,11 @@ footer,
 
     .column-ten-twelveth {
         width: 83.33%;
+    }
+    
+    .container {
+        padding-left: 34px;
+        padding-right: 34px;
     }
 
     .home {
@@ -618,6 +623,11 @@ footer,
         }
     }
 
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
     .home {
         .site-header {
             height: 160px;
@@ -638,4 +648,11 @@ footer,
         text-align: left;
     }
 
+}
+
+@media scree and (max-width: 320px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
