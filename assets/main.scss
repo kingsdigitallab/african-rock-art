@@ -228,12 +228,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 
-.home {
-    .site-header {
-        background: url("{{ '/assets/images/background.jpg' | relative_url }}") left top no-repeat;
-        background-size: cover;
-    }
-}
 
 
 /* Hero */
@@ -418,6 +412,49 @@ footer,
 
 /* Media queries */
 
+@media screen and (min-width: 1441px) {
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-2560x723.jpg' | relative_url }}") left center no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-1440x669.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+}
+
+@media screen and (max-width: 1280px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-1280x731.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }    
+}
+
+@media screen and (max-width: 768px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-768x429.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+            height: 300px;
+        }
+    }    
+}
+
 @media screen and (min-width: 768px) {
 
     // Columns
@@ -492,12 +529,6 @@ footer,
     .container {
         padding-left: 34px;
         padding-right: 34px;
-    }
-
-    .home {
-        .site-header {
-            min-height: 390px;
-        }
     }
 
     .hero {
@@ -648,6 +679,16 @@ footer,
         text-align: left;
     }
 
+}
+
+@media screen and (max-width: 480px) {
+
+    .home {
+        .site-header {
+            background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
+            background-size: cover;
+        }
+    }    
 }
 
 @media scree and (max-width: 320px) {
