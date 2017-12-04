@@ -16,7 +16,7 @@ layout: default
                     <h2 class="title">
                         <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     </h2>
-                    <p>{{ introduction.body }}</p>
+                    <p>{{ introduction.body | truncatewords: 45 }}</p>
                 </div>
                 <div class="column-two-tenth card-content">
                     {% include image.html image=introduction_image.image %}
