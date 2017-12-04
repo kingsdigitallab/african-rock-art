@@ -6,8 +6,9 @@ class="lazyload{% if include.class %} {{ include.class }}{% endif %}"
 data-sizes="auto"
 {% if include.image.url %}
 {% assign name = include.image.url | split: "/" | last %}
-data-src="{{ site.data.static.images | relative_url }}/{{ name }}"
-src="{{ site.data.static.images | relative_url }}/{{ name }}"
+data-srcset="{{ site.data.static.images | relative_url }}/140x140/{{ name }} 140w, {{ site.data.static.images | relative_url }}/300x180/{{ name }} 300w, {{ site.data.static.images | relative_url }}/540x324/{{ name }} 540w"
+data-src="{{ site.data.static.images | relative_url }}/300x180/{{ name }}"
+src="{{ site.data.static.images | relative_url }}/low/{{ name }}"
 {% else %}
 src="{{ site.data.static.images | relative_url }}/placeholder.png"
 {% endif %}
