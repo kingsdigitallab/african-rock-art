@@ -61,8 +61,6 @@ button,
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1120px;
-    // padding: 0 16px;
 
     &:after {
         content: "";
@@ -285,8 +283,6 @@ h1, h2, h3, h4, h5, h6 {
     .card-image {
         height: 180px;
         overflow: hidden;
-
-
     }
 
     h2, h3, h4 {
@@ -301,6 +297,14 @@ h1, h2, h3, h4, h5, h6 {
             border-top: 1px solid $grey-color-light;
             padding-top: 12px;
         }
+    }
+
+    .square-thumbnail {
+        float: right;
+        height: 140px;
+        margin-top: 20px;
+        overflow: hidden;
+        width: 140px;
     }
 }
 
@@ -422,6 +426,10 @@ footer,
             height: 390px;
         }
     }
+
+    .container {
+        max-width: 1276px;
+    }
 }
 
 @media screen and (max-width: 1440px) {
@@ -433,6 +441,10 @@ footer,
             height: 390px;
         }
     }
+
+    .container {
+        max-width: 1120px;
+    }
 }
 
 @media screen and (max-width: 1280px) {
@@ -443,7 +455,17 @@ footer,
             background-size: cover;
             height: 390px;
         }
-    }    
+    }
+
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        max-width: 940px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -453,7 +475,11 @@ footer,
             background: url("{{ '/assets/images/backgrounds/homepage-bg-768x429.jpg' | relative_url }}") left top no-repeat;
             background-size: cover;
         }
-    }    
+    }
+
+    .container {
+        max-width: 700px;
+    }   
 }
 
 @media screen and (min-width: 768px) {
@@ -684,6 +710,10 @@ footer,
 
 @media screen and (max-width: 480px) {
 
+    .container {
+        max-width: 460px;
+    }
+
     .home {
         .site-header {
             background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
@@ -693,8 +723,8 @@ footer,
 }
 
 @media scree and (max-width: 320px) {
-    // .container {
-    //     padding-left: 10px;
-    //     padding-right: 10px;
-    // }
+    
+    .container {
+        max-width: 320px;
+    }
 }
