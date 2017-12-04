@@ -23,7 +23,7 @@ layout: default
         </div>
 
         <div class="column-seven-twelveth">
-            {% include image.html image=introduction_image.image caption=introduction_image.caption class="full-width" %}
+            {% include image.html image=introduction_image.image caption=introduction_image.caption link=introduction_image.col_link class="full-width" %}
         </div>
     </div>
 
@@ -50,12 +50,9 @@ layout: default
 
     <div class="container chapter">
         <h2>Country overview</h2>
-        {% assign fields = "date_range, image_count, main_themes, famous_for" | split: ", " %}
-        {% for field in fields %}
-        {% if self.key_facts[field] %}
-        <h3>{{ field | split: "_" | join: " " | capitalize }}</h3>
-        <p>{{ self.key_facts[field] }}</p>
-        {% endif %}
+        {% for field in self.key_facts offset: 2 %}
+        <h3>{{ field[0] | split: "_" | join: " " | capitalize }}</h3>
+        <p>{{ field[1] }}</p>
         {% endfor %}
     </div>
 
