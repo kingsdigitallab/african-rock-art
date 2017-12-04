@@ -5,6 +5,26 @@
 @import "fonts";
 @import "bm-minima";
 
+
+/* Mixins */
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+  > .card-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
 /* Addtional CSS */
 
 *, *:after, *:before {
@@ -70,6 +90,11 @@ button,
 .expanded {
     display: block;
     width: 100%;
+}
+
+// aspect ratio 5:3
+.five-three {
+  @include aspect-ratio(5, 3);
 }
 
 .float-left {
@@ -277,7 +302,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .card-image {
-        height: 180px;
         overflow: hidden;
     }
 
@@ -673,6 +697,16 @@ footer,
         display: block;
         margin: 16px auto;
 
+        .card-image {
+            a {
+                display: block;
+            }
+
+            img {
+                width: 100%;
+            }
+        }
+
         h2 {
             font-size: 20px;
             line-height: 24px;
@@ -721,3 +755,4 @@ footer,
         max-width: 320px;
     }
 }
+
