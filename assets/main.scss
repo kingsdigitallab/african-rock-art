@@ -398,7 +398,13 @@ footer,
 /* Map */
 
 .map {
+    text-align: center;
+
     svg {
+        height: auto;
+        max-width: 100%;
+        max-height: 100vh;
+
         g path {
             fill: #acacac;
         }
@@ -475,7 +481,7 @@ footer,
 
     .container {
         max-width: 700px;
-    }   
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -706,11 +712,11 @@ footer,
             background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
             background-size: cover;
         }
-    }    
+    }
 }
 
 @media scree and (max-width: 320px) {
-    
+
     .container {
         max-width: 320px;
     }
