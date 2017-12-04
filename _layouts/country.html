@@ -28,7 +28,7 @@ layout: default
     </div>
 
     <div class="container">
-        <h2>Highlight images</h2>
+        <h2 class="baskerville">Highlight images</h2>
         <p>
             <a href="{{ self.col_url }}">Explore rock art</a>
         </p>
@@ -49,15 +49,19 @@ layout: default
     </div>
 
     <div class="container chapter">
-        <h2>Country overview</h2>
-        {% for field in self.key_facts offset: 2 %}
-        <h3>{{ field[0] | split: "_" | join: " " | capitalize }}</h3>
-        <p>{{ field[1] }}</p>
-        {% endfor %}
+        <div class="column-three-quarters">
+            <h2 class="chapter-title">Country overview</h2>
+            {% for field in self.key_facts offset: 2 %}
+            <h3>{{ field[0] | split: "_" | join: " " | capitalize }}</h3>
+            <p>{{ field[1] }}</p>
+            {% endfor %}
+        </div>
     </div>
 
     <div class="container chapter accordion">
-        {% include chapters.html chapters=chapters %}
+        <div class="column-three-quarters">
+            {% include chapters.html chapters=chapters %}
+        </div>
     </div>
 
     {% if self.thematic_articles %}
