@@ -2,6 +2,7 @@
 
 source 'https://rubygems.org'
 
+gem 'colorize', require: false
 gem 'contentful_bootstrap'
 gem 'html-proofer'
 gem 'minima'
