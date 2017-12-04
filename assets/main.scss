@@ -2,10 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-// @import "default";
 @import "fonts";
 @import "bm-minima";
-// @import "style";
 
 /* Addtional CSS */
 
@@ -225,8 +223,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Header */
-
-
 
 /* Hero */
 
@@ -552,16 +548,12 @@ footer,
     .column-ten-twelveth {
         width: 83.33%;
     }
-    
-    // .container {
-    //     padding-left: 34px;
-    //     padding-right: 34px;
-    // }
 
     .hero {
         .column-half {
             h3 {
                 margin-top: 45px;
+                margin-bottom: 22px;
             }
         }
     }
@@ -680,11 +672,6 @@ footer,
             line-height: 24px;
         }
     }
-
-    // .container {
-    //     padding-left: 20px;
-    //     padding-right: 20px;
-    // }
 
     .home {
         .site-header {
