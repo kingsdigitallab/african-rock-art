@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'colorize'
 require 'html-proofer'
 require 'mkmf'
 require 'open-uri'
@@ -45,13 +46,13 @@ task serve: ['serve:dev']
 namespace :serve do
   desc 'Serve development Jekyll site locally'
   task :dev do
-    puts 'Starting up development Jekyll site server...'
+    puts 'Starting up development Jekyll site server...'.yellow
     system 'bundle exec jekyll serve --config _config.yml,_config.local.yml'
   end
 
   desc 'Serve production Jekyll site locally'
   task :prod do
-    puts 'Starting up production Jekyll site server...'
+    puts 'Starting up production Jekyll site server...'.yellow
     system 'bundle exec jekyll serve --no-watch'
   end
 end
@@ -61,14 +62,14 @@ task build: ['build:dev']
 namespace :build do
   desc 'Regenerate files for development'
   task :dev do
-    puts 'Regenerating files for development...'
+    puts 'Regenerating files for development...'.yellow
     system 'bundle exec jekyll build '\
       '--trace --config _config.yml,_config.local.yml --profile'
   end
 
   desc 'Regenerate files for production'
   task :prod do
-    puts 'Regenerating files for production...'
+    puts 'Regenerating files for production...'.yellow
     system 'bundle exec jekyll build --trace'
   end
 end
@@ -90,22 +91,22 @@ namespace :test do
 
   desc 'Test development and production sites'
   task :all do
-    puts 'Testing development and production sites'
+    puts 'Testing development and production sites'.yellow
     Rake::Task['test:dev'].invoke
-    puts '---'
+    puts '---'.yellow
     Rake::Task['test:prod'].invoke
   end
 
   desc 'Test development site'
   task :dev do
-    puts 'Validating development HTML output in _site...'
+    puts 'Validating development HTML output in _site...'.yellow
     Rake::Task['build:dev'].invoke
     HTMLProofer.check_directory('./_site', options).run
   end
 
   desc 'Test production site'
   task :prod do
-    puts 'Validating production HTML output in _site...'
+    puts 'Validating production HTML output in _site...'.yellow
     Rake::Task['build:prod'].invoke
     HTMLProofer.check_directory('./_site', options).run
   end
@@ -120,26 +121,26 @@ task contentful: ['contentful:all']
 namespace :contentful do
   desc 'Import and process data from Contentful'
   task :all do
-    puts 'Contentful data import and processing...'
+    puts 'Contentful data import and processing...'.yellow
     Rake::Task['contentful:import'].invoke
-    puts '---'
+    puts '---'.yellow
     Rake::Task['contentful:process'].invoke
-    puts '---'
+    puts '---'.yellow
     Rake::Task['contentful:assets'].invoke
-    puts '---'
+    puts '---'.yellow
     Rake::Task['contentful:resize'].invoke
   end
 
   desc 'Import data from Contentful'
   task :import do
-    puts 'Contentful data import...'
+    puts 'Contentful data import...'.yellow
     system '. ./env.sh && bundle exec jekyll contentful'
   end
 
   desc 'Process imported data: '\
     're-maps Contentful content types and creates content pages'
   task :process do
-    puts 'Contentful data processing...'
+    puts 'Contentful data processing...'.yellow
 
     yaml_path = File.join(Dir.pwd, '_data/ara.yaml')
     yaml_data = File.read(yaml_path)
@@ -171,7 +172,7 @@ namespace :contentful do
     args.with_defaults(force: false)
     force = args[:force]
 
-    puts 'Contentful assets import...'
+    puts 'Contentful assets import...'.yellow
 
     Rake::Task['contentful:process'].invoke
 
@@ -184,12 +185,22 @@ namespace :contentful do
         value.each do |item|
           download_image(item['image'], force) if item['image']
         end
-
       when 'country'
         value.each do |country|
-          next unless country['image_carousel']
-          images = country['image_carousel']
-
+          next unless country['image_carousel'] || country['background_images']
+          images = []
+          images += country['image_carousel'] if country['image_carousel']
+          images += country['background_images'] if country['background_images']
+          images.each do |image|
+            download_image(image, force)
+          end
+        end
+      when 'thematic'
+        value.each do |theme|
+          next unless theme['lead_image'] || theme['background_images']
+          images = []
+          images += [theme['lead_image']] if theme['lead_image']
+          images += theme['background_images'] if theme['background_images']
           images.each do |image|
             download_image(image, force)
           end
@@ -200,18 +211,17 @@ namespace :contentful do
 
   desc 'Resizes the images imported from Contentful to a maximum of 500k'
   task :resize do
-    puts 'Resizing images...'
+    puts 'Resizing images...'.yellow
 
     images_path = 'assets/images'
     low_quality_path = "#{images_path}/low"
     Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
     if find_executable('mogrify')
-      %w[jpg jpeg JPG png].each do |ext|
+      %w[jpg jpeg JPG png tif].each do |ext|
+        puts "Resizing #{ext}...".yellow
         system "mogrify -resize 1024 -quality 100 \
-        -define jpeg:extent=500kb #{images_path}/*.#{ext}"
-        system "mogrify -path #{low_quality_path} \
-            -quality 10 #{images_path}/*.#{ext}"
+          -define jpeg:extent=500kb #{images_path}/*.#{ext}"
 
         %w[140x140 300x180 540x324].each do |size|
           size_path = "#{images_path}/#{size}"
@@ -228,7 +238,7 @@ namespace :contentful do
 
       system "rm -f #{images_path}/*.*~"
     else
-      puts 'Imagemagick not found'
+      puts 'Imagemagick not found'.red
     end
   end
 end
@@ -272,7 +282,7 @@ def download_image(image, force)
 
   return unless force || !File.file?(filename)
 
-  puts 'Downloading ' + url
+  puts "Downloading #{url}".yellow
   download = open(url)
   IO.copy_stream(download, filename)
 end
