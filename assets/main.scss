@@ -399,6 +399,10 @@ footer,
 
 .map {
     svg {
+        height: auto;
+        max-width: 100%;
+        max-height: 100vh;
+
         g path {
             fill: #acacac;
         }
@@ -443,7 +447,7 @@ footer,
             background-size: cover;
             height: 390px;
         }
-    }    
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -453,7 +457,7 @@ footer,
             background: url("{{ '/assets/images/backgrounds/homepage-bg-768x429.jpg' | relative_url }}") left top no-repeat;
             background-size: cover;
         }
-    }    
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -526,7 +530,7 @@ footer,
     .column-ten-twelveth {
         width: 83.33%;
     }
-    
+
     // .container {
     //     padding-left: 34px;
     //     padding-right: 34px;
@@ -689,7 +693,7 @@ footer,
             background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
             background-size: cover;
         }
-    }    
+    }
 }
 
 @media scree and (max-width: 320px) {
