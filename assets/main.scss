@@ -138,7 +138,13 @@ input {
 .more {
     &:after {
         content: "\2192";
-        padding-left: 16px;
+        padding-left: 10px;
+    }
+
+    &:hover {
+        &::after {
+            padding-left: 16px;
+        }
     }
 }
 
