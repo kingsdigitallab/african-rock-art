@@ -1,5 +1,7 @@
+backgrounds: /assets/images/backgrounds
 css: /assets
 icons: /assets/icons
 images: /assets/images
+logos: /assets/images/logos
 js: /assets/js
 vendor: /assets/vendor
