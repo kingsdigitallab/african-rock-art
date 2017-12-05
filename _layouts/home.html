@@ -59,9 +59,15 @@ layout: default
 
 <section class="countries">
     <div class="container">
-        <h2 class="section-title">Explore countries</h2>
-        <p><a href="{{ '/country/' | relative_url }}" class="padding">View list of countries</a></p>
+        <div class="column-one-third collapse">
+            <h2 class="section-title">Explore countries</h2>
+        </div>
+        <div class="column-one-third collapse text-center">
+            <p class="heading-sibiling"><a href="{{ '/country/' | relative_url }}">View list of countries</a></p>
+        </div>
+    </div>
 
+    <div class="container">
         <div class="desktop map">
             {% include map.svg %}
         </div>
@@ -143,7 +149,7 @@ layout: default
             </div>
             {% endfor %}
 
-            <p><a href="{{ '/thematic/' | relative_url }}" class="padding">View all themes</a></p>
+            <p class="align-right"><a href="{{ '/thematic/' | relative_url }}" class="padding">View all themes</a></p>
         </div>
     </div>
 </section>
