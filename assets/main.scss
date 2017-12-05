@@ -329,14 +329,6 @@ h1, h2, h3, h4, h5, h6 {
             padding-top: 12px;
         }
     }
-
-    .square-thumbnail {
-        float: right;
-        height: 140px;
-        margin-top: 20px;
-        overflow: hidden;
-        width: 140px;
-    }
 }
 
 /* Images */
@@ -657,6 +649,14 @@ footer,
             font-size: 24px;
             line-height: 30px;
         }
+
+        .square-thumbnail {
+            float: right;
+            height: 140px;
+            margin-top: 20px;
+            overflow: hidden;
+            width: 140px;
+        }
     }
 
     // Chapters
@@ -717,7 +717,19 @@ footer,
         display: block;
         margin: 16px auto;
 
+        .card-content {
+            -webkit-order: 2;
+            order: 2;
+
+            p {
+                display: none;
+            }
+        }
+
         .card-image {
+            -webkit-order: 1;
+            order: 1;
+
             a {
                 display: block;
             }
@@ -727,9 +739,24 @@ footer,
             }
         }
 
+        .container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .first-on-mobile {
+            -webkit-order: 1;
+            order: 1;
+        }
+
         h2 {
             font-size: 20px;
             line-height: 24px;
+        }
+
+        .square-thumbnail {
+            display: block;
+            width: 100%;
         }
     }
 
