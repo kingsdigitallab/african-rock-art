@@ -10,6 +10,7 @@ $(document).ready(function() {
   // Expand/collapse
   $(".accordion .chapter-title").bind("click", function() {
     $(this)
+      .toggleClass("opened closed")
       .next(".chapter-content")
       .slideToggle(400)
       .toggleClass("show hide")

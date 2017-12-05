@@ -295,10 +295,16 @@ h1, h2, h3, h4, h5, h6 {
             position: relative;
 
             &:after {
-                color: #b1b1b1;
-                content: "+";
                 position: absolute;
                 right: 0;
+            }
+
+            &.closed:after {
+                content: url("{{ site.data.static.icons | relative_url }}/accordion-open.svg");
+            }
+
+            &.opened:after {
+                content: url("{{ site.data.static.icons | relative_url }}/accordion-close.svg");
             }
         }
     }
