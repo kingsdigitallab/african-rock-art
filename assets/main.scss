@@ -64,7 +64,7 @@ button,
         color: black;
 
         &:hover {
-            background: #d96e02;
+            background: $brand-color-dark;
             color: black;
         }
     }
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 
     a {
         &:hover {
-            color: #d96e02;
+            color: $brand-color-dark;
         }
     }
 
@@ -349,6 +349,15 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 12px;
     line-height: 22px;
     padding-top: 12px;
+
+    a {
+        color: black;
+        text-decoration: underline;
+
+        &:hover {
+            color: $brand-color-dark;
+        }
+    }
 }
 
 .full-width {
@@ -442,14 +451,16 @@ footer,
 
     svg {
         height: auto;
-        max-width: 100%;
         max-height: 100vh;
+        max-width: 100%;
 
         g path {
             fill: #acacac;
         }
+
         #areas g path {
             fill: #457b3a;
+
             &:hover {
                 cursor: pointer;
                 fill: #172a12;
