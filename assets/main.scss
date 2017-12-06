@@ -150,6 +150,8 @@ input {
     }
 
     &:hover {
+        text-decoration: none;
+        
         &::after {
             padding-left: 16px;
         }
