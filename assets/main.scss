@@ -34,8 +34,14 @@
 }
 
 a {
+    border: none;
     display: inline-block;
     outline: none;
+
+    img {
+        border: none;
+        outline: none;
+    }
 }
 
 .align-right {
