@@ -25,6 +25,6 @@ social_links:
 - {alt: YouTube, socialIcon: youtube, url: 'https://www.youtube.com/user/britishmuseum'}
 work_links:
 - {label: See jobs, url: 'http://www.britishmuseum.org/about_us/jobs.aspx'}
-- {label: See volunteer, url: 'opportunities http://www.britishmuseum.org/about_us/volunteers.aspx'}
+- {label: 'See volunteer, opportunities', url: 'http://www.britishmuseum.org/about_us/volunteers.aspx'}
 work_meta: {subtitle: Find opportunities within the British Museum and the British
     Museum Company., title: Come work with us!}
