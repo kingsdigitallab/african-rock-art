@@ -55,7 +55,6 @@
 
     <div class="column-one-third">
       <h4>{{ site.data.footer.work_meta.title }}</h4>
-
       <p>{{ site.data.footer.work_meta.subtitle }}</p>
 
       {% for item in site.data.footer.work_links %}
@@ -64,14 +63,14 @@
     </div>
 
     <div class="column-one-third">
-      <p>{{ site.data.footer.address | markdownify }}</p>
-      <p>{{ site.data.footer.contact | markdownify }}</p>
+      {{ site.data.footer.address | markdownify }}
+      {{ site.data.footer.contact | markdownify }}
     </div>
   </div>
 
   <div class="container">
     <div class="column-half">
-      <p>{{ site.data.footer.slavery_statement | markdownify }}</p>
+      {{ site.data.footer.slavery_statement | markdownify }}
     </div>
 
     <div class="column-half align-right">
