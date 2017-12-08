@@ -147,7 +147,7 @@ namespace :contentful do
 
     # some terms are encoded in the content using | which should not be
     # converted into HTML tables, so they need to be escaped
-    yaml_data = yaml_data.gsub(/(\w+)\|(\w+)/, '\1\\\\\|\2')
+    yaml_data = yaml_data.gsub(/(\w*)\|([a-zA-Z]\w+)/, '\1&#124;\2')
     contentful_labels.each do |key, value|
       yaml_data = yaml_data.gsub(Regexp.quote(key), value)
     end
