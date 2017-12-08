@@ -176,11 +176,11 @@ contentful:
       body: "It appears that the kudu figure is pregnant and it has been suggested
         that the choice of this animal may have been made in relation to female initiation
         practices. This is because the female kudu has a symbolic importance relating
-        to women’s behaviour in the cosmology of some San\\|Bushman¹ people, traditionally
+        to women’s behaviour in the cosmology of some San&#124;Bushman¹ people, traditionally
         hunter-gatherer people whose ancestors are thought to have made most of southern
         Africa’s rock paintings and engravings.  Other animals known to have symbolic
-        and metaphorical significance to San\\|Bushman people are also depicted here
-        (giraffe images are most numerous) and these images have been interpreted
+        and metaphorical significance to San&#124;Bushman people are also depicted
+        here (giraffe images are most numerous) and these images have been interpreted
         in the vein of other southern African rock art sites, where images are thought
         to reflect the experiences of shamans while in a trance state, and may have
         multiple metaphorical and other cultural meanings.  \n\nThe engravings were
@@ -196,7 +196,7 @@ contentful:
         pads and this has been interpreted as meaning that the figure represents a
         human shaman in trance who has taken on lion form.  A similar suggestion has
         been made regarding the frequent depictions of ostriches (Kinahan, 2006).
-        \ \n\n¹ San\\|Bushmen is a collective term used to describe the many different
+        \ \n\n¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
         and cultural traditions. Both 'San' and 'Bushmen' are considered offensive
         terms by some members of these groups, although others have positively adopted
@@ -224,7 +224,7 @@ contentful:
         content_type_id: chapter
       title_internal: 'Namibia: featured site, chapter 5'
       body: "Such interpretations are made on the basis that the artists followed
-        the same cultural tradition as the ancestral San\\|Bushman. The few examples
+        the same cultural tradition as the ancestral San&#124;Bushman. The few examples
         of painted rock art at the site certainly appear to conform to the hunter-gatherer
         tradition found elsewhere in Namibia.   Following this approach, the geometric
         engraved forms may be interpreted as illustrative of so-called ‘entoptic’
@@ -518,7 +518,7 @@ contentful:
       body: "Much of the painted rock art in Namibia may be broadly compared to the
         wider hunter-gatherer rock art oeuvre found throughout southern Africa, similar
         in theme and composition and believed to be a part of the same general tradition,
-        which is generally attributed to San\\|Bushman¹ people and their ancestors.
+        which is generally attributed to San&#124;Bushman¹ people and their ancestors.
         \ Imagery includes scenes of human figures carrying bows and other implements,
         wild animals and unidentified shapes in different pigments.  Overall, human
         figures dominate in the paintings of Namibia, making up more than 2/3 of the
@@ -530,7 +530,7 @@ contentful:
         more images of giraffe and kudu, gemsbok and springbok antelope than in other
         southern African regions.  Other images of animals include those of zebras,
         elephants, rhinoceros and ostriches.  More occasional motifs found include
-        plants, cattle, sheep and handprints. \n\n¹ San\\|Bushmen is a collective
+        plants, cattle, sheep and handprints. \n\n¹ San&#124;Bushmen is a collective
         term used to describe the many different hunter-gatherer-fisher groups living
         in southern Africa who have related languages and cultural traditions. Both
         'San' and 'Bushmen' are considered offensive terms by some members of these
@@ -629,21 +629,21 @@ contentful:
       title_internal: 'Namibia: country, chapter 11'
       body: "Namibian rock paintings, and most engravings, have largely been interpreted
         in the vein largely espoused by  researchers over the past 30 years.  This
-        postulates that much of this rock art reflects the experience of San\\|Bushman
+        postulates that much of this rock art reflects the experience of San&#124;Bushman
         shamans entering trance states and that rather than being scenes from daily
         life, the depictions of animals and activities are highly symbolic within
-        San\\|Bushman cosmology, with images acting as reservoirs of spiritual power.
-        \ This avenue of interpretation originates largely from the study of rock
-        art in South Africa and Lesotho.  While it appears broadly applicable here,
-        the fact that direct attributions to known cultural groups in this area are
-        difficult somewhat hinders direct comparisons with Namibian rock art.  While
-        hunter-gatherer rock painting production in South Africa was practiced until
-        the recent past, it appears to have ceased in Namibia around a thousand  years
-        ago and modern San\\|Bushman groups in the Kalahari area have no tradition
-        of rock art production.   \n\nAdditionally, hundreds of miles and different
-        geographical environments separate the rock art centres of north-western Namibia
-        from those in neighbouring countries. This is particularly apparent in the
-        differences in terms of animal subject matter, with the numerous depictions
+        San&#124;Bushman cosmology, with images acting as reservoirs of spiritual
+        power.  This avenue of interpretation originates largely from the study of
+        rock art in South Africa and Lesotho.  While it appears broadly applicable
+        here, the fact that direct attributions to known cultural groups in this area
+        are difficult somewhat hinders direct comparisons with Namibian rock art.
+        \ While hunter-gatherer rock painting production in South Africa was practiced
+        until the recent past, it appears to have ceased in Namibia around a thousand
+        \ years ago and modern San&#124;Bushman groups in the Kalahari area have no
+        tradition of rock art production.   \n\nAdditionally, hundreds of miles and
+        different geographical environments separate the rock art centres of north-western
+        Namibia from those in neighbouring countries. This is particularly apparent
+        in the differences in terms of animal subject matter, with the numerous depictions
         of gemsbok and springbok, explicable by the rock art creators being semi-desert
         dwellers where gemsbok and springbok are found locally though largely absent
         from rock art elsewhere in southern Africa, where these animals are not found.
@@ -676,7 +676,7 @@ contentful:
         \ This has led some to propose that the giraffe, similarly, must have held
         a particular symbolic meaning for the painters of the region.  Based on associated
         imagery, placement of the rock art sites, and some ethnography (written records
-        of insights from contemporary San\\|Bushman culture compiled by anthropologists)
+        of insights from contemporary San&#124;Bushman culture compiled by anthropologists)
         it has been suggested that giraffes may have been linked with rain in local
         belief systems, with some Namibian rock painting sites are associated specifically
         with rainmaking or healing activities. \n\nWhile the more naturalistic examples
