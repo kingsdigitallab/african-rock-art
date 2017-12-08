@@ -180,8 +180,8 @@ contentful:
         or rain-making activities similar to those seen in South Africa. These paintings
         have been interpreted as representing the trance experiences of shamans (the
         term ‘shaman’ is derived from Siberian concepts of Shamanism and its applicability
-        to San\\|Bushman¹ cultures has been questioned, but it is utilised here on
-        the understanding that it sufficiently represents trancers in this academic
+        to San&#124;Bushman¹ cultures has been questioned, but it is utilised here
+        on the understanding that it sufficiently represents trancers in this academic
         context, where it is the most frequently used term to describe them). However,
         unlike in South Africa, the Matobo Hills rock art is not recent and researchers
         lack the key ethnographic records that help us to interpret the paintings.
@@ -270,7 +270,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
         content_type_id: chapter
       title_internal: Matobo Chapter 7
-      body: "¹ San\\|Bushmen is a collective term used to describe the many different
+      body: "¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
         and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
         terms by some members of these groups, although others have positively adopted
@@ -501,9 +501,9 @@ contentful:
         content_type_id: chapter
       title_internal: 'Zimbabwe: country, chapter 6'
       body: |-
-        Traditionally, the themes expressed in Zimbabwean rock art have been identified as the same as those of the San\\|Bushmen¹ from South Africa and in many cases are undoubtedly related, and provide key hints for their interpretation. However, there are also differences, such as the emphasis given to different animals, the higher presence of trees and plants in Zimbabwe or the smaller presence of trance scenes in the north compared to that of the Drakensberg. Moreover, the lack of ethnographic information for Zimbabwean paintings and their older chronology make it difficult to establish the same type of associations as those made for other areas with more direct connections rock art to known cultures, as happens in South Africa. Although in a minority, rock art of a later chronology can be attributed to Iron Age farmers, characterized by more schematic figures, usually white and painted thickly with the finger or the hand. As is the case in other areas in Central Africa, some of these later depictions are related to rain making and initiation ceremonies.
+        Traditionally, the themes expressed in Zimbabwean rock art have been identified as the same as those of the San&#124;Bushmen¹ from South Africa and in many cases are undoubtedly related, and provide key hints for their interpretation. However, there are also differences, such as the emphasis given to different animals, the higher presence of trees and plants in Zimbabwe or the smaller presence of trance scenes in the north compared to that of the Drakensberg. Moreover, the lack of ethnographic information for Zimbabwean paintings and their older chronology make it difficult to establish the same type of associations as those made for other areas with more direct connections rock art to known cultures, as happens in South Africa. Although in a minority, rock art of a later chronology can be attributed to Iron Age farmers, characterized by more schematic figures, usually white and painted thickly with the finger or the hand. As is the case in other areas in Central Africa, some of these later depictions are related to rain making and initiation ceremonies.
 
-        ¹ San\\|Bushmen is a collective term used to describe the many different hunter-gatherer-fisher groups living in southern Africa who have related languages and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive terms by some members of these groups, although others have positively adopted them.
+        ¹ San&#124;Bushmen is a collective term used to describe the many different hunter-gatherer-fisher groups living in southern Africa who have related languages and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive terms by some members of these groups, although others have positively adopted them.
     - sys:
         id: 62IspwBATCWA6aAe2Ymya8
         created_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z

@@ -71,7 +71,7 @@ contentful:
       continent and while their meaning is not always known, they are often depicted
       using great artistry, skill and knowledge of animal physiology. However, research
       undertaken in southern Africa has demonstrated that in some contexts rhinoceros
-      may be incorporated into the cosmological belief systems of the San\\|Bushman
+      may be incorporated into the cosmological belief systems of the San&#124;Bushman
       people (several culturally linked groups of indigenous people of southern Africa
       who were traditionally hunter-gatherers).\n\n"
   - sys:
@@ -153,7 +153,7 @@ contentful:
       content_type_id: chapter
     title_internal: 'Rhinos: thematic, chapter 5'
     body: |
-      In both species, a layer of fat sits between the hide and the flesh of the animal and in the white rhinoceros this can be up to or exceed a thickness of 50mm. It is well known that San\\|Bushmen believed the fat around the heart of the eland contained high levels of supernatural potency, and like the eland, they believed the rhinoceros to be especially potent animals (Ouzman, 1996:45)
+      In both species, a layer of fat sits between the hide and the flesh of the animal and in the white rhinoceros this can be up to or exceed a thickness of 50mm. It is well known that San&#124;Bushmen believed the fat around the heart of the eland contained high levels of supernatural potency, and like the eland, they believed the rhinoceros to be especially potent animals (Ouzman, 1996:45)
 
       Rhinoceros in rock art imagery are both painted and engraved, but the prevalence of engraved images in southern African rock art is pronounced. Rhinoceros are well represented, even dominant, at numerous engraving sites in the Free State, Gauteng, Northern Cape and North West provinces of South Africa and at numerous Namibian sites (Ouzman, 1996:42)
   - sys:
@@ -202,10 +202,10 @@ contentful:
       ‘scenes’ and non-realistic features on both animals and humans such as the addition
       or absence of limbs, conflation of human and animal morphology and exaggerated
       attributes (Ouzman, 1996:36) These features are critical to our understanding
-      of the images as they are inextricably tied in to San\\|Bushman belief systems.\n\nThere
-      are very few references to rhinoceros in San\\|Bushman ethnography. However,
+      of the images as they are inextricably tied in to San&#124;Bushman belief systems.\n\nThere
+      are very few references to rhinoceros in San&#124;Bushman ethnography. However,
       what does exist indicates that rhinoceros were of supernatural importance to
-      certain groups of San\\|Bushmen (Ouzman, 1996:42). One particular site named
+      certain groups of San&#124;Bushmen (Ouzman, 1996:42). One particular site named
       Thaba Sione in South Africa, is primarily known for its numerous engravings
       of rhinoceros and may have been chosen as an engraving site because rhinoceros
       were known to have frequented the site. \n\nThaba Sione (Zion’s Hill) a low
@@ -242,24 +242,24 @@ contentful:
       Sione has been estimated to fall within a broad estimate of between 1,200 -
       10,000 years old (Ouzman, 1995:55). Rock art of the last 2,000 years correlates
       with a number of different cultural groups such as farmers, pastoralists, hunter-gatherers
-      etc. However, the rock art at Thaba Sione is attributed to San\\|Bushmen and
-      widely understood to reflect a shamanic belief system. Situated close to a waterhole
-      it has been proposed that Thaba Sione was selected specifically by the San\\|Bushmen
-      for rain-making beliefs and practices, but appears to have been modified as
-      a result of Bantu-speaking farmers moving into the area from around 1500 years
-      ago.\n\nIt is thought that the population of Thaba Sione were similar in social,
-      economic and cultural terms to the now extinct |Xam, a cultural group who inhabited
-      the central interior of South Africa and for whom we have extensive ethnographic
-      accounts. Additionally, they are likely to have been similarly comparable to
-      the !Kung and Ju|’hoan, contemporary cultural groups who live to the north of
-      Thaba Sione in Botswana and Namibia. A comparison of rock art imagery at Thaba
-      Sione and the ethnographic accounts of the |Xam and !Kung show strong similarities
-      in belief systems pertaining to shamanism (Ouzman, 1996:39).\n\nThaba Sione
-      has been a primary focus for archaeologists as there are [559 identified engraved
-      images ](http://bit.ly/2pLfwp4)located on or close to the hill site showing
-      a wide variety of depictions. Images include baboon, birds, buffalo, eland,
-      elephant, felines, giraffe, human figures, lizard, ostrich, rhinoceros, warthog
-      and zebra (Ouzman, 1996:41). "
+      etc. However, the rock art at Thaba Sione is attributed to San&#124;Bushmen
+      and widely understood to reflect a shamanic belief system. Situated close to
+      a waterhole it has been proposed that Thaba Sione was selected specifically
+      by the San&#124;Bushmen for rain-making beliefs and practices, but appears to
+      have been modified as a result of Bantu-speaking farmers moving into the area
+      from around 1500 years ago.\n\nIt is thought that the population of Thaba Sione
+      were similar in social, economic and cultural terms to the now extinct &#124;Xam,
+      a cultural group who inhabited the central interior of South Africa and for
+      whom we have extensive ethnographic accounts. Additionally, they are likely
+      to have been similarly comparable to the !Kung and Ju|’hoan, contemporary cultural
+      groups who live to the north of Thaba Sione in Botswana and Namibia. A comparison
+      of rock art imagery at Thaba Sione and the ethnographic accounts of the &#124;Xam
+      and !Kung show strong similarities in belief systems pertaining to shamanism
+      (Ouzman, 1996:39).\n\nThaba Sione has been a primary focus for archaeologists
+      as there are [559 identified engraved images ](http://bit.ly/2pLfwp4)located
+      on or close to the hill site showing a wide variety of depictions. Images include
+      baboon, birds, buffalo, eland, elephant, felines, giraffe, human figures, lizard,
+      ostrich, rhinoceros, warthog and zebra (Ouzman, 1996:41). "
   - sys:
       id: 2OfGVIZFbOOm8w6gg6AucI
       created_at: !ruby/object:DateTime 2017-05-25 16:08:20.404000000 Z
@@ -393,19 +393,19 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-06-14 17:25:34.931000000 Z
       content_type_id: chapter
     title_internal: 'Rhinos: thematic, chapter 11'
-    body: "San\\|Bushman shamans were also inextricably linked with rain-making ceremonies.
-      The ritual involved the whole of the community but it was the shaman, while
-      in a trance-like state, that captured the rain in a perceived animal-like state.
-      The rain animal was either seen as an ill-tempered ‘rain-bull’, characterised
+    body: "San&#124;Bushman shamans were also inextricably linked with rain-making
+      ceremonies. The ritual involved the whole of the community but it was the shaman,
+      while in a trance-like state, that captured the rain in a perceived animal-like
+      state. The rain animal was either seen as an ill-tempered ‘rain-bull’, characterised
       by thunder and lightning and harmful to life, or as a more pleasant ‘rain-cow’,
       which provided the temperate rains that renewed the grassland (Ouzman, 1996:51)
       Rain animals were not seen as a distinct species of animal, but were depicted
       with large bodies and were often horned; one of the few ethnographic accounts
       that refer to rhinoceros implicate them in rain-making (Ouzman, 1996:52).  \n\nIn
       some contexts certain physical and behavioural characteristics of rhinoceros
-      may have been perceived by some San\\|Bushman as closely paralleling the perceived
-      appearance and behaviour of a rain animal. These features include its fat and
-      horns, its association with water and its nocturnal habits (in San\\|Bushman
+      may have been perceived by some San&#124;Bushman as closely paralleling the
+      perceived appearance and behaviour of a rain animal. These features include
+      its fat and horns, its association with water and its nocturnal habits (in San&#124;Bushman
       accounts of rain-making, shamans capture the rain animals at night). If rhinoceros
       were associated with rain animals, the more gregarious white rhinoceros might
       have been equated with the rain-cow while the ill-tempered black rhinoceros
