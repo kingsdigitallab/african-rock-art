@@ -3,7 +3,9 @@
   "version": "0.0",
   "dependencies": {
     "jquery": null,
-    "lazysizes": null
+    "lazysizes": null,
+    "tooltipster": "^4.2.5",
+    "svg.js": "^2.6.3"
   },
   "ignore": [
     "**/.*",
