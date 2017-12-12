@@ -6,6 +6,7 @@ layout: default
 <div class="container">
     <h1 class="page-heading">Explore {{ page.title }} </h1>
     {% for item in collection.docs %}
+    {% if item.slug != 'gallery' %}
     {% assign introduction = item.contentful.country_introduction.chapters[0] %}
     {% assign image = item.contentful.background_images[0] %}
 
@@ -26,5 +27,6 @@ layout: default
             </div>
         </div>
     </div>
+    {% endif %}
     {% endfor %}
 </div>
