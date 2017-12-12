@@ -249,6 +249,48 @@ namespace :contentful do
   end
 end
 
+# -----------------------------------------------------------------------------
+# Gallery tasks
+# -----------------------------------------------------------------------------
+
+desc 'Creates surrogates for the gallery images'
+task :gallery do
+  puts 'Processing gallery images...'.yellow
+
+  gallery_images_path = "assets/images/gallery"
+
+  low_quality_path = "#{gallery_images_path}/low"
+  Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
+
+  if find_executable('mogrify')
+    %w[jpg].each do |ext|
+      puts "Resizing #{ext}s...".yellow
+      system "mogrify -resize 540x560 -quality 100 \
+          -define jpeg:extent=500kb #{gallery_images_path}/*.#{ext}"
+      system "mogrify -path #{low_quality_path} \
+          -quality 10 #{gallery_images_path}/*.#{ext}"
+
+      %w[140 196].each do |size|
+        puts "Creating #{size} surrogates...".green
+        size_path = "#{gallery_images_path}/#{size}"
+        Dir.mkdir(size_path) unless File.exist?(size_path)
+        low_quality_path = "#{size_path}/low"
+        Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
+
+        system "mogrify -path #{size_path} \
+            -resize #{size}^ -gravity center -extent #{size} \
+            #{gallery_images_path}/*.#{ext}"
+        system "mogrify -path #{low_quality_path} \
+            -quality 10 #{size_path}/*.#{ext}"
+      end
+    end
+
+    system "rm -f #{gallery_images_path}/*.*~"
+  else
+    puts 'Imagemagick not found'.red
+  end
+end
+
 def create_content_pages(key, data)
   # Creates content specific directory (collection)
   dir_name = '_coll_' + key
@@ -272,8 +314,6 @@ def create_content_pages(key, data)
       f.write('---')
     end
   end
-
-  FileUtils.copy_entry(dir_path, '_coll_gallery') if key.eql? 'country'
 end
 
 def slugify(str)
