@@ -196,6 +196,11 @@ section {
     display: block;
 }
 
+.super-wrap {   
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .white {
     color: white;
 }
@@ -385,6 +390,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .overlap {
     background: black;
+    display: block;
     position: relative;
 
     .card {
@@ -393,10 +399,27 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .card-content {
+        background: rgba(0, 0, 0, .3);
+        // bottom: 0;
         color: white;
-        // position: absolute;
+        display: block;
+        height: 100%;
+        padding-top: 20%;
+        position: absolute;
         text-align: center;
+        top: 0;
         vertical-align: middle;
+        width: 100%;
+
+        a {
+            color: white;
+        }
+
+        h3 {
+            display: block;
+            overflow: auto;
+            position: relative;
+        }
     }
 }
 

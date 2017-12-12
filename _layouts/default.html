@@ -12,16 +12,20 @@ layout: compress
     {% include header.html %}
 
     {% if page.url != "/" %}
-    {% include breadcrumbs.html %}
+    <div class="super-wrap">
+        {% include breadcrumbs.html %}
+    </div>
     {% endif %}
 
     <main class="page-content" aria-label="Content">
-        <div class="wrapper">
+        <div class="{% if page.url != '/' %}super-wrap{% else %}wrapper{% endif %}">
             {{ content }}
         </div>
     </main>
 
-    {% include footer.html %}
+    <div class="super-wrap">
+        {% include footer.html %}
+    </div>
 
     {% include javascripts.html %}
 
