@@ -46,8 +46,8 @@ contentful:
       content_type_id: chapter
     title: Rock Art
     title_internal: 'Botswana: featured site, chapter 2'
-    body: The paintings at Tsodilo are unique in comparison to other San\\|Bushmen
-      rock art in both techniques and subject matter. San\\|Bushmen paintings are
+    body: The paintings at Tsodilo are unique in comparison to other San&#124;Bushmen
+      rock art in both techniques and subject matter. San&#124;Bushmen paintings are
       well-known throughout southern Africa for their fine-line detail because they
       were brush painted, but those at Tsodilo are finger painted. In addition, 160
       depictions of cattle are portrayed in the same style as wild animals, and more
@@ -241,7 +241,7 @@ contentful:
     title_internal: 'Botswana: featured site, chapter 10'
     body: "It is a bit of a mystery about who actually created the paintings at Tsodilo,
       as the red images at Tsodilo do not fit neatly into other known styles of rock
-      art in southern Africa. They do not show the fine brush work of San\\|Bushmen¹
+      art in southern Africa. They do not show the fine brush work of San&#124;Bushmen¹
       in other parts of southern Africa, nor the cruder style of white paintings attributed
       to later Bantu-speaking farmers.\n\nIt is possible that they were painted by
       the Khoesan during the first millennium AD, the original settlers in the area
@@ -366,7 +366,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-13 13:31:38.744000000 Z
       content_type_id: chapter
     title_internal: Botswana Chapter 14
-    body: "¹ San\\|Bushmen is a collective term used to describe the many different
+    body: "¹ San&#124;Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
       and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
       terms by some members of these groups, although others have positively adopted

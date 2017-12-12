@@ -26,7 +26,7 @@ contentful:
     body: "The impact of colonisation in South Africa as a result of Dutch and English
       settlement from 1652 onwards has been well-documented - with devastating consequences
       socially, economically and culturally for many indigenous populations. \nOne
-      of those impacts was the demise of rock art as a cultural practice by many San\\|Bushmen,
+      of those impacts was the demise of rock art as a cultural practice by many San&#124;Bushmen,
       with the last rock art being made around 100 years ago. Nevertheless, rock art
       has provided some interesting glimpses into Colonial events, experiences and
       encounters from an indigenous perspective. Depictions of ships, horse-drawn
@@ -207,7 +207,7 @@ contentful:
     title_internal: 'Contact Art: thematic, chapter 8'
     body: "It is difficult to know exactly who the artists were of this so-called
       ‘contact art’, but the images of ships are likely to have been made by Khoe
-      pastoralists and San\\|Bushmen hunter-gatherers who were the indigenous populations
+      pastoralists and San&#124;Bushmen hunter-gatherers who were the indigenous populations
       when Dutch ships started landing around the southern coastline of South Africa.\n\n*Swartruggens*\n\nLater
       colonial period rock art can be found in a cluster of sites in the Swartruggens
       Hills, on the eastern margins of the Cederburg Mountains. Increasingly, European
@@ -418,15 +418,15 @@ contentful:
       Maloti- Drakensberg’, in Journal of Southern African Studies, Volume 38, Number
       2, pp:265-280.\n\nChallis, S. (2014) ‘Binding beliefs: the creolisation process
       in a ‘Bushman’ raider group in nineteenth-century southern Africa’, in The courage
-      of ||Kabbo and a century of Specimens of Bushman folklore. J. Deacon and P.
-      Skotnes (eds). Cape Town, UCT Press. 246-264. \n\nHall, S. and Mazel, A. (2005)
-      ‘The Private Performance of Events: Colonial Period Rock Art from the Swartruggens’,
-      in Kronos, No. 31,  pp. 124-151.\n\nLeggatt, H. and Rust, R. (2004) An unusual
-      rock painting of a ship found in the Attakwaskloof, in  Digging Stick, Vol.21
-      (2), pp:5-8.\n\nThompson, Leonard. (2014) A History of South Africa. New Haven
-      and London: Yale University Press.\n\nYates, R., Manhire, A., and  Parkington.
-      J. (1993) ‘Colonial Era Paintings in the Rock Art of the South-Western Cape:
-      Some Preliminary Observations’, in Goodwin Series, Vol. 7, pp. 59-70.\n"
+      of |&#124;Kabbo and a century of Specimens of Bushman folklore. J. Deacon and
+      P. Skotnes (eds). Cape Town, UCT Press. 246-264. \n\nHall, S. and Mazel, A.
+      (2005) ‘The Private Performance of Events: Colonial Period Rock Art from the
+      Swartruggens’, in Kronos, No. 31,  pp. 124-151.\n\nLeggatt, H. and Rust, R.
+      (2004) An unusual rock painting of a ship found in the Attakwaskloof, in  Digging
+      Stick, Vol.21 (2), pp:5-8.\n\nThompson, Leonard. (2014) A History of South Africa.
+      New Haven and London: Yale University Press.\n\nYates, R., Manhire, A., and
+      \ Parkington. J. (1993) ‘Colonial Era Paintings in the Rock Art of the South-Western
+      Cape: Some Preliminary Observations’, in Goodwin Series, Vol. 7, pp. 59-70.\n"
   background_images:
   - sys:
       id: 6QHTRqNGXmWic6K2cQU8EA

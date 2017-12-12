@@ -25,6 +25,8 @@ contentful_labels = {
 contentful_ignored_content_types =
   %w[chapter citation country_key_facts embeded_media image project_page]
 
+$images_path = 'assets/images/site'
+
 # -----------------------------------------------------------------------------
 # Default task
 # -----------------------------------------------------------------------------
@@ -147,7 +149,7 @@ namespace :contentful do
 
     # some terms are encoded in the content using | which should not be
     # converted into HTML tables, so they need to be escaped
-    yaml_data = yaml_data.gsub(/(\w+)\|(\w+)/, '\1\\\\\|\2')
+    yaml_data = yaml_data.gsub(/(\w*)\|([a-zA-Z]\w+)/, '\1&#124;\2')
     contentful_labels.each do |key, value|
       yaml_data = yaml_data.gsub(Regexp.quote(key), value)
     end
@@ -173,6 +175,7 @@ namespace :contentful do
     force = args[:force]
 
     puts 'Contentful assets import...'.yellow
+    Dir.mkdir($images_path) unless File.exist?($images_path)
 
     Rake::Task['contentful:process'].invoke
 
@@ -213,30 +216,33 @@ namespace :contentful do
   task :resize do
     puts 'Resizing images...'.yellow
 
-    images_path = 'assets/images'
-    low_quality_path = "#{images_path}/low"
+    low_quality_path = "#{$images_path}/low"
     Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
     if find_executable('mogrify')
-      %w[jpg jpeg JPG png tif].each do |ext|
-        puts "Resizing #{ext}...".yellow
-        system "mogrify -resize 1024 -quality 100 \
-          -define jpeg:extent=500kb #{images_path}/*.#{ext}"
+      %w[jpg].each do |ext|
+        puts "Resizing #{ext}s...".yellow
+        system "mogrify -resize 540x560 -quality 100 \
+          -define jpeg:extent=500kb #{$images_path}/*.#{ext}"
+        system "mogrify -path #{low_quality_path} \
+          -quality 10 #{$images_path}/*.#{ext}"
 
-        %w[140x140 300x180 540x324].each do |size|
-          size_path = "#{images_path}/#{size}"
+        %w[140x140 300x180].each do |size|
+          puts "Creating #{size} surrogates...".green
+          size_path = "#{$images_path}/#{size}"
           Dir.mkdir(size_path) unless File.exist?(size_path)
           low_quality_path = "#{size_path}/low"
           Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
           system "mogrify -path #{size_path} \
-            -resize #{size}! #{images_path}/*.#{ext}"
+            -resize #{size}^ -gravity center -extent #{size} \
+            #{$images_path}/*.#{ext}"
           system "mogrify -path #{low_quality_path} \
             -quality 10 #{size_path}/*.#{ext}"
         end
       end
 
-      system "rm -f #{images_path}/*.*~"
+      system "rm -f #{$images_path}/*.*~"
     else
       puts 'Imagemagick not found'.red
     end
@@ -277,12 +283,15 @@ end
 def download_image(image, force)
   return unless image['url']
 
-  url = 'https:' + image['url'] + '?w=1024'
-  filename = 'assets/images/' + url.split('/')[-1].split('?')[0]
+  url = "https:#{image['url']}?fm=jpg&fl=progressive&w=540&h=560"
+  filename = url.split('/')[-1].split('?')[0]
+  filename = File.basename(filename, File.extname(filename))
+  filename = "#{$images_path}/#{filename}.jpg"
 
   return unless force || !File.file?(filename)
 
-  puts "Downloading #{url}".yellow
+  puts "Downloading #{url}:".green
+  puts " into #{filename}".blue
   download = open(url)
   IO.copy_stream(download, filename)
 end
