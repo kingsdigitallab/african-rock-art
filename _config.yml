@@ -1,7 +1,6 @@
 baseurl: /african-rock-art
 collections:
-  coll_country: {has_index: true, output: true, permalink: '/country/:name.html',
-    title: Countries}
+  coll_country: {has_index: true, output: true, permalink: '/country/:path', title: Countries}
   coll_country_information: {output: true, permalink: '/country_information/:name.html',
     title: Country information}
   coll_featured_site: {output: true, permalink: '/featured_site/:name.html', title: Featured
