@@ -14,19 +14,19 @@ layout: default
         {% assign image_name = image.registration | append: ".jpg" %}
 
         <div class="column-two-twelveth">
-            <div id="{{ image.registration }}" class="modal">
+            <div id="image{{ forloop.index }}" class="modal">
                 <img alt="{{ image.registration }}" class="lazyload" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
-                <a href="#" rel="modal:close">Close</a>
+                <p>{{ image.description }}</p>
             </div>
 
             <div class="card">
                 <div class="card-image">
-                    <a href="#{{ image.registration }}">
+                    <a href="#image{{ forloop.index }}" rel="modal:open">
                         <img alt="{{ image.registration }}" class="lazyload" data-sizes="auto" data-srcset="{{ images_path }}/140/{{ image_name }} 140w, {{ images_path }}/196/{{ image_name }} 196w" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
                     </a>
                 </div>
                 <div class="card-content">
-                    <a href="#{{ image.registration }}" class="more">{{ image.registration }}</a> {{ image.description | truncatewords: 10 }}
+                    <a href="#image{{ forloop.index }}" class="more" rel="modal:open">{{ image.registration }}</a> {{ image.description | truncatewords: 10 }}
                 </div>
             </div>
         </div>
