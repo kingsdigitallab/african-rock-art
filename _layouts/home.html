@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="hero">
-    <div class="container">
+    <div class="container super-wrap">
         {% assign project_page = site.data.ara.project_page[0] %}
         <div class="column-half">
             <h1 class="page-heading">
@@ -41,7 +41,7 @@ layout: default
     </div>
 </section>
 
-<section class="intro">
+<section class="intro super-wrap">
     <div class="container">
         <h2 class="section-title">Introduction</h2>
 
@@ -70,7 +70,7 @@ layout: default
     </div>
 </section>
 
-<section class="countries">
+<section class="countries super-wrap">
     <div class="container">
         <div class="column-one-third collapse">
             <h2 class="section-title">Explore countries</h2>
@@ -108,7 +108,7 @@ layout: default
     </div>
 </section>
 
-<section class="regions">
+<section class="regions super-wrap">
     <div class="container">
         <h2 class="section-title">Explore regions</h2>
         {% for region in project_page.regional_articles %}
@@ -134,7 +134,7 @@ layout: default
     </div>
 </section>
 
-<section class="themes">
+<section class="themes super-wrap">
     <div class="container">
         <div class="column-one-quarter">
             <h2 class="section-title">Explore themes</h2>
@@ -167,7 +167,7 @@ layout: default
     </div>
 </section>
 
-<section class="multimedia">
+<section class="multimedia super-wrap">
     <div class="container">
         <h2 class="section-title">Explore multimedia</h2>
         {% for item in site.data.multimedia.multimedia_links %}
