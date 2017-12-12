@@ -26,6 +26,17 @@ layout: default
             <a href="//www.arcadiafund.org.uk/">
                 <img src="{{ site.data.static.logos | relative_url }}/arcadia-logo-orange.svg" alt="ARCADIA">
             </a>
+
+            <h5>Project lead</h5>
+            <p>{{ site.data.team.project_lead }}</p>
+            <h5>Project team</h5>
+            <p>
+                {% for item in site.data.team.project_team %}
+                {{ item }}
+                <br>
+                {% endfor %}
+                {{ site.data.team.department }}
+            </p>
         </div>
     </div>
 </section>
@@ -160,7 +171,7 @@ layout: default
     <div class="container">
         <h2 class="section-title">Explore multimedia</h2>
         {% for item in site.data.multimedia.multimedia_links %}
-        <div class="column-one-third">
+        <div class="column-one-quarter">
             <div class="overlap">
                 <div class="card">
                     <div class="five-three">
