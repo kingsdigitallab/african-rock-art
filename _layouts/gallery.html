@@ -2,30 +2,26 @@
 layout: default
 ---
 
-<article class="container">
-    {% assign self = page.contentful %}
-
+<div class="gallery container">
     <header>
-        <h1 class="post-title">{{ self.title | escape }}</h1>
+        <h1 class="post-title">{{ page.title | escape }}</h1>
     </header>
 
     <div class="container">
-        <h2>Gallery</h2>
-        {% for image in self.image_carousel %}
-        <div class="column-one-quarter">
+        {% for image in site.data.gallery.images %}
+        <div class="column-two-twelveth">
             <div class="card">
                 <div class="card-image">
                     <a href="">
-                        {% include image.html image=image %}
+                        <img alt="{{ image.registration }}" class="lazyload" data-srcset="{{ site.data.static.gallery | relative_url }}/140/{{ image.registration }}.jpg 140w, {{ site.data.static.gallery | relative_url }}/196/{{ image.registration }}.jpg 196w" data-src="{{ site.data.static.gallery | relative_url }}/{{ image.registration }}.jpg" src="{{ site.data.static.gallery | relative_url }}/low/{{ image.registration }}.jpg">
                     </a>
                 </div>
                 <div class="card-content">
-                    <a href="" class="more">
-                    </a>
+                    <a href="" class="more">{{ image.registration }}</a>
+                    {{ image.description | truncatewords: 10 }}
                 </div>
             </div>
         </div>
         {% endfor %}
     </div>
-
 </article>
