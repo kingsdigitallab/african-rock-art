@@ -571,6 +571,7 @@ footer,
     .column-three-quarters,
     .column-two-tenth,
     .column-eight-tenth,
+    .column-two-twelveth,
     .column-five-twelveth,
     .column-seven-twelveth,
     .column-ten-twelveth {
@@ -607,6 +608,10 @@ footer,
 
     .column-eight-tenth {
         width: 80%;
+    }
+
+    .column-two-twelveth {
+        width: 16.66%;
     }
 
     .column-five-twelveth {
@@ -735,6 +740,7 @@ footer,
     .column-one-quarter,
     .column-three-quarters,
     .column-two-tenth,
+    .column-two-twelveth
     .column-eight-tenth,
     .column-five-twelveth,
     .column-seven-twelveth,
