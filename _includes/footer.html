@@ -46,7 +46,7 @@
         <ul>
           {% for item in site.data.footer.footer_links %}
           <li>
-            <p><a href="{{ item.url }}">{{ item.label }}</a></p>
+            <p><a href="{{ item.url }}" target="_blank">{{ item.label }}</a></p>
           </li>
           {% endfor %}
         </ul>
@@ -58,7 +58,7 @@
       <p>{{ site.data.footer.work_meta.subtitle }}</p>
 
       {% for item in site.data.footer.work_links %}
-      <p><a href="{{ item.url }}" class="more">{{ item.label }}</a></p>
+      <p><a href="{{ item.url }}" class="more" target="_blank">{{ item.label }}</a></p>
       {% endfor %}
     </div>
 

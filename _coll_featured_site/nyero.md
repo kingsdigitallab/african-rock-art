@@ -19,7 +19,7 @@ contentful:
 
       Nyero is located in eastern Uganda in the Kumi District, about 200 km from the capital city Kampala.  It comprises six rock shelters in total, but initially only three were recorded and referred to as shrines by local communities, who had no knowledge of the origins of the paintings. The authorship of the paintings remains in some debate.
 
-      Initially, the rock art was thought to be the work of San\\|Bushmen of southern Africa. However, archaeological, genetic and ethnographic evidence has subsequently attributed the paintings to the ancestors of Batwa people, hunter-gatherers who are descendants of ancient aboriginal groups once spread across East and Central Africa and most probably the original inhabitants of this landscape. Today they live in small groups near the Rwanda/Uganda border.
+      Initially, the rock art was thought to be the work of San&#124;Bushmen of southern Africa. However, archaeological, genetic and ethnographic evidence has subsequently attributed the paintings to the ancestors of Batwa people, hunter-gatherers who are descendants of ancient aboriginal groups once spread across East and Central Africa and most probably the original inhabitants of this landscape. Today they live in small groups near the Rwanda/Uganda border.
   - sys:
       id: 37xiS8FWYwgqYYscQg24OW
       created_at: !ruby/object:DateTime 2015-11-25 14:28:33.065000000 Z

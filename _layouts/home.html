@@ -48,7 +48,9 @@ layout: default
                     </div>
                 </div>
                 <div class="card-content">
-                    <h3>{{ introduction.title }}</h3>
+                    <h3>
+                        <a href="{{ url }}">{{ introduction.title }}</a>
+                    </h3>
                     <a href="{{ url }}" class="more hr">Find out more</a>
                 </div>
             </div>
@@ -141,7 +143,7 @@ layout: default
                         <div class="square-thumbnail">
                             <a href="{{ url }}">
                                 {% assign image = theme.lead_image %}
-                                {% include image.html image=image %}
+                                {% include image.html image=image format="140x140" %}
                             </a>
                         </div>
                     </div>
@@ -157,14 +159,19 @@ layout: default
 <section class="multimedia">
     <div class="container">
         <h2 class="section-title">Explore multimedia</h2>
-        {% for item in project_page.media_carousel limit:3 %}
+        {% for item in site.data.multimedia.multimedia_links %}
         <div class="column-one-third">
             <div class="overlap">
                 <div class="card">
-                    {% comment %} Image to go here {% endcomment %}
+                    <div class="five-three">
+                        <div class="card-image">
+                            <a href="{{ item.url }}" target="_blank">
+                                <img alt="{{ item.label }}" class="lazyload" data-src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}" src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}">
+                            </a>
+                        </div>
+                    </div>
                     <div class="card-content">
-                        <h3>{{ item.title }}</h3>
-                        <!--{# item.embed_code | safe #}-->
+                        <h3>{{ item.label }}</h3>
                     </div>
                 </div>
             </div>
