@@ -17,14 +17,14 @@ contentful:
     title_internal: 'South Africa: featured site, chapter 1'
     body: "Game Pass shelter is one of the most well-known rock art sites in South
       Africa. Situated in the foothills of the Drakensberg mountains, a sandstone
-      recess atop a steep slope contains rock paintings made by people from the San\\|Bushman¹
+      recess atop a steep slope contains rock paintings made by people from the San&#124;Bushman¹
       communities who historically lived as hunter-gatherers throughout southern Africa.
       The Drakensberg mountains in particular are known for their wealth of rock paintings,
       often showing detailed and brightly coloured images of people, animals and part-human,
       part-animal figures known as ‘therianthropes’, with this site a prime example.
       One of the panels of paintings here is particularly important in the history
       of rock art research, as in the 1970s it helped to inspire a new kind of approach
-      to the understanding of the meanings and symbolism of San\\|Bushman paintings
+      to the understanding of the meanings and symbolism of San&#124;Bushman paintings
       and engravings.\n\n"
   - sys:
       id: 6mZ8n44JbyOIMKaQYKgm4k
@@ -130,7 +130,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-30 16:42:50.171000000 Z
       content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 4'
-    body: "This idea was partly inspired by the testimony of Qing, a San\\|Bushman
+    body: "This idea was partly inspired by the testimony of Qing, a San&#124;Bushman
       man who, in 1873, had guided the Colonial Administrator Joseph Millerd Orpen
       to rock art sites in the mountains of Lesotho, with which the Drakensberg forms
       a natural eastern border with South Africa and which also contains many rock
@@ -138,23 +138,23 @@ contentful:
       included a reference to antelope-headed human figures having “died and gone
       to live in rivers, who were spoilt at the same time as the elands and… by the
       dances of which you have seen paintings”. This, along with testimony and practices
-      recorded from other South African San\\|Bushman people at the time, as well
+      recorded from other South African San&#124;Bushman people at the time, as well
       as those living elsewhere in south-western Africa in the 20th century, suggested
-      to Lewis-Williams that these and other images in San\\|Bushman rock art may
+      to Lewis-Williams that these and other images in San&#124;Bushman rock art may
       be a reference to the activities of spiritual leaders or 'shamans', people who,
-      in San\\|Bushman communities, are believed to have the power to interact with
-      spirits and the spirit world in ways which may affect the physical world. \n\nLewis-Williams
-      and other proponents of this 'shamanistic' approach to interpreting San\\|Bushman
-      rock art have proposed that much of its imagery is in fact related to the shaman's
-      experience during the 'trance dance' ritual found in all San\\|Bushman socie-ties.
-      During this activity the shaman enters a hallucinatory state in which spiritual
-      ‘tasks’ such as healing the sick may be undertaken on behalf of the community.
-      On entering the trance state the shaman experiences trembling, sweating, stumbling
-      and other symptoms similar to those of a dying antelope hit by a poisoned arrow.
-      Lewis Williams noted that among some San\\|Bushman people this process is referred
-      to as ‘dying’ or being ‘spoilt’ and considered that the similarities between
-      the eland and the therianthrope figure in this image represent this conceived
-      equivalence.\n\n"
+      in San&#124;Bushman communities, are believed to have the power to interact
+      with spirits and the spirit world in ways which may affect the physical world.
+      \n\nLewis-Williams and other proponents of this 'shamanistic' approach to interpreting
+      San&#124;Bushman rock art have proposed that much of its imagery is in fact
+      related to the shaman's experience during the 'trance dance' ritual found in
+      all San&#124;Bushman socie-ties. During this activity the shaman enters a hallucinatory
+      state in which spiritual ‘tasks’ such as healing the sick may be undertaken
+      on behalf of the community. On entering the trance state the shaman experiences
+      trembling, sweating, stumbling and other symptoms similar to those of a dying
+      antelope hit by a poisoned arrow. Lewis Williams noted that among some San&#124;Bushman
+      people this process is referred to as ‘dying’ or being ‘spoilt’ and considered
+      that the similarities between the eland and the therianthrope figure in this
+      image represent this conceived equivalence.\n\n"
   - sys:
       id: 4cmGHIbGFqOEqYWwyi0S2e
       created_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
@@ -176,7 +176,7 @@ contentful:
       content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 5'
     body: |
-      Despite the historical presence of other large game animals in the Drakensberg, the eland is the most commonly depicted animal in rock art of the region. Patricia Vinnicombe, noting this and the focus on other particular subjects in the imagery at the expense of others, proposed in her pioneering 1976 study of the rock art of the Southern Drakensberg *People of the Eland* that the paintings are “not a realistic reflection of the daily pursuits or environment of the Bushmen” (Vinnicombe 1976:347). Vinnicombe recalled that when, in the 1930s, an old Sotho man named Mapote, who had San\\|Bushman half-siblings and had used to paint with them, was requested to demonstrate, he had said that since the San\\|Bushmen had been “of the eland”, he should first depict an eland. Based on this and recountings of a myth about the creation and death of the first eland from Qing and other contemporary Southern San\\|Bushman people, Vinnicombe concluded that the eland, although regularly hunted by the Drakensberg San\\|Bushmen, had been a particularly sacred or powerful animal to them and that “Through the act of painting and re-painting the eland… the mental conflict involved in destroying a creature that was prized and loved by their deity…was…ritually symbolised and resolved” (Vinnicombe, 1976:350).
+      Despite the historical presence of other large game animals in the Drakensberg, the eland is the most commonly depicted animal in rock art of the region. Patricia Vinnicombe, noting this and the focus on other particular subjects in the imagery at the expense of others, proposed in her pioneering 1976 study of the rock art of the Southern Drakensberg *People of the Eland* that the paintings are “not a realistic reflection of the daily pursuits or environment of the Bushmen” (Vinnicombe 1976:347). Vinnicombe recalled that when, in the 1930s, an old Sotho man named Mapote, who had San&#124;Bushman half-siblings and had used to paint with them, was requested to demonstrate, he had said that since the San&#124;Bushmen had been “of the eland”, he should first depict an eland. Based on this and recountings of a myth about the creation and death of the first eland from Qing and other contemporary Southern San&#124;Bushman people, Vinnicombe concluded that the eland, although regularly hunted by the Drakensberg San&#124;Bushmen, had been a particularly sacred or powerful animal to them and that “Through the act of painting and re-painting the eland… the mental conflict involved in destroying a creature that was prized and loved by their deity…was…ritually symbolised and resolved” (Vinnicombe, 1976:350).
 
       Building on the idea of the spiritual significance of the eland, the approach proposed by Lewis-Williams offered an alternative interpretation by inferring from ethnography that eland were believed to have spiritual ‘potency’. As part of a complex system of beliefs involving conceptions of power and potency in relation to animals and rites, this potency could be released upon death, with trancing shamans believed to be able to harness it, feeling themselves taking on the attributes of the animal. Thus therianthrope figures like those depicted here may be interpreted as representing hallucinatory experiences of shamans in trance, where they may feel that they are assuming the forms of other animals. It has been argued that other motifs such as geometric forms known as 'entoptics' represent the abstract patterns created by neural networks and ‘seen’ during the early stages of entering an altered state of consciousness and that the paintings themselves may have been created as reservoirs of spiritual potency.
   - sys:
@@ -200,25 +200,25 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-30 16:49:04.072000000 Z
       content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 6'
-    body: "The shamanistic approach to interpreting San\\|Bushman rock art images,
+    body: "The shamanistic approach to interpreting San&#124;Bushman rock art images,
       for which the Game Pass panel is sometimes referred to as the ‘Rosetta Stone’,
       gained popularity in the 1980s and has since become the dominant interpretative
       framework for researchers. Debate continues about the extent and nature of its
-      applicability in all of San\\|Bushman rock art, and the extent to which myth
+      applicability in all of San&#124;Bushman rock art, and the extent to which myth
       and ritual not associated with the trance dance may also inform the art. Work
-      that connects San\\|Bushman cosmology and practice with images from sites like
-      Game Pass continue to provide interesting insights into these enigmatic images.
-      \n\nGame Pass Shelter and many other rock art sites are situated within the
-      Maloti-Drakensberg Park, which was inscribed as a  UNESCO Transboundary World
-      Heritage Site in 2000. The site is open to the public and accessible via a trail
-      from the Kamberg Rock Art Centre.\n\n"
+      that connects San&#124;Bushman cosmology and practice with images from sites
+      like Game Pass continue to provide interesting insights into these enigmatic
+      images. \n\nGame Pass Shelter and many other rock art sites are situated within
+      the Maloti-Drakensberg Park, which was inscribed as a  UNESCO Transboundary
+      World Heritage Site in 2000. The site is open to the public and accessible via
+      a trail from the Kamberg Rock Art Centre.\n\n"
   - sys:
       id: 4XwNgMsBPaQ06My8Qs4gKU
       created_at: !ruby/object:DateTime 2016-09-13 13:35:11.603000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:35:11.603000000 Z
       content_type_id: chapter
     title_internal: 'South Africa Featured Site Chapter 7 '
-    body: "¹ San\\|Bushmen is a collective term used to describe the many different
+    body: "¹ San&#124;Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
       and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
       terms by some members of these groups, although others have positively adopted
@@ -232,11 +232,11 @@ contentful:
     citation_line: |
       Francis, Michael. 2009. 'Contested Histories: A Critique of Rock Art in the Drakens-berg Mountains' in Visual Anthropology 22:4, pp. 327 — 343
 
-      Lewis-Williams, J.D. 1981. Believing and Seeing: Symbolic Meanings in San\\|Bushman Rock Paintings. Johannesburg, University of Witwatersrand Press
+      Lewis-Williams, J.D. 1981. Believing and Seeing: Symbolic Meanings in San&#124;Bushman Rock Paintings. Johannesburg, University of Witwatersrand Press
 
       Vinnicombe, P. 1976. People of The Eland: Rock paintings of the Drakensberg Bushmen as a reflection of their life and thought.  Pietermaritzburg, University of Natal Press
 
-      Solomon, A. 1997. ‘The Myth of Ritual Origins: Ethnography, Mythology and Interpre-tation of San\\|Bushman Rock Art’. South African Archaeological Bulletin 53, pp.3-13
+      Solomon, A. 1997. ‘The Myth of Ritual Origins: Ethnography, Mythology and Interpre-tation of San&#124;Bushman Rock Art’. South African Archaeological Bulletin 53, pp.3-13
 
       Lee, D. N., & Woodhouse, H.C. Art on the Rocks of Southern Africa. London, Mac-donald
   background_images:

@@ -84,7 +84,7 @@ contentful:
       url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
     caption: Negative handprints. Wadi el-Obeiyd, Egypt. 2013,2034.123 © TARA/David
       Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?searchText=Search%20the%20collection&museumno=2013,2034.123&ILINK\\|34484,|assetId=1492207&objectId=3577680&partId=1
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?searchText=Search%20the%20collection&museumno=2013,2034.123&ILINK|34484,&#124;assetId=1492207&objectId=3577680&partId=1
   - sys:
       id: 4CLJOn1uoEQyaSkAooaeQW
       created_at: !ruby/object:DateTime 2015-11-26 09:43:48.853000000 Z

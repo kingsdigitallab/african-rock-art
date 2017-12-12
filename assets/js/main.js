@@ -3,12 +3,15 @@ $(function() {
     $("svg g#areas g").click(function() {
       location.href = "country/" + this.id + ".html";
     });
-  }
-});
 
-$(document).ready(function() {
+    $("svg g#areas g path").tooltipster({
+      delay: 100,
+      theme: ['tooltipster-borderless']
+    });
+  }
+
   // Expand/collapse
-  $(".accordion .chapter-title").bind("click", function() {
+  $(".accordion .chapter-title").click(function() {
     $(this)
       .toggleClass("opened closed")
       .next(".chapter-content")

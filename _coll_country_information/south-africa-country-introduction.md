@@ -15,9 +15,9 @@ contentful:
     title: Introduction
     title_internal: 'South Africa: country, chapter 1'
     body: |
-      The rock art of South Africa has probably been studied more extensively than that of any other African country.  It is estimated that South Africa contains many thousands of rock art sites, with a great variety of styles and techniques.  The most well-known rock art in South Africa is that created by the San\\|Bushman¹ people (several culturally linked groups of indigenous people of southern Africa who were traditionally hunter-gatherers) and their ancestors, with the painted rock shelters of the Drakensberg mountains some of the most well-known rock art sites in the world.  However, the range of South African rock art is wide, spanning great distances, many centuries, and different cultural traditions.
+      The rock art of South Africa has probably been studied more extensively than that of any other African country.  It is estimated that South Africa contains many thousands of rock art sites, with a great variety of styles and techniques.  The most well-known rock art in South Africa is that created by the San&#124;Bushman¹ people (several culturally linked groups of indigenous people of southern Africa who were traditionally hunter-gatherers) and their ancestors, with the painted rock shelters of the Drakensberg mountains some of the most well-known rock art sites in the world.  However, the range of South African rock art is wide, spanning great distances, many centuries, and different cultural traditions.
 
-      ¹ San\\|Bushmen is a collective term used to describe the many different hunter-gatherer-fisher groups living in southern Africa who have related languages and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive terms by some members of these groups, although others have positively adopted them.
+      ¹ San&#124;Bushmen is a collective term used to describe the many different hunter-gatherer-fisher groups living in southern Africa who have related languages and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive terms by some members of these groups, although others have positively adopted them.
   - sys:
       id: 6rGZi909xKeQSMcYmISMgA
       created_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
@@ -63,9 +63,9 @@ contentful:
     body: Much of both the painted and engraved rock art of South Africa is characterised
       by its naturalistic depictions of animals, as well as numerous images of people,
       ambiguous figures with mixtures of animal and human features, and certain ‘geometric’
-      or abstract shapes and patterns.  These images are the work of San\\|Bushman
-      people and their ancestors.  Although San\\|Bushman communities now live mainly
-      in Namibia, Botswana and north-western South Africa, historically San\\|Bushman
+      or abstract shapes and patterns.  These images are the work of San&#124;Bushman
+      people and their ancestors.  Although San&#124;Bushman communities now live
+      mainly in Namibia, Botswana and north-western South Africa, historically San&#124;Bushman
       cultural groups lived more widely throughout southern Africa.  Hunter-gatherer
       people are thought to have been the only inhabitants of what is now South Africa
       until the arrival of herding and farming people from the north from around 2,000
@@ -114,8 +114,8 @@ contentful:
       with particular features including circular, linear and oblong motifs found
       at sites across the country, particularly near watercourses, may be the work
       of the Khoekhoen people or their ancestors, herders culturally related to the
-      San\\|Bushmen. Some paintings also appear to reflect this tradition. Local rock
-      art traditions specific to certain areas include, among others, conglomerations
+      San&#124;Bushmen. Some paintings also appear to reflect this tradition. Local
+      rock art traditions specific to certain areas include, among others, conglomerations
       of handprints near the coast in the south-western part of the Western Cape and
       rows of engraved cupules in the north east of the country. There are also several
       examples from different rock art traditions across South Africa, of depictions
@@ -156,7 +156,7 @@ contentful:
       art from the area were made throughout the 18th and 19th centuries, with some
       of the earliest known reproductions of Southern African rock art made in the
       1770s. During the 19th and early 20th centuries, painted copies were made of
-      San\\|Bushman rock art by amateur artists such as George Stow, Mark and Graham
+      San&#124;Bushman rock art by amateur artists such as George Stow, Mark and Graham
       Hutchinson and Helen Tongue. '
   - sys:
       id: 19Up0IjuAa2c2WQuks6Qka
@@ -217,16 +217,16 @@ contentful:
     body: In 1976, Vinnicombe published the seminal work *"People of the Eland"*,
       analysing paintings from 150 Drakensberg sites and attempting to gain insight
       into their execution and significance through a combination of quantitative
-      study and reference to San\\|Bushman ethnography (written records of insights
-      from San\\|Bushman culture compiled by anthropologists).  Through the 1980s,
+      study and reference to San&#124;Bushman ethnography (written records of insights
+      from San&#124;Bushman culture compiled by anthropologists).  Through the 1980s,
       interpretation of rock art was further developed, perhaps most significantly
       by David Lewis-Williams, a collaborator of Vinnicombe's. Lewis-Williams originated
-      an approach to understanding San\\|Bushman rock art which posits that the motivation
-      and meaning for most, if not all, San\\|Bushman rock art is based on the centrality
-      of the spiritual leader or'shaman' and the shaman’s actions in San\\|Bushman
-      life and belief.  Over the past 30 years, the idea that much of San\\|Bushman
-      rock art is essentially ‘shamanistic’ in nature has been dominant in academic
-      discourse.
+      an approach to understanding San&#124;Bushman rock art which posits that the
+      motivation and meaning for most, if not all, San&#124;Bushman rock art is based
+      on the centrality of the spiritual leader or'shaman' and the shaman’s actions
+      in San&#124;Bushman life and belief.  Over the past 30 years, the idea that
+      much of San&#124;Bushman rock art is essentially ‘shamanistic’ in nature has
+      been dominant in academic discourse.
   - sys:
       id: 21vXKwU4akskQ6YAsYIo0i
       created_at: !ruby/object:DateTime 2016-09-12 15:20:48.780000000 Z
@@ -234,27 +234,27 @@ contentful:
       content_type_id: chapter
     title: Themes and interpretations
     title_internal: 'South Africa: country, chapter 9'
-    body: "Shamanistic interpretations of San\\|Bushman paintings and engravings draw
-      on both past records of ‘Southern’ or /Xam San\\|Bushman people living historically
-      in South Africa and more recent ethnography based mainly on San\\|Bushman communities
-      in Namibia and Botswana, suggesting that their imagery illustrated and reinforced
-      the power of the actions of shamans. Much of the imagery is proposed to reflect
-      the shaman’s hallucinatory visions from the 'trance dance’, a tradition common
-      to San\\|Bushman groups where shamans enter a trance state during which they
-      visit a 'spirit world' in which they may go on spiritual journeys or perform
-      tasks on behalf of their communities. It is thought that the rock art panels
-      may have acted as reservoirs for the 'potency' that shamans are considered to
-      possess, with the rock face considered a veil between both worlds.  The images
+    body: "Shamanistic interpretations of San&#124;Bushman paintings and engravings
+      draw on both past records of ‘Southern’ or /Xam San&#124;Bushman people living
+      historically in South Africa and more recent ethnography based mainly on San&#124;Bushman
+      communities in Namibia and Botswana, suggesting that their imagery illustrated
+      and reinforced the power of the actions of shamans. Much of the imagery is proposed
+      to reflect the shaman’s hallucinatory visions from the 'trance dance’, a tradition
+      common to San&#124;Bushman groups where shamans enter a trance state during
+      which they visit a 'spirit world' in which they may go on spiritual journeys
+      or perform tasks on behalf of their communities. It is thought that the rock
+      art panels may have acted as reservoirs for the 'potency' that shamans are considered
+      to possess, with the rock face considered a veil between both worlds.  The images
       are thought to reflect trance experiences including those of 'therianthropes’,
       images of figures with both human and animal features, explained as shamans
       who in a trance state feel themselves transformed into animals.  Certain other
-      poses and features found in San\\|Bushman rock art, such as so-called 'entoptic'
+      poses and features found in San&#124;Bushman rock art, such as so-called 'entoptic'
       motifs—geometric shapes such as zigzags and dots—have also been interpreted
       as reflecting visions that shamans experience while in a trance state.  \n\nDiscussion
       continues around the extent of the applicability of 'shamanist' interpretations
-      for all aspects of San\\|Bushman art, with research ongoing and scholars also
-      exploring the potential roles of other elements in rock art production, such
-      as mythology or gender and initiation rites.  Other avenues of study include
+      for all aspects of San&#124;Bushman art, with research ongoing and scholars
+      also exploring the potential roles of other elements in rock art production,
+      such as mythology or gender and initiation rites.  Other avenues of study include
       more regional foci, on specific cultural and temporal contexts and how the imagery
       may reflect local power dynamics through time.\n"
   - sys:
@@ -280,7 +280,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-12 15:21:17.413000000 Z
       content_type_id: chapter
     title_internal: 'South Africa: country, chapter 10'
-    body: 'Although the focus in South African rock art research has been on San\\|Bushman
+    body: 'Although the focus in South African rock art research has been on San&#124;Bushman
       art, research has also been done on other rock art traditions, suggesting different
       cultural origins.  For example, investigation of Northern Sotho rock art has
       shown much of it to have been created in relation to boys''and girls'' initiation
@@ -292,7 +292,7 @@ contentful:
       southwards.  It has also been suggested that some finger-painted images in the
       centre of the country are the early 19th century work of the Korana people,
       a group of mixed ancestry living as raiders on the Cape frontier and incorporating
-      motifs from San\\|Bushman and other traditions. '
+      motifs from San&#124;Bushman and other traditions. '
   - sys:
       id: 4uS7XV338ke8iiQQ6asKC4
       created_at: !ruby/object:DateTime 2016-09-12 15:21:30.588000000 Z
@@ -310,9 +310,9 @@ contentful:
       this, the relative lack of durability in paint means that many of the existing
       paintings were probably made sometime within the past few hundred years. Sometimes
       it is apparent when this is the case - several painting sites in this region
-      show images of both San\\|Bushman people and Europeans riding horses and bearing
-      firearms, which dates them to within the past 350 years and particularly the
-      19th century.  Images of sheep and cattle also place images within the last
+      show images of both San&#124;Bushman people and Europeans riding horses and
+      bearing firearms, which dates them to within the past 350 years and particularly
+      the 19th century.  Images of sheep and cattle also place images within the last
       2,000 years.  \n\nThe oldest reliably dated evidence for deliberate engraving
       in the country is several ochre pieces incised with abstract patterns found
       in a buried layer in Blombos cave in the Western Cape and dated through a number
@@ -351,9 +351,9 @@ contentful:
       content_type_id: citation
     citation_line: "Eastwood, E. & Eastwood, C. 2006. Capturing the Spoor: An exploration
       of Southern African Rock Art. Cape Town, David Philip\n\nLewis-Williams, J.D.
-      & Challis, S. 2011. Deciphering Ancient Minds: The Mystery of San\\|BushmanBushman
+      & Challis, S. 2011. Deciphering Ancient Minds: The Mystery of San&#124;BushmanBushman
       Rock Art. London, Thames & Hudson \n\nLewis-Williams, J.D. 1981. Believing and
-      Seeing: Symbolic Meanings in San\\|BushmanRock Paintings. Johannesburg, University
+      Seeing: Symbolic Meanings in San&#124;BushmanRock Paintings. Johannesburg, University
       of Witwatersrand Press\n\nMaggs, T. 1995. Neglected Rock Art: The Rock Engravings
       of Agriculturist Communities in South Africa. South African Archaeological Bulletin.
       Vol. 50 No. 162 pp. 132.142\n\nMazel, A.D. 2009. Images in time: advances in
