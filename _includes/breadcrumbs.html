@@ -12,14 +12,12 @@
         </li>
         {% endfor %}
         {% endif %}
-        <li>
-            {% if page.contentful.title %}
-            {{ page.contentful.title | escape }}
-            {% elsif page.contentful.name %}
-            {{ page.contentful.name | escape }}
-            {% else %}
-            {{ page.title }}
-            {% endif %}
-        </li>
+        {% if page.contentful.title %}
+        <li>{{ page.contentful.title | escape }}</li>
+        {% elsif page.contentful.name %}
+        <li>{{ page.contentful.name | escape }}</li>
+        {% elsif page.title %}
+        <li>{{ page.title }}</li>
+        {% endif %}
     </ul>
 </nav>
