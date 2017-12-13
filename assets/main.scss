@@ -49,6 +49,7 @@ a {
 }
 
 .banner {
+    margin-top: -1px;
 
     &.country {
         background: url("{{ site.data.static.backgrounds | relative_url }}/countries.jpg") center center no-repeat;
