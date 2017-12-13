@@ -299,6 +299,23 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+.navigation {
+    li {
+        line-height: 22px;
+        list-style: none;
+        margin-left: 0;
+
+        a {
+            margin: 0 !important;
+            padding: 8px;
+        }
+    }
+
+    ul {
+        margin: 0;
+    }
+}
+
 /* Header */
 
 /* Hero */
@@ -712,6 +729,28 @@ footer,
 
     .mobile {
         display: none;
+    }
+
+    .navigation {
+        clear: both;
+        display: block;
+
+        &.left {
+            li {
+                float: left;
+            }
+        }
+
+        &.right {
+            li {
+                float: right;
+            }
+        }
+
+        ul {
+            clear: both;
+            display: block;
+        }
     }
 
     .site-header {
