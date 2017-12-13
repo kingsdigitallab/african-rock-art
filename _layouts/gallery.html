@@ -27,7 +27,8 @@ layout: default
                     </a>
                 </div>
                 <div class="card-content gallery-content">
-                    <a href="#image{{ forloop.index }}" class="more" rel="modal:open">{{ image.registration }}</a> {{ image.description | truncatewords: 10 }}
+                    <a href="#image{{ forloop.index }}" class="more" rel="modal:open">{{ image.registration }}</a>
+                    {{ image.description | truncatewords: 10 }}
                 </div>
             </div>
         </div>
