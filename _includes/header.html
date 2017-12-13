@@ -19,7 +19,12 @@
 
                 <div class="trigger">
                     <ul class="navigation right align-right">
-                        <li><a class="page-link" href="#" target="_blank">Search</a> | <a class="page-link" href="#">Shop</a></li>
+                        <li>
+                            {% for item in site.data.header.promoted_links %}
+                            <a class="page-link" href="{{ item.url }}" target="_blank">{{ item.label }}</a>
+                            {% if forloop.last == false %} | {% endif %}
+                            {% endfor %}
+                        </li>
                     </ul>
                     <ul class="navigation left">
                         {% for item in site.data.header.header_links %}
