@@ -12,6 +12,14 @@ layout: default
             </h1>
             <p>{{ project_page.general_intro | markdownify }}</p>
             <a href="" class="button orange more">Browse rock art on collections online</a>
+
+            <p>
+                <a href="//www.arcadiafund.org.uk/">
+                    <img src="{{ site.data.static.logos | relative_url }}/arcadia-logo-orange.svg" alt="ARCADIA">
+                </a>
+            </p>
+            
+            <p><strong>Project Partner:</strong> <a href="//africanrockart.org/">Trust for African Rock Art (TARA)</a></p>
         </div>
         <div class="column-half">
             <h3>Follow our digital journey across Africa.<br>
@@ -23,20 +31,23 @@ layout: default
                 <a href="mailto:AOA@britishmuseum.org">AOA@britishmuseum.org</a>
             </p>
 
-            <a href="//www.arcadiafund.org.uk/">
-                <img src="{{ site.data.static.logos | relative_url }}/arcadia-logo-orange.svg" alt="ARCADIA">
-            </a>
+            <div class="container">
+                <div class="column-half">
+                    <h4>Project lead</h4>
+                    <p>{{ site.data.team.project_lead }}</p>
+                </div>
+                <div class="column-half">
 
-            <h4>Project lead</h4>
-            <p>{{ site.data.team.project_lead }}</p>
-            <h4>Project team</h4>
-            <p>
-                {% for item in site.data.team.project_team %}
-                {{ item }}
-                <br>
-                {% endfor %}
-                {{ site.data.team.department }}
-            </p>
+                    <h4>Project team</h4>
+                    <p>
+                        {% for item in site.data.team.project_team %}
+                        {{ item }}
+                        <br>
+                        {% endfor %}
+                        {{ site.data.team.department }}
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
