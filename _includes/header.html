@@ -18,9 +18,14 @@
                 </label>
 
                 <div class="trigger">
-                    {% for item in site.data.header.header_links %}
-                    <a class="page-link" href="{{ item.url }}" target="_blank">{{ item.label }}</a>
-                    {% endfor %}
+                    <ul class="navigation right align-right">
+                        <li><a class="page-link" href="#" target="_blank">Search</a> | <a href="#">Shop</a></li>
+                    </ul>
+                    <ul class="navigation left">
+                        {% for item in site.data.header.header_links %}
+                        <li><a class="page-link" href="{{ item.url }}" target="_blank">{{ item.label }}</a></li>
+                        {% endfor %}
+                    </ul>
                 </div>
             </nav>
 
