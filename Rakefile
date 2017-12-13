@@ -278,8 +278,7 @@ task :gallery do
         Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
         system "mogrify -path #{size_path} \
-            -resize #{size}^ -gravity center -extent #{size} \
-            #{gallery_images_path}/*.#{ext}"
+            -resize #{size} #{gallery_images_path}/*.#{ext}"
         system "mogrify -path #{low_quality_path} \
             -quality 10 #{size_path}/*.#{ext}"
       end
