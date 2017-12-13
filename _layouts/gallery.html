@@ -20,12 +20,12 @@ layout: default
             </div>
 
             <div class="card">
-                <div class="card-image">
+                <div class="card-image gallery-img">
                     <a href="#image{{ forloop.index }}" rel="modal:open">
                         <img alt="{{ image.registration }}" class="lazyload" data-sizes="auto" data-srcset="{{ images_path }}/140/{{ image_name }} 140w, {{ images_path }}/196/{{ image_name }} 196w" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
                     </a>
                 </div>
-                <div class="card-content">
+                <div class="card-content gallery-content">
                     <a href="#image{{ forloop.index }}" class="more" rel="modal:open">{{ image.registration }}</a> {{ image.description | truncatewords: 10 }}
                 </div>
             </div>
