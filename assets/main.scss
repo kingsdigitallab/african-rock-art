@@ -551,15 +551,15 @@ footer,
         max-width: 100%;
 
         g path {
-            fill: #acacac;
+            fill: #dadada;
         }
 
         #areas g path {
-            fill: #457b3a;
+            fill: #bbddac;
 
             &:hover {
                 cursor: pointer;
-                fill: #172a12;
+                fill: #1a8e3b;
             }
         }
     }
