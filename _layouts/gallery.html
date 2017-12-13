@@ -16,13 +16,14 @@ layout: default
         <div class="column-two-twelveth">
             <div id="image{{ forloop.index }}" class="modal">
                 <img alt="{{ image.registration }}" class="lazyload" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
+                <p>{{ image.registration }}</p>
                 <p>{{ image.description }}</p>
             </div>
 
             <div class="card">
                 <div class="card-image gallery-image">
                     <a href="#image{{ forloop.index }}" rel="modal:open">
-                        <img alt="{{ image.registration }}" class="lazyload" data-sizes="auto" data-srcset="{{ images_path }}/140/{{ image_name }} 140w, {{ images_path }}/196/{{ image_name }} 196w" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
+                        <img alt="{{ image.registration }}" class="lazyload" data-sizes="auto" data-srcset="{{ images_path }}/140x140/{{ image_name }} 140w, {{ images_path }}/196x196/{{ image_name }} 196w" data-src="{{ images_path }}/140x140/{{ image_name }}" src="{{ images_path }}/140x140/low/{{ image_name }}">
                     </a>
                 </div>
                 <div class="card-content gallery-content">
