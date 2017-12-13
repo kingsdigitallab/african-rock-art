@@ -445,21 +445,13 @@ h1, h2, h3, h4, h5, h6 {
 /* Gallery */
 
 .gallery {
-
-    .gallery-image {
-        height: 270px;
-        overflow: hidden;
-        position: relative;
-
-        img {
-            bottom: 0;
-            position: absolute;
-        }
-    }
-
     .gallery-content {
         font-size: 12px;
         height: 120px;
+    }
+
+    .more {
+        word-break: break-all;
     }
 }
 
