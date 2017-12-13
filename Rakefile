@@ -270,7 +270,7 @@ task :gallery do
       system "mogrify -path #{low_quality_path} \
           -quality 10 #{gallery_images_path}/*.#{ext}"
 
-      %w[140 196].each do |size|
+      %w[140x140 196x196].each do |size|
         puts "Creating #{size} surrogates...".green
         size_path = "#{gallery_images_path}/#{size}"
         Dir.mkdir(size_path) unless File.exist?(size_path)
@@ -278,7 +278,7 @@ task :gallery do
         Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
         system "mogrify -path #{size_path} \
-            -resize #{size}^ -gravity center -extent #{size} \
+            -resize #{size} -background white -gravity center -extent #{size} \
             #{gallery_images_path}/*.#{ext}"
         system "mogrify -path #{low_quality_path} \
             -quality 10 #{size_path}/*.#{ext}"
