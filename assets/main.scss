@@ -427,7 +427,8 @@ h1, h2, h3, h4, h5, h6 {
 .gallery {
 
     .gallery-image {
-        height: 290px;
+        height: 270px;
+        overflow: hidden;
         position: relative;
 
         img {
@@ -438,6 +439,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .gallery-content {
         font-size: 12px;
+        height: 120px;
     }
 }
 
