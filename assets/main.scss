@@ -422,6 +422,25 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/* Gallery */
+
+.gallery {
+
+    .gallery-image {
+        height: 290px;
+        position: relative;
+
+        img {
+            bottom: 0;
+            position: absolute;
+        }
+    }
+
+    .gallery-content {
+        font-size: 12px;
+    }
+}
+
 /* Footer */
 
 footer,
