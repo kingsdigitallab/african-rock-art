@@ -12,4 +12,5 @@ gem 'rubocop', require: false
 gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-contentful-data-import'
+  gem 'jekyll-minifier'
 end
