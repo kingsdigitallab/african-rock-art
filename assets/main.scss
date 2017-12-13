@@ -48,6 +48,19 @@ a {
     text-align: right;
 }
 
+.banner {
+
+    &.country {
+        background: url("{{ site.data.static.backgrounds | relative_url }}/countries.jpg") center center no-repeat;
+        background-size: cover;
+    }
+
+    &.themes {
+        background: url("{{ site.data.static.backgrounds | relative_url }}/themes.jpg") center center no-repeat;
+        background-size: cover;
+    }
+}
+
 .baskerville {
     font-family: $auxiliary-font;
     font-weight: 400;
@@ -136,6 +149,12 @@ form {
 
 .hide {
     display: none;
+}
+
+.home {
+    a {
+        color: black;
+    }
 }
 
 hr {
@@ -532,7 +551,7 @@ footer,
 @media screen and (min-width: 1441px) {
     .home {
         .site-header {
-            background: url("{{ '/assets/images/backgrounds/homepage-bg-2560x723.jpg' | relative_url }}") left center no-repeat;
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-2560x723.jpg") left center no-repeat;
             background-size: cover;
             height: 390px;
         }
@@ -547,7 +566,7 @@ footer,
 
     .home {
         .site-header {
-            background: url("{{ '/assets/images/backgrounds/homepage-bg-1440x669.jpg' | relative_url }}") left top no-repeat;
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-1440x669.jpg") left top no-repeat;
             background-size: cover;
             height: 390px;
         }
@@ -562,7 +581,7 @@ footer,
 
     .home {
         .site-header {
-            background: url("{{ '/assets/images/backgrounds/homepage-bg-1280x731.jpg' | relative_url }}") left top no-repeat;
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-1280x731.jpg") left top no-repeat;
             background-size: cover;
             height: 390px;
         }
@@ -583,7 +602,7 @@ footer,
 
     .home {
         .site-header {
-            background: url("{{ '/assets/images/backgrounds/homepage-bg-768x429.jpg' | relative_url }}") left top no-repeat;
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-768x429.jpg") left top no-repeat;
             background-size: cover;
         }
     }
@@ -606,6 +625,10 @@ footer,
     // [class*='column-']:last-of-type {
     //     padding-right: 0; // No gutter on the last column
     // }
+
+    .banner {
+        height: 300px;
+    }
 
     .column-half,
     .column-one-third,
@@ -775,6 +798,12 @@ footer,
 
 @media screen and (max-width: 767px) {
 
+    // Banner
+
+    .banner {
+        height: 180px;
+    }
+
     // Columns
 
     .column-half,
@@ -904,7 +933,7 @@ footer,
 
     .home {
         .site-header {
-            background: url("{{ '/assets/images/backgrounds/homepage-bg-480x293.jpg' | relative_url }}") left top no-repeat;
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-480x293.jpg") left top no-repeat;
             background-size: cover;
         }
     }
