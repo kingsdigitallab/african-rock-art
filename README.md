@@ -51,6 +51,9 @@ rake contentful:assets[force]  # Import assets from Contentful; by default it on
 rake contentful:import         # Import data from Contentful
 rake contentful:process        # Process imported data: re-maps Contentful content types and creates content pages
 rake contentful:resize         # Resizes the images imported from Contentful to a maximum of 500k
+rake gallery                   # Creates surrogates for the gallery images
+rake rubocop                   # Run RuboCop
+rake rubocop:auto_correct      # Auto-correct RuboCop offenses
 rake serve:dev                 # Serve development Jekyll site locally
 rake serve:prod                # Serve production Jekyll site locally
 rake test:all                  # Test development and production sites
