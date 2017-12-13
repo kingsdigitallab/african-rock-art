@@ -428,6 +428,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .gallery-image {
         height: 270px;
+        overflow: hidden;
         position: relative;
 
         img {
