@@ -7,6 +7,11 @@
 
     {% include header.html %}
 
+    {% if page.url contains 'index.html' %}
+    <div class="banner{% if page.url contains 'country' %} country{% else %} themes{% endif %}">
+    </div>
+    {% endif %}
+
     {% if page.url != "/" %}
     <div class="super-wrap">
         {% include breadcrumbs.html %}
