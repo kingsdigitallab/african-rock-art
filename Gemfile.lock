@@ -24,10 +24,12 @@ GEM
       contentful-management (~> 1.10)
       inifile
       launchy
+    cssminify2 (2.0.1)
     domain_name (0.5.20170404)
       unf (>= 0.0.5, < 1.0.0)
     ethon (0.11.0)
       ffi (>= 1.3.0)
+    execjs (2.7.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
     html-proofer (3.7.5)
@@ -39,6 +41,7 @@ GEM
       parallel (~> 1.3)
       typhoeus (~> 0.7)
       yell (~> 2.0)
+    htmlcompressor (0.3.1)
     http (2.2.2)
       addressable (~> 2.3)
       http-cookie (~> 1.0)
@@ -65,6 +68,11 @@ GEM
     jekyll-contentful-data-import (1.6.0)
       contentful (~> 2.1)
       jekyll (>= 2.5.0, < 4)
+    jekyll-minifier (0.1.5)
+      cssminify2 (~> 2.0)
+      htmlcompressor (~> 0.3)
+      jekyll (~> 3.5)
+      uglifier (~> 3.2)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
     jekyll-watch (1.5.1)
@@ -120,6 +128,8 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
+    uglifier (3.2.0)
+      execjs (>= 0.3.0, < 3)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.4)
@@ -135,6 +145,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-contentful-data-import
+  jekyll-minifier
   minima
   rake
   rubocop
