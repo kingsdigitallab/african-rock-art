@@ -178,7 +178,7 @@ input {
 
     &:hover {
         text-decoration: none;
-        
+
         &::after {
             padding-left: 16px;
         }
@@ -216,7 +216,7 @@ section {
     display: block;
 }
 
-.super-wrap {   
+.super-wrap {
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6 {
 
     a {
         color: $brand-color;
-        
+
         &:hover {
             color: $brand-color-dark;
         }
@@ -464,6 +464,10 @@ h1, h2, h3, h4, h5, h6 {
 /* Gallery */
 
 .gallery {
+    .gallery-image {
+        text-align: center;
+    }
+
     .gallery-content {
         font-size: 12px;
         height: 120px;
@@ -476,6 +480,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .modal {
+    .gallery-image {
+        text-align: center;
+    }
+
     img {
         padding: 16px 0;
     }
