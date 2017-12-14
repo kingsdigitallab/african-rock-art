@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: 'Tanzania '
+  url: "../tanzania.html"
+layout: featured_site
 contentful:
   sys:
     id: 1MRBSR83yUwGoo8s4AKICk

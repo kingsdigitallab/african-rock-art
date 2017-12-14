@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Egypt
+  url: "../egypt.html"
+layout: featured_site
 contentful:
   sys:
     id: 4af0chnVYAe0e4mqoQwaoy
