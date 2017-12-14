@@ -14,10 +14,15 @@ layout: default
         {% assign image_name = image.registration | append: ".jpg" %}
 
         <div class="column-two-twelveth">
-            <div id="image{{ forloop.index }}" class="modal">
-                <img alt="{{ image.registration }}" class="lazyload" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
+            <div id="image{{ forloop.index }}" class="lazyload modal">
+                <div class="gallery-image">
+                    <img alt="{{ image.registration }}" class="lazyload" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
+                </div>
                 <p><strong>{{ image.registration }}</strong></p>
                 <p>{{ image.description }}</p>
+                <small>If you would like a high resolution copy of this image for non-commercial purposes, please contact
+                    <a href="mailto:AOA@britishmuseum.org">AOA@britishmuseum.org</a>
+                </small>
             </div>
 
             <div class="card">
@@ -34,4 +39,4 @@ layout: default
         </div>
         {% endfor %}
     </div>
-    </article>
+</article>
