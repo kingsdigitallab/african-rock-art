@@ -17,8 +17,7 @@ layout: default
             <p>{{ introduction.body | markdownify }}</p>
 
             {% if self.featured_site %}
-            {% assign url = "/featured_site/" | append: self.featured_site.slug | append: ".html" | relative_url %}
-            <a class="button orange more" href="{{ url }}">View featured rock art site</a>
+            <a class="button orange more" href="{{ self.slug }}/{{ self.featured_site.slug }}.html">View featured rock art site</a>
             {% endif %}
         </div>
 

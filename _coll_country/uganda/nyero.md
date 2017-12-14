@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Uganda
+  url: "../uganda.html"
+layout: featured_site
 contentful:
   sys:
     id: 3crZmFK8Vyy0MGMoEwEaMS

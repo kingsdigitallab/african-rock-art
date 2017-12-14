@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Sudan
+  url: "../sudan.html"
+layout: featured_site
 contentful:
   sys:
     id: 5T1CxEt3MIkwM42YCMEcac

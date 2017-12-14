@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Niger
+  url: "../niger.html"
+layout: featured_site
 contentful:
   sys:
     id: 3iEbGKCOjuqgaMOGUQiQuS

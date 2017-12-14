@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: South Africa
+  url: "../south-africa.html"
+layout: featured_site
 contentful:
   sys:
     id: 2XOggE9Gxaew6iMMKS4E4U

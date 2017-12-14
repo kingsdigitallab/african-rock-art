@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Chad
+  url: "../chad.html"
+layout: featured_site
 contentful:
   sys:
     id: 3l1e5Bn0NOggigQsmiGG8q

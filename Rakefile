@@ -22,8 +22,10 @@ contentful_labels = {
   'fS8J0UehVuo8YuO2AswYS': 'country'
 }
 
-contentful_ignored_content_types =
-  %w[chapter citation country_key_facts embeded_media image project_page]
+contentful_ignored_content_types = %w[
+  chapter citation country_key_facts embeded_media featured_site
+  image project_page
+]
 
 $images_path = 'assets/images/site'
 
@@ -257,7 +259,7 @@ desc 'Creates surrogates for the gallery images'
 task :gallery do
   puts 'Processing gallery images...'.yellow
 
-  gallery_images_path = "assets/images/gallery"
+  gallery_images_path = 'assets/images/gallery'
 
   low_quality_path = "#{gallery_images_path}/low"
   Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
@@ -313,11 +315,37 @@ def create_content_pages(key, data)
       f.write(YAML.dump(item_hash))
       f.write('---')
     end
+
+    next unless item.include?('featured_site')
+
+    create_featured_site(dir_name, slug, item)
   end
 end
 
 def slugify(str)
   str.strip.downcase.gsub(/\W+/, '-')
+end
+
+def create_featured_site(country_dir_name, country_slug, data)
+  featured_dir_name = country_dir_name + '/' + country_slug
+  featured_dir_path = File.join(Dir.pwd, featured_dir_name)
+  Dir.mkdir(featured_dir_path) unless File.exist?(featured_dir_path)
+
+  featured_slug = data['featured_site']['slug']
+  featured_item_hash = {
+    'breadcrumbs' => [
+      { 'label' => 'Countries', 'url' => '../index.html' },
+      { 'label' => data['name'], 'url' => "../#{country_slug}.html" }
+    ],
+    'layout' => 'featured_site',
+    'contentful' => data['featured_site']
+  }
+
+  featured_file_path = File.join(featured_dir_path, featured_slug + '.md')
+  File.open(featured_file_path, 'w') do |f|
+    f.write(YAML.dump(featured_item_hash))
+    f.write('---')
+  end
 end
 
 def download_image(image, force)
