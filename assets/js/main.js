@@ -5,8 +5,10 @@ $(function() {
     });
 
     $("svg g#areas g path").tooltipster({
-      delay: 100,
-      theme: ['tooltipster-borderless']
+      delay: 50,
+      offset: [0, 30],
+      plugins: ["follower"],
+      theme: ["tooltipster-borderless"]
     });
   }
 
