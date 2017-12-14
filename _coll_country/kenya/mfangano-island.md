@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Kenya
+  url: "../kenya.html"
+layout: featured_site
 contentful:
   sys:
     id: 2kZmXHcYEkaWQGMK4sGq0Y

@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Namibia
+  url: "../namibia.html"
+layout: featured_site
 contentful:
   sys:
     id: 2KwE2LvwScQG6CmU4eM2uw
@@ -219,19 +225,6 @@ contentful:
   citations:
   - sys:
       id: 2IwYq7P2DuyykIC6iwciC0
-      created_at: !ruby/object:DateTime 2016-09-26 14:56:23.800000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-30 17:09:02.503000000 Z
-      content_type_id: citation
-    citation_line: "Kinahan, J. and Kinahan, J. H. A. 2006. Twyfelfontein /Ui-//aes
-      World Heritage Site Volume 1: Nomination dossier & Volume 2: Property management
-      plan. National Committee for the Implementation of the World Heritage Convention
-      in Namibia. Available at  http://whc.unesco.org/uploads/nominations/1255.pdf
-      \n\nRichter, J. & R. Vogelsang: Rock Art in North-Westepn Central Namibia –
-      its Age and Cultural Background in: Limpricht, C., & M. Biesele. 2008. Heritage
-      and Cultures in modern Namibia: in-depth views of the country : a TUCSIN Festschrift.
-      Windhoek ; Goettingen : Klaus Hess Publishers pp 37:46\n\nScherz, E.R. 1975.
-      Felsbilder in Südwest-Afrika. Teil II: Die Gravierungen im Nordwesten Südwest-Afrikas.
-      \    Köln; Wien: Böhlau\n"
   background_images:
   - sys:
       id: 1awSXvy0R0IsIOu2IeqEeK

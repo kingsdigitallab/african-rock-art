@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Somalia/Somaliland
+  url: "../somalia-somaliland.html"
+layout: featured_site
 contentful:
   sys:
     id: c899JmsteEUGcImgK6coE

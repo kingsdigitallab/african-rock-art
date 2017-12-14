@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Ethiopia
+  url: "../ethiopia.html"
+layout: featured_site
 contentful:
   sys:
     id: 5I6VFY4EX6GOW2mCag08aU

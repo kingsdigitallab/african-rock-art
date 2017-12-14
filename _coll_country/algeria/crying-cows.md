@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Algeria
+  url: "../algeria.html"
+layout: featured_site
 contentful:
   sys:
     id: 47IFi4eXxuIaQ2Kkikkm4y

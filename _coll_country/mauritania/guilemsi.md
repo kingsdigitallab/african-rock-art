@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Mauritania
+  url: "../mauritania.html"
+layout: featured_site
 contentful:
   sys:
     id: QsOItel9sWUGymKiQe8QC

@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Morocco
+  url: "../morocco.html"
+layout: featured_site
 contentful:
   sys:
     id: 3ljdBZ1Fra2Kokks0oYiwW

@@ -1,4 +1,10 @@
 ---
+breadcrumbs:
+- label: Countries
+  url: "../index.html"
+- label: Botswana
+  url: "../botswana.html"
+layout: featured_site
 contentful:
   sys:
     id: 4LLcZZwsVO2SOacCKoc2Ku
