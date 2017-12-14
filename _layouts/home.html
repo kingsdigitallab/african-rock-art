@@ -7,21 +7,21 @@ layout: default
         {% assign project_page = site.data.ara.project_page[0] %}
         <div class="column-half">
             <h1 class="page-heading">
-                African Rock Art<br>
-                <span class="white">Image project</span>
+                {{ site.data.home.main.title }}<br>
+                <span class="white">{{ site.data.home.main.subtitle }}</span>
             </h1>
             <p>{{ project_page.general_intro | markdownify }}</p>
-            <a href="//www.britishmuseum.org/research/collection_online/search.aspx?people=197356" class="button orange more">Browse rock art on collections online</a>
+            <a href="{{ site.data.home.main.link.url }}" class="button orange more">{{ site.data.home.main.link.label }}</a>
         </div>
         <div class="column-half">
-            <h3>Follow our digital journey across Africa.<br>
-            Discover 30,000 years of rock art</h3>
+            <h3>{{ site.data.home.about.title }}<br>
+            {{ site.data.home.about.subtitle }}</h3>
 
-            <p>The African rock art image project photographs are free to use to explore, study, research, and teach.</p>
-
-            <p>If you would like a high resolution copy of any of the images for non-commercial purposes, please contact
-                <a href="mailto:AOA@britishmuseum.org">AOA@britishmuseum.org</a>
+            {% for item in site.data.home.about.description %}
+            <p>
+                {{ item | markdownify }}
             </p>
+            {% endfor %}
 
             <div class="container">
                 <div class="column-half">
@@ -42,12 +42,12 @@ layout: default
             </div>
 
             <p>
-                <a href="//www.arcadiafund.org.uk/">
-                    <img src="{{ site.data.static.logos | relative_url }}/arcadia-logo-orange.svg" alt="ARCADIA">
+                <a href="{{ site.data.home.funder.url }}">
+                    <img src="{{ site.data.static.logos | relative_url }}/{{ site.data.home.funder.logo }}" alt="{{ site.data.home.funder.name }}">
                 </a>
             </p>
 
-            <p>Project Partner: <a href="//africanrockart.org/">Trust for African Rock Art (TARA)</a></p>
+            <p>Project Partner: <a href="{{ site.data.home.partner.url }}">{{ site.data.home.partner.name }}</a></p>
         </div>
     </div>
 </section>
@@ -187,7 +187,7 @@ layout: default
                 <div class="card">
                     <div class="five-three">
                         <div class="card-image">
-                                <img alt="{{ item.label }}" class="lazyload" data-src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}" src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}">
+                            <img alt="{{ item.label }}" class="lazyload" data-src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}" src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}">
                         </div>
                     </div>
                     <div class="card-content">
