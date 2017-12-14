@@ -7,7 +7,7 @@ require 'open-uri'
 require 'rubocop/rake_task'
 require 'yaml'
 
-contentful_labels = {
+CONTENTFUL_LABELS = {
   '2MFOT4WINOAOokOw2ma6aS': 'featured_site',
   '3NZwbeG360yGuoKUUCU8Oy': 'image',
   '4WLq0TTLleEcMmEYw66Q8w': 'thematic',
@@ -20,14 +20,14 @@ contentful_labels = {
   '7bbOALHvAQ8cQ6yS2wOmw0': 'citation',
   'Q4XNev9Iom0uGquue2eoS': 'country_information',
   'fS8J0UehVuo8YuO2AswYS': 'country'
-}
+}.freeze
 
-contentful_ignored_content_types = %w[
+CONTENTFUL_IGNORED_CONTENT_TYPES = %w[
   chapter citation country_key_facts embeded_media featured_site
   image project_page
-]
+].freeze
 
-$images_path = 'assets/images/site'
+IMAGES_PATH = 'assets/images/site'
 
 # -----------------------------------------------------------------------------
 # Default task
@@ -152,7 +152,7 @@ namespace :contentful do
     # some terms are encoded in the content using | which should not be
     # converted into HTML tables, so they need to be escaped
     yaml_data = yaml_data.gsub(/(\w*)\|([a-zA-Z]\w+)/, '\1&#124;\2')
-    contentful_labels.each do |key, value|
+    CONTENTFUL_LABELS.each do |key, value|
       yaml_data = yaml_data.gsub(Regexp.quote(key), value)
     end
 
@@ -163,7 +163,7 @@ namespace :contentful do
 
     yaml = YAML.load_file(yaml_path)
     yaml.each do |key, value|
-      unless contentful_ignored_content_types.include?(key)
+      unless CONTENTFUL_IGNORED_CONTENT_TYPES.include?(key)
         create_content_pages(key, value)
       end
     end
@@ -177,7 +177,7 @@ namespace :contentful do
     force = args[:force]
 
     puts 'Contentful assets import...'.yellow
-    Dir.mkdir($images_path) unless File.exist?($images_path)
+    Dir.mkdir(IMAGES_PATH) unless File.exist?(IMAGES_PATH)
 
     Rake::Task['contentful:process'].invoke
 
@@ -218,33 +218,32 @@ namespace :contentful do
   task :resize do
     puts 'Resizing images...'.yellow
 
-    low_quality_path = "#{$images_path}/low"
+    low_quality_path = "#{IMAGES_PATH}/low"
     Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
     if find_executable('mogrify')
       %w[jpg].each do |ext|
         puts "Resizing #{ext}s...".yellow
         system "mogrify -resize 540x560 -quality 100 \
-          -define jpeg:extent=500kb #{$images_path}/*.#{ext}"
+          -define jpeg:extent=500kb #{IMAGES_PATH}/*.#{ext}"
         system "mogrify -path #{low_quality_path} \
-          -quality 10 #{$images_path}/*.#{ext}"
+          -quality 10 #{IMAGES_PATH}/*.#{ext}"
 
         %w[140x140 300x180].each do |size|
           puts "Creating #{size} surrogates...".green
-          size_path = "#{$images_path}/#{size}"
+          size_path = "#{IMAGES_PATH}/#{size}"
           Dir.mkdir(size_path) unless File.exist?(size_path)
           low_quality_path = "#{size_path}/low"
           Dir.mkdir(low_quality_path) unless File.exist?(low_quality_path)
 
-          system "mogrify -path #{size_path} \
-            -resize #{size}^ -gravity center -extent #{size} \
-            #{$images_path}/*.#{ext}"
+          system "mogrify -path #{size_path} -resize #{size}^ \
+            -gravity center -extent #{size} #{IMAGES_PATH}/*.#{ext}"
           system "mogrify -path #{low_quality_path} \
             -quality 10 #{size_path}/*.#{ext}"
         end
       end
 
-      system "rm -f #{$images_path}/*.*~"
+      system "rm -f #{IMAGES_PATH}/*.*~"
     else
       puts 'Imagemagick not found'.red
     end
@@ -354,7 +353,7 @@ def download_image(image, force)
   url = "https:#{image['url']}?fm=jpg&fl=progressive&w=540&h=560"
   filename = url.split('/')[-1].split('?')[0]
   filename = File.basename(filename, File.extname(filename))
-  filename = "#{$images_path}/#{filename}.jpg"
+  filename = "#{IMAGES_PATH}/#{filename}.jpg"
 
   return unless force || !File.file?(filename)
 
