@@ -11,7 +11,7 @@ layout: default
 
     <div class="container">
         {% for image in site.data.gallery.images %}
-        {% assign image_name = image.registration | append: ".jpg" %}
+        {% assign image_name = image.image | append: ".jpg" %}
 
         <div class="column-two-twelveth">
             <div id="image{{ forloop.index }}" class="lazyload modal">
