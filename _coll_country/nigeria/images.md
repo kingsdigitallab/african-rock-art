@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Gallery
+title: Images
 breadcrumbs:
     - {label: Countries, url: ../index.html}
     - {label: Nigeria, url: ../nigeria.html}
