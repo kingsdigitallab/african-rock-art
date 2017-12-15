@@ -1,0 +1,11 @@
+header_links:
+- {label: Visiting, url: 'http://www.britishmuseum.org/visiting.aspx'}
+- {label: Exhibitions and events, url: 'http://www.britishmuseum.org/whats_on.aspx'}
+- {label: Research, url: 'http://www.britishmuseum.org/research.aspx'}
+- {label: Learning, url: 'http://www.britishmuseum.org/learning.aspx'}
+- {label: Membership, url: 'http://www.britishmuseum.org/membership.aspx'}
+- {label: Support, url: 'http://www.britishmuseum.org/support_us.aspx'}
+- {label: Blog, url: 'http://www.britishmuseum.org/blog.aspx'}
+promoted_links:
+- {label: Search, url: 'http://www.britishmuseum.org/search_results.aspx'}
+- {label: Shop, url: 'http://www.britishmuseumshoponline.org/?_ga=2.22213560.2059082112.1512480480-683024919.1476789549'}
