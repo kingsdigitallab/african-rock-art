@@ -4,8 +4,6 @@ collections:
     title: Countries}
   coll_country_information: {output: true, permalink: '/country_information/:name.html',
     title: Country information}
-  coll_featured_site: {output: true, permalink: '/featured_site/:name.html', title: Featured
-      site}
   coll_gallery: {has_index: true, output: true, permalink: '/gallery/:name.html',
     title: Gallery}
   coll_introduction: {output: true, permalink: '/introduction/:name.html', title: Introduction}
@@ -28,8 +26,6 @@ defaults:
   values: {layout: introduction}
 - scope: {type: coll_gallery}
   values: {layout: gallery}
-- scope: {type: coll_featured_site}
-  values: {layout: featured_site}
 - scope: {type: coll_regional_introduction}
   values: {layout: regional_introduction}
 - scope: {type: coll_thematic}
