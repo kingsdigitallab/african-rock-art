@@ -1,4 +1,4 @@
-baseurl: /african-rock-art
+baseurl: /
 collections:
   coll_country: {has_index: true, output: true, permalink: '/country/:path.html',
     title: Countries}
@@ -46,4 +46,4 @@ markdown: kramdown
 theme: minima
 title: African Rock Art
 twitter_username: britishmuseum
-url: https://kingsdigitallab.github.io
+url: ''
