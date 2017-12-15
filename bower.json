@@ -1,0 +1,19 @@
+{
+  "name": "ara",
+  "version": "0.0",
+  "dependencies": {
+    "jquery": null,
+    "lazysizes": null,
+    "tooltipster": "^4.2.5",
+    "svg.js": "^2.6.3",
+    "jquery-modal": "^0.9.1",
+    "tooltipster-follower": "^0.1.5"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

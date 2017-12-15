@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+# halt script on error
+set -e
+
+bundle exec rake build:prod
+bundle exec rake test:prod

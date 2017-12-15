@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article class="featured_site container">
+    <div class="column-two-thirds"
+        {% assign self = page.contentful %}
+
+        <header>
+            <h1 class="post-title">{{ self.title | escape }}</h1>
+        </header>
+
+        <div>
+            {% include chapters.html chapters=self.chapters %}
+        </div>
+    </div>
+</article>

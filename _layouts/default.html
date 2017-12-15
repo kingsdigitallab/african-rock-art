@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+<body{% if page.url == "/" %} class="home"{% endif %}>
+
+    {% include header.html %}
+
+    {% if page.url contains 'index.html' %}
+    <div class="banner{% if page.url contains 'country' %} country{% else %} themes{% endif %}">
+    </div>
+    {% endif %}
+
+    {% if page.url != "/" %}
+    <div class="super-wrap">
+        {% include breadcrumbs.html %}
+    </div>
+    {% endif %}
+
+    <main class="page-content" aria-label="Content">
+        <div class="{% if page.url != '/' %}super-wrap{% else %}wrapper{% endif %}">
+            {{ content }}
+        </div>
+    </main>
+
+    <div class="super-wrap">
+        {% include footer.html %}
+    </div>
+
+    {% include javascripts.html %}
+
+</body>
+
+</html>

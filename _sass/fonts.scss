@@ -1,0 +1,71 @@
+/** Importing BM's Fonts **/
+
+/** Helvetica Neue **/
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-55Roman.eot'); /* IE9 Compat Modes */
+  src: url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-55Roman.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-55Roman.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-55Roman.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-55Roman.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-55Roman.svg#HelveticaNeue') format('svg'); /* Legacy iOS */
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-56Italic.eot'); /* IE9 Compat Modes */
+  src: url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-56Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-56Italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-56Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-56Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-56Italic.svg#HelveticaNeueItalic') format('svg'); /* Legacy iOS */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-75Bold.eot'); /* IE9 Compat Modes */
+  src: url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-75Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-75Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-75Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-75Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../assets/fonts/bm-fonts/HelveticaNeueLTW01-75Bold.svg#HelveticaNeueBold') format('svg'); /* Legacy iOS */
+  font-weight: 700;
+}
+
+/** Baskerville **/
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('../assets/fonts/bm-fonts/BaskervilleBTW01-Roman.eot'); /* IE9 Compat Modes */
+  src: url('../assets/fonts/bm-fonts/BaskervilleBTW01-Roman.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Roman.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Roman.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Roman.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Roman.svg#Baskerville') format('svg'); /* Legacy iOS */
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('../assets/fonts/bm-fonts/BaskervilleBTW01-Italic.eot'); /* IE9 Compat Modes */
+  src: url('../assets/fonts/bm-fonts/BaskervilleBTW01-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../assets/fonts/bm-fonts/BaskervilleBTW01-Italic.svg#Baskerville') format('svg'); /* Legacy iOS */
+  font-style: italic;
+}
+
+/* Icomoon */
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('../assets/fonts/bm-fonts/icomoon.ttf') format('truetype'),
+       url('../assets/fonts/bm-fonts/icomoon.woff') format('woff'),
+       url('../assets/fonts/bm-fonts/icomoon.svg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

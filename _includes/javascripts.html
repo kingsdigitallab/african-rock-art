@@ -1,0 +1,13 @@
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/lazysizes/lazysizes.min.js" async></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/lazysizes/plugins/respimg/ls.respimg.min.js" async></script>
+<script type="text/javascript" src="{{ site.data.static.js | relative_url }}/main.js"></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/svg.js/dist/svg.min.js"></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/tooltipster/dist/js/tooltipster.bundle.min.js"></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/tooltipster/dist/js/plugins/tooltipster/SVG/tooltipster-SVG.min.js"></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/tooltipster-follower/dist/js/tooltipster-follower.min.js"></script>
+<script type="text/javascript" src="{{ site.data.static.vendor | relative_url }}/jquery-modal/jquery.modal.min.js"></script>
+
+{% if jekyll.environment == 'production' and site.google_analytics %}
+{% include google-analytics.html %}
+{% endif %}
