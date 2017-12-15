@@ -1,0 +1,23 @@
+<nav class="container breadcrumbs">
+    <ul>
+        <li>
+            <a href="{{ site.baseurl }}">African Rock Art</a>
+        </li>
+        {% if page.breadcrumbs %}
+        {% for crumb in page.breadcrumbs %}
+        <li>
+            {% if crumb.url %}<a href="{{ crumb.url }}">{% endif %}
+                {{ crumb.label }}
+            {% if crumb.url %}</a>{% endif %}
+        </li>
+        {% endfor %}
+        {% endif %}
+        {% if page.contentful.title %}
+        <li>{{ page.contentful.title | escape }}</li>
+        {% elsif page.contentful.name %}
+        <li>{{ page.contentful.name | escape }}</li>
+        {% elsif page.title %}
+        <li>{{ page.title }}</li>
+        {% endif %}
+    </ul>
+</nav>

@@ -1,0 +1,30 @@
+address: 'The British Museum,
+
+  Great Russell Street,
+
+  London WC1B 3DG,
+
+  United Kingdom'
+copyright: '&copy; The Trustees of the British Museum'
+contact: '+44 (0)20 7323 8000
+
+  [info@britishmuseum.org](mailto:info@britishmuseum.org)'
+footer_links:
+- {label: About, url: 'http://www.britishmuseum.org/about_us.aspx'}
+- {label: Press, url: 'http://www.britishmuseum.org/about_us/news_and_press.aspx'}
+- {label: Contact us, url: 'http://www.britishmuseum.org/about_this_site/footer_components/contact_us.aspx'}
+- {label: FAQ, url: 'http://www.britishmuseum.org/about_this_site/footer_components/faqs.aspx'}
+- {label: Legal, url: 'http://www.britishmuseum.org/about_this_site/footer_components/terms_of_use.aspx'}
+newsletter: {cta: Sign up, form_action: 'https://britishmuseum.msgfocus.com/s/', label: Newsletter,
+  placeholder: Enter your email address..., return_page: 'http://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box?email=[*data(''email'')*]'}
+slavery_statement: '[Modern Slavery Act Statement](http://www.britishmuseum.org/PDF/Modern%20Slavery%20Act%20Transparency%20Statement%202015-16.pdf)'
+social_links:
+- {alt: Facebook, socialIcon: facebook, url: 'https://www.facebook.com/britishmuseum'}
+- {alt: Instagram, socialIcon: instagram, url: 'https://www.instagram.com/britishmuseum/'}
+- {alt: Twitter, socialIcon: twitter, url: 'https://twitter.com/britishmuseum'}
+- {alt: YouTube, socialIcon: youtube, url: 'https://www.youtube.com/user/britishmuseum'}
+work_links:
+- {label: See jobs, url: 'http://www.britishmuseum.org/about_us/jobs.aspx'}
+- {label: 'See volunteer opportunities', url: 'http://www.britishmuseum.org/about_us/volunteers.aspx'}
+work_meta: {subtitle: Find opportunities within the British Museum and the British
+    Museum Company., title: Come work with us!}
