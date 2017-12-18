@@ -127,11 +127,13 @@ layout: default
             <div class="card">
                 {% assign url = "/regional_introduction/" | append: region.slug | append: ".html" | relative_url %}
 
-                <div class="card-image">
-                    <a href="{{ url }}">
-                        {% assign image = region.lead_image[0] %}
-                        {% include image.html image=image %}
-                    </a>
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% assign image = region.lead_image[0] %}
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
                 </div>
                 <div class="card-content">
                     <h3>
