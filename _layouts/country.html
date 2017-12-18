@@ -84,10 +84,12 @@ layout: default
             <div class="card">
                 {% assign url = "/thematic/" | append: related.slug | append: ".html" | relative_url %}
 
-                <div class="card-image">
-                    <a href="{{ url }}">
-                        {% include image.html image=related.lead_image %}
-                    </a>
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% include image.html image=related.lead_image %}
+                        </a>
+                    </div>
                 </div>
                 <div class="card-content">
                     <h3><a href="{{ url }}">{{ related.title }}</a></h3>
