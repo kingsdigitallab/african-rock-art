@@ -45,10 +45,12 @@ layout: default
         {% for image in self.image_carousel limit:3 %}
         <div class="column-one-third">
             <div class="card">
-                <div class="card-image">
-                    <a href="">
-                        {% include image.html image=image %}
-                    </a>
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="">
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
                 </div>
                 <div class="card-content">
                     <a href="" class="more">Read more about this image</a>
