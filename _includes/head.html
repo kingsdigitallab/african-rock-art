@@ -6,6 +6,8 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
+  <link type="text/plain" rel="author" href="{{ 'humans.txt' | relative_url }}" />
+
   <link rel="stylesheet" type="text/css" href="{{ site.data.static.vendor | relative_url }}/tooltipster/dist/css/tooltipster.bundle.min.css" />
   <link rel="stylesheet" type="text/css" href="{{ site.data.static.vendor | relative_url }}/tooltipster/dist/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-borderless.min.css" />
   <link rel="stylesheet" type="text/css" href="{{ site.data.static.vendor | relative_url }}/tooltipster-follower/dist/css/tooltipster-follower.min.css" />
