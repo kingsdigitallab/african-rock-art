@@ -1,3 +1,6 @@
+---
+---
+
 /* TEAM */
 Organisation: King's Digital Lab
 Site: https://kdl.kcl.ac.uk
@@ -16,6 +19,7 @@ Software Engineer: Miguel Vieira
 Site: https://www.kdl.kcl.ac.uk/who-we-are/miguel-vieira/
 
 /* SITE */
+Last update: {{ site.time }}
 Standards: HTML5, CSS3
 Components: Jekyll, HTML5, SASS, jQuery, lazysizes, tooltipster, htmlproofer
 Software: Sublime Text, ImageMagick, bundler, bower
