@@ -36,13 +36,14 @@ defaults:
 description: African Rock Art Follow our digital journey across Africa. Discover 30,000
   years of rock art.
 email: info@britishmuseum.org
-exclude: [bower.json, env.sh*, Gemfile*, Rakefile, README.md, script, vendor]
-plugins: [jekyll-minifier]
+exclude: ['*.log', bower.json, env.sh*, Gemfile*, Rakefile, README.md, script, vendor]
 github_username: kingsdigitallab
 google_analytics: UA-1005261-36
 include: [_pages]
+jekyll-minifier: {exclude: humans.txt}
 kramdown: {hard_wrap: true}
 markdown: kramdown
+plugins: [jekyll-minifier]
 theme: minima
 title: African Rock Art
 twitter_username: britishmuseum

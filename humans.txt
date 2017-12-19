@@ -1,0 +1,26 @@
+---
+---
+
+/* TEAM */
+Organisation: King's Digital Lab
+Site: https://kdl.kcl.ac.uk
+Email: kdl-info [at] kcl.ac.uk
+Twitter: @kingsdigitallab
+GitHub: https://github.com/kingsdigitallab
+Location: London WC2B 5LE, United Kingdom
+
+Analyst: Neil Jakeman
+Site: https://www.kdl.kcl.ac.uk/who-we-are/neil-jakeman/
+
+UI/UX Developer: Ginestra Ferraro
+Site: https://www.kdl.kcl.ac.uk/who-we-are/ginestra-ferraro/
+
+Software Engineer: Miguel Vieira
+Site: https://www.kdl.kcl.ac.uk/who-we-are/miguel-vieira/
+
+/* SITE */
+Last update: {{ site.time }}
+Standards: HTML5, CSS3
+Components: Jekyll, HTML5, SASS, jQuery, lazysizes, tooltipster, htmlproofer
+Software: Sublime Text, ImageMagick, bundler, bower
+GitHub: https://github.com/kingsdigitallab/african-rock-art
