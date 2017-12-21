@@ -17,7 +17,7 @@ layout: default
             <p>{{ introduction.body | markdownify }}</p>
 
             {% if self.featured_site %}
-            <a class="button orange more" href="{{ self.slug }}/{{ self.featured_site.slug }}.html">View featured rock art site</a>
+            <a class="button orange more" href="{{ self.featured_site.slug }}/">View featured rock art site</a>
             {% endif %}
         </div>
 
@@ -33,7 +33,7 @@ layout: default
         <div class="column-one-third">
             <p class="heading-sibling">
                 {% if self.slug == 'nigeria' %}
-                <a href="{{ self.slug }}/images.html">Explore rock art</a>
+                <a href="images/">Explore rock art</a>
                 {% else %}
                 <a href="{{ self.col_url }}" target="_blank">Explore rock art</a>
                 {% endif %}
@@ -82,7 +82,7 @@ layout: default
         {% for related in self.thematic_articles limit:3 %}
         <div class="column-one-third">
             <div class="card">
-                {% assign url = "/thematic/" | append: related.slug | append: ".html" | relative_url %}
+                {% assign url = "/thematic/" | append: related.slug | append: "/" | relative_url %}
 
                 <div class="five-three">
                     <div class="card-image">

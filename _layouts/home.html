@@ -59,7 +59,7 @@ layout: default
         {% for introduction in project_page.introduction_articles %}
         <div class="column-one-third">
             <div class="card">
-                {% assign url = "/introduction/" | append: introduction.slug | append: ".html" | relative_url %}
+                {% assign url = "/introduction/" | append: introduction.slug | append: "/" | relative_url %}
 
                 <div class="five-three">
                     <div class="card-image">
@@ -100,7 +100,7 @@ layout: default
             {% for country in project_page.countries limit:3 %}
             <div class="column-one-third">
                 <div class="card">
-                    {% assign url = "/country/" | append: country.slug | append: ".html" | relative_url %}
+                    {% assign url = "/country/" | append: country.slug | append: "/" | relative_url %}
 
                     <div class="card-image">
                         <a href="{{ url }}">
@@ -125,7 +125,7 @@ layout: default
         {% for region in project_page.regional_articles %}
         <div class="column-one-third">
             <div class="card">
-                {% assign url = "/regional_introduction/" | append: region.slug | append: ".html" | relative_url %}
+                {% assign url = "/regional_introduction/" | append: region.slug | append: "/" | relative_url %}
 
                 <div class="five-three">
                     <div class="card-image">
@@ -156,7 +156,7 @@ layout: default
             {% for theme in project_page.thematic_articles limit:3 %}
             <div class="card">
                 <div class="container">
-                    {% assign url = "/thematic/" | append: theme.slug | append: ".html" | relative_url %}
+                    {% assign url = "/thematic/" | append: theme.slug | append: "/" | relative_url %}
 
                     <div class="column-three-quarters card-content">
                         <h3>

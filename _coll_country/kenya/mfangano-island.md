@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: Kenya
-  url: "../kenya.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:

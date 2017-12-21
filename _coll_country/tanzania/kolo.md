@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: 'Tanzania '
-  url: "../tanzania.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:

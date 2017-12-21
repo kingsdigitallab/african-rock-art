@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: 'Malawi '
-  url: "../malawi.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:
