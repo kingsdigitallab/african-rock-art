@@ -3,7 +3,7 @@ contentful:
   sys:
     id: 5s1jlhJi6W0U0QcE4moqs4
     created_at: !ruby/object:DateTime 2015-11-26 18:51:28.567000000 Z
-    updated_at: !ruby/object:DateTime 2017-11-21 09:50:47.124000000 Z
+    updated_at: !ruby/object:DateTime 2017-12-15 14:38:34.335000000 Z
     content_type_id: country
   name: Libya
   slug: libya
@@ -14,30 +14,30 @@ contentful:
   - sys:
       id: 5WH8hIWyZOI0QWe0SyAkC8
       created_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
+      updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
     title: '2013,2034.2756'
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
     url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
   - sys:
       id: 16a6qAimaaWYqcwqUqMKIm
       created_at: !ruby/object:DateTime 2015-11-26 12:25:03.860000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:25:03.860000000 Z
+      updated_at: !ruby/object:DateTime 2017-12-15 14:15:08.336000000 Z
     title: '2013,2034.420'
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3580676
     url: "//images.contentful.com/xt8ne4gbbocd/16a6qAimaaWYqcwqUqMKIm/35056fde196c5ae13894c78ed1b5fe17/2013_2034.420.jpg"
   - sys:
       id: 4eOnyF3wVymkGMgOkmQsYm
       created_at: !ruby/object:DateTime 2015-11-26 12:25:07.169000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:25:07.169000000 Z
+      updated_at: !ruby/object:DateTime 2017-12-15 14:28:23.158000000 Z
     title: '2013,2034.3106'
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3586141
     url: "//images.contentful.com/xt8ne4gbbocd/4eOnyF3wVymkGMgOkmQsYm/ef9fa1bb02dc7c8ddb0ced9c9fcaa85e/2013_2034.3106.jpg"
   - sys:
       id: xe9mLFNrG0Ga6yUIoQycG
       created_at: !ruby/object:DateTime 2015-11-25 15:23:42.433000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.433000000 Z
+      updated_at: !ruby/object:DateTime 2017-12-15 14:29:10.261000000 Z
     title: '2013,2034.2761'
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584758
     url: "//images.contentful.com/xt8ne4gbbocd/xe9mLFNrG0Ga6yUIoQycG/de7f087f96da7f9814d89ce25c7c4b44/2013_2034.2761.jpg"
   featured_site:
     sys:
@@ -102,9 +102,9 @@ contentful:
         sys:
           id: xe9mLFNrG0Ga6yUIoQycG
           created_at: !ruby/object:DateTime 2015-11-25 15:23:42.433000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.433000000 Z
+          updated_at: !ruby/object:DateTime 2017-12-15 14:29:10.261000000 Z
         title: '2013,2034.2761'
-        description: 
+        description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584758
         url: "//images.contentful.com/xt8ne4gbbocd/xe9mLFNrG0Ga6yUIoQycG/de7f087f96da7f9814d89ce25c7c4b44/2013_2034.2761.jpg"
       caption: Frontal view of the Fighting Cats. Wadi Mathendous, Messak Settafet,
         Libya. 2013,2034.2761 © David Coulson/TARA
@@ -163,9 +163,9 @@ contentful:
         sys:
           id: 5WH8hIWyZOI0QWe0SyAkC8
           created_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
+          updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
         title: '2013,2034.2756'
-        description: 
+        description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
         url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
       caption: General view of the Fighting Cats showing nearby engravings. Wadi Mathendous,
         Messak Settafet, Libya. 2013,2034.2756 © David Coulson/TARA
@@ -243,9 +243,9 @@ contentful:
     - sys:
         id: 5WH8hIWyZOI0QWe0SyAkC8
         created_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
+        updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
       title: '2013,2034.2756'
-      description: 
+      description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
       url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
     - sys:
         id: 23Sckf5aOU4E8WOkg8yoIG
@@ -268,467 +268,482 @@ contentful:
       prehistoric buffalo
   thematic_articles:
   - sys:
-      id: bl0Xb7b67YkI4CMCwGwgy
-      created_at: !ruby/object:DateTime 2015-11-27 11:40:20.548000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 11:41:57.403000000 Z
+      id: 1hw0sVC0XOUA4AsiG4AA0q
+      created_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
+      updated_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       content_type_id: thematic
-    title: The art of the warrior
-    slug: the-art-of-the-warrior
+    title: 'Introduction to rock art in northern Africa '
+    slug: rock-art-in-northern-africa
     lead_image:
       sys:
-        id: 69ZiYmRsreOiIUUEiCuMS6
-        created_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
-      title: '2013,2034.9707'
+        id: 1fzfpavYuGaOKaAM2ko6es
+        created_at: !ruby/object:DateTime 2015-11-26 15:53:30.004000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 15:53:30.004000000 Z
+      title: '2013,2034.3840'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/1fzfpavYuGaOKaAM2ko6es/f1e27e311dca40ce58657e5e88cb8526/2013_2034.3840.jpg"
     chapters:
     - sys:
-        id: 2YeH0ki7Pq08iGWoyeI2SY
-        created_at: !ruby/object:DateTime 2015-11-27 12:04:20.772000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:29:10.545000000 Z
+        id: axu12ftQUoS04AQkcSWYI
+        created_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 1'
-      body: |
-        Historically, much of the rock art from across northern Africa has been classified according to a particular style or ‘school’ of depictions. One such category of images, known as the Libyan Warrior School or Libyan Warrior style is found predominantly in Niger. Typically, this style
+      title: ''
+      title_internal: 'North Africa: regional, chapter 1'
+      body: 'The Sahara is the largest non-polar desert in the world, covering almost
+        8,600,000 km² and comprising most of northern Africa, from the Red Sea to
+        the Atlantic Ocean. Although it is considered a distinct entity, it is composed
+        of a variety of geographical regions and environments, including sand seas,
+        hammadas (stone deserts), seasonal watercourses, oases, mountain ranges and
+        rocky plains. Rock art is found throughout this area, principally in the desert
+        mountain and hill ranges, where stone ''canvas'' is abundant: the highlands
+        of Adrar in Mauritania and Adrar des Ifoghas in Mali, the Atlas Mountains
+        of Morocco and Algeria, the Tassili n’Ajjer and Ahaggar Mountains in Algeria,
+        the mountainous areas of Tadrart Acacus and Messak in Libya, the Aïr Mountains
+        of Nigeria, the Ennedi Plateau and Tibesti Mountains in Chad, the Gilf Kebir
+        plateau of Egypt and Sudan, as well as the length of the Nile Valley.'
+    - sys:
+        id: 4DelCmwI7mQ4MC2WcuAskq
+        created_at: !ruby/object:DateTime 2015-11-26 15:54:19.234000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-22 10:12:21.657000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 1fzfpavYuGaOKaAM2ko6es
+          created_at: !ruby/object:DateTime 2015-11-26 15:53:30.004000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 15:53:30.004000000 Z
+        title: '2013,2034.3840'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/1fzfpavYuGaOKaAM2ko6es/f1e27e311dca40ce58657e5e88cb8526/2013_2034.3840.jpg"
+      caption: Bubalus Period engraving. Pelorovis Antiquus, Wadi Mathendous, Libya.
+        2013,2034.3840 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3593438&partId=1&images=true&people=197356&museumno=2013,2034.3840&page=1
+    - sys:
+        id: 2XmfdPdXW0Y4cy6k4O4caO
+        created_at: !ruby/object:DateTime 2015-11-26 15:58:31.891000000 Z
+        updated_at: !ruby/object:DateTime 2016-10-17 13:40:03.509000000 Z
+        content_type_id: chapter
+      title: Types of rock art and distribution
+      title_internal: 'North Africa: regional, chapter 2'
+      body: |+
+        Although the styles and subjects of north African rock art vary, there are commonalities: images are most often figurative and frequently depict animals, both wild and domestic. There are also many images of human figures, sometimes with accessories such as recognisable weaponry or clothing. These may be painted or engraved, with frequent occurrences of both, at times in the same context. Engravings are generally more common, although this may simply be a preservation bias due to their greater durability.
 
-        “…commonly depicts human figures, mainly armed warriors; women are very rare. The style is fairly crude and the technique unsophisticated, almost invariably a rather careless pecking. The figures, almost always presented frontally with their heads quite circular, with added lobes, or mushroom-shaped, are shown according to a symmetrical schema. Various garment decorations and feathers in the hair are common, and the warrior often holds one or two throwing-spears – the bow is almost lacking – and frequently also holds by the leading rein a typical horse; foreshortened with large hindquarters” (Muzzolini, 2001:614)
+        The physical context of rock art sites varies depending on geographical and topographical factors – for example, Moroccan rock engravings are often found on open rocky outcrops, while Tunisia’s Djebibina rock art sites have all been found in rock shelters. Rock art in the vast and harsh environments of the Sahara is often inaccessible and hard to find, and there is probably a great deal of rock art that is yet to be seen by archaeologists; what is known has mostly been documented within the last century.
 
-        Termed *Libyan Warriors* by French ethnographer Henri Lhote, these representations have been associated with Garamantes’ raids, possibly 2,500 years ago. Thought to be descended from Berbers and Saharan pastoralists who settled in central Libya from around 1500 BC, the Garamantes developed a thriving urban centre, with flourishing trade networks from Libya to Niger. In contrast, Francis Rodd, a military man who led two big expeditions to the Sahara in the 1920s, proposed that these figures represent Tuareg; a people reputedly of Berber descent who live a nomadic pastoralist lifestyle. They have their own script known as Tifinagh, which is thought to have Libyan roots and which is engraved onto rocks alongside other rock art depictions.
     - sys:
-        id: 3TQXxJGkAgOkCuQeq4eEEs
-        created_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 2HdsFc1kI0ogGEmGWi82Ci
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:56.981000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:56.981000000 Z
-        title: '2013,2034.11148'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2HdsFc1kI0ogGEmGWi82Ci/5c85cb71338ff7ecd923c26339a73ef5/2013_2034.11148.jpg"
-      caption: "‘Typical’ Libyan Warrior style figure with horse. Indakatte, Western
-        Aïr Mountains, Niger. (2013,2034.11148) © TARA/David Coulson"
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649143&partId=1&searchText=2013,2034.11148&page=1
-    - sys:
-        id: IENFM2XWMKmW02sWeYkaI
-        created_at: !ruby/object:DateTime 2015-11-27 12:05:01.774000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:30:21.015000000 Z
+        id: 2HqgiB8BAkqGi4uwao68Ci
+        created_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
+        updated_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 2'
-      body: |
-        Libyan Warrior figures are almost exclusively located in the Aïr Mountains of Niger although can also be found in the Adrar des Iforas, north-east Mali extending into Algeria.  Defining the Libyan Warrior Period chronologically is a challenge and dates are fairly fluid; the earliest dates suggested start from 5,200 years ago; it certainly coincides with the Horse period between 3,000-2,000 years ago but has also been proposed to continue throughout the Camel Period, from 2,000 years ago to present.
-
-        From the sample of images we have as part of this collection it is clear that not all figures designated as falling under the umbrella term of Libyan Warrior style all share the same characteristics; there are similarities, differences and adjacencies even between what we may term a ‘typical’ representation. Of course, if these images span a period of 5,000 years then this may account for the variability in the depictions.
+      title: History of research
+      title_internal: 'North Africa: regional chapter 2.5'
+      body: Although the existence of rock art throughout the Sahara was known to
+        local communities, it was not until the nineteenth century that it became
+        known to Europeans, thanks to explorers such as Heinrich Barth, who crossed
+        the Messak Plateau in Libya in 1850, first noting the existence of engravings.
+        Further explorations in the early twentieth century by celebrated travellers,
+        ethnographers and archaeologists such as Hassanein Bey, Abbé Breuil, László
+        Almásy, Henri Lhote and Leo Frobenius brought the rock art of Sahara, and
+        northern Africa in general, to the awareness of a European public.
     - sys:
-        id: 1vwQrEx1gA2USS0uSUEO8u
-        created_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
+        id: 5I9fUCNjB668UygkSQcCeK
+        created_at: !ruby/object:DateTime 2015-11-26 15:54:54.847000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-22 10:13:53.921000000 Z
         content_type_id: image
       image:
         sys:
-          id: 69ZiYmRsreOiIUUEiCuMS6
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
-        title: '2013,2034.9707'
+          id: 2N4uhoeNLOceqqIsEM6iCC
+          created_at: !ruby/object:DateTime 2015-11-26 15:53:37.250000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 15:53:37.250000000 Z
+        title: '2013,2034.1424'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
-      caption: "‘Typical’ Libyan Warrior style figure with antelope. Iwellene, Northern
-        Aïr Mountains, Niger. (2013,2034.9707) © TARA/David Coulson"
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649767&partId=1&searchText=2013,2034.9707&page=1
+        url: "//images.contentful.com/xt8ne4gbbocd/2N4uhoeNLOceqqIsEM6iCC/240a45012afba4ff5508633fcaea3462/2013_2034.1424.jpg"
+      caption: Pastoral Period painting, cattle and human figure. Tin Taborak, Acacus
+        Mountains, Libya. 2013,2034.1424 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3592663
     - sys:
-        id: 13aC6FIWtQAauy2SYC6CQu
-        created_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:05:26.289000000 Z
+        id: 5OkqapzKtqEcomSucG0EoQ
+        created_at: !ruby/object:DateTime 2015-11-26 15:58:52.432000000 Z
+        updated_at: !ruby/object:DateTime 2016-10-17 13:45:37.885000000 Z
         content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 3'
-      body: However, for the majority of figures their posture is remarkably similar
-        even though objects of material culture and the types of garments they wear
-        may show more diversity. The overriding feature is that figures are positioned
-        frontally with arms bent and raised, often displaying splayed fingers. In
-        some cases figures hold weapons and shields, but some do not. Some wear obviously
-        elaborate headdresses, but in others the features look more coiffure-like.
-        Selected garments are decorated with geometric patterns, others are plain;
-        not all wear items of personal ornamentation. Certainly, not all figures are
-        associated with horses, as typically characterised. Moreover, rather than
-        all being described as unsophisticated or careless, many are executed showing
-        great technique and skill. So how do we start to make sense of this contradiction
-        between consistency and variation?
+      title: Attribution and dating
+      title_internal: 'North Africa: regional, chapter 3'
+      body: 'The investigations of these researchers and those who have followed them
+        have sought to date and attribute these artworks, with varying measures of
+        success. Rock art may be associated with certain cultures through known parallels
+        with the imagery in other artefacts, such as Naqada Period designs in Egyptian
+        rock art that mirror those on dateable pottery. Authorship may be also guessed
+        at through corroborating evidence: for example, due to knowledge of their
+        chariot use, and the location of rock art depicting chariots in the central
+        Sahara, it has been suggested that it was produced by – or at the same time
+        as – the height of the Garamantes culture, a historical ethnic group who formed
+        a local power around what is now southern Libya from 500 BC–700 AD. However,
+        opportunities to anchor rock art imagery in this way to known ancient cultures
+        are few and far between, and rock art is generally ascribed to anonymous hunter-gatherers,
+        nomadic peoples, or pastoralists, with occasional imagery-based comparisons
+        made with contemporary groups, such as the Fulani peoples.'
     - sys:
-        id: 35mGQZhFio6a6Qs0Sm8Kec
-        created_at: !ruby/object:DateTime 2015-11-25 17:27:34.827000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 16:24:34.980000000 Z
+        id: 2KmaZb90L6qoEAK46o46uK
+        created_at: !ruby/object:DateTime 2015-11-26 15:55:22.104000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-22 10:16:53.318000000 Z
         content_type_id: image
       image:
         sys:
-          id: 5UjAbnAcE0A0gAmCQmKkyU
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:48.539000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.539000000 Z
-        title: '2013,234.9626'
+          id: 5A1AwRfu9yM8mQ8EeOeI2I
+          created_at: !ruby/object:DateTime 2015-11-26 15:53:37.288000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 15:53:37.288000000 Z
+        title: '2013,2034.1152'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5UjAbnAcE0A0gAmCQmKkyU/96c768d47d24c3d514cbcbd9b4e85aa5/2013_234.9626.jpg"
-      caption: Tagueit, Eastern Aïr Mountains, Niger. (2013,234.9620) © TARA/David
-        Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639917&partId=1&searchText=2013,2034.9620&page=1
+        url: "//images.contentful.com/xt8ne4gbbocd/5A1AwRfu9yM8mQ8EeOeI2I/cac0592abfe1b31d7cf7f589355a216e/2013_2034.1152.jpg"
+      caption: Round Head Period painting, human figures. Wadi Tafak, Acacus Mountains,
+        Libya. 2013,2034.1152 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3592099&partId=1&images=true&people=197356&page=1
     - sys:
-        id: 4thny4IiHKW66c2sGySMqE
-        created_at: !ruby/object:DateTime 2015-11-25 17:28:05.405000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:31:49.083000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 4Mq2eZY2bKogMqoCmu6gmW
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:40.548000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:40.548000000 Z
-        title: '2013,2034.11167'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4Mq2eZY2bKogMqoCmu6gmW/9916aa4ecde51858768639f010a0442e/2013_2034.11167.jpg"
-      caption: Infissak, Western Aïr Mountains, Niger. (2013,2034.11167) © TARA/David
-        Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3648925&partId=1&searchText=2013,2034.11167&page=1
-    - sys:
-        id: 1D7OVEK1eouQAsg6e6esS4
-        created_at: !ruby/object:DateTime 2015-11-27 12:05:50.702000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:36:43.690000000 Z
+        id: 27ticyFfocuOIGwioIWWYA
+        created_at: !ruby/object:DateTime 2015-11-26 15:59:26.852000000 Z
+        updated_at: !ruby/object:DateTime 2016-10-17 15:18:29.234000000 Z
         content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 4'
-      body: A criticism of Saharan rock art research, in comparison to that which
-        has focused on other parts of Africa, is an under-theorisation of how the
-        art links to past ethnic, archaeological or other identities (Smith,2013:156).
-        This is tricky when dealing with past societies which were potentially nomadic,
-        and where their archaeological remains are scarce. However, recent anthropological
-        research may inform our thinking in this area. A member of the Wodaabe cultural
-        group (nomadic cattle-herders and traders in the Sahel) on seeing a photograph
-        of a Libyan-Warrior engraving and noting the dress and earrings told photographer
-        Carol Beckwith that it represents a woman performing a traditional greeting
-        dance with arms outstretched and about to clap (Coulson and Campbell,2001:210).
-    - sys:
-        id: 6GvLgKrVXaSIQaAMECeE2m
-        created_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 18c47Fe9jeoIi4CouE8Eya
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:10.453000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:10.453000000 Z
-        title: '2013,2034.11133'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/18c47Fe9jeoIi4CouE8Eya/189da8bf1c84d7f95b532cf59780fe82/2013_2034.11133.jpg"
-      caption: Two Libyan- Warrior style figures, Western Aïr Mountains, Niger. (2013,2034.11133)  ©
-        TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649155&partId=1&searchText=2013,2034.11133&page=1
-    - sys:
-        id: 4wQK9fpysE0GEaGYOEocws
-        created_at: !ruby/object:DateTime 2015-11-27 12:06:27.167000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:41:04.031000000 Z
-        content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 5'
-      body: "Such a comment suggests that local ethnographies might assist in an understanding
-        of more recent rock art, that not all figures described as Libyan-Warrior
-        may necessarily be the same; and indeed that women may not be as rare as previously
-        documented. In fact, the Wodaabe have been noted to resemble figures in other
-        Saharan rock art contexts (see article on Hairdressing in the Acacus).\n\nIf
-        we accept that some of these representations share affinities with the Wodaabe
-        then thinking about this category of images from an ethnographic perspective
-        may prove productive. Moreover, the British Museum’s existing ethnographic
-        collections are simultaneously a useful resource by which we can potentially
-        add more meaning to the rock art images.\n\nThe Wodaabe belong to the Fulani
-        people, numbering 20 million and currently living across eighteen countries.
-        The Wodaabe comprise 2-3% of the Fulani cultural group, still live as true
-        nomads and are considered to have the most traditional culture of all the
-        Fulani (Bovin,2001:13).\t\n"
-    - sys:
-        id: 2oNDIVZY2cY6y2ACUykYiW
-        created_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 2klydX5Lbm6sGIUO8cCuow
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:40.581000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:40.581000000 Z
-        title: Wodaabe
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2klydX5Lbm6sGIUO8cCuow/af221201c757ffe51e741300ffaefcba/Wodaabe.jpg"
-      caption: Wodaabe men preparing for Gerewol ceremony by Dan Lundberg, Wikimedia
-        Commons
-    - sys:
-        id: 3SOhBsJLQACesg4wogaksm
-        created_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
-        content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 6'
-      body: "The Wodaabe have become particularly well-known in the West through visual
-        anthropology, because of their emphasis on cultivating male personal beauty
-        and adornment. Men invest enormous amounts of time in personal artistic expression;
-        much more so than women. Anthropologists have documented the constant checking
-        of Wodaabe men in their mirrors; a Wodaabe man will not even go out among
-        the cows in the morning until he has checked and tidied himself. They spend
-        hours every day on their appearance and have been described as styling themselves
-        like “living paintings” and “living statues” (Bovin, 2001:72). Symmetry plays
-        a particularly significant part in Wodaabe culture and is reflected in all
-        their artistic expressions. Symmetry stands for culture, asymmetry stands
-        for nature. Culture is order and nature is disorder (Bovin,2001:17). Everyday
-        Wodaabe life is imbued with artistic expression, whereby “every individual
-        is an active creator, decorator and performer (Bovin, 2001:15).\n\nSo, how
-        might we see Wodaabe cultural traits reflected in the Libyan-Warrior figures?\n\nPlumage
-        is often depicted on these Warrior figures and for the most part is assumed
-        to simply be part of the warrior regalia. The ostrich feather, a phallic symbol
-        in Wodaabe culture, is an important element in male adornment and is carefully
-        placed in the axis of symmetry in the middle of a man’s turban, worn during
-        dancing ceremonies (Bovin, 2001:41). Music and dancing are typical of Fulani
-        traditions, characterized by group singing and accompanied by clapping, stomping
-        and bells. The feathers in the British Museum’s collections are known to be
-        dance ornaments, worn during particular ceremonies. \n"
-    - sys:
-        id: 4AsNsHJ1n2USWMU68cIUko
-        created_at: !ruby/object:DateTime 2015-11-27 11:46:03.474000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:12:29.767000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 6QT0CdFAgoISmsuUk6u4OW
-          created_at: !ruby/object:DateTime 2015-11-27 11:54:37.045000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-27 11:54:37.045000000 Z
-        title: Af2005,04.6 1
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6QT0CdFAgoISmsuUk6u4OW/02489b2a4374bdb0a92ad9684f6120f4/Af2005_04.6_1.jpg"
-      caption: 'Wodaabe dancing feather: (Af2005,04.6) from the British Museum collections.
-        © Trustees of the British Museum'
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585897&partId=1&searchText=Af2005,04.6&page=1
-    - sys:
-        id: 5z7EqYMmFaI0Eom6AAgu6i
-        created_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 10pBS62m3eugyAkY8iQYGs
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:48.548000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.548000000 Z
-        title: '2013,2034.9037'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/10pBS62m3eugyAkY8iQYGs/b54aab41922ff6690ca59533afddeb84/2013_2034.9037.jpg"
-      caption: Libyan Warrior figure showing symmetrical plumage from Eastern Aïr
-        Mountains, Niger (2013,2034.9037) © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636108&partId=1&searchText=2013,2034.9037&page=1
-    - sys:
-        id: 1UmQD1rR0IISqKmGe4UWYs
-        created_at: !ruby/object:DateTime 2015-11-27 11:47:12.062000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:55:05.455000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 5oL3JD0PbaEMMyu4mA0oGw
-          created_at: !ruby/object:DateTime 2015-11-27 11:54:37.053000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-27 11:54:37.053000000 Z
-        title: Af2005,04.20 1
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5oL3JD0PbaEMMyu4mA0oGw/72bb636538c36d21c62fef5628556238/Af2005_04.20_1.jpg"
-      caption: Wodaabe dancing feather (Af2005,04.20) from the British Museum collections.
-        © Trustees of the British Museum
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585792&partId=1&searchText=Af2005,04.20&page=1
-    - sys:
-        id: 45NYo7UU5ymOCYiqEYyQQO
-        created_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
-        content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 7'
-      body: One of the recurring features of the Warrior engravings is the round discs
-        that seem to be suspended from a figure’s arm or shoulder. Historically, these
-        have been interpreted as shields, which one might expect a warrior to be carrying
-        and in part this may be the case.
-    - sys:
-        id: 55JXs6mmfCoM6keQuwSeKA
-        created_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 3s0PrjlXlS2QwMKMk0giog
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:56.985000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:56.985000000 Z
-        title: '2013,2034.9554'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3s0PrjlXlS2QwMKMk0giog/bef0019b59e2abe3ba3e29a4377eedd0/2013_2034.9554.jpg"
-      caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger.
-        (2013,2034.9554) © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639988&partId=1&searchText=2013,2034.9554&page=1
-    - sys:
-        id: 2UL4zsEuwgekwI0ugSOSok
-        created_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 3XjtbP2JywoCw8Qm0O8iKo
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:48.555000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.555000000 Z
-        title: '2013,2034.9600'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3XjtbP2JywoCw8Qm0O8iKo/fc0ccf0eb00a563da9a60276c87bbc11/2013_2034.9600.jpg"
-      caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger
-        (2013,2034.9600) © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639940&partId=1&searchText=2013,2034.9600&page=1
-    - sys:
-        id: 64MCgMHx60M8e0GSCaM2qm
-        created_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:07:53.749000000 Z
-        content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 8'
-      body: However, others may represent shoulder bags or flat baskets which are
-        used as vessel covers or food trays; both of which are vital items in a nomadic
-        lifestyle. Alternatively, they may represent calabashes. Wodaabe women measure
-        their worldly wealth in calabashes and can acquire many in a lifetime, mostly
-        ornamental to be displayed only on certain ceremonial occasions. If some of
-        these depictions are not necessarily men or warriors then what have been considered
-        shields may in fact represent some other important item of material culture.
-    - sys:
-        id: 78Ks1B0PPUA8YIm0ugMkQK
-        created_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 5SDdxljduwuQggsuWcYUCA
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:48.583000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.583000000 Z
-        title: Af,B47.19
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5SDdxljduwuQggsuWcYUCA/eeb48a1ec8550bb4e1622317e5b7cea0/Af_B47.19.jpg"
-      caption: Photograph of three Fulani male children "dressed up for a ceremonial
-        dance". Males carrying shoulder-bags and holding sticks. Male at right has
-        flat basket impaled on stick. Rural setting. (Af,B47.19) © Trustees of the
-        British Museum
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1410664&partId=1&searchText=Af,B47.19&page=1
-    - sys:
-        id: 5nvXXoq4Baa0IwOmMSiUkI
-        created_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:08:13.833000000 Z
-        content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 9'
-      body: Engraved figures are often depicted with geometric patterning across their
-        torso which may reflect traditional garments. This armless Wodaabe vest is
-        decorated with abstract geometric combinations; patterns similar to those
-        found on amulets, bags, containers and other artefacts as well as rock art.
-    - sys:
-        id: 1Huul8DwMcACSECuGoASE2
-        created_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 1PmWIHnxq0cAESkGiiWCkK
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:48.554000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.554000000 Z
-        title: '7,2023.1'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/1PmWIHnxq0cAESkGiiWCkK/51912ac1b7bffafe18fbbbb48a253fe9/7_2023.1.jpg"
-      caption: Wodaabe vest, Niger (7,2023.1). © Trustees of the British Museum
-    - sys:
-        id: GT1E1E6FMc04CaQQUEuG6
-        created_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: lz2F9O4kSWoi2g68csckA
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:48.580000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.580000000 Z
-        title: '2013,2034.9016'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/lz2F9O4kSWoi2g68csckA/97f7a9fbec98c4af224273fbd3f7e9a5/2013_2034.9016.jpg"
-      caption: Eastern Aïr Mountains, Niger (2013,2034.9016) © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636132&partId=1&searchText=2013,2034.9016&page=1
-    - sys:
-        id: MH7tazL1u0ocyy6ysc8ci
-        created_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
-        content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 10'
+      title_internal: 'North Africa: regional, chapter 4'
       body: |-
-        There is also a consensus within Wodaabe society about beauty and ugliness; what makes something beautiful or indeed ugly generally is agreed upon, there is a commonality of taste. This may account for the paradox of why there is individuality within a corpus of images that inherently are comparable (Bovin,2001:16).
+        Occasionally, association with writing in the form of, for example, Libyan-Berber or Arabic graffiti can give a known dating margin, but in general, lack of contemporary writing and written sources (Herodotus wrote about the Garamantes) leaves much open to conjecture.
 
-        As nomads, Wodaabe do not identify themselves by place or territory as such, but a Wodaabe’s body is a repository of culture to mark them out against nature. Culture is not seen as an unessential indulgence but as an imperative necessity, it is part of one’s survival and existence in an inhospitable environment. We may speculate that rock art images may be seen as a way of stamping culture on nature; markers of socialised space.
+        Other forms of (rare) circumstantial evidence, such as rock art covered by a dateable stratigraphic layer, and (more common) stylistic image-based dating have been used instead to form a chronology of Saharan rock art periods that is widely agreed upon, although dates are contested. The first stage, known as the Early Hunter, Wild Fauna or Bubalus Period, is posited at about 12,000–6,000 years ago, and is typified by naturalistic engravings of wild animals, in particular an extinct form of buffalo identifiable by its long horns.
     - sys:
-        id: 5f7LkndYMoCiE0C6cYI642
-        created_at: !ruby/object:DateTime 2015-11-27 12:02:44.521000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-08 17:01:56.918000000 Z
+        id: q472iFYzIsWgqWG2esg28
+        created_at: !ruby/object:DateTime 2015-11-26 15:55:58.985000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-22 10:19:11.991000000 Z
         content_type_id: image
       image:
         sys:
-          id: 4S1bl6LKUEKg0mMiQMoS2i
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:33.489000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:33.489000000 Z
-        title: Gerewol
+          id: 1YAVmJPnZ2QQiguCQsgOUi
+          created_at: !ruby/object:DateTime 2015-11-26 15:53:29.989000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 15:53:29.989000000 Z
+        title: '2013,2034.4570'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4S1bl6LKUEKg0mMiQMoS2i/77678da7ac7b9573cfdfdcc9222b4187/Gerewol.jpg"
-      caption: Wodaabe participants in the Gerewol beauty contest. Photo by Dan Lundberg
-        via Wikimedia Commons
+        url: "//images.contentful.com/xt8ne4gbbocd/1YAVmJPnZ2QQiguCQsgOUi/4080b87891cb255e12a17216d7e71286/2013_2034.4570.jpg"
+      caption: Horse Period painting, charioteer and standing horses. Tarssed Jebest,
+        Ajjer Plateau, Algeria. 2013,2034.4570 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3603794
     - sys:
-        id: 2s5eLxURwgEKUGYiCc62MM
-        created_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-        content_type_id: image
-      image:
-        sys:
-          id: 3as8UfaNIk22iQwu2uccsO
-          created_at: !ruby/object:DateTime 2015-11-25 17:20:57.016000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 17:20:57.016000000 Z
-        title: '2013,2034.9685'
-        description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3as8UfaNIk22iQwu2uccsO/bef9cc4c65f13f394c4c6c03fa665aab/2013_2034.9685.jpg"
-      caption: Four Warrior style figures, Eastern Aïr Mountains, Niger (2013,2034.9685)
-        © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3644735&partId=1&searchText=2013,2034.9685&page=1
-    - sys:
-        id: 4c37ixkB72GaCAkSYwGmSI
-        created_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:08:59.408000000 Z
+        id: 7tsWGNvkQgACuKEMmC0uwG
+        created_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         content_type_id: chapter
-      title_internal: 'Warrior: thematic, chapter 11'
-      body: This brief review was motivated, in part, by the underlying problems inherent
-        in the categorisation of visual culture. Historically assigned classifications
-        are not fixed and armed with current knowledge across a range of resources
-        we may provide further insights into these enigmatic representations. Obviously,
-        a much more systematic study of this category known as Libyan-Warrior figures
-        needs to be undertaken to determine their distribution and the similarities
-        and differences between depictions across sites. Additionally, care must be
-        taken making connections with a cultural group whose material culture has
-        changed over the course of the twentieth century. Nevertheless, it seems the
-        category of Libyan-Warrior figures is an area that is ripe for more intensive
-        investigation.
+      title_internal: 'North Africa: regional, chapter 5'
+      body: A possibly concurrent phase is known as the Round Head Period (about 10,000
+        to 8,000 years ago) due to the large discoid heads of the painted human figures.
+        Following this is the most widespread style, the Pastoral Period (around 7,500
+        to 4,000 years ago), which is characterised by numerous paintings and engravings
+        of cows, as well as occasional hunting scenes. The Horse Period (around 3,000
+        to 2,000 years ago) features recognisable horses and chariots and the final
+        Camel Period (around 2,000 years ago to present) features domestic dromedary
+        camels, which we know to have been widely used across the Sahara from that
+        time.
+    - sys:
+        id: 13V2nQ2cVoaGiGaUwWiQAC
+        created_at: !ruby/object:DateTime 2015-11-26 15:56:25.598000000 Z
+        updated_at: !ruby/object:DateTime 2016-12-22 10:39:22.861000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 6MOI9r5tV6Gkae0CEiQ2oQ
+          created_at: !ruby/object:DateTime 2015-11-26 15:53:29.964000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 15:53:29.964000000 Z
+        title: 2013,2034.1424 1
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/6MOI9r5tV6Gkae0CEiQ2oQ/bad4ec8dd7c6ae553d623e4238641561/2013_2034.1424_1.jpg"
+      caption: Camel engraving. Karkur Talh, Jebel Uweinat, Sudan. 2013,2034.335 ©
+        TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3586831
+    - sys:
+        id: 3A64bY4VeMGkKCsGCGwu4a
+        created_at: !ruby/object:DateTime 2015-11-26 16:00:04.267000000 Z
+        updated_at: !ruby/object:DateTime 2016-10-17 15:30:04.896000000 Z
+        content_type_id: chapter
+      title_internal: 'North Africa: regional, chapter 6'
+      body: "While this chronology serves as a useful framework, it must be remembered
+        that the area – and the time period in which rock art was produced – is extensive
+        and there is significant temporal and spatial variability within and across
+        sites. There are some commonalities in rock art styles and themes across the
+        Sahara, but there are also regional variations and idiosyncrasies, and a lack
+        of evidence that any of these were directly, or even indirectly, related.
+        The engravings of weaponry motifs from Morocco and the painted ‘swimming’
+        figures of the Gilf Kebir Plateau in Egypt and Sudan are not only completely
+        different, but unique to their areas. Being thousands of kilometres apart
+        and so different in style and composition, they serve to illustrate the limitations
+        inherent in examining northern African rock art as a unit. The contemporary
+        political and environmental challenges to accessing rock art sites in countries
+        across the Sahara serves as another limiting factor in their study, but as
+        dating techniques improve and further discoveries are made, this is a field
+        with the potential to help illuminate much of the prehistory of northern Africa.\n\n"
     citations:
     - sys:
-        id: 2YpbTzVtq8og44KCIYKySK
-        created_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:17:36.606000000 Z
+        id: 4AWHcnuAVOAkkW0GcaK6We
+        created_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
+        updated_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         content_type_id: citation
       citation_line: |
-        Bovin, Mette. 2001. *Nomads Who Cultivate Beauty*. Uppsala: Nordiska  Afrikainstitutet
+        Le Quellec, J. 1998. Art rupestre et préhistoire du Sahara: le Messak Libyen. Paris: Payot & Rivages
 
-        Coulson, David and Campbell, Alec. 2001. *African Rock Art: Paintings and Engravings on Stone*. New York: Harry N Abrams
+        Muzzolini, A. 1995. Les images rupestres du Sahara. — Toulouse (author’s ed.), p. 447
 
-        Muzzolini, Alfred. 2001. ‘Saharan Africa’ In Whitley, D. (ed) *Handbook of Rock Art Research*: pp.605-636. Walnut Creek: Altamira Press
+        Muzzolini, A. 2001. Saharan Africa in (ed) David S. Whitley, Handbook of Rock Art Research, pp 605-636. AltaMira Press, Walnut Creek
 
-        Smith, Benjamin. 2013. Rock art research in Africa. In: Lane, P. & Mitchell, P. (eds) *Handbook of African Archaeology*: 145-162. Oxford: Oxford University Press.
+        Riemer, H. 2013. Dating the rock art of Wadi Sura, in Wadi Sura – The Cave of Beasts, Kuper, R. (ed). Africa Praehistorica 26 – Köln: Heinrich-Barth-Institut, pp. 38-39
+
+        Rodrigue, A. 1999. L'art rupestre du Haut Atlas Marocain. Paris, L'Harmattan
+
+        Soukopova, J. 2012. Round Heads: The Earliest Rock Paintings in the Sahara. Newcastle upon Tyne: Cambridge Scholars Publishing
+
+        Vernet, R. 1993. Préhistoire de la Mauritanie. Centre Culturel Français A. de Saint Exupéry-Sépia, Nouakchott
     background_images:
     - sys:
-        id: 4ICv2mLYykaUs2K6sI600e
-        created_at: !ruby/object:DateTime 2015-12-07 19:16:46.680000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-07 19:16:46.680000000 Z
-      title: NIGNAM0010007
+        id: 3ZTCdLVejemGiCIWMqa8i
+        created_at: !ruby/object:DateTime 2015-12-07 19:41:46.025000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 19:41:46.025000000 Z
+      title: EAF135068
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4ICv2mLYykaUs2K6sI600e/175a170bba1f5856e70c2bb59a88e28f/NIGNAM0010007.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/3ZTCdLVejemGiCIWMqa8i/5a0d13fdd2150f0ff81a63afadd4258e/EAF135068.jpg"
     - sys:
-        id: 4sWbJZXtCUKKqECk24wOwi
-        created_at: !ruby/object:DateTime 2015-12-07 19:16:46.673000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-07 19:16:46.673000000 Z
-      title: NIGEAM0070022
+        id: 2jvgN3MMfqoAW6GgO8wGWo
+        created_at: !ruby/object:DateTime 2015-12-07 19:41:50.029000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 19:41:50.029000000 Z
+      title: EAF131007
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4sWbJZXtCUKKqECk24wOwi/63797d84c9f0c89db25bd2f2cebaa21b/NIGEAM0070022.jpg"
+      url: "//images.contentful.com/xt8ne4gbbocd/2jvgN3MMfqoAW6GgO8wGWo/393c91068f4dc0ca540c35a79b965288/EAF131007.jpg"
+  - sys:
+      id: R61tF3euwCmWCUiIgi42q
+      created_at: !ruby/object:DateTime 2015-11-26 17:46:43.669000000 Z
+      updated_at: !ruby/object:DateTime 2015-12-07 20:49:40.702000000 Z
+      content_type_id: thematic
+    title: Hairdressing in the Acacus
+    slug: hairdressing-in-the-acacus
+    lead_image:
+      sys:
+        id: 2PRW2sBJWgiEwA40U2GSiC
+        created_at: !ruby/object:DateTime 2015-11-26 17:38:04.460000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:38:04.460000000 Z
+      title: '2013,2034.477'
+      description: 
+      url: "//images.contentful.com/xt8ne4gbbocd/2PRW2sBJWgiEwA40U2GSiC/10eed798251d37d988ca686b32c6f42d/2013_2034.477.jpg"
+    chapters:
+    - sys:
+        id: 6eJZLBozwQuAI08GMkwSi6
+        created_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 1'
+      body: Hair is a global form of social communication. Among numerous social groups
+        throughout Africa, hairstyling and hairdressing hold great cultural and aesthetic
+        significance. Coiffures have been regarded as indicative of ethnic origin,
+        gender and stages of life development – as well as simply fashion – and have
+        been related to power, age, religion and politics. The transitory yet highly
+        visible nature of hair ensures its suitability as a medium for personal and
+        social expression. And it is not just the domain of women; elaborate hair-styling
+        for men can be an equally important indicator of their place in society.
+    - sys:
+        id: 3w7Qbm8FOw2oqQsm6WsI0W
+        created_at: !ruby/object:DateTime 2015-11-26 17:38:46.614000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:38:46.614000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 5vt4IZCBSEmAQESGiGIS6Q
+          created_at: !ruby/object:DateTime 2015-11-26 17:38:08.444000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 17:38:08.444000000 Z
+        title: '2013,2034.479'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/5vt4IZCBSEmAQESGiGIS6Q/8ea72bce196d2281a0a80d2c2a3b5b5b/2013_2034.479.jpg"
+      caption: Fig.1. Seated figure showing elaborate coiffure. Wadi Teshuinat, Acacus
+        Mountains, Fezzan District, Libya. 2013,2034.479 © TARA/David Coulson.
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581661&partId=1&page=1
+    - sys:
+        id: 6x5pF6pyus2WomGOkkGweC
+        created_at: !ruby/object:DateTime 2015-11-26 17:42:59.906000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:42:59.906000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 2'
+      body: |-
+        We have recently documented a particularly interesting set of images from Uan Amil, at Wadi Teshuinat in the Acacus Mountains, south-western Libya, which reflect the cultural significance of hair in African societies. The scenes depict groups of people engaged in a variety of communal social practices wearing elaborate coiffures (Fig. 1), together with some very discrete moments of personal hairdressing.
+
+        The image below (Fig. 2), which is part of a larger panel (Fig. 3), shows an intimate moment between two persons, an individual with an ornate coiffure washing or attending to the hair of another. In some African societies, a person’s choice of hairdresser is dictated by their relationship to them. It is most often the work of friends or family to whom you entrust your hair. In the hands of a stranger or adversary hair can be used as an ingredient in the production a powerful substance that could afflict its owner; such is the potency of hair. This image well conveys such intimacy.
+    - sys:
+        id: 1XeQI6NL3qeuiosIEoiESE
+        created_at: !ruby/object:DateTime 2015-11-26 17:39:31.382000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:39:31.382000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 2PRW2sBJWgiEwA40U2GSiC
+          created_at: !ruby/object:DateTime 2015-11-26 17:38:04.460000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 17:38:04.460000000 Z
+        title: '2013,2034.477'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/2PRW2sBJWgiEwA40U2GSiC/10eed798251d37d988ca686b32c6f42d/2013_2034.477.jpg"
+      caption: Fig. 2. Detail of Fig. 3, showing figure on the left, who wears an
+        ornate hairstyle and attends to the washing or preparation of another’s hair.
+        2013,2034.477 © TARA/David Coulson.
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581665&partId=1&people=197356&museumno=+2013,2034.477&page=1
+    - sys:
+        id: 2GniIJcZiUSuYWQYYeQmOS
+        created_at: !ruby/object:DateTime 2015-11-26 17:43:22.643000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:43:22.643000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 3'
+      body: 'The rock shelter of Uan Amil was discovered in 1957 by the Italian-Libyan
+        Joint Archaeological Mission surveying in the Acacus and Messak regions of
+        Libya. Excavations have indicated the shelter was in use over a long period,
+        with at least three main occupational phases between the 8th and 4th millennium
+        BP. Italian archaeologist Fabrizio Mori has dated these paintings to 6,000
+        years ago, while David Coulson has been more cautious and has suggested that
+        the presence of a metal blade on the arrow head seen at the bottom of this
+        image may indicate a more recent age. Notwithstanding the problems associated
+        with the dating of rock art, the subject matter is intriguing. It has been
+        suggested that today’s Wodaabe nomads of Niger resemble the people on these
+        rock paintings: ‘the cattle look the same, as do the campsites with their
+        calf-ropes, and the women’s hairstyles with the special bun on the forehead.
+        The female hair bun is big and round like a globe.’ (Bovin, 2001:12).'
+    - sys:
+        id: 5Vp0rW88lqs6UcgaSm6egI
+        created_at: !ruby/object:DateTime 2015-11-26 17:39:56.320000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:39:56.320000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 1KUdkb6fbmW8KOsKWEcu02
+          created_at: !ruby/object:DateTime 2015-11-26 17:38:12.261000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 17:38:12.261000000 Z
+        title: '2013,2034.473'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/1KUdkb6fbmW8KOsKWEcu02/06c41b36730e0cbf81b105dd400c52ef/2013_2034.473.jpg"
+      caption: Fig. 3 This scene has been variously interpreted as showing preparations
+        for a wedding. Note the hairwashing scene top right. 2013,2034.473 © TARA/David
+        Coulson.
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581674&partId=1&people=197356&museumno=2013,2034.473&page=1
+    - sys:
+        id: 59XlSp8P7O0ms8UI0auQCw
+        created_at: !ruby/object:DateTime 2015-11-26 17:43:42.266000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:43:42.266000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 4'
+      body: |-
+        The Wodaabe number around 125,000. As pastoral nomads they migrate often and over large geographical areas, keeping mahogany-coloured Zebu cattle which have a hump on their back and long horns, shaped like a lyre. As a cultural group they have attracted much anthropological attention because of their traditional values of beauty (in particular the male beauty pageant) which pervades their everyday lives and practices.
+
+        Wodaabe seldom wash their entire bodies mainly because of the scarcity of water. Water from wells is mainly used for drinking by humans and animals. Washing the body and clothes is less of a priority; and hair is hardly ever washed. When Wodaabe put rancid butter on their hair it is to make it soft and shiny and cleanse it of dust and lice. To them rancid butter gives a nice sweet smell (Bovin, 2011: 56). Fig. 2 shows a vessel sitting between the two individuals that may have served to hold rancid butter used in the preparation of the hair; in fact, treating the hair with butter is a widespread practice in African societies. In addition, Wodaabe never cut their hair; everybody (men and women alike) want to have hair as long as possible, as represented in Figs. 2 and 5. The ideal girl should have long, thick, black hair, enough to make a huge round bun on her forehead, while the ideal young male should have long, thick black hair to make braids to the shoulders.
+    - sys:
+        id: 5mnMqJRcbuQqk0ucEOAGCw
+        created_at: !ruby/object:DateTime 2015-11-26 17:40:22.244000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:40:22.244000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 2blaCOYdgYsqqCGakGIwoA
+          created_at: !ruby/object:DateTime 2015-11-26 17:38:04.452000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 17:38:04.452000000 Z
+        title: '2013,2034.453'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/2blaCOYdgYsqqCGakGIwoA/5267369f7e2901448a0f0b0af93ca2a4/2013_2034.453.jpg"
+      caption: Fig 4. Two herders wearing feathers in their hair. Wadi Teshuinat,
+        Acacus Mountains, Fezzan District, Libya. 2013,2034.453 © TARA/David Coulson.
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581631&partId=1&people=197356&museumno=2013,2034.453&page=1
+    - sys:
+        id: qhIjVs2Vxe4muMCWawu0k
+        created_at: !ruby/object:DateTime 2015-11-26 17:44:06.559000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:44:06.559000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 5'
+      body: |-
+        A long, narrow face is also admired and this is enhanced by shaping the hair on top of the head, and also using an ostrich feather to elongate the face (Bovin, 2001:26). The painting in Fig. 4, also from Wadi Teshuinat, characterises this.
+
+        Interestingly, the coiffures in Figs. 1, 2 and 3 are light in colour and do not conform to the black ideal as indicated above. It has been suggested that this represents Caucasians with blonde hair. However, it may also be a visual strategy to emphasise the aesthetics of the coiffure. Hairstyles in African sculpture are often shown conceptually, rather than mimetically; idealising rather than copying exactly from contemporary hairdressing practices. In this respect representation follows artistic traditions as much as, or more than, it responds to ephemeral shifts in fashion.
+    - sys:
+        id: 6aPxu2uKyci0Kee8G4gQcm
+        created_at: !ruby/object:DateTime 2015-11-26 17:40:47.827000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:40:47.827000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 4gAFUKBZEsGKMie4cMomwS
+          created_at: !ruby/object:DateTime 2015-11-26 17:38:04.460000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 17:38:04.461000000 Z
+        title: '2013,2034.466'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/4gAFUKBZEsGKMie4cMomwS/0770077ecb7b113ef266b26bfe368bb4/2013_2034.466.jpg"
+      caption: Fig. 5. Detail of Fig.6. from Uan Amil of a figure ‘washing’ their
+        hair (centre right) while other social practices are taking place. 2013,2034.466
+        © TARA/David Coulson.
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581646&partId=1&people=197356&museumno=2013,2034.466&page=1
+    - sys:
+        id: 74IrMM3qGkksSuA4yWU464
+        created_at: !ruby/object:DateTime 2015-11-26 17:44:28.703000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:44:28.703000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 6'
+      body: The importance of hair styling and its importance in social practices
+        are evident in Figs. 3 and 6 where hair-washing, hairstyling or hair preparation
+        is an active element within more complex social and cultural activities. Fig.
+        3 has been interpreted as showing preparations for a wedding, while Fig. 5/6
+        is understood as a scene of supplication, with people visiting a man in a
+        curved shelter; it may even be a representation of the cave. In addition,
+        the C-shaped feature has been suggested to be a coiled snake and the figure
+        sits between the head and tail. It may seem incongruous to have hair preparation
+        scenes represented within a tableau representing a wedding or ceremonial meeting,
+        but may say something more about the nature of representation. In each case,
+        these may represent a conceptual depiction of time and space. These activities
+        are not ones that occur concurrently temporally and spatially, but rather
+        represent an assemblage of discrete moments that contribute to each ceremony
+        in its entirety.
+    - sys:
+        id: tvHqAC4aqc2QQWIS8WA26
+        created_at: !ruby/object:DateTime 2015-11-26 17:42:04.601000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:42:04.601000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 1a8FFEsdsuQeYggMCAasii
+          created_at: !ruby/object:DateTime 2015-11-26 17:38:04.449000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 17:38:04.449000000 Z
+        title: '2013,2034.465'
+        description: 
+        url: "//images.contentful.com/xt8ne4gbbocd/1a8FFEsdsuQeYggMCAasii/9c5d70e5961bc74dc11f2170d2ae6b1c/2013_2034.465.jpg"
+      caption: Fig. 6. Larger panel from Uan Amil of a figure ‘washing’ their hair.
+        This scene has been interpreted as a possible scene of supplication with people
+        visiting a man in a curved shelter. 2013,2034.465 © TARA/David Coulson.
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581647&partId=1&people=197356&museumno=2013,2034.465&page=1
+    - sys:
+        id: 5qMQLHHz7Uqg460WGO6AW0
+        created_at: !ruby/object:DateTime 2015-11-26 17:44:46.392000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 17:44:46.392000000 Z
+        content_type_id: chapter
+      title_internal: 'Thematic: hairdressing, chapter 7'
+      body: The Wodaabe invest vast amounts of time and resources in their outward
+        appearance and the need to beautify and refine. ‘Art’ is not just something
+        that is aesthetically pleasing; it is a necessity of life, a necessity that
+        must be exhibited. While there are likely to be a variety of complex social,
+        economic and cultural motivations, that necessity is possibly additionally
+        driven or fuelled by a seemingly desolate, unadorned, irregular landscape.
+        The importance lies in distinguishing oneself as a cultural being rather than
+        the ‘uncultured other’, such as an animal; and hair is an apposite medium
+        by which to make this nature/culture distinction. Hair care in African societies
+        is unmistakably aesthetic in its aspirations as it gets transferred into other
+        artistic mediums, and the divide between nature and culture is thoroughly
+        and intentionally in play. To transform hair is to transform nature, and is
+        truly an artistic discipline.
+    background_images:
+    - sys:
+        id: 1uxzHwxp9GEUy2miq0C0mM
+        created_at: !ruby/object:DateTime 2015-12-07 18:44:13.394000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 18:44:13.394000000 Z
+      title: '01567916 001'
+      description: 
+      url: "//images.contentful.com/xt8ne4gbbocd/1uxzHwxp9GEUy2miq0C0mM/9c706cad52d044e1d459bba0166ec2fb/01567916_001.jpg"
+    - sys:
+        id: 3drvdVaCYoMs04ew2sIE8Y
+        created_at: !ruby/object:DateTime 2015-12-07 18:43:47.560000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 18:43:47.560000000 Z
+      title: 2013,2034.466 1
+      description: 
+      url: "//images.contentful.com/xt8ne4gbbocd/3drvdVaCYoMs04ew2sIE8Y/78d8f39af68d603fbc8a46c745148f0e/2013_2034.466_1.jpg"
   - sys:
       id: 72UN6TbsDmocqeki00gS4I
       created_at: !ruby/object:DateTime 2015-11-26 17:35:22.951000000 Z
@@ -1143,9 +1158,9 @@ contentful:
         sys:
           id: 16a6qAimaaWYqcwqUqMKIm
           created_at: !ruby/object:DateTime 2015-11-26 12:25:03.860000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:25:03.860000000 Z
+          updated_at: !ruby/object:DateTime 2017-12-15 14:15:08.336000000 Z
         title: '2013,2034.420'
-        description: 
+        description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3580676
         url: "//images.contentful.com/xt8ne4gbbocd/16a6qAimaaWYqcwqUqMKIm/35056fde196c5ae13894c78ed1b5fe17/2013_2034.420.jpg"
       caption: Painted rock art with figures and animals from the Acacus Mountains,
         Fezzan District, Libya. 2013,2034.420 © TARA/David Coulson
@@ -1219,9 +1234,9 @@ contentful:
         sys:
           id: 4eOnyF3wVymkGMgOkmQsYm
           created_at: !ruby/object:DateTime 2015-11-26 12:25:07.169000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:25:07.169000000 Z
+          updated_at: !ruby/object:DateTime 2017-12-15 14:28:23.158000000 Z
         title: '2013,2034.3106'
-        description: 
+        description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3586141
         url: "//images.contentful.com/xt8ne4gbbocd/4eOnyF3wVymkGMgOkmQsYm/ef9fa1bb02dc7c8ddb0ced9c9fcaa85e/2013_2034.3106.jpg"
       caption: Engraved image of a crocodile, Wadi Mathendous, Messak Settafet. 2013,2034.3106
         © TARA/David Coulson

@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: Ethiopia
-  url: "../ethiopia.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:

@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: 'Angola '
-  url: "../angola.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:

@@ -1,7 +1,7 @@
 $(function() {
   if ($("svg g#areas")) {
     $("svg g#areas g").click(function() {
-      location.href = "country/" + this.id + ".html";
+      location.href = "country/" + this.id + "/";
     });
 
     $("svg g#areas g path").tooltipster({

@@ -1,15 +1,15 @@
 baseurl: /african-rock-art
 collections:
-  coll_country: {has_index: true, output: true, permalink: '/country/:path.html',
+  coll_country: {has_index: true, output: true, permalink: '/country/:path/',
     title: Countries}
-  coll_country_information: {output: true, permalink: '/country_information/:name.html',
+  coll_country_information: {output: true, permalink: '/country_information/:name/',
     title: Country information}
-  coll_gallery: {has_index: true, output: true, permalink: '/gallery/:name.html',
+  coll_gallery: {has_index: true, output: true, permalink: '/gallery/:name/',
     title: Gallery}
-  coll_introduction: {output: true, permalink: '/introduction/:name.html', title: Introduction}
-  coll_regional_introduction: {output: true, permalink: '/regional_introduction/:name.html',
+  coll_introduction: {output: true, permalink: '/introduction/:name/', title: Introduction}
+  coll_regional_introduction: {output: true, permalink: '/regional_introduction/:name/',
     title: Regional introduction}
-  coll_thematic: {output: true, permalink: '/thematic/:name.html', title: Themes}
+  coll_thematic: {output: true, permalink: '/thematic/:name/', title: Themes}
 contentful:
   spaces:
   - ara: {access_token: ENV_CONTENTFUL_ACCESS_TOKEN, all_entries: true, destination: '',
@@ -18,7 +18,7 @@ defaults:
 - scope: {type: coll_country}
   values:
     breadcrumbs:
-    - {label: Countries, url: index.html}
+    - {label: Countries, url: '../'}
     layout: country
 - scope: {type: coll_country_information}
   values: {layout: country_information}

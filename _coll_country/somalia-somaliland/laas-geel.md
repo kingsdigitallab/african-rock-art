@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: Somalia/Somaliland
-  url: "../somalia-somaliland.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:
