@@ -1,6 +1,6 @@
 ---
 layout: country_index
-permalink: /country/index.html
+permalink: /country/
 title: Countries
 collection: coll_country
 ---
