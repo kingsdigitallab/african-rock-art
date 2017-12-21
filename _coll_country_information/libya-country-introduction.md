@@ -34,9 +34,9 @@ contentful:
       sys:
         id: 16a6qAimaaWYqcwqUqMKIm
         created_at: !ruby/object:DateTime 2015-11-26 12:25:03.860000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:25:03.860000000 Z
+        updated_at: !ruby/object:DateTime 2017-12-15 14:15:08.336000000 Z
       title: '2013,2034.420'
-      description: 
+      description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3580676
       url: "//images.contentful.com/xt8ne4gbbocd/16a6qAimaaWYqcwqUqMKIm/35056fde196c5ae13894c78ed1b5fe17/2013_2034.420.jpg"
     caption: Painted rock art with figures and animals from the Acacus Mountains,
       Fezzan District, Libya. 2013,2034.420 © TARA/David Coulson
@@ -108,9 +108,9 @@ contentful:
       sys:
         id: 4eOnyF3wVymkGMgOkmQsYm
         created_at: !ruby/object:DateTime 2015-11-26 12:25:07.169000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:25:07.169000000 Z
+        updated_at: !ruby/object:DateTime 2017-12-15 14:28:23.158000000 Z
       title: '2013,2034.3106'
-      description: 
+      description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3586141
       url: "//images.contentful.com/xt8ne4gbbocd/4eOnyF3wVymkGMgOkmQsYm/ef9fa1bb02dc7c8ddb0ced9c9fcaa85e/2013_2034.3106.jpg"
     caption: Engraved image of a crocodile, Wadi Mathendous, Messak Settafet. 2013,2034.3106
       © TARA/David Coulson
