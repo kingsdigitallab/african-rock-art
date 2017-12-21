@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: Morocco
-  url: "../morocco.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:

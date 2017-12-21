@@ -1,9 +1,9 @@
 ---
 breadcrumbs:
 - label: Countries
-  url: "../index.html"
+  url: "../../"
 - label: Libya
-  url: "../libya.html"
+  url: "../"
 layout: featured_site
 contentful:
   sys:
@@ -68,9 +68,9 @@ contentful:
       sys:
         id: xe9mLFNrG0Ga6yUIoQycG
         created_at: !ruby/object:DateTime 2015-11-25 15:23:42.433000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.433000000 Z
+        updated_at: !ruby/object:DateTime 2017-12-15 14:29:10.261000000 Z
       title: '2013,2034.2761'
-      description: 
+      description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584758
       url: "//images.contentful.com/xt8ne4gbbocd/xe9mLFNrG0Ga6yUIoQycG/de7f087f96da7f9814d89ce25c7c4b44/2013_2034.2761.jpg"
     caption: Frontal view of the Fighting Cats. Wadi Mathendous, Messak Settafet,
       Libya. 2013,2034.2761 © David Coulson/TARA
@@ -129,9 +129,9 @@ contentful:
       sys:
         id: 5WH8hIWyZOI0QWe0SyAkC8
         created_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
+        updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
       title: '2013,2034.2756'
-      description: 
+      description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
       url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
     caption: General view of the Fighting Cats showing nearby engravings. Wadi Mathendous,
       Messak Settafet, Libya. 2013,2034.2756 © David Coulson/TARA
@@ -209,9 +209,9 @@ contentful:
   - sys:
       id: 5WH8hIWyZOI0QWe0SyAkC8
       created_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.337000000 Z
+      updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
     title: '2013,2034.2756'
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
     url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
   - sys:
       id: 23Sckf5aOU4E8WOkg8yoIG
