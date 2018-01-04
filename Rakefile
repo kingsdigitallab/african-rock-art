@@ -334,7 +334,7 @@ def create_featured_site(country_dir_name, country_slug, data)
   featured_item_hash = {
     'breadcrumbs' => [
       { 'label' => 'Countries', 'url' => '../../' },
-      { 'label' => data['name'], 'url' => "../" }
+      { 'label' => data['name'], 'url' => '../' }
     ],
     'layout' => 'featured_site',
     'contentful' => data['featured_site']
