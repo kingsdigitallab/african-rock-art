@@ -1,7 +1,9 @@
 about:
   description: ['The African rock art image project photographs are free to use to
       explore, study, research, and teach.', 'If you would like a high resolution
-      copy of any of the images for non-commercial purposes, please contact [AOA@britishmuseum.org](mailto:AOA@britishmuseum.org)']
+      copy of any of the images for non-commercial purposes, please contact
+      [AOA@britishmuseum.org](mailto:AOA@britishmuseum.org), Department of Africa,
+      Oceania and the Americas.']
   subtitle: Discover 30,000 years of rock art
   title: Follow our digital journey across Africa.
 funder: {logo: arcadia-logo-orange.svg, name: ARCADIA, url: //www.arcadiafund.org.uk/}
