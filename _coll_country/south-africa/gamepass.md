@@ -35,7 +35,7 @@ contentful:
   - sys:
       id: 6mZ8n44JbyOIMKaQYKgm4k
       created_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:55:27.144000000 Z
       content_type_id: image
     image:
       sys:
@@ -44,14 +44,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:12:27.902000000 Z
       title: SOADRB0080002
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/XICyV4qumymqa8eIqCOeS/5c82b58cf67f6c300485aea40eb5b05a/SOADRB0080002.jpg"
-    caption: View of the Game Pass Shelter from below (2013,2034.18362) ©TARA/David
+      url: "//images.ctfassets.net/xt8ne4gbbocd/XICyV4qumymqa8eIqCOeS/5c82b58cf67f6c300485aea40eb5b05a/SOADRB0080002.jpg"
+    caption: View of the Game Pass Shelter from below. 2013,2034.18363 ©TARA/David
       Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3760825&partId=1&searchText=2013,2034.18362&page=1
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730908&partId=1&searchText=2013,2034.18363&page=1
   - sys:
       id: 3xOl8hqio0E2wYYKIKomag
       created_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:57:48.547000000 Z
       content_type_id: image
     image:
       sys:
@@ -60,34 +60,34 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:12:39.975000000 Z
       title: SOADRB0080007
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3cyElw8MaIS24gq8ioCcka/fcea216b7327f325bf27e3cebe49378e/SOADRB0080007.jpg"
-    caption: Painted panel showing multiple eland antelope and other figures (2013,2034.18368)
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3cyElw8MaIS24gq8ioCcka/fcea216b7327f325bf27e3cebe49378e/SOADRB0080007.jpg"
+    caption: Painted panel showing multiple eland antelope and other figures. 2013,2034.18368
       ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730846&partId=1&searchText=2013,2034.18368&page=1
   - sys:
       id: 3ilqDwqo80Uq6Q42SosqQK
       created_at: !ruby/object:DateTime 2016-09-12 15:12:59.726000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-30 16:15:24.700000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:59:22.144000000 Z
       content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 2'
     body: The most prominent painting panel at Game Pass shows a series of carefully
       depicted eland antelope in delicately shaded red, brown and white pigment, largely
-      super-imposing a group of ambiguous anthropomorphic figures wrapped in what
+      super imposing a group of ambiguous anthropomorphic figures wrapped in what
       appear to be bell-shaped karosses (traditional skin cloaks). Several small human
       figures appear to be running above them. These are some of the best-preserved
       rock paintings in the Drakensberg, with the largest animals around 30 cm long.  To
       the left of this panel are two smaller sets of images, one with two further
       eland, some further human-like figures and a human figure with a bow; the other
-      (Fig. 1 below) a small panel, for which the site is most renowned.   An image
-      around 50 cm long  shows an eland with its face turned towards the viewer, depicted
-      as if stumbling forwards, with its hind legs crossed.  Grasping the eland's
-      tail is a therianthrope figure with hooves for feet. Like the eland, this figure
-      has its legs crossed and is depicted with small lines like raised hairs bristling
-      from its body. To the right are three further therianthrope figures.
+      a small panel, for which the site is most renowned. An image around 50 cm long  shows
+      an eland with its face turned towards the viewer, depicted as if stumbling forwards,
+      with its hind legs crossed.  Grasping the eland's tail is a therianthrope figure
+      with hooves for feet. Like the eland, this figure has its legs crossed and is
+      depicted with small lines like raised hairs bristling from its body. To the
+      right are three further therianthrope figures.
   - sys:
       id: 3oYyhNlOdWu4oaoG0qUEGC
       created_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:02:39.599000000 Z
       content_type_id: image
     image:
       sys:
@@ -96,28 +96,28 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:13:12.516000000 Z
       title: SOADRB0080015
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/777S5VQyBO0cMwKC0ayqKe/67d88e9197416be62cc8ccc0b576adf9/SOADRB0080015.jpg"
-    caption: Fig. 1. Panel showing an eland antelope and therianthrope figures (2013,2034.18376)
-      ©TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/777S5VQyBO0cMwKC0ayqKe/67d88e9197416be62cc8ccc0b576adf9/SOADRB0080015.jpg"
+    caption: Panel showing an eland antelope with crossed legs and a therianthrope
+      figure grasping its tail. 2013,2034.18376 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730898&partId=1&searchText=2013,2034.18376&page=1
   - sys:
       id: 3t21DyQhhu6KYE24yOuW6E
       created_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:02:03.671000000 Z
       content_type_id: chapter
     title_internal: 'South Africa: featured site, chapter 3'
     body: The rock paintings from this site were first brought to public attention
       in a 1915 issue of Scientific American, and it has been frequently published
       on and discussed through the 20th century.  While studying a reproduction of
       the image with the stumbling eland in the early 1970s, researcher David Lewis-Williams
-      began to consider that the figure holding the eland's tail (Fig. 2 below) might
-      not be a simple illustration of a man wearing a skin suit, or performing an
-      act of bravura, as had been suggested by previous researchers, but might be
-      “idiomatic and metaphorical, rather than illustrative” (Lewis-Williams 1981:91).
+      began to consider that the figure holding the eland's tail might not be a simple
+      illustration of a man wearing a skin suit, or performing an act of bravura,
+      as had been suggested by previous researchers, but might be “idiomatic and metaphorical,
+      rather than illustrative” (Lewis-Williams 1981:91).
   - sys:
       id: 8JKh5DFTLqMsaCQWAAA4c
       created_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:03:14.804000000 Z
       content_type_id: image
     image:
       sys:
@@ -126,9 +126,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:13:36.176000000 Z
       title: SOADRB0080017
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2QyopQgIx2AAMU46gEM2Wg/614f0c5c375d7d8e8e9be93ce2179a18/SOADRB0080017.jpg"
-    caption: Fig. 2. The figure holding the eland’s tail has similar qualities to
-      the eland itself (2013,2034.1838). ©TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2QyopQgIx2AAMU46gEM2Wg/614f0c5c375d7d8e8e9be93ce2179a18/SOADRB0080017.jpg"
+    caption: The figure holding the eland’s tail has similar qualities to the eland
+      itself. 2013,2034.1838 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730897&partId=1&place=107937&plaA=107937-2-2&page=1
   - sys:
       id: 1l6QCXODlWoa6kmgWAgco2
@@ -164,7 +164,7 @@ contentful:
   - sys:
       id: 4cmGHIbGFqOEqYWwyi0S2e
       created_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:05:13.185000000 Z
       content_type_id: image
     image:
       sys:
@@ -173,8 +173,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:14:04.272000000 Z
       title: SOADRB0010012
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5qjFwYmXkca88mMcWSiGgc/761a55733ca2935fd7056e1a0de33dd6/SOADRB0010012.jpg"
-    caption: Two eland antelope running in the Drakensberg ©TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5qjFwYmXkca88mMcWSiGgc/761a55733ca2935fd7056e1a0de33dd6/SOADRB0010012.jpg"
+    caption: Two eland antelope running in the Drakensberg. 2013,2034.18180 ©TARA/David
+      Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3729855&partId=1&searchText=2013,2034.18180&page=1
   - sys:
       id: 1VRoS6FN4ga60gcYImm6c2
       created_at: !ruby/object:DateTime 2016-09-12 15:14:20.350000000 Z
@@ -188,7 +190,7 @@ contentful:
   - sys:
       id: n044NT3TZAYwKSakkogoU
       created_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:05:31.169000000 Z
       content_type_id: image
     image:
       sys:
@@ -197,8 +199,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:14:34.660000000 Z
       title: SOADRB0080019
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/60II5zuUne2A80682sYYs2/bbee114e572cf8a7a403d6802749707c/SOADRB0080019.jpg"
-    caption: Fig. 3.  Eland and faded figures.  2013,2034.18391 ©TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/60II5zuUne2A80682sYYs2/bbee114e572cf8a7a403d6802749707c/SOADRB0080019.jpg"
+    caption: Eland and faded figures.  2013,2034.18391 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730884&partId=1&place=107937&plaA=107937-2-2&page=1
   - sys:
       id: 5Lheod1OGAYUW4Goi6GAUo
@@ -252,12 +254,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-12 15:15:14.404000000 Z
     title: SOADRB0080001
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6qIbC41P8IM2O8K4w6g0Ec/60009e28497973bd9682d19ba5a9d497/SOADRB0080001.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6qIbC41P8IM2O8K4w6g0Ec/60009e28497973bd9682d19ba5a9d497/SOADRB0080001.jpg"
   - sys:
       id: ARPF2hJVwOYm0iaAgUmk0
       created_at: !ruby/object:DateTime 2016-09-12 15:15:22.171000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:15:22.171000000 Z
     title: SOADRB0080039
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/ARPF2hJVwOYm0iaAgUmk0/40e2845d0ffe86c19d674886a3721b10/SOADRB0080039.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/ARPF2hJVwOYm0iaAgUmk0/40e2845d0ffe86c19d674886a3721b10/SOADRB0080039.jpg"
 ---

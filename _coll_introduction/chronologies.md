@@ -3,18 +3,18 @@ contentful:
   sys:
     id: 1Gcunuhia0qYEEqoACkEES
     created_at: !ruby/object:DateTime 2015-11-26 09:54:46.501000000 Z
-    updated_at: !ruby/object:DateTime 2015-12-07 20:55:05.875000000 Z
+    updated_at: !ruby/object:DateTime 2018-05-25 17:16:46.300000000 Z
     content_type_id: introduction
   title: Chronologies
   slug: chronologies
   lead_image:
   - sys:
-      id: 5nqN2H6iB2W0GUsOOiuasa
-      created_at: !ruby/object:DateTime 2015-11-26 09:50:19.595000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 09:50:19.595000000 Z
-    title: '2013,2034.4260'
+      id: 49XE8B9AUwcsyuwKS4qIoS
+      created_at: !ruby/object:DateTime 2016-09-12 15:20:29.384000000 Z
+      updated_at: !ruby/object:DateTime 2016-09-12 15:20:29.384000000 Z
+    title: SOADRB0040015
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5nqN2H6iB2W0GUsOOiuasa/4e1a652b425032483e7d8943a8654f0a/2013_2034.4260.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/49XE8B9AUwcsyuwKS4qIoS/0497ecca68dfaaf3b2656a890cff67dd/SOADRB0040015.jpg"
   chapters:
   - sys:
       id: 45agpJWfsAgAmMCmoiEoQ2
@@ -45,7 +45,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 09:50:19.595000000 Z
       title: '2013,2034.4260'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5nqN2H6iB2W0GUsOOiuasa/4e1a652b425032483e7d8943a8654f0a/2013_2034.4260.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5nqN2H6iB2W0GUsOOiuasa/4e1a652b425032483e7d8943a8654f0a/2013_2034.4260.jpg"
     caption: Superimposition of handprints and other figures. In Awanghet, Tassili
       n’Ajjer, Algeria. 2013,2034.4260 © TARA/David Coulson
     col_link: http://bit.ly/2hMkOcV
@@ -100,7 +100,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 09:50:19.618000000 Z
       title: '2013,2034.896'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6SWz7d0wSckMi2eMKsWAig/5b2e71e83e8f25b7883a87b087dfeee5/2013_2034.896.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6SWz7d0wSckMi2eMKsWAig/5b2e71e83e8f25b7883a87b087dfeee5/2013_2034.896.jpg"
     caption: Round Head period painting radiocarbon dated to 8590±390 BP. Uan Tamuat,
       Acacus Mountains, Libya. 2013,2034.896 © TARA/David Coulson
     col_link: http://bit.ly/2gUa6Pu
@@ -137,7 +137,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 09:50:19.593000000 Z
       title: '2013,2034.285'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4CGawd5fWUaQicOIEk8omA/7253be5000fc61d602f91d5d06680a8c/2013_2034.285.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4CGawd5fWUaQicOIEk8omA/7253be5000fc61d602f91d5d06680a8c/2013_2034.285.jpg"
     caption: Giraffe shows darker patina than cattle suggesting it is an older engraving.
       Karkur Talh, Sudan. 2013,2034.285 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577801&partId=1&museumno=2013,2034.285&page=1
@@ -228,12 +228,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 09:50:19.593000000 Z
     title: '2013,2034.285'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4CGawd5fWUaQicOIEk8omA/7253be5000fc61d602f91d5d06680a8c/2013_2034.285.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4CGawd5fWUaQicOIEk8omA/7253be5000fc61d602f91d5d06680a8c/2013_2034.285.jpg"
   - sys:
       id: 6SWz7d0wSckMi2eMKsWAig
       created_at: !ruby/object:DateTime 2015-11-26 09:50:19.618000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:50:19.618000000 Z
     title: '2013,2034.896'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6SWz7d0wSckMi2eMKsWAig/5b2e71e83e8f25b7883a87b087dfeee5/2013_2034.896.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6SWz7d0wSckMi2eMKsWAig/5b2e71e83e8f25b7883a87b087dfeee5/2013_2034.896.jpg"
 ---

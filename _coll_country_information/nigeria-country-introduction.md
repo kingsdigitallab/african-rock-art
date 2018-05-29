@@ -48,7 +48,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-11-22 15:43:09.652000000 Z
       title: NIGCRMNAS0010006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1wpXiaFLE8kImw6a4O0yO8/a299524cd0c60d521815d02eb3347c2f/NIGCRMNAS0010006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1wpXiaFLE8kImw6a4O0yO8/a299524cd0c60d521815d02eb3347c2f/NIGCRMNAS0010006.jpg"
     caption: View looking east from the Ikom area towards Cross River and the Cameroon
       border. 2013,2034.24321 © TARA/David Coulson
   - sys:
@@ -77,7 +77,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-11-22 16:21:19.288000000 Z
       title: NIGCRMNAS0010004
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6EygE2u9DUWkOAmoMayOQQ/b02ac0c0e9384d4c9e144434e63e8369/NIGCRMNAS0010004.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6EygE2u9DUWkOAmoMayOQQ/b02ac0c0e9384d4c9e144434e63e8369/NIGCRMNAS0010004.jpg"
     caption: Boatman at Ofun-Nta, a seaport during the early years of trade on the
       Cross River. 2013,2034.24319 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=37854

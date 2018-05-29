@@ -51,7 +51,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.282000000 Z
       title: MALCHE0010001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/pDDj71RyBUyqiqsouEeew/a0ab78ba58be69235256271b0af54de2/MALCHE0010001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/pDDj71RyBUyqiqsouEeew/a0ab78ba58be69235256271b0af54de2/MALCHE0010001.jpg"
     caption: Landscape in the Chongoni Hills. 2013,2034.20054 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3737098&partId=1
   - sys:
@@ -84,7 +84,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:40.051000000 Z
       title: MALMPH0030003
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3lEqMHYBwIse0EmgGkOygW/26ce17dd2e9b61bef2220ce2ba9afb60/MALMPH0030003.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3lEqMHYBwIse0EmgGkOygW/26ce17dd2e9b61bef2220ce2ba9afb60/MALMPH0030003.jpg"
     caption: Rock Art panel showing a lizard and several geometric shapes. Mphunzi,
       Chongoni Hills. 2013,2034.20205 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3739366&partId=1
@@ -122,7 +122,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:40.017000000 Z
       title: MALDED0090006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2OXCOlKLfWO4yUYMc6YiOK/0446391cb8c39e21a2baeca5d2566522/MALDED0090006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2OXCOlKLfWO4yUYMc6YiOK/0446391cb8c39e21a2baeca5d2566522/MALDED0090006.jpg"
     caption: Rock Art panel with multitude of red geometric signs. Nthulu, Chongoni
       Hills.  2013,2034.20005 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3733693&partId=1
@@ -170,7 +170,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:40.074000000 Z
       title: MALMPH0010008
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2D4MCayW9iK0Oi00QGWsIq/278456bd2263cfcc1be94ccd74ad8437/MALMPH0010008.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2D4MCayW9iK0Oi00QGWsIq/278456bd2263cfcc1be94ccd74ad8437/MALMPH0010008.jpg"
     caption: Rock art panel with red geometric depictions ascribed to hunter-gatherers.
       Mphunzi. 2013,2034.20202 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738324&partId=1
@@ -207,7 +207,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.175000000 Z
       title: MALCHE0010011
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3jS61b3w2AMEwogGu2CoEI/807f22eb6e58077d7a003f3e893a91a3/MALCHE0010011.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3jS61b3w2AMEwogGu2CoEI/807f22eb6e58077d7a003f3e893a91a3/MALCHE0010011.jpg"
     caption: Rock Art panel with multitude of white human-like and reptile-like depictions,
       surrounded by red and white geometric signs. Chentcherere.  2013,2034.20064d
       © TARA/David Coulson
@@ -241,7 +241,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-21 15:01:45.256000000 Z
       title: MALPHA0010009
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2xzgTrXwqQKa0Wa0w6K06k/dbe565ce1dd67cb2835e2a9201be3e7f/MALPHA0010009.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2xzgTrXwqQKa0Wa0w6K06k/dbe565ce1dd67cb2835e2a9201be3e7f/MALPHA0010009.jpg"
     caption: Rock Art panel with multitude of white human-like and reptile-like depictions,
       surrounded by geometric signs. Phanga la Ngoni. 2013,2034.20346 © TARA/David
       Coulson

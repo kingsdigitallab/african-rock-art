@@ -38,7 +38,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
       title: '2013,2034.6'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1DXzN0USKMoCI4kywAKeEy/c1f12caa1933afa9134b18c5505d14b8/2013_2034.6.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1DXzN0USKMoCI4kywAKeEy/c1f12caa1933afa9134b18c5505d14b8/2013_2034.6.jpg"
     caption: Painted cattle and human figures on rock shelter roof. Karkur Talh, Jebel
       Uweinat. 2013,2034.6 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577799&partId=1&searchText=2013,2034.6&page=1
@@ -68,7 +68,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
       title: '2013,2034.258'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/70RmZtVt9Cy4Ameg0qOoCo/07832fd85c8ed2d2bbbb478c02bfddfc/2013_2034.258.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/70RmZtVt9Cy4Ameg0qOoCo/07832fd85c8ed2d2bbbb478c02bfddfc/2013_2034.258.jpg"
     caption: White-painted cattle. Karkur Talh, Jebel Uweinat. 2013,2034.258 © David
       Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3583684&partId=1&searchText=2013,2034.258&page=1
@@ -95,7 +95,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.437000000 Z
       title: '2013,2034.335'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/32GOdHizCwYKGAqO4sQ8oW/d8a9b7309191ced7fff9c6db79174520/2013_2034.335.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/32GOdHizCwYKGAqO4sQ8oW/d8a9b7309191ced7fff9c6db79174520/2013_2034.335.jpg"
     caption: Engraved camel figure. Karkur Talh, Jebel Uweinat 2013,2034.335 © David
       Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586831&partId=1&searchText=2013,2034.335&page=1
@@ -127,7 +127,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.604000000 Z
       title: '2013,2034.342'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3YBcXyxpbq6iKIegM66KgQ/eb04e0be005fb0168817ddee5d4a742e/2013_2034.342.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3YBcXyxpbq6iKIegM66KgQ/eb04e0be005fb0168817ddee5d4a742e/2013_2034.342.jpg"
     caption: Engraved animals (cattle?) and dogs. Karkur Talh, Jebel Uweinat 2013,2034.342
       © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586930&partId=1&images=true&people=197356&museumno=2013,2034.342&page=1
@@ -162,7 +162,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.589000000 Z
       title: '2013,2034.3918'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4TbDKiBZ2wg8GaK6GqsMsa/9354c9a992a51a4e896f67ac87fb4999/2013_2034.3918.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4TbDKiBZ2wg8GaK6GqsMsa/9354c9a992a51a4e896f67ac87fb4999/2013_2034.3918.jpg"
     caption: Engraved giraffes. Karkur Talh, Jebel Uweinat 2013,2034.3918 © David
       Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586999&partId=1&images=true&people=197356&museumno=2013,2034.3918&page=1
@@ -173,12 +173,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 20:09:20.521000000 Z
     title: '2013,2034.258'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2FGW2NwJ2UOi0kMEcW6cc8/b719e0e85ee7ecfce140d1db6b3581d0/2013_2034.258.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2FGW2NwJ2UOi0kMEcW6cc8/b719e0e85ee7ecfce140d1db6b3581d0/2013_2034.258.jpg"
   - sys:
       id: 53gAYGjCEgYaksiuGkAkwc
       created_at: !ruby/object:DateTime 2015-12-07 20:09:20.503000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:09:20.503000000 Z
     title: '2013,2034.342'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/53gAYGjCEgYaksiuGkAkwc/1d799717cb2b19a599be9e95706e5e05/2013_2034.342.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/53gAYGjCEgYaksiuGkAkwc/1d799717cb2b19a599be9e95706e5e05/2013_2034.342.jpg"
 ---

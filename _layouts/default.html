@@ -7,8 +7,8 @@
 
     {% include header.html %}
 
-    {% if page.url contains 'index.html' %}
-    <div class="banner{% if page.url contains 'country' %} country{% else %} themes{% endif %}">
+    {% if page.url == '/country/' or page.url == '/thematic/' %}
+    <div class="banner{% if page.url == '/country/' %} country{% else %} themes{% endif %}">
     </div>
     {% endif %}
 

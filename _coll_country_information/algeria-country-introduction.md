@@ -34,7 +34,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.872000000 Z
       title: '2013,2034.4248'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3bBZIG7wBWQe2s06S4w0gE/503eeec9a0aa84ff849de9d81dcd091e/2013_2034.4248.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3bBZIG7wBWQe2s06S4w0gE/503eeec9a0aa84ff849de9d81dcd091e/2013_2034.4248.jpg"
     caption: Painted rock art depicting five red figures, from Jabbaren, Tassili n’Ajjer,
       Algeria. 2013,2034.4248 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601516&partId=1&images=true&people=197356&museumno=2013,2034.4248&page=1
@@ -67,7 +67,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.909000000 Z
       title: '2013,2034.4551'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6T7rsl4ISssocM8K0O0g2U/ec87053980e76d10917feb28c045fa67/2013_2034.4551.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6T7rsl4ISssocM8K0O0g2U/ec87053980e76d10917feb28c045fa67/2013_2034.4551.jpg"
     caption: Tuareg looking over the Tassili n’Ajjer massif. 2013,2034.4551 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3603812&partId=1&images=true&people=197356&museumno=2013,2034.4551&page=1
@@ -94,7 +94,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:47.274000000 Z
       title: '2013,2034.4098'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6TFwgxGXtYy6OgA02aKUCC/cf9adf1bdc99801fbf709fc87fd87acb/2013_2034.4098.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6TFwgxGXtYy6OgA02aKUCC/cf9adf1bdc99801fbf709fc87fd87acb/2013_2034.4098.jpg"
     caption: Experiment undertaken by Lhote with experimental varnishes. The dark
       rectangular patch is the remnant of this experiment. 2013,2034.4098  © TARA/David
       Coulson
@@ -125,7 +125,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.884000000 Z
       title: '2013,2034.4685'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/faUxnSK2ookUW6UWyoCOa/ec94f329a011643a9f0eba672fd5fb6f/2013_2034.4685.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/faUxnSK2ookUW6UWyoCOa/ec94f329a011643a9f0eba672fd5fb6f/2013_2034.4685.jpg"
     caption: Engraved elephant, Tadrart, Algeria. 2013,2034.4685 © TARA/David Coulson
     col_link: http://bit.ly/2iMdChh
   - sys:
@@ -158,7 +158,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:47.295000000 Z
       title: '2013,2034.4173'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/79I1hxTRDyYiqcMG02kgE8/0fa8b92cad626f5dfe083c814b30fdfb/2013_2034.4173.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/79I1hxTRDyYiqcMG02kgE8/0fa8b92cad626f5dfe083c814b30fdfb/2013_2034.4173.jpg"
     caption: Round Head Period painting, Tassili n’Ajjer, Algeria. 2013,2034.4173
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3595624&partId=1&images=true&people=197356&museumno=2013,2034.4173&page=1
@@ -189,7 +189,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.877000000 Z
       title: '2013,2034.4193'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2E7xpiKWhe6YEOymWI4W2U/97b35a4e1f3bfaa5184d701c43f0457f/2013_2034.4193.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2E7xpiKWhe6YEOymWI4W2U/97b35a4e1f3bfaa5184d701c43f0457f/2013_2034.4193.jpg"
     caption: "‘The Archers Of Tin Aboteka’, Tassili n’Ajjer, Algeria. 2013,2034.4193
       © TARA/David Coulson"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601339&partId=1&images=true&people=197356&museumno=2013,2034.4193&page=1
@@ -216,7 +216,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.885000000 Z
       title: '2013,2034.4567'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/czVoXzqkG4KUm2A4QcWUO/d463d9da38652be56e35908b2bde6659/2013_2034.4567.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/czVoXzqkG4KUm2A4QcWUO/d463d9da38652be56e35908b2bde6659/2013_2034.4567.jpg"
     caption: Horse-drawn chariot, Tarssed Jebest, Tassili n’Ajjer, Algeria. 2013,2034.4567
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3603797&partId=1&images=true&people=197356&museumno=2013,2034.4567&page=1
@@ -244,7 +244,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.916000000 Z
       title: '2013,2034.4469'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2F8RnTvFpKGUaYYcaY2YUS/c940797f40d292f5d2691f43c9a974b4/2013_2034.4469.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2F8RnTvFpKGUaYYcaY2YUS/c940797f40d292f5d2691f43c9a974b4/2013_2034.4469.jpg"
     caption: Camel train Tassili n’Ajjer, Algeria. 2013,2034.4469  © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3602862&partId=1&images=true&people=197356&museumno=2013,2034.4469&page=1
   citations:

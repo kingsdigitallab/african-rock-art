@@ -34,7 +34,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:33:01.324000000 Z
       title: '2013,2034.5277'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4yqh628H2wae4Mwe6MQGWa/41dcae1c01f69ace28bccc26fd712c6f/2013_2034.5277.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4yqh628H2wae4Mwe6MQGWa/41dcae1c01f69ace28bccc26fd712c6f/2013_2034.5277.jpg"
     caption: Painted human figures and cows on rock shelter roof. Karkur Talh, Jebel
       Uweinat, Egypt. 2013,2034.5277 © TARA/David Coulson
     col_link: http://bit.ly/2iVMFd0
@@ -95,7 +95,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:33:01.309000000 Z
       title: '2013,2034.108'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3MIwpw8kAMIuGukggC2mUo/a296d679fd2c30c9a1fec354b5028ef9/2013_2034.108.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3MIwpw8kAMIuGukggC2mUo/a296d679fd2c30c9a1fec354b5028ef9/2013_2034.108.jpg"
     caption: Engraved antelope and lion pugmarks on cave wall. Wadi el-Obeiyd, Farafra
       Oasis, Western Desert. 2013,2034.108 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577697&partId=1&images=true&people=197356&place=42209&page=2
@@ -136,7 +136,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:33:01.325000000 Z
       title: '2013,2034.126'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1BqBCPqhDiiM0qqeM6Eeie/cc9f8eabaf32202035c94c9e7d444bb2/2013_2034.126.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1BqBCPqhDiiM0qqeM6Eeie/cc9f8eabaf32202035c94c9e7d444bb2/2013_2034.126.jpg"
     caption: Hand prints, blown pigment on cave wall. Wadi el-Obeiyd, Farafra Oasis,
       Western Desert. 2013,2034.126 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577677&partId=1&images=true&people=197356&place=42209&page=1
@@ -165,7 +165,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:33:01.349000000 Z
       title: '2013,2034.4'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2eE8VylT2ocoEoAQ22m2Qq/3a8fa3faf5eb2287751d90b451c1090c/2013_2034.4.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2eE8VylT2ocoEoAQ22m2Qq/3a8fa3faf5eb2287751d90b451c1090c/2013_2034.4.jpg"
     caption: Engraved cattle. Karkur Talh, Jebel Uweinat. 2013,2034.4 © TARA/David
       Coulson
     col_link: http://bit.ly/2iW0oAD
@@ -216,7 +216,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:33:01.324000000 Z
       title: '2013,2034.212'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2QN2xRgnrOcQKsIM224CYY/6444f91f912b086def593035a40f987b/2013_2034.212.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2QN2xRgnrOcQKsIM224CYY/6444f91f912b086def593035a40f987b/2013_2034.212.jpg"
     caption: Painted human and cattle figures, Wadi Sura, Gilf Kebir. 2013,2034.212
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577589&partId=1

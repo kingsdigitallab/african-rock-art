@@ -38,7 +38,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.020000000 Z
       title: '2013,2034.10543'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/56TaQ0UFBK8sEE4GWaQOcw/d8465329314fcafe9814b92028e90927/2013_2034.10543.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/56TaQ0UFBK8sEE4GWaQOcw/d8465329314fcafe9814b92028e90927/2013_2034.10543.jpg"
     caption: Dabous giraffe. Western Aïr Mountains, Niger. 2013,2034.10543 © David
       Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637915&partId=1&searchText=2013,2034.9967&people=197356&place=13131&museumno=2013,2034.10543&page=1
@@ -64,7 +64,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:37:55.237000000 Z
       title: '2013,2034.10570'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6Y2u961dcWISC2E2CK62KS/64bef06da41a71f32cf8601c426d1608/2013_2034.10570.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6Y2u961dcWISC2E2CK62KS/64bef06da41a71f32cf8601c426d1608/2013_2034.10570.jpg"
     caption: Dabous giraffe. Western Aïr Mountains, Niger. 2013,2034.10570 © David
       Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637906&partId=1&searchText=2013,2034.10570&people=197356&place=13131&museumno=2013,2034.10570&page=1
@@ -80,7 +80,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.049000000 Z
       title: '2013,2034.10555'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/n2nHWRqjXE0qkaEqCWK6Y/7a3d94b2a4f3d792a0f9de60647d3d59/2013_2034.10555.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/n2nHWRqjXE0qkaEqCWK6Y/7a3d94b2a4f3d792a0f9de60647d3d59/2013_2034.10555.jpg"
     caption: Dabous giraffe at night. Western Aïr Mountains, Niger. 2013,2034.10555
       © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637914&partId=1&searchText=2013,2034.10570&people=197356&place=13131&museumno=2013,2034.10555&page=1
@@ -106,7 +106,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:38:02.784000000 Z
       title: '2013,2034.10751'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
     caption: Further engravings at the site. Dabous, Western Aïr Mountains, Niger.
       2013,2034.10751 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637901&partId=1&searchText=2013,2034.10570&people=197356&place=13131&museumno=2013,2034.10751&page=1
@@ -132,7 +132,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.045000000 Z
       title: Gobero
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5Lzyd3mFTUII2MEkgQ0ki2/61cb38b7b4e4d62e911bb971cad67c7f/Gobero.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5Lzyd3mFTUII2MEkgQ0ki2/61cb38b7b4e4d62e911bb971cad67c7f/Gobero.jpg"
     caption: 'Aerial view of Gobero archaeological site in Niger, from the Holocene
       Period. Source: Sereno et al. 2008, (via Wikimedia Commons)'
     col_link: https://commons.wikimedia.org/wiki/File%3AGobero.jpg
@@ -162,7 +162,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:37:47.721000000 Z
       title: '2013,2034.10635'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/24rwZWG7UA02KCgcKeaOQS/762b9a27c73609c09017102e0f4cb3f4/2013_2034.10635.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/24rwZWG7UA02KCgcKeaOQS/762b9a27c73609c09017102e0f4cb3f4/2013_2034.10635.jpg"
     caption: Close up of head and neck of large giraffe. Dabous, Western Aïr Mountains,
       Niger. 2013,2034.10635 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637902&partId=1&people=197356&place=13131&museumno=2013,2034.10635&page=1
@@ -193,7 +193,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.095000000 Z
       title: '2013,2034.10608'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6HNDioOx44CMaGCccQQE2G/9c2d264396e34b6900229a7142f38d8e/2013_2034.10608.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6HNDioOx44CMaGCccQQE2G/9c2d264396e34b6900229a7142f38d8e/2013_2034.10608.jpg"
     caption: Taking a cast of the Dabous giraffe. Western Aïr Mountains, Niger. 2013,2034.10608
       © David Coulson/TARA
     col_link: http://bit.ly/2j0rzed
@@ -241,12 +241,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 20:33:25.148000000 Z
     title: NIGEAM0060015
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/58CpIve4WQo8wq4ooU0SoC/bdaac15fdb14d3baf1a2f2ffa2a00e80/NIGEAM0060015_jpeg.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/58CpIve4WQo8wq4ooU0SoC/bdaac15fdb14d3baf1a2f2ffa2a00e80/NIGEAM0060015_jpeg.jpg"
   - sys:
       id: 4yEY9exQaswSA6k6Gu02c6
       created_at: !ruby/object:DateTime 2015-11-25 15:38:02.784000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:38:02.784000000 Z
     title: '2013,2034.10751'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
 ---
