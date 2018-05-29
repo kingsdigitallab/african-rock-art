@@ -37,7 +37,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 01:02:00.372000000 Z
       title: NIGCRM0040011
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6ndlBNzj4kC4IyysaSk20Y/a9e3b2d35c3e0ee55a93cef88d92b9e3/NIGCRM0040011.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6ndlBNzj4kC4IyysaSk20Y/a9e3b2d35c3e0ee55a93cef88d92b9e3/NIGCRM0040011.jpg"
     caption: Monolith from Nnaborakpa with village elder standing in the background.
       2013,2034.24046 © David Coulson/TARA
   - sys:
@@ -69,7 +69,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 01:44:18.764000000 Z
       title: NIGCRM0090006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3EPsiq8TFKE0omSUGy2OiW/920454e1f1e3b5ed3e7c24108a6c46ee/NIGCRM0090006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3EPsiq8TFKE0omSUGy2OiW/920454e1f1e3b5ed3e7c24108a6c46ee/NIGCRM0090006.jpg"
     caption: Monolith from Agba. 2013,2034.24215© David Coulson/TARA
   - sys:
       id: 4fEnlxdHhSc4gUcGMyaegi
@@ -83,7 +83,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 01:49:44.361000000 Z
       title: NIGCRM0020001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1FTDyPet3WiyQYiq2UYEeu/5691015503e7f726f99676e2976ef569/NIGCRM0020001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1FTDyPet3WiyQYiq2UYEeu/5691015503e7f726f99676e2976ef569/NIGCRM0020001.jpg"
     caption: Monolith from Njemetop. 2013,2034.23963 © David Coulson/TARA
   - sys:
       id: 21hKs1bzN6imgeCkiouquo
@@ -109,7 +109,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 01:52:33.766000000 Z
       title: NIGCRM0070021
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1wBaFXQ6iY2igSUc0Qwm02/9bf58633776be1e68afbcc3a2bdf0279/NIGCRM0070021.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1wBaFXQ6iY2igSUc0Qwm02/9bf58633776be1e68afbcc3a2bdf0279/NIGCRM0070021.jpg"
     caption: Moss and lichen growing on one of the monoliths occluding facial feaures,
       Nikirigom. 2013,2034.24103 © David Coulson/TARA
   - sys:
@@ -124,7 +124,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 01:54:53.364000000 Z
       title: NIGCRM0100031
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4GxwIaZP680CyIGeQ4YesO/1a6e720fb39268f67947f11e6a496cce/NIGCRM0100031.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4GxwIaZP680CyIGeQ4YesO/1a6e720fb39268f67947f11e6a496cce/NIGCRM0100031.jpg"
     caption: Fallen monolith that has been damaged by fire, Edamkono. 2013,2034.24278
       © David Coulson/TARA
   - sys:
@@ -151,7 +151,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 02:04:07.843000000 Z
       title: NIGCRM0010062
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4Rzr1W9YZ2yecY6MGkQ8Y8/b45ad7ea3470fdabaea542144334b4f2/NIGCRM0010062.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4Rzr1W9YZ2yecY6MGkQ8Y8/b45ad7ea3470fdabaea542144334b4f2/NIGCRM0010062.jpg"
     caption: View of five standing stones and one fallen stone in a clearing, Alok.
       2013,2034.23933 © David Coulson/TARA
   - sys:
@@ -187,7 +187,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-12 03:38:21.345000000 Z
       title: NIGCRM0010081
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/rOeKzKuGw8EMG08MyM02Q/a8e500a01a2d3f45d2c761aeb181d904/NIGCRM0010081.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/rOeKzKuGw8EMG08MyM02Q/a8e500a01a2d3f45d2c761aeb181d904/NIGCRM0010081.jpg"
     caption: 'Monoith being opainted in orange, blue and white by local woman. Standing
       to the left is Chief Silvanus Akong of Alok village. 2013,2034.23952 © David
       Coulson/TARA '
@@ -230,12 +230,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-12-12 01:44:18.764000000 Z
     title: NIGCRM0090006
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3EPsiq8TFKE0omSUGy2OiW/920454e1f1e3b5ed3e7c24108a6c46ee/NIGCRM0090006.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3EPsiq8TFKE0omSUGy2OiW/920454e1f1e3b5ed3e7c24108a6c46ee/NIGCRM0090006.jpg"
   - sys:
       id: rOeKzKuGw8EMG08MyM02Q
       created_at: !ruby/object:DateTime 2017-12-12 03:38:21.345000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 03:38:21.345000000 Z
     title: NIGCRM0010081
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/rOeKzKuGw8EMG08MyM02Q/a8e500a01a2d3f45d2c761aeb181d904/NIGCRM0010081.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/rOeKzKuGw8EMG08MyM02Q/a8e500a01a2d3f45d2c761aeb181d904/NIGCRM0010081.jpg"
 ---

@@ -1,0 +1,8 @@
+{% if include.citations %}
+<div>
+    <h2 class="chapter-title">Citations</h2>
+    {% for citation in include.citations %}
+    {{ citation.citation_line | markdownify }}
+    {% endfor %}
+</div>
+{% endif %}

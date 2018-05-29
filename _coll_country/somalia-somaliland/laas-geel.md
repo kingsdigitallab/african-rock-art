@@ -42,7 +42,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 11:48:33.941000000 Z
         title: '2013,2034.15841'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/31GgY4I8aIMi6wscCMaysq/38ee13ba0978feca8e05b9e9f6ad9ecb/SOMLAG0020021.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/31GgY4I8aIMi6wscCMaysq/38ee13ba0978feca8e05b9e9f6ad9ecb/SOMLAG0020021.jpg"
       caption: View of Laas Geel landscape seen from one of the shelters. Laas Geel,
         Somaliland. 2013,2034.15841 © TARA/David Coulson
       col_link: http://bit.ly/2ih7AbC
@@ -58,7 +58,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 11:48:33.941000000 Z
       title: '2013,2034.15841'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/31GgY4I8aIMi6wscCMaysq/38ee13ba0978feca8e05b9e9f6ad9ecb/SOMLAG0020021.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/31GgY4I8aIMi6wscCMaysq/38ee13ba0978feca8e05b9e9f6ad9ecb/SOMLAG0020021.jpg"
     caption: View of Laas Geel landscape seen from one of the shelters. Laas Geel,
       Somaliland. 2013,2034.15841 © TARA/David Coulson
     col_link: http://bit.ly/2ih7AbC
@@ -93,7 +93,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 11:48:53.979000000 Z
         title: '2013,2034.16068'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4oUCCQM2xiEaa0WIKyAoIm/68d05107d238d784fb598eb52c5a3f29/SOMLAG0090043.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4oUCCQM2xiEaa0WIKyAoIm/68d05107d238d784fb598eb52c5a3f29/SOMLAG0090043.jpg"
       caption: View of one of the main Lass Geel main panels, taken with a fish eye
         lens. Laas Geel, Somaliland. 2013,2034.16068 © TARA/David Coulson
       col_link: http://bit.ly/2iLyTXN
@@ -109,7 +109,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 11:48:53.979000000 Z
       title: '2013,2034.16068'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4oUCCQM2xiEaa0WIKyAoIm/68d05107d238d784fb598eb52c5a3f29/SOMLAG0090043.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4oUCCQM2xiEaa0WIKyAoIm/68d05107d238d784fb598eb52c5a3f29/SOMLAG0090043.jpg"
     caption: View of one of the main Lass Geel main panels, taken with a fish eye
       lens. Laas Geel, Somaliland. 2013,2034.16068 © TARA/David Coulson
     col_link: http://bit.ly/2iLyTXN
@@ -144,7 +144,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 11:49:13.227000000 Z
         title: '2013,2034.15894'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4VTvKF1G52eSUicC2wuu8e/35bd5996e54375f75258f75aca92a208/SOMLAG0050018.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4VTvKF1G52eSUicC2wuu8e/35bd5996e54375f75258f75aca92a208/SOMLAG0050018.jpg"
       caption: View of panel with painted depictions of cattle, antelopes and a giraffe.
         Laas Geel, Somaliland.  2013,2034.15894 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709550
@@ -160,7 +160,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 11:49:13.227000000 Z
       title: '2013,2034.15894'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4VTvKF1G52eSUicC2wuu8e/35bd5996e54375f75258f75aca92a208/SOMLAG0050018.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4VTvKF1G52eSUicC2wuu8e/35bd5996e54375f75258f75aca92a208/SOMLAG0050018.jpg"
     caption: View of panel with painted depictions of cattle, antelopes and a giraffe.
       Laas Geel, Somaliland.  2013,2034.15894 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709550
@@ -192,7 +192,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 11:49:30.632000000 Z
         title: '2013,2034.15821'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/65ttuyQSS4C4CC62kSKeaQ/b8267145843996f0f0846f54ea8a1272/SOMLAG0020001.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/65ttuyQSS4C4CC62kSKeaQ/b8267145843996f0f0846f54ea8a1272/SOMLAG0020001.jpg"
       caption: View of cow and human figure painted at the middle of the rock art
         panel, with other cows depicted to the lower left. Laas Geel, Somaliland.
         2013,2034.15821 © TARA/David Coulson
@@ -209,7 +209,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 11:49:30.632000000 Z
       title: '2013,2034.15821'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/65ttuyQSS4C4CC62kSKeaQ/b8267145843996f0f0846f54ea8a1272/SOMLAG0020001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/65ttuyQSS4C4CC62kSKeaQ/b8267145843996f0f0846f54ea8a1272/SOMLAG0020001.jpg"
     caption: View of cow and human figure painted at the middle of the rock art panel,
       with other cows depicted to the lower left. Laas Geel, Somaliland. 2013,2034.15821
       © TARA/David Coulson
@@ -240,7 +240,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 11:49:46.453000000 Z
         title: '2013,2034.15446'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/Le7MwhlqWA8omCGckqeC0/b715080968450f4bbcde78c1186b022e/SOMGAB0010009.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/Le7MwhlqWA8omCGckqeC0/b715080968450f4bbcde78c1186b022e/SOMGAB0010009.jpg"
       caption: Group of painted cows with curved horns and marked udders, superimposed
         by more modern, white geometric signs. Dhaga Koure, Somaliland. 2013,2034.15446
         © TARA/David Coulson
@@ -257,7 +257,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 11:49:46.453000000 Z
       title: '2013,2034.15446'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/Le7MwhlqWA8omCGckqeC0/b715080968450f4bbcde78c1186b022e/SOMGAB0010009.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/Le7MwhlqWA8omCGckqeC0/b715080968450f4bbcde78c1186b022e/SOMGAB0010009.jpg"
     caption: Group of painted cows with curved horns and marked udders, superimposed
       by more modern, white geometric signs. Dhaga Koure, Somaliland. 2013,2034.15446
       © TARA/David Coulson
@@ -292,12 +292,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 11:49:13.227000000 Z
     title: '2013,2034.15894'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4VTvKF1G52eSUicC2wuu8e/35bd5996e54375f75258f75aca92a208/SOMLAG0050018.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4VTvKF1G52eSUicC2wuu8e/35bd5996e54375f75258f75aca92a208/SOMLAG0050018.jpg"
   - sys:
       id: 31GgY4I8aIMi6wscCMaysq
       created_at: !ruby/object:DateTime 2015-11-25 11:48:33.941000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 11:48:33.941000000 Z
     title: '2013,2034.15841'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/31GgY4I8aIMi6wscCMaysq/38ee13ba0978feca8e05b9e9f6ad9ecb/SOMLAG0020021.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/31GgY4I8aIMi6wscCMaysq/38ee13ba0978feca8e05b9e9f6ad9ecb/SOMLAG0020021.jpg"
 ---

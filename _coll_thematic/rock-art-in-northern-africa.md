@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 15:53:30.004000000 Z
     title: '2013,2034.3840'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1fzfpavYuGaOKaAM2ko6es/f1e27e311dca40ce58657e5e88cb8526/2013_2034.3840.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1fzfpavYuGaOKaAM2ko6es/f1e27e311dca40ce58657e5e88cb8526/2013_2034.3840.jpg"
   chapters:
   - sys:
       id: axu12ftQUoS04AQkcSWYI
@@ -47,7 +47,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:53:30.004000000 Z
       title: '2013,2034.3840'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1fzfpavYuGaOKaAM2ko6es/f1e27e311dca40ce58657e5e88cb8526/2013_2034.3840.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1fzfpavYuGaOKaAM2ko6es/f1e27e311dca40ce58657e5e88cb8526/2013_2034.3840.jpg"
     caption: Bubalus Period engraving. Pelorovis Antiquus, Wadi Mathendous, Libya.
       2013,2034.3840 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3593438&partId=1&images=true&people=197356&museumno=2013,2034.3840&page=1
@@ -90,7 +90,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:53:37.250000000 Z
       title: '2013,2034.1424'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2N4uhoeNLOceqqIsEM6iCC/240a45012afba4ff5508633fcaea3462/2013_2034.1424.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2N4uhoeNLOceqqIsEM6iCC/240a45012afba4ff5508633fcaea3462/2013_2034.1424.jpg"
     caption: Pastoral Period painting, cattle and human figure. Tin Taborak, Acacus
       Mountains, Libya. 2013,2034.1424 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3592663
@@ -127,7 +127,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:53:37.288000000 Z
       title: '2013,2034.1152'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5A1AwRfu9yM8mQ8EeOeI2I/cac0592abfe1b31d7cf7f589355a216e/2013_2034.1152.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5A1AwRfu9yM8mQ8EeOeI2I/cac0592abfe1b31d7cf7f589355a216e/2013_2034.1152.jpg"
     caption: Round Head Period painting, human figures. Wadi Tafak, Acacus Mountains,
       Libya. 2013,2034.1152 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3592099&partId=1&images=true&people=197356&page=1
@@ -153,7 +153,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:53:29.989000000 Z
       title: '2013,2034.4570'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1YAVmJPnZ2QQiguCQsgOUi/4080b87891cb255e12a17216d7e71286/2013_2034.4570.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1YAVmJPnZ2QQiguCQsgOUi/4080b87891cb255e12a17216d7e71286/2013_2034.4570.jpg"
     caption: Horse Period painting, charioteer and standing horses. Tarssed Jebest,
       Ajjer Plateau, Algeria. 2013,2034.4570 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3603794
@@ -183,7 +183,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:53:29.964000000 Z
       title: 2013,2034.1424 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6MOI9r5tV6Gkae0CEiQ2oQ/bad4ec8dd7c6ae553d623e4238641561/2013_2034.1424_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6MOI9r5tV6Gkae0CEiQ2oQ/bad4ec8dd7c6ae553d623e4238641561/2013_2034.1424_1.jpg"
     caption: Camel engraving. Karkur Talh, Jebel Uweinat, Sudan. 2013,2034.335 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3586831
@@ -235,12 +235,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 19:41:46.025000000 Z
     title: EAF135068
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3ZTCdLVejemGiCIWMqa8i/5a0d13fdd2150f0ff81a63afadd4258e/EAF135068.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3ZTCdLVejemGiCIWMqa8i/5a0d13fdd2150f0ff81a63afadd4258e/EAF135068.jpg"
   - sys:
       id: 2jvgN3MMfqoAW6GgO8wGWo
       created_at: !ruby/object:DateTime 2015-12-07 19:41:50.029000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 19:41:50.029000000 Z
     title: EAF131007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2jvgN3MMfqoAW6GgO8wGWo/393c91068f4dc0ca540c35a79b965288/EAF131007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2jvgN3MMfqoAW6GgO8wGWo/393c91068f4dc0ca540c35a79b965288/EAF131007.jpg"
 ---

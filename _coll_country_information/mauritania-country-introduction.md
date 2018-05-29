@@ -30,7 +30,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
       title: '2013,2034.12277'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6a9PIc2PD2GoSys6umKim/df4fd71d342462545f28c306a798de62/2013_2034.12277.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6a9PIc2PD2GoSys6umKim/df4fd71d342462545f28c306a798de62/2013_2034.12277.jpg"
     caption: Painted horses, riders and standing human figure. Oued Jrid, Hodh el
       Garbi, Mauritania. 2013,2034.12277 © TARA/David Coulson
     col_link: http://bit.ly/2iaQquq
@@ -76,7 +76,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.581000000 Z
       title: '2013,2034.2312'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4lA1J5Jly0MSImIsQ2GwUo/91ed83183f46bedf859da6b1fb5ffcaa/2013_2034.2312.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4lA1J5Jly0MSImIsQ2GwUo/91ed83183f46bedf859da6b1fb5ffcaa/2013_2034.2312.jpg"
     caption: 'Painted geometric circle design, Oued Jrid, Hodh el Garbi, Mauritania.
       2013,2034.2312 © TARA/David Coulson '
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3618068&partId=1&searchText=2013,2034.2312&page=1
@@ -103,7 +103,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
       title: '2013,2034.12421'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5u1VecbrbOq4cCICyqiOAw/c4223338beae42378b3c34f8ab1b5a8e/2013_2034.12421.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5u1VecbrbOq4cCICyqiOAw/c4223338beae42378b3c34f8ab1b5a8e/2013_2034.12421.jpg"
     caption: Painted heads of antelope facing left, Guilemsi, Tadrart, Mauritania.
       2013,2034.12421 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646345&partId=1&searchText=2013,2034.12421&page=1
@@ -129,7 +129,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.657000000 Z
       title: '2013,2034.12381'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5LOsfjF8UEYmIUaQ00cA8i/2f5c949384c4cd1e5a23e4cc77a4904f/2013_2034.12381.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5LOsfjF8UEYmIUaQ00cA8i/2f5c949384c4cd1e5a23e4cc77a4904f/2013_2034.12381.jpg"
     caption: Cattle painted with different designs, Guilemsi, Tagant, Mauritania.
       2013,2034.12381 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646170&partId=1&searchText=2013,2034.12381+&page=1
@@ -145,7 +145,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.724000000 Z
       title: '2013,2034.12449'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6Cccz71bd66Es0EcmMqICa/82071c6a91a03c64020c9d7ce81fc354/2013_2034.12449.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6Cccz71bd66Es0EcmMqICa/82071c6a91a03c64020c9d7ce81fc354/2013_2034.12449.jpg"
     caption: Cattle painted with different designs, Guilemsi, Tagant, Mauritania.
       2013,2034.12449 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3647071&partId=1&searchText=2013%2c2034.12449&page=1
@@ -182,7 +182,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
       title: '2013,2034.12332'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/W4EibqP766CYAamWyqkQK/523fee62695a3de60ff7940899dfaaf1/2013_2034.12332.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/W4EibqP766CYAamWyqkQK/523fee62695a3de60ff7940899dfaaf1/2013_2034.12332.jpg"
     caption: Engraved geometric shapes, M’Treoka, Hodh el Garbi, Mauritania. 2013,2034.12332
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646132&partId=1&searchText=2013%2c2034.12332&page=1
@@ -228,7 +228,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:26.009000000 Z
       title: '2013,2034.12340'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6gZ1qhryX6EM26sQo4MWYQ/ffd1149106f1364f7e7c15130243b5cc/2013_2034.12340.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6gZ1qhryX6EM26sQo4MWYQ/ffd1149106f1364f7e7c15130243b5cc/2013_2034.12340.jpg"
     caption: Crocodiles in pool below engraving site at M’Treoka with relict populations
       of crocodiles. Hodh el Garbi, Mauritania. 2013,2034.12340 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646115&partId=1&searchText=2013,2034.12340&page=1
@@ -281,7 +281,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
       title: '2013,2034.12285'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4zNeoXAAesUaCGoaSic6qO/97398e8ebe5bd8be1adf57f450a72e08/2013_2034.12285.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4zNeoXAAesUaCGoaSic6qO/97398e8ebe5bd8be1adf57f450a72e08/2013_2034.12285.jpg"
     caption: Painted ‘bitriangular’ horse and rider with saddle, Guilemsi, Mauritania.
       2013,2034.12285 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645983&partId=1&searchText=2013%2c2034.12285&page=1
@@ -314,7 +314,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:50:26.009000000 Z
       title: '2013,2034.12390'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6NlmQWPzJSiCWEIek2ySa8/f6454e19c8de0ed0ba409100bc3cd56b/2013_2034.12390.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6NlmQWPzJSiCWEIek2ySa8/f6454e19c8de0ed0ba409100bc3cd56b/2013_2034.12390.jpg"
     caption: Handprint, Guilemsi, Tagant, Mauritania.2013,2034.12390 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646185&partId=1&searchText=2013%2c2034.12390&page=1

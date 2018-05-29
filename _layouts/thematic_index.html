@@ -6,6 +6,7 @@ layout: default
 <div class="container">
     <h1 class="page-heading">Explore {{ page.title }} </h1>
     {% for item in collection.docs %}
+
     {% assign introduction = item.contentful.chapters | where: "sys.content_type_id", "chapter" | first %}
     {% assign image = item.contentful.lead_image %}
 
@@ -20,11 +21,14 @@ layout: default
                 </div>
                 <div class="column-two-tenth">
                     <div class="square-thumbnail">
-                        {% include image.html image=image format="140x140" %}
+                        <a href="{{ item.url | relative_url }}">
+                            {% include image.html image=image format="140x140" %}
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     {% endfor %}
 </div>

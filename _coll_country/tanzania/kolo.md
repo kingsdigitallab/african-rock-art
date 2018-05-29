@@ -47,7 +47,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:35.056000000 Z
       title: TANKON0030027 jpeg edited-1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4qqgpg1KTmKwEA8kQsg8Qe/1d8fb417f4142acaf65be18c6c6b8ea0/TANKON0030027_jpeg_edited-1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4qqgpg1KTmKwEA8kQsg8Qe/1d8fb417f4142acaf65be18c6c6b8ea0/TANKON0030027_jpeg_edited-1.jpg"
     caption: View looking out over Kondoa landscape. 2013,2034.16829 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3709780&partId=1&searchText=2013,2034.16829&page=1
@@ -82,7 +82,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:35.991000000 Z
       title: TANKON0030032 jpeg edited-1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6hDS1W5bdSYICYEse20Wuw/48e981adce78ac63fc6ec12701fa5145/TANKON0030032_jpeg_edited-1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6hDS1W5bdSYICYEse20Wuw/48e981adce78ac63fc6ec12701fa5145/TANKON0030032_jpeg_edited-1.jpg"
     caption: Three slender figures with elongated bodies wearing elaborate curved
       feather-like headdresses. Kolo 1, Kondoa, Tanzania. 2013,2034.16832 © TARA/David
       Coulson
@@ -134,7 +134,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:35.269000000 Z
       title: TANKON0030008 jpeg edited-1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6HJM4veidyg8KAO6WsaOcc/85bf74728415037376fb5eca97f3f527/TANKON0030008_jpeg_edited-1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6HJM4veidyg8KAO6WsaOcc/85bf74728415037376fb5eca97f3f527/TANKON0030008_jpeg_edited-1.jpg"
     caption: Group of five figures, one with animal-like head and grazing antelope
       on the left. Kolo 1, Kondoa, Tanzania. 2013,2034.16820 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3709705&partId=1&searchText=2013,2034.20311+&images=true&people=197356&museumno=2013,2034.16819&page=1
@@ -161,7 +161,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:35.042000000 Z
       title: TANKON0030014 jpeg edited-1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/27ttIF1VA4e8ekcAcea4G6/d705e5dbf518d996376eed7193eb1ae2/TANKON0030014_jpeg_edited-1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/27ttIF1VA4e8ekcAcea4G6/d705e5dbf518d996376eed7193eb1ae2/TANKON0030014_jpeg_edited-1.jpg"
     caption: Panel of slender red figures with elongated bodies, showing large figure
       bent at waist. Kolo 1, Kondoa, Tanzania. 2013,2034.16824 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3709771&partId=1&searchText=2013,2034.16824&page=1
@@ -188,7 +188,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:37.039000000 Z
       title: TANKON0030085 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4eWYwHYojCu0EIYyoQGgMI/4b39bad47efe37b9e6d0ab830c823649/TANKON0030085_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4eWYwHYojCu0EIYyoQGgMI/4b39bad47efe37b9e6d0ab830c823649/TANKON0030085_jpeg.jpg"
     caption: Painted panel damaged by water seepage. Kolo 1, Kondoa, Tanzania. 2013,2034.16876
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3709830&partId=1&searchText=2013,2034.16876&page=1
@@ -216,12 +216,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-07-27 07:46:32.004000000 Z
     title: TANKON0030029
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6cqE0uH6mswkKcOkWA6waC/7e3e2d492733456ba58f56ccbf8e5bac/TANKON0030029.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6cqE0uH6mswkKcOkWA6waC/7e3e2d492733456ba58f56ccbf8e5bac/TANKON0030029.jpg"
   - sys:
       id: DiswAHlgIgmsgEMUiQYm4
       created_at: !ruby/object:DateTime 2016-07-27 07:46:32.111000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:46:32.111000000 Z
     title: TANKON0030077
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/DiswAHlgIgmsgEMUiQYm4/a68c86b9a0f96c2c658570a581af71f3/TANKON0030077.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/DiswAHlgIgmsgEMUiQYm4/a68c86b9a0f96c2c658570a581af71f3/TANKON0030077.jpg"
 ---

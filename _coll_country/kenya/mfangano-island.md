@@ -41,7 +41,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:22.433000000 Z
       title: KENVIC0010032 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/37G9MkkxFuC0mu6qGwcs2y/20dfc41bbaef46d2cc5b733269b032ce/KENVIC0010032_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/37G9MkkxFuC0mu6qGwcs2y/20dfc41bbaef46d2cc5b733269b032ce/KENVIC0010032_1.jpg"
     caption: Lake Victoria. 2013,2034.14266  © David Coulson/TARA.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3692066&partId=1&searchText=2013,2034.14266&page=1
   - sys:
@@ -78,7 +78,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:43.951000000 Z
       title: KENVIC0020005 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4RTDlc6IOIikMaMg8mQaoc/2572f0ad5751cb16ffb281daccfc39d3/KENVIC0020005_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4RTDlc6IOIikMaMg8mQaoc/2572f0ad5751cb16ffb281daccfc39d3/KENVIC0020005_1.jpg"
     caption: Painted panel at Mawanga Cave. 2013,2034.14278  © David Coulson/TARA.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3692333&partId=1&searchText=2013,2034.14278&page=1
   - sys:
@@ -93,7 +93,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:43.951000000 Z
       title: KENVIC0010001 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/516BFdHg1G4yO6IkWOQimW/7c7491674484c9ae4d39ccc06d98b6be/KENVIC0010001_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/516BFdHg1G4yO6IkWOQimW/7c7491674484c9ae4d39ccc06d98b6be/KENVIC0010001_1.jpg"
     caption: Spiral and sunburst at Kwitone. 2013,2034.14250 © David Coulson/TARA.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3685756&partId=1&searchText=2013,2034.14250&page=1
   - sys:
@@ -127,7 +127,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:35.128000000 Z
       title: UGAVIC0060005 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2wD915QEYQqsQCCyEusyoW/1d5d5b96ebac21badfaaa87cbb154ca5/UGAVIC0060005_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2wD915QEYQqsQCCyEusyoW/1d5d5b96ebac21badfaaa87cbb154ca5/UGAVIC0060005_1.jpg"
     caption: "“Dumbbell” shapes at nearby Lolui Island. 2013,2304.15306  © David Coulson/TARA."
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691242&partId=1
   - sys:
@@ -166,7 +166,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:22.434000000 Z
       title: KENVIC0020012 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/iF8lN8WDzqKWeu2OUQ8gc/1ea0ae4e085ae7da13cb701cb35493c5/KENVIC0020012_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/iF8lN8WDzqKWeu2OUQ8gc/1ea0ae4e085ae7da13cb701cb35493c5/KENVIC0020012_1.jpg"
     caption: Natural “cupules”, Mawanga Cave.  2013,2034.14285 © David Coulson/TARA.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3692304&partId=1&searchText=2013,2034.14285&page=1
   - sys:
@@ -205,7 +205,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:22.436000000 Z
       title: KENVIC0010039 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4QK41OYhpSa0qogICAW2aQ/fddcfe64e7040cb2dfde96be8d043a2d/KENVIC0010039_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4QK41OYhpSa0qogICAW2aQ/fddcfe64e7040cb2dfde96be8d043a2d/KENVIC0010039_1.jpg"
     caption: Sign leading to the rock art on Mfangano Island. 2013,2034.14273 © David
       Coulson/TARA.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3692275&partId=1&searchText=2013,2034.14273&page=1
@@ -239,12 +239,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-08 18:49:22.433000000 Z
     title: KENVIC0010032 1
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/37G9MkkxFuC0mu6qGwcs2y/20dfc41bbaef46d2cc5b733269b032ce/KENVIC0010032_1.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/37G9MkkxFuC0mu6qGwcs2y/20dfc41bbaef46d2cc5b733269b032ce/KENVIC0010032_1.jpg"
   - sys:
       id: iF8lN8WDzqKWeu2OUQ8gc
       created_at: !ruby/object:DateTime 2015-12-08 18:49:22.434000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 18:49:22.434000000 Z
     title: KENVIC0020012 1
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/iF8lN8WDzqKWeu2OUQ8gc/1ea0ae4e085ae7da13cb701cb35493c5/KENVIC0020012_1.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/iF8lN8WDzqKWeu2OUQ8gc/1ea0ae4e085ae7da13cb701cb35493c5/KENVIC0020012_1.jpg"
 ---

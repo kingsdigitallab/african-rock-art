@@ -3,7 +3,7 @@ contentful:
   sys:
     id: 6kCSAOUxGwi44GMaGwiqOC
     created_at: !ruby/object:DateTime 2015-12-08 11:20:21.669000000 Z
-    updated_at: !ruby/object:DateTime 2016-10-18 09:49:06.298000000 Z
+    updated_at: !ruby/object:DateTime 2018-05-17 16:50:40.972000000 Z
     content_type_id: country
   name: South Africa
   slug: south-africa
@@ -17,42 +17,42 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-12 15:10:44.445000000 Z
     title: SOADRB0060022
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5Q0aWg25UWIIiKA8ukoEyS/5f0bca2c21b38c3e8e377e261f8e9e06/SOADRB0060022.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5Q0aWg25UWIIiKA8ukoEyS/5f0bca2c21b38c3e8e377e261f8e9e06/SOADRB0060022.jpg"
   - sys:
       id: 1VzKgiG0y8EIUcGmkueqMk
       created_at: !ruby/object:DateTime 2016-09-12 15:10:51.615000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:10:51.615000000 Z
     title: SOANTC0010007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1VzKgiG0y8EIUcGmkueqMk/7b7ae67f3a677dc9e877d3865e39209d/SOANTC0010007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1VzKgiG0y8EIUcGmkueqMk/7b7ae67f3a677dc9e877d3865e39209d/SOANTC0010007.jpg"
   - sys:
       id: 5e7KMSlhwksGWkKggGcO6e
       created_at: !ruby/object:DateTime 2016-09-12 15:11:05.796000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:11:05.796000000 Z
     title: SOANTC0020007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5e7KMSlhwksGWkKggGcO6e/29ff3bcaa6a860961bb02131d4361e2e/SOANTC0020007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5e7KMSlhwksGWkKggGcO6e/29ff3bcaa6a860961bb02131d4361e2e/SOANTC0020007.jpg"
   - sys:
       id: 6KNIv5SuCQMMYoE4qE4S8A
       created_at: !ruby/object:DateTime 2016-09-12 15:11:13.130000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:11:13.130000000 Z
     title: SOANTC0040005
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6KNIv5SuCQMMYoE4qE4S8A/059e102e1b8e3d44c707351e7ec9c8ed/SOANTC0040005.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6KNIv5SuCQMMYoE4qE4S8A/059e102e1b8e3d44c707351e7ec9c8ed/SOANTC0040005.jpg"
   - sys:
       id: 5bGzl4ABJecgssmAccaog2
       created_at: !ruby/object:DateTime 2016-09-12 15:11:23.273000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:11:23.273000000 Z
     title: SOASWC0050009
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5bGzl4ABJecgssmAccaog2/de2c686122e5fa00afd2f5bc12b52a7f/SOASWC0050009.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5bGzl4ABJecgssmAccaog2/de2c686122e5fa00afd2f5bc12b52a7f/SOASWC0050009.jpg"
   - sys:
       id: 6GqC6D7ckgwSoCCKEQqiEm
       created_at: !ruby/object:DateTime 2016-09-12 15:11:37.019000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:11:37.019000000 Z
     title: SOASWC0110006
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
   featured_site:
     sys:
       id: 2XOggE9Gxaew6iMMKS4E4U
@@ -83,7 +83,7 @@ contentful:
     - sys:
         id: 6mZ8n44JbyOIMKaQYKgm4k
         created_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:12:11.338000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:55:27.144000000 Z
         content_type_id: image
       image:
         sys:
@@ -92,14 +92,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:12:27.902000000 Z
         title: SOADRB0080002
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/XICyV4qumymqa8eIqCOeS/5c82b58cf67f6c300485aea40eb5b05a/SOADRB0080002.jpg"
-      caption: View of the Game Pass Shelter from below (2013,2034.18362) ©TARA/David
+        url: "//images.ctfassets.net/xt8ne4gbbocd/XICyV4qumymqa8eIqCOeS/5c82b58cf67f6c300485aea40eb5b05a/SOADRB0080002.jpg"
+      caption: View of the Game Pass Shelter from below. 2013,2034.18363 ©TARA/David
         Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3760825&partId=1&searchText=2013,2034.18362&page=1
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730908&partId=1&searchText=2013,2034.18363&page=1
     - sys:
         id: 3xOl8hqio0E2wYYKIKomag
         created_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:12:45.525000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:57:48.547000000 Z
         content_type_id: image
       image:
         sys:
@@ -108,35 +108,35 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:12:39.975000000 Z
         title: SOADRB0080007
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3cyElw8MaIS24gq8ioCcka/fcea216b7327f325bf27e3cebe49378e/SOADRB0080007.jpg"
-      caption: Painted panel showing multiple eland antelope and other figures (2013,2034.18368)
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3cyElw8MaIS24gq8ioCcka/fcea216b7327f325bf27e3cebe49378e/SOADRB0080007.jpg"
+      caption: Painted panel showing multiple eland antelope and other figures. 2013,2034.18368
         ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730846&partId=1&searchText=2013,2034.18368&page=1
     - sys:
         id: 3ilqDwqo80Uq6Q42SosqQK
         created_at: !ruby/object:DateTime 2016-09-12 15:12:59.726000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-30 16:15:24.700000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:59:22.144000000 Z
         content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 2'
       body: The most prominent painting panel at Game Pass shows a series of carefully
         depicted eland antelope in delicately shaded red, brown and white pigment,
-        largely super-imposing a group of ambiguous anthropomorphic figures wrapped
+        largely super imposing a group of ambiguous anthropomorphic figures wrapped
         in what appear to be bell-shaped karosses (traditional skin cloaks). Several
         small human figures appear to be running above them. These are some of the
         best-preserved rock paintings in the Drakensberg, with the largest animals
         around 30 cm long.  To the left of this panel are two smaller sets of images,
         one with two further eland, some further human-like figures and a human figure
-        with a bow; the other (Fig. 1 below) a small panel, for which the site is
-        most renowned.   An image around 50 cm long  shows an eland with its face
-        turned towards the viewer, depicted as if stumbling forwards, with its hind
-        legs crossed.  Grasping the eland's tail is a therianthrope figure with hooves
-        for feet. Like the eland, this figure has its legs crossed and is depicted
-        with small lines like raised hairs bristling from its body. To the right are
-        three further therianthrope figures.
+        with a bow; the other a small panel, for which the site is most renowned.
+        An image around 50 cm long  shows an eland with its face turned towards the
+        viewer, depicted as if stumbling forwards, with its hind legs crossed.  Grasping
+        the eland's tail is a therianthrope figure with hooves for feet. Like the
+        eland, this figure has its legs crossed and is depicted with small lines like
+        raised hairs bristling from its body. To the right are three further therianthrope
+        figures.
     - sys:
         id: 3oYyhNlOdWu4oaoG0qUEGC
         created_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:13:08.484000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:02:39.599000000 Z
         content_type_id: image
       image:
         sys:
@@ -145,14 +145,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:13:12.516000000 Z
         title: SOADRB0080015
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/777S5VQyBO0cMwKC0ayqKe/67d88e9197416be62cc8ccc0b576adf9/SOADRB0080015.jpg"
-      caption: Fig. 1. Panel showing an eland antelope and therianthrope figures (2013,2034.18376)
-        ©TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/777S5VQyBO0cMwKC0ayqKe/67d88e9197416be62cc8ccc0b576adf9/SOADRB0080015.jpg"
+      caption: Panel showing an eland antelope with crossed legs and a therianthrope
+        figure grasping its tail. 2013,2034.18376 ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730898&partId=1&searchText=2013,2034.18376&page=1
     - sys:
         id: 3t21DyQhhu6KYE24yOuW6E
         created_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:13:26.839000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:02:03.671000000 Z
         content_type_id: chapter
       title_internal: 'South Africa: featured site, chapter 3'
       body: The rock paintings from this site were first brought to public attention
@@ -160,14 +160,14 @@ contentful:
         on and discussed through the 20th century.  While studying a reproduction
         of the image with the stumbling eland in the early 1970s, researcher David
         Lewis-Williams began to consider that the figure holding the eland's tail
-        (Fig. 2 below) might not be a simple illustration of a man wearing a skin
-        suit, or performing an act of bravura, as had been suggested by previous researchers,
-        but might be “idiomatic and metaphorical, rather than illustrative” (Lewis-Williams
+        might not be a simple illustration of a man wearing a skin suit, or performing
+        an act of bravura, as had been suggested by previous researchers, but might
+        be “idiomatic and metaphorical, rather than illustrative” (Lewis-Williams
         1981:91).
     - sys:
         id: 8JKh5DFTLqMsaCQWAAA4c
         created_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:13:41.069000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:03:14.804000000 Z
         content_type_id: image
       image:
         sys:
@@ -176,9 +176,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:13:36.176000000 Z
         title: SOADRB0080017
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2QyopQgIx2AAMU46gEM2Wg/614f0c5c375d7d8e8e9be93ce2179a18/SOADRB0080017.jpg"
-      caption: Fig. 2. The figure holding the eland’s tail has similar qualities to
-        the eland itself (2013,2034.1838). ©TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2QyopQgIx2AAMU46gEM2Wg/614f0c5c375d7d8e8e9be93ce2179a18/SOADRB0080017.jpg"
+      caption: The figure holding the eland’s tail has similar qualities to the eland
+        itself. 2013,2034.1838 ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730897&partId=1&place=107937&plaA=107937-2-2&page=1
     - sys:
         id: 1l6QCXODlWoa6kmgWAgco2
@@ -215,7 +215,7 @@ contentful:
     - sys:
         id: 4cmGHIbGFqOEqYWwyi0S2e
         created_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:14:08.008000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:05:13.185000000 Z
         content_type_id: image
       image:
         sys:
@@ -224,8 +224,10 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:14:04.272000000 Z
         title: SOADRB0010012
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5qjFwYmXkca88mMcWSiGgc/761a55733ca2935fd7056e1a0de33dd6/SOADRB0010012.jpg"
-      caption: Two eland antelope running in the Drakensberg ©TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5qjFwYmXkca88mMcWSiGgc/761a55733ca2935fd7056e1a0de33dd6/SOADRB0010012.jpg"
+      caption: Two eland antelope running in the Drakensberg. 2013,2034.18180 ©TARA/David
+        Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3729855&partId=1&searchText=2013,2034.18180&page=1
     - sys:
         id: 1VRoS6FN4ga60gcYImm6c2
         created_at: !ruby/object:DateTime 2016-09-12 15:14:20.350000000 Z
@@ -239,7 +241,7 @@ contentful:
     - sys:
         id: n044NT3TZAYwKSakkogoU
         created_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:14:38.475000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:05:31.169000000 Z
         content_type_id: image
       image:
         sys:
@@ -248,8 +250,8 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:14:34.660000000 Z
         title: SOADRB0080019
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/60II5zuUne2A80682sYYs2/bbee114e572cf8a7a403d6802749707c/SOADRB0080019.jpg"
-      caption: Fig. 3.  Eland and faded figures.  2013,2034.18391 ©TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/60II5zuUne2A80682sYYs2/bbee114e572cf8a7a403d6802749707c/SOADRB0080019.jpg"
+      caption: Eland and faded figures.  2013,2034.18391 ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730884&partId=1&place=107937&plaA=107937-2-2&page=1
     - sys:
         id: 5Lheod1OGAYUW4Goi6GAUo
@@ -303,14 +305,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:15:14.404000000 Z
       title: SOADRB0080001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6qIbC41P8IM2O8K4w6g0Ec/60009e28497973bd9682d19ba5a9d497/SOADRB0080001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6qIbC41P8IM2O8K4w6g0Ec/60009e28497973bd9682d19ba5a9d497/SOADRB0080001.jpg"
     - sys:
         id: ARPF2hJVwOYm0iaAgUmk0
         created_at: !ruby/object:DateTime 2016-09-12 15:15:22.171000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 15:15:22.171000000 Z
       title: SOADRB0080039
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/ARPF2hJVwOYm0iaAgUmk0/40e2845d0ffe86c19d674886a3721b10/SOADRB0080039.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/ARPF2hJVwOYm0iaAgUmk0/40e2845d0ffe86c19d674886a3721b10/SOADRB0080039.jpg"
   key_facts:
     sys:
       id: 3bOoDYEftKw6emikskymiu
@@ -326,6 +328,238 @@ contentful:
     main_themes: 'human figures, large fauna, particularly eland antelope, geometric
       shapes, occasionally subjects dating to the recent past such as firearms and
       people riding horses '
+  thematic_articles:
+  - sys:
+      id: 2Rh3XLBCreIy6ms4cKYKIQ
+      created_at: !ruby/object:DateTime 2017-08-13 13:52:18.110000000 Z
+      updated_at: !ruby/object:DateTime 2017-08-13 13:55:09.227000000 Z
+      content_type_id: thematic
+    title: Contact Rock Art in South Africa
+    slug: contact-rock-art-south-africa
+    lead_image:
+      sys:
+        id: 6GqC6D7ckgwSoCCKEQqiEm
+        created_at: !ruby/object:DateTime 2016-09-12 15:11:37.019000000 Z
+        updated_at: !ruby/object:DateTime 2016-09-12 15:11:37.019000000 Z
+      title: SOASWC0110006
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
+    chapters:
+    - sys:
+        id: 4cLakkCQWQUUYiceIaW6AG
+    - sys:
+        id: 3rcFEUcVbqgqQ0mYUmgYYu
+    - sys:
+        id: 32Q6z3T9aU6WAUkuaI4Ikm
+    - sys:
+        id: 3C150sXEbCMQ8QMcYKui4C
+    - sys:
+        id: 1ob9WoGxQIKok6gWwiAkEO
+    - sys:
+        id: 6TiCFpLBHGUYCuOaOWoeYC
+    - sys:
+        id: 4nHgrO0wmQkaUGguQKeC2I
+    - sys:
+        id: 1O1Wk9Grbie4EiikoiyySE
+    - sys:
+        id: 3tat1UEvxSwg6swC0OmWs2
+    - sys:
+        id: qkyiaZ7KjmACgou0suywM
+    - sys:
+        id: 5jp2LySdcAseIEcsy08Ssw
+    - sys:
+        id: 3ZSiZ5Zly8YeAcWKOs0M6k
+    - sys:
+        id: 6w7bPvqDzG4mmwKSkC2ua4
+    - sys:
+        id: 1hLrFnRQlm6eEgeG2IMIcg
+    - sys:
+        id: 6Zo0yGAQ3mY8wqw8U60W2s
+    - sys:
+        id: 4v55jtTmQEoe2sCauwUisQ
+    - sys:
+        id: 4vGr1ql4RGaKSy0SMWieS2
+    - sys:
+        id: 4HFYx1dTdm2GEQI4Q6WwqC
+    - sys:
+        id: 1IpPlvLRE42IYkcmayCUGq
+    - sys:
+        id: 7cu4xgoZhe48gOqI4iM2YS
+    - sys:
+        id: 6DhPevH8J222e6GEEkqU2A
+    - sys:
+        id: 6eZhwxCwyQoUQkuWyQsooi
+    - sys:
+        id: 227ir2Bipm8mmc2YKSMWkO
+    citations:
+    - sys:
+        id: 7z28m7agdUckmmAUeEsoao
+    background_images:
+    - sys:
+        id: 6QHTRqNGXmWic6K2cQU8EA
+        created_at: !ruby/object:DateTime 2016-09-13 13:03:52.426000000 Z
+        updated_at: !ruby/object:DateTime 2016-09-13 13:03:52.426000000 Z
+      title: SOASWC0110006
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6QHTRqNGXmWic6K2cQU8EA/3d924964d904e34e6711c6224a7429e6/SOASWC0110006.jpg"
+    - sys:
+        id: 6OFVBr3mUgqcwCi4oC0u6m
+        created_at: !ruby/object:DateTime 2017-08-13 13:27:10.583000000 Z
+        updated_at: !ruby/object:DateTime 2017-08-13 13:27:10.583000000 Z
+      title: '2013,2034.19509'
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6OFVBr3mUgqcwCi4oC0u6m/5243bf9b8450bfab9fb3a454c2f78ca0/AN1613150762_l.jpg"
+  - sys:
+      id: 2fRpwDPsrmiQaUQMqSI8oA
+      created_at: !ruby/object:DateTime 2017-03-13 02:40:28.121000000 Z
+      updated_at: !ruby/object:DateTime 2017-03-13 02:40:28.121000000 Z
+      content_type_id: thematic
+    title: Rock Art VR - Game Pass Shelter Mobile App
+    slug: rockartvr
+    lead_image:
+      sys:
+        id: 2Sqy60hy3YSo4sQE2Ame6m
+        created_at: !ruby/object:DateTime 2017-03-12 22:34:27.617000000 Z
+        updated_at: !ruby/object:DateTime 2017-03-12 22:34:27.617000000 Z
+      title: Screen Shot 2016-12-12 at 3.34.33 PM
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2Sqy60hy3YSo4sQE2Ame6m/b58f2bdd6c004b4111987aba5c2bd362/Screen_Shot_2016-12-12_at_3.34.33_PM.png"
+    chapters:
+    - sys:
+        id: 6nHJUYFyucgyyMKs6iYwwo
+    - sys:
+        id: 2oGC8YIQnmIaewkKes6EqI
+    - sys:
+        id: 5rjsmkdjUcSEOWIYKuuCIi
+    - sys:
+        id: 4iG66vQ2MUu24GywiUEOYG
+    - sys:
+        id: 2XMhIpm5TW4mUySacSUggg
+    - sys:
+        id: 4f4xPt1kfeakUO4AE42yeg
+    - sys:
+        id: CV5a7U4DReuiC0e2yeUai
+    - sys:
+        id: 4Nw0ySbeZiIEuaimaYIowM
+    - sys:
+        id: 5i0X5VKYQEuYgCCUEUGsQm
+    - sys:
+        id: 6GhOyZzkrYAuG8agOSeA08
+    - sys:
+        id: 3O7wEtT9WgIIy6AWGw4guE
+    - sys:
+        id: 1cN6S7SmRywQYmGwKGsaw2
+    - sys:
+        id: 75vDJziuic2I02EQKym8Gm
+    - sys:
+        id: 7EhyKmW3NSKGeYksYOMGs
+    - sys:
+        id: 3KTPOINSlW6I0O6iEysQW
+    - sys:
+        id: 4whYOCUWdWiMY2MGiCWao0
+    - sys:
+        id: AmuS3r3zIkMIgSmIEKqcK
+    - sys:
+        id: 75ifs3faSWy0qw2eUS4Yu4
+    - sys:
+        id: 3dnPPXO03ecUwA2ymasCKo
+    background_images:
+    - sys:
+        id: 2qLasAyYmAM4wUS2gOe4yg
+        created_at: !ruby/object:DateTime 2017-03-12 22:40:18.738000000 Z
+        updated_at: !ruby/object:DateTime 2017-03-12 22:40:18.738000000 Z
+      title: Game Pass7
+      description: 
+      url: "//assets.ctfassets.net/xt8ne4gbbocd/2qLasAyYmAM4wUS2gOe4yg/50c79d5c2e310775bd444de205908a2e/Game_Pass7.tif"
+    - sys:
+        id: 4LZ2y95ptKWk2SwUQgwu4k
+        created_at: !ruby/object:DateTime 2017-03-12 22:42:48.598000000 Z
+        updated_at: !ruby/object:DateTime 2017-03-12 22:42:48.598000000 Z
+      title: Game Pass3
+      description: 
+      url: "//assets.ctfassets.net/xt8ne4gbbocd/4LZ2y95ptKWk2SwUQgwu4k/a5150665772b9d769f26ccf3c6b39f03/Game_Pass3.tif"
+  - sys:
+      id: 570TteJLy8EmE4SYAGKcQw
+      created_at: !ruby/object:DateTime 2017-06-14 17:36:35.946000000 Z
+      updated_at: !ruby/object:DateTime 2017-06-21 13:55:43.874000000 Z
+      content_type_id: thematic
+    title: Rhinos in rock art
+    slug: rhinos-in-rock-art
+    lead_image:
+      sys:
+        id: 4uVUj08mRGOCkmK64q66MA
+        created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
+        updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
+      title: NAMDMT0010010
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
+    chapters:
+    - sys:
+        id: 4kAwRERjIIQ4wSkS6y2i8c
+    - sys:
+        id: 2hohzbPqWMU2IGWEeSo2ma
+    - sys:
+        id: 5Ld8vmtLAAGcImkQaySck2
+    - sys:
+        id: 6jA55SyPksGMQIYmYceMkQ
+    - sys:
+        id: 7gBWq5BdnOYUGm6O4KK4u0
+    - sys:
+        id: 1LYEwVNEogggeMOcuQUOQW
+    - sys:
+        id: 4dbpdyyr2UAk4yKAomw42I
+    - sys:
+        id: 3VgqyhGcViwkwCoI88W4Ii
+    - sys:
+        id: 4TnBbYK1SEueSCAIemKOcA
+    - sys:
+        id: 4Z8zcElzjOCyO6iOasMuig
+    - sys:
+        id: 2Z9GGCpzCMk4sCKKYsmaU8
+    - sys:
+        id: 2S3mX9yJfqoMka8QoWUqOE
+    - sys:
+        id: 4KLSIsvlmEMeOsCo8SGOQA
+    - sys:
+        id: 1IlptwbzFmIaSkIWWAqw8U
+    - sys:
+        id: 2Moq7jFKLCc60oamksKUgU
+    - sys:
+        id: 2OfGVIZFbOOm8w6gg6AucI
+    - sys:
+        id: 16oCD2X1nmEYmCOMOm6oWi
+    - sys:
+        id: 2jfI6k6zKAauIS62IC6weq
+    - sys:
+        id: 4k9Uy1dQzmkcIY0kIogeWK
+    - sys:
+        id: 2QFAA8hik82Y4EAIwGSiEs
+    - sys:
+        id: 3ApAq8tLfG6wWaswQEwuaU
+    - sys:
+        id: 4S5oC30EcwEUGEuEO6sa4m
+    - sys:
+        id: 4Y3xOdstSowoYOGOEmW6K6
+    - sys:
+        id: 6ZjeUWwA5aCEMUiIgukK48
+    citations:
+    - sys:
+        id: TwHxmivy8uW8mIKAkkMeA
+    background_images:
+    - sys:
+        id: 2ztUAznRiwc0qiE4iUIQGc
+        created_at: !ruby/object:DateTime 2017-05-17 11:44:42.255000000 Z
+        updated_at: !ruby/object:DateTime 2017-05-17 11:44:42.255000000 Z
+      title: Rhinocéros grotte Chauvet
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2ztUAznRiwc0qiE4iUIQGc/5958ce98b795f63e5ee49806275209b7/Rhinoc__ros_grotte_Chauvet.jpg"
+    - sys:
+        id: 6m2Q1HCGT6Q2cey00sKGmu
+        created_at: !ruby/object:DateTime 2017-05-17 12:26:24.400000000 Z
+        updated_at: !ruby/object:DateTime 2017-05-17 12:26:24.400000000 Z
+      title: Black Rhino
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6m2Q1HCGT6Q2cey00sKGmu/92caad1c13d4bbefe80a5a94aef9844e/Black_Rhino.jpg"
   country_introduction:
     sys:
       id: 3bwz5wde0EMm0iu06IOk0W
@@ -348,7 +582,7 @@ contentful:
     - sys:
         id: 6rGZi909xKeQSMcYmISMgA
         created_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:46:10.737000000 Z
         content_type_id: image
       image:
         sys:
@@ -357,9 +591,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:16:22.149000000 Z
         title: SOADRB0010004
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2bsw2WPaTKumMQ80maQ6iG/1748f1d507b1e6e7b40b12621fcf06a4/SOADRB0010004.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2bsw2WPaTKumMQ80maQ6iG/1748f1d507b1e6e7b40b12621fcf06a4/SOADRB0010004.jpg"
       caption: Painted eland antelope, horses and riders.  Drakensberg Mountains,
-        South Africa (2013,2034.18172) ©TARA/David Coulson
+        South Africa. 2013,2034.18172 ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738170&partId=1&searchText=2013,2034.18172&page=1
     - sys:
         id: 3SiNGUuMNi4EQ6S6iEg6u
@@ -401,7 +635,7 @@ contentful:
     - sys:
         id: 71sZP8YT0A8Eg6SUEqQE0K
         created_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:46:37.309000000 Z
         content_type_id: image
       image:
         sys:
@@ -410,9 +644,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
         title: SOASWC0130095
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
-      caption: Human figures with bows and other items.  Western Cape, South Africa
-        (2013,2034.19641). ©TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
+      caption: Human figures with bows and other items.  Western Cape, South Africa.
+        2013,2034.19641 ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3740593&partId=1&searchText=2013,2034.19641&page=1
     - sys:
         id: dbiRhTPqBamyEw8Wa8Am0
@@ -433,7 +667,7 @@ contentful:
     - sys:
         id: avwg4dFD5muMuGwi64OG8
         created_at: !ruby/object:DateTime 2016-09-12 15:17:28.334000000 Z
-        updated_at: !ruby/object:DateTime 2016-10-24 12:32:54.111000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:47:33.249000000 Z
         content_type_id: chapter
       title: Herder rock art and other traditions
       title_internal: 'South Africa: country, chapter 5'
@@ -445,7 +679,7 @@ contentful:
         the San&#124;Bushmen. Some paintings also appear to reflect this tradition.
         Local rock art traditions specific to certain areas include, among others,
         conglomerations of handprints near the coast in the south-western part of
-        the Western Cape and rows of engraved cupules in the north east of the country.
+        the Western Cape and rows of engraved cupules in the north-east of the country.
         There are also several examples from different rock art traditions across
         South Africa, of depictions of European people, items or events (such as horses
         and firearms) which clearly date from the 17th century or later.  In the Karoo
@@ -455,7 +689,7 @@ contentful:
     - sys:
         id: 1mBBOrIKNWY4m20ywAQEG4
         created_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:48:06.147000000 Z
         content_type_id: image
       image:
         sys:
@@ -464,9 +698,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:17:38.680000000 Z
         title: SOASWC0120007
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/afH4Qvv6OAAu6iW2sQumq/b1167a05a4746cff6df801f17a999b62/SOASWC0120007.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/afH4Qvv6OAAu6iW2sQumq/b1167a05a4746cff6df801f17a999b62/SOASWC0120007.jpg"
       caption: Paintings showing people in long skirts and hats, with wagons drawn
-        by horses/mules.  Swartruggens, Western Cape, South Africa (2013,2034.19505).
+        by horses/mules.  Swartruggens, Western Cape, South Africa. 2013,2034.19505
         ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3734262&partId=1&searchText=2013,2034.19505&page=1
     - sys:
@@ -490,7 +724,7 @@ contentful:
     - sys:
         id: 19Up0IjuAa2c2WQuks6Qka
         created_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:51:29.749000000 Z
         content_type_id: image
       image:
         sys:
@@ -499,9 +733,10 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-30 10:16:55.281000000 Z
         title: SOANTC0050054
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5pQOdclMWsYUoiqUe6UWUk/55b07efecee2210caec6f0fdbc227f60/SOANTC0050054.jpg"
-      caption: "Engraved eland, Northern Cape, South Africa.  2013,2034.18803 ©TARA/David
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5pQOdclMWsYUoiqUe6UWUk/55b07efecee2210caec6f0fdbc227f60/SOANTC0050054.jpg"
+      caption: "Engraved eland, Northern Cape, South Africa. 2013,2034.18803 ©TARA/David
         Coulson\t"
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3731055&partId=1&searchText=2013,2034.18803&page=1
     - sys:
         id: 57UPgZOAQgOMC2YmuSUeUA
         created_at: !ruby/object:DateTime 2016-09-12 15:20:19.692000000 Z
@@ -524,7 +759,7 @@ contentful:
     - sys:
         id: 3ji8ZxGSA0qEugGSKc4AiM
         created_at: !ruby/object:DateTime 2016-09-12 15:20:34.228000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 19:47:14.726000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:52:17.397000000 Z
         content_type_id: image
       image:
         sys:
@@ -533,9 +768,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:20:29.384000000 Z
         title: SOADRB0040015
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/49XE8B9AUwcsyuwKS4qIoS/0497ecca68dfaaf3b2656a890cff67dd/SOADRB0040015.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/49XE8B9AUwcsyuwKS4qIoS/0497ecca68dfaaf3b2656a890cff67dd/SOADRB0040015.jpg"
       caption: "Multiple painted eland and other antelope, Eland Cave, Drakensberg
-        Mountains, South Africa (2013,2034.18216). ©TARA/David Coulson\t"
+        Mountains, South Africa. 2013,2034.18216 ©TARA/David Coulson\t"
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738339&partId=1&searchText=2013,2034.18216&page=1
     - sys:
         id: 2JAfr47aaAUicKcoeSqiGu
@@ -590,7 +825,7 @@ contentful:
     - sys:
         id: 6PJbU7cpFYUUMSYqEgS0Am
         created_at: !ruby/object:DateTime 2016-09-12 15:21:09.071000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 19:47:35.457000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:52:56.704000000 Z
         content_type_id: image
       image:
         sys:
@@ -599,10 +834,10 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:21:03.996000000 Z
         title: SOADRB0110028
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2hL4pRsxIkw224k00EKeqQ/a0c3c33b1a178f24852aec444656fe55/SOADRB0110028.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2hL4pRsxIkw224k00EKeqQ/a0c3c33b1a178f24852aec444656fe55/SOADRB0110028.jpg"
       caption: Three painted ‘therianthrope’ figures with antelopes’ heads.  Giant’s
-        Castle Main Caves, Drakensberg Mountains, South Africa (2013,2034.18474).
-        ©TARA/David Coulson
+        Castle Main Caves, Drakensberg Mountains, South Africa. 2013,2034.18474 ©TARA/David
+        Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738986&partId=1&searchText=2013,2034.18474&page=1
     - sys:
         id: 3AxyfldmRa4wWoGSgc2cei
@@ -662,7 +897,7 @@ contentful:
     - sys:
         id: 2Qms4PsSqQiUMGg4c4CIaS
         created_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 13:53:23.983000000 Z
         content_type_id: image
       image:
         sys:
@@ -671,9 +906,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2016-09-12 15:21:40.866000000 Z
         title: SOANTC0030005
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3BojqKseXY0IQkcKOwoC6K/8e3971b5cccf481e5485cab60d361961/SOANTC0030005.jpg"
-      caption: Engraved rhinoceros.  Wildebeest Kuil, Northern Cape, South Africa
-        (2013,2034.18669). ©TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3BojqKseXY0IQkcKOwoC6K/8e3971b5cccf481e5485cab60d361961/SOANTC0030005.jpg"
+      caption: Engraved rhinoceros.  Wildebeest Kuil, Northern Cape, South Africa.
+        2013,2034.18669 ©TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730722&partId=1&searchText=2013,2034.18669&page=1
     citations:
     - sys:
@@ -716,20 +951,20 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-08 13:39:38.428000000 Z
     title: SOANTC0050031
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1aEgzQ3JQqqMMoMickSsOS/abebdeda1124a78accab915f2b8d399d/SOANTC0050031.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1aEgzQ3JQqqMMoMickSsOS/abebdeda1124a78accab915f2b8d399d/SOANTC0050031.jpg"
   - sys:
       id: 46XLBNJT96QyKCOCIig68S
       created_at: !ruby/object:DateTime 2016-09-12 15:10:15.232000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:10:15.232000000 Z
     title: SOADRB0040001
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/46XLBNJT96QyKCOCIig68S/a332d9f15548c8771bc095a75b7c82c1/SOADRB0040001.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/46XLBNJT96QyKCOCIig68S/a332d9f15548c8771bc095a75b7c82c1/SOADRB0040001.jpg"
   - sys:
       id: 6KNIv5SuCQMMYoE4qE4S8A
       created_at: !ruby/object:DateTime 2016-09-12 15:11:13.130000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:11:13.130000000 Z
     title: SOANTC0040005
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6KNIv5SuCQMMYoE4qE4S8A/059e102e1b8e3d44c707351e7ec9c8ed/SOANTC0040005.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6KNIv5SuCQMMYoE4qE4S8A/059e102e1b8e3d44c707351e7ec9c8ed/SOANTC0040005.jpg"
   region: Southern Africa
 ---

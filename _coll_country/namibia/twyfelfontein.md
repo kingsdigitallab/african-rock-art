@@ -38,7 +38,7 @@ contentful:
   - sys:
       id: guZseTx3LaEuKOia8Yuei
       created_at: !ruby/object:DateTime 2016-09-26 14:54:31.866000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:54:31.866000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 13:43:41.409000000 Z
       content_type_id: image
     image:
       sys:
@@ -47,10 +47,11 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-26 14:54:28.378000000 Z
       title: '1'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4CdBm63EZaG0uscOGAOimI/e0f06c9a18388056521cd57dc8e096aa/1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4CdBm63EZaG0uscOGAOimI/e0f06c9a18388056521cd57dc8e096aa/1.jpg"
     caption: Engravings of animals including giraffe, elephant and rhinoceros showing
-      the surrounding sandstone, Twyfelfontein | /Ui-//aes, Namibia.  2013,2014.23755
+      the surrounding sandstone. Twyfelfontein | /Ui-//aes, Namibia.  2013,2034.23755
       © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3772379&partId=1&searchText=2013,2034.23755&page=1
   - sys:
       id: 6vS54wtOMwQ0Ce4w2s0Wa0
       created_at: !ruby/object:DateTime 2016-09-26 14:54:37.644000000 Z
@@ -72,7 +73,7 @@ contentful:
   - sys:
       id: 5AxeKFL1lYm4Oqm2wG2eow
       created_at: !ruby/object:DateTime 2016-09-26 14:54:49.830000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:54:49.830000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 13:44:40.593000000 Z
       content_type_id: image
     image:
       sys:
@@ -81,10 +82,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-26 14:54:46.709000000 Z
       title: NAMDMT0010096
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4TZJHdTWc0kgOOEqek4OUs/f55aa0aabccb385ac37c124564f330e7/NAMDMT0010096.jpg"
-    caption: Engraved giraffes showing a pecked shading technique, Twyfelfontein |
-      /Ui-//aes, Namibia. Engraved giraffes showing a pecked shading technique, Twyfelfontein
-      | /Ui-//aes, Namibia. 2013,2034.22118 © TARA/David Coulson © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4TZJHdTWc0kgOOEqek4OUs/f55aa0aabccb385ac37c124564f330e7/NAMDMT0010096.jpg"
+    caption: 'Engraved giraffes showing a pecked shading technique. Twyfelfontein
+      | /Ui-//aes, Namibia. 2013,2034.22118 © TARA/David Coulson '
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3763224&partId=1&searchText=2013,2034.22118&page=1
   - sys:
       id: 6gb3MFviE0sMWWy4s2UQGi
@@ -114,7 +114,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-26 14:55:14.554000000 Z
       title: NAMDMT0010076
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/XPX1r31GCsUmOaAIIMQy8/c9899e3e4af9424a8bec265ed775b558/NAMDMT0010076.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/XPX1r31GCsUmOaAIIMQy8/c9899e3e4af9424a8bec265ed775b558/NAMDMT0010076.jpg"
     caption: Highly polished engraved kudu cow with geometric engravings.  Twyfelfontein
       | /Ui-//aes, Namibia.  2013,2034.22098 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3763207&partId=1&searchText=+2013,2034.22098&page=1
@@ -154,7 +154,7 @@ contentful:
   - sys:
       id: 7264zOqUmIAMsgq4QKMgOE
       created_at: !ruby/object:DateTime 2016-09-26 14:55:40.171000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-30 17:07:34.570000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 13:45:12.694000000 Z
       content_type_id: image
     image:
       sys:
@@ -163,8 +163,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-26 14:47:45.908000000 Z
       title: NAMDMT0020004
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5qTBuuWKukMoO4kcQYiQWa/9b1c7477a36f65573bca76410c122d3f/NAMDMT0020004.jpg"
-    caption: Painted human figures and an ostrich, Twyfelfontein | /Ui-//aes, Namibia.
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5qTBuuWKukMoO4kcQYiQWa/9b1c7477a36f65573bca76410c122d3f/NAMDMT0020004.jpg"
+    caption: Painted human figures and an ostrich. Twyfelfontein | /Ui-//aes, Namibia.
       2013,2034.22122 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3763727&partId=1&searchText=2013,2034.22122+&page=1
   - sys:
@@ -207,7 +207,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-26 14:56:05.842000000 Z
       title: NAMDMT0040014
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6AdC84mjBuuGMsQo2oCCYo/27ba7c664835ba741ab1f4aa43582f1e/NAMDMT0040014.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6AdC84mjBuuGMsQo2oCCYo/27ba7c664835ba741ab1f4aa43582f1e/NAMDMT0040014.jpg"
     caption: Engraved panel showing the figures of giraffe and other animals, rows
       of dots, hoof prints and hand prints showing the range of juxtapositioning and
       superimposition at the site.  Twyfelfontein | /Ui-//aes, Namibia. 2013,2034.22143
@@ -232,12 +232,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-26 14:56:32.301000000 Z
     title: NAMDMT0040003
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1awSXvy0R0IsIOu2IeqEeK/fccea4215104a2f0d107c85e2bf2abf4/NAMDMT0040003.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1awSXvy0R0IsIOu2IeqEeK/fccea4215104a2f0d107c85e2bf2abf4/NAMDMT0040003.jpg"
   - sys:
       id: 7eyjgnirUkqiwIQmwc8uoe
       created_at: !ruby/object:DateTime 2016-09-26 14:56:40.370000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:56:40.370000000 Z
     title: NAMDMT0010062
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/7eyjgnirUkqiwIQmwc8uoe/827acd6affabc436c4124be861493437/NAMDMT0010062.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/7eyjgnirUkqiwIQmwc8uoe/827acd6affabc436c4124be861493437/NAMDMT0010062.jpg"
 ---

@@ -35,7 +35,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.164000000 Z
       title: '2013,2034.6155'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/47ocQmZwI8iOE4Sskq8IeE/8ce5836027971e7b02317274015177ac/2013_2034.6155.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/47ocQmZwI8iOE4Sskq8IeE/8ce5836027971e7b02317274015177ac/2013_2034.6155.jpg"
     caption: Engravings of human figures from Niola Doa. Ennedi Plateau, Chad. 2013,2034.6155
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637041&partId=1&people=197356&page=1
@@ -51,7 +51,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.561000000 Z
       title: '2013,2034.6451'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/V66nfuesIoQGsMw2ugcwk/feb663001d1372a237275aa64bc471ed/2013_2034.6451.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/V66nfuesIoQGsMw2ugcwk/feb663001d1372a237275aa64bc471ed/2013_2034.6451.jpg"
     caption: Rider on a camel holding spear, dagger and shield. Camel Period, Ennedi
       Plateau, Chad. 2013,2034.6451 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3641488&partId=1&searchText=2013,2034.6451&page=1
@@ -88,7 +88,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.173000000 Z
       title: '2013,2034.6322'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/401K6ww8asemkaCySqeci/9c64bd46729be1bcc2c4a0a8fdd61a1c/2013_2034.6322.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/401K6ww8asemkaCySqeci/9c64bd46729be1bcc2c4a0a8fdd61a1c/2013_2034.6322.jpg"
     caption: View of the semi-desert plain surrounding the Ennedi Plateau (seen in
       the background). 2013,2034.6770 © TARA/David Coulson
     col_link: http://bit.ly/2jvhIgV
@@ -118,7 +118,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.225000000 Z
       title: '2013,2034.7259'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1AS5ngxVRGWeAaKemYyOyo/ab561407686a2a37d59602f6b05978d3/2013_2034.7259.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1AS5ngxVRGWeAaKemYyOyo/ab561407686a2a37d59602f6b05978d3/2013_2034.7259.jpg"
     caption: View of the Tibesti Mountains. 2013,2034.7259 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3655202&partId=1&searchText=2013,2034.7259&page=1
   - sys:
@@ -163,7 +163,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.161000000 Z
       title: '2013,2034.6732'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/Z50lrTE2EUM0egk4Mk482/ddfe4ed0c368ef757168f583aac8bb4b/2013_2034.6732.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/Z50lrTE2EUM0egk4Mk482/ddfe4ed0c368ef757168f583aac8bb4b/2013_2034.6732.jpg"
     caption: Village scene showing people, cattle and huts or tents. To the right,
       three women are seated around a fourth (possibly sick) woman lying on a blanket
       or mattress. Ennedi Plateau. 2013,2034.6732 © TARA/David Coulson
@@ -180,7 +180,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.253000000 Z
       title: '2013,2034.6595'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6uYaJrzaMgAwK42CSgwcMW/b71fe481a99fa36b16f32265828a440e/2013_2034.6595.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6uYaJrzaMgAwK42CSgwcMW/b71fe481a99fa36b16f32265828a440e/2013_2034.6595.jpg"
     caption: Raiding scene with horses in the so-called ‘Flying gallop’ style. Camel
       Period. 2013,2034.6595 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640375&partId=1&searchText=2013,2034.6595&page=1
@@ -207,7 +207,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.585000000 Z
       title: '2013,2034.6807'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4tdnKRONuECgKUm66woS2M/07c3ea3b18caacafd79db6f2ea6c2c88/2013_2034.6807.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4tdnKRONuECgKUm66woS2M/07c3ea3b18caacafd79db6f2ea6c2c88/2013_2034.6807.jpg"
     caption: Depiction of human figures infilled with dots. Another human figure infilled
       in white and facing forwards is depicted at the top right of the tableau. Archaic
       Period, Ennedi Plateau. 2013,2034.6807 © TARA/David Coulson
@@ -224,7 +224,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:27.673000000 Z
       title: '2013,2034.7610'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5PmKmAsIH6OO8eyuOYgUa2/650f01d3f303f5f062321384b36c9943/2013_2034.7610.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5PmKmAsIH6OO8eyuOYgUa2/650f01d3f303f5f062321384b36c9943/2013_2034.7610.jpg"
     caption: Frieze of engraved cattle. Tibesti Mountains, Pastoral Period. 2013,2034.7610
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3654657&partId=1&searchText=2013,2034.7610&page=1
@@ -240,7 +240,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.260000000 Z
       title: '2013,2034.6373'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6weCWSE3EkyIcyWW4S8QAc/a469e0c984f2824f23cefa7773ffc075/2013_2034.6373.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6weCWSE3EkyIcyWW4S8QAc/a469e0c984f2824f23cefa7773ffc075/2013_2034.6373.jpg"
     caption: White rider on a horse from the latest period of the Ennedi Plateau rock
       art. The figure is superimposed on several red cows of the previous Pastoral
       Period. Ennedi Plateau. 2013,2034.6373 © TARA/David Coulson

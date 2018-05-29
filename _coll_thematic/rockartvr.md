@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-03-12 22:34:27.617000000 Z
     title: Screen Shot 2016-12-12 at 3.34.33 PM
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2Sqy60hy3YSo4sQE2Ame6m/b58f2bdd6c004b4111987aba5c2bd362/Screen_Shot_2016-12-12_at_3.34.33_PM.png"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2Sqy60hy3YSo4sQE2Ame6m/b58f2bdd6c004b4111987aba5c2bd362/Screen_Shot_2016-12-12_at_3.34.33_PM.png"
   chapters:
   - sys:
       id: 6nHJUYFyucgyyMKs6iYwwo
@@ -28,7 +28,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-03-13 02:13:43.629000000 Z
       title: BM RockArt Title Screen
       description: BM RockArt Title Screen
-      url: "//images.contentful.com/xt8ne4gbbocd/3uawILzjCMg28ISmOO2Eyk/6bc41794e439f8cdf8effeb37301dc85/BM_RockArt_Title_Screen.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3uawILzjCMg28ISmOO2Eyk/6bc41794e439f8cdf8effeb37301dc85/BM_RockArt_Title_Screen.jpg"
     caption: BM RockArt Title Screen
   - sys:
       id: 2oGC8YIQnmIaewkKes6EqI
@@ -56,7 +56,7 @@ contentful:
       title: Screen Shot1
       description: Fig. 1. Sample view of the Game Pass Shelter in the app via the
         Cardboard headset.
-      url: "//images.contentful.com/xt8ne4gbbocd/45vNSBVEZqgGyOcIAAsOw4/d15aa91a686ea13808e9dd699dc6ccb6/Screen_Shot1a.png"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/45vNSBVEZqgGyOcIAAsOw4/d15aa91a686ea13808e9dd699dc6ccb6/Screen_Shot1a.png"
     caption: Fig. 1 - Sample view of the Game Pass Shelter in the app via the Cardboard
       headset.
   - sys:
@@ -84,7 +84,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-03-13 02:18:53.908000000 Z
       title: Screen Shot2
       description: Panoramic views looking out from Game Pass Shelter in the app.
-      url: "//images.contentful.com/xt8ne4gbbocd/6Z7Fmlzd0kSYk2qU2S0eoo/521141319e9f7a15483d263998245658/Screen_Shot2.png"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6Z7Fmlzd0kSYk2qU2S0eoo/521141319e9f7a15483d263998245658/Screen_Shot2.png"
     caption: Fig. 2 - Panoramic views looking out from Game Pass Shelter in the app.
   - sys:
       id: 4f4xPt1kfeakUO4AE42yeg
@@ -112,7 +112,7 @@ contentful:
       title: GamePass2
       description: Examples of image showing Game Pass Shelter in the African Rock
         Art Image Project archives.
-      url: "//images.contentful.com/xt8ne4gbbocd/3fD4DQqyTS2UgwoyeqEYkc/846c00a66240973feacc7f3449481a1a/GamePass2.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3fD4DQqyTS2UgwoyeqEYkc/846c00a66240973feacc7f3449481a1a/GamePass2.jpg"
     caption: Fig. 3 - Examples of image showing Game Pass Shelter in the African Rock
       Art Image Project archives.
   - sys:
@@ -138,7 +138,7 @@ contentful:
       title: Site%20map
       description: Mapping the key features of Game Pass Shelter, as part of the creation
         of the Rock Art VR app.
-      url: "//images.contentful.com/xt8ne4gbbocd/6hYygcn6LKye0KQu4WE2Qi/d29bf98b8aa3c1330957b38d96ffaf9f/Site_20map.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6hYygcn6LKye0KQu4WE2Qi/d29bf98b8aa3c1330957b38d96ffaf9f/Site_20map.jpg"
     caption: Fig. 4 - Mapping the key features of Game Pass Shelter, as part of the
       creation of the Rock Art VR app.
   - sys:
@@ -164,7 +164,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-03-13 02:27:34.108000000 Z
       title: App UserFlow
       description: User experience diagram for the Rock Art VR app.
-      url: "//images.contentful.com/xt8ne4gbbocd/4MLN0mgROgUe4e444yUUQE/6d08fb56fb7f4f5111ab87bf7b63fb5e/App_UserFlow.png"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4MLN0mgROgUe4e444yUUQE/6d08fb56fb7f4f5111ab87bf7b63fb5e/App_UserFlow.png"
     caption: Fig. 5 - User experience diagram for the Rock Art VR app.
   - sys:
       id: 1cN6S7SmRywQYmGwKGsaw2
@@ -188,7 +188,7 @@ contentful:
       title: ScreenShot3
       description: Further example of the panoramic views user experience in the app
         via Cardboard headsets.
-      url: "//images.contentful.com/xt8ne4gbbocd/a2qVgKlOU0IgeU8CGkooi/e503c9cc97a20f4f91746d82a57a5b8d/ScreenShot3.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/a2qVgKlOU0IgeU8CGkooi/e503c9cc97a20f4f91746d82a57a5b8d/ScreenShot3.jpg"
     caption: Fig. 6 - Further example of the panoramic views user experience in the
       app via Cardboard headsets.
   - sys:
@@ -218,7 +218,7 @@ contentful:
         seen in the Rock Art VR app. This model was made by combining archival photos
         with new imagery using photogrammetric techniques, and important features
         of the modeled are highlighted in the app in connection to audio descriptions.
-      url: "//images.contentful.com/xt8ne4gbbocd/5bDwOlwnhm2CgCescKQoS6/df333027035218f7e6222351c7a3ad12/PANEL_TWO_04_part_human_part_animal_grasping_at_the_tail.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5bDwOlwnhm2CgCescKQoS6/df333027035218f7e6222351c7a3ad12/PANEL_TWO_04_part_human_part_animal_grasping_at_the_tail.jpg"
     caption: Fig. 7 - 3D model of Panel 2 ("Rosetta Stone") of Game Pass Shelter,
       as seen in the Rock Art VR app. This model was made by combining archival photos
       with new imagery and important features of the model are highlighted in connection
@@ -249,7 +249,7 @@ contentful:
       title: IMG 6293
       description: Children trying out the Rock Art VR app at our launch event in
         November 2016.
-      url: "//images.contentful.com/xt8ne4gbbocd/1zVZ5PiOc0ukuISI6GUKQK/52e88e5d3e4768e99b0725145ae20d79/IMG_6293.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1zVZ5PiOc0ukuISI6GUKQK/52e88e5d3e4768e99b0725145ae20d79/IMG_6293.jpg"
     caption: Fig. 8 - Children trying out the Rock Art VR app at our launch event
       in November 2016.
   - sys:
@@ -288,7 +288,7 @@ contentful:
       title: IMG 6295
       description: Drawings inspired by the African Rock Art Image Project's archive
         on the replica 'rock wall' at our app launch event!
-      url: "//images.contentful.com/xt8ne4gbbocd/6p0X9HegW4ikqMIUGCuMMc/56e4c97464c50ab73c5395ab03e06488/IMG_6295.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6p0X9HegW4ikqMIUGCuMMc/56e4c97464c50ab73c5395ab03e06488/IMG_6295.jpg"
     caption: Fig. 9 - Drawings inspired by the African Rock Art Image Project's archive
       on the replica 'rock wall' at our app launch event!
   background_images:
@@ -298,12 +298,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-03-12 22:40:18.738000000 Z
     title: Game Pass7
     description: 
-    url: "//assets.contentful.com/xt8ne4gbbocd/2qLasAyYmAM4wUS2gOe4yg/50c79d5c2e310775bd444de205908a2e/Game_Pass7.tif"
+    url: "//assets.ctfassets.net/xt8ne4gbbocd/2qLasAyYmAM4wUS2gOe4yg/50c79d5c2e310775bd444de205908a2e/Game_Pass7.tif"
   - sys:
       id: 4LZ2y95ptKWk2SwUQgwu4k
       created_at: !ruby/object:DateTime 2017-03-12 22:42:48.598000000 Z
       updated_at: !ruby/object:DateTime 2017-03-12 22:42:48.598000000 Z
     title: Game Pass3
     description: 
-    url: "//assets.contentful.com/xt8ne4gbbocd/4LZ2y95ptKWk2SwUQgwu4k/a5150665772b9d769f26ccf3c6b39f03/Game_Pass3.tif"
+    url: "//assets.ctfassets.net/xt8ne4gbbocd/4LZ2y95ptKWk2SwUQgwu4k/a5150665772b9d769f26ccf3c6b39f03/Game_Pass3.tif"
 ---
