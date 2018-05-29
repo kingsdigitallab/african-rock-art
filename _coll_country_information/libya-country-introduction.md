@@ -37,7 +37,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-15 14:15:08.336000000 Z
       title: '2013,2034.420'
       description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3580676
-      url: "//images.contentful.com/xt8ne4gbbocd/16a6qAimaaWYqcwqUqMKIm/35056fde196c5ae13894c78ed1b5fe17/2013_2034.420.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/16a6qAimaaWYqcwqUqMKIm/35056fde196c5ae13894c78ed1b5fe17/2013_2034.420.jpg"
     caption: Painted rock art with figures and animals from the Acacus Mountains,
       Fezzan District, Libya. 2013,2034.420 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3580676&partId=1&images=true&people=197356&museumno=2013,2034.420&page=1
@@ -69,7 +69,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:25:07.208000000 Z
       title: '2013,2034.1012'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/YbgSaS84Eu0gE8yKEcI48/c3cf27b1581df5b3cfed28e53439b4f8/2013_2034.1012.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/YbgSaS84Eu0gE8yKEcI48/c3cf27b1581df5b3cfed28e53439b4f8/2013_2034.1012.jpg"
     caption: Tadrart Acacus, Libya. 2013,2034.1012 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3588542&partId=1&images=true&people=197356&museumno=2013,2034.1012&page=1
   - sys:
@@ -111,7 +111,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-15 14:28:23.158000000 Z
       title: '2013,2034.3106'
       description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3586141
-      url: "//images.contentful.com/xt8ne4gbbocd/4eOnyF3wVymkGMgOkmQsYm/ef9fa1bb02dc7c8ddb0ced9c9fcaa85e/2013_2034.3106.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4eOnyF3wVymkGMgOkmQsYm/ef9fa1bb02dc7c8ddb0ced9c9fcaa85e/2013_2034.3106.jpg"
     caption: Engraved image of a crocodile, Wadi Mathendous, Messak Settafet. 2013,2034.3106
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586141&partId=1&images=true&people=197356&museumno=2013,2034.3106&page=1
@@ -145,7 +145,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:25:07.217000000 Z
       title: '2013,2034.899'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2diYKwS63u0MYs8eC4aesU/699e9277d3628340b4719c18a1f57ec4/2013_2034.899.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2diYKwS63u0MYs8eC4aesU/699e9277d3628340b4719c18a1f57ec4/2013_2034.899.jpg"
     caption: Round Head Period painting radiocarbon-dated to 8590±390 BP. Uan Tamuat,
       Acacus Mountains. 2013,2034.899 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3587474&partId=1&images=true&people=197356&museumno=2013,2034.899&page=1
@@ -174,7 +174,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:25:03.853000000 Z
       title: '2013,2034.734'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3EDRZDxlckISY0Gc0c44QK/9d3d834b088da6e1d5b97a8d01254d82/2013_2034.734.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3EDRZDxlckISY0Gc0c44QK/9d3d834b088da6e1d5b97a8d01254d82/2013_2034.734.jpg"
     caption: Herders and cattle, Wadi Tanshal, Acacus Mountains. 2013,2034.734 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586048&partId=1&images=true&people=197356&museumno=2013,2034.734&page=1
@@ -201,7 +201,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:25:03.861000000 Z
       title: '2013,2034.1450'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4ShhlHTP4A08k6Ck0WmCme/c88441d7390ce9362b6ef2ab371070e9/2013_2034.1450.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4ShhlHTP4A08k6Ck0WmCme/c88441d7390ce9362b6ef2ab371070e9/2013_2034.1450.jpg"
     caption: Engraved figures on horseback. Awis, Acacus Mountains. 2013,2034.1450
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3592680&partId=1&images=true&people=197356&museumno=2013,2034.1450&page=1

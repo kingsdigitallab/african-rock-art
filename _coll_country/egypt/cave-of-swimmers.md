@@ -35,7 +35,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.480000000 Z
       title: '2013,2034.186'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5LebP1Vcqs4A4US00uI0Q4/56ba762bb737baf4545dc62a6a745bb3/2013_2034.186.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5LebP1Vcqs4A4US00uI0Q4/56ba762bb737baf4545dc62a6a745bb3/2013_2034.186.jpg"
     caption: A view of the entrance to the ‘Cave of Swimmers’. On a promontory at
       the entrance to an inlet in Wadi Sura, Gilf Kebir, Egypt. 2013,2034.186 © David
       Coulson / TARA
@@ -65,7 +65,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.469000000 Z
       title: '2013,2034.188'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2halaUUgAMe6ES0uycIIIG/ec1812c9c376a941c691641c471b7105/2013_2034.188.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2halaUUgAMe6ES0uycIIIG/ec1812c9c376a941c691641c471b7105/2013_2034.188.jpg"
     caption: View out of the cave mouth. 2013,2034.188 © David Coulson / TARA
     col_link: http://bit.ly/2iVbiVc
   - sys:
@@ -96,7 +96,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.477000000 Z
       title: '2013,2034.190'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3R3Ri8y5pe2I4AM8iauayW/5e53609e755eba8130847a5017e32268/2013_2034.190.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3R3Ri8y5pe2I4AM8iauayW/5e53609e755eba8130847a5017e32268/2013_2034.190.jpg"
     caption: The main painted panel on the cave wall, showing the famous ‘swimming’
       figures (bottom centre and top right). 2013,2034.190 © David Coulson / TARA
     col_link: http://bit.ly/2j0fxBy
@@ -126,7 +126,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.492000000 Z
       title: '2013,2034.192'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6Fqf4hcw1OeG2IIO442ckW/6d975af11e82e634f913ca9aed815e44/2013_2034.192.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6Fqf4hcw1OeG2IIO442ckW/6d975af11e82e634f913ca9aed815e44/2013_2034.192.jpg"
     caption: Two ‘negative’ hand prints from the left side of the main panel, blown
       in different pigments. Three crouched figures are painted across the lower handprint.
       2013,2034.192 © David Coulson / TARA
@@ -151,12 +151,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.469000000 Z
     title: '2013,2034.188'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2halaUUgAMe6ES0uycIIIG/ec1812c9c376a941c691641c471b7105/2013_2034.188.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2halaUUgAMe6ES0uycIIIG/ec1812c9c376a941c691641c471b7105/2013_2034.188.jpg"
   - sys:
       id: 6Fqf4hcw1OeG2IIO442ckW
       created_at: !ruby/object:DateTime 2015-11-25 15:00:35.492000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.492000000 Z
     title: '2013,2034.192'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6Fqf4hcw1OeG2IIO442ckW/6d975af11e82e634f913ca9aed815e44/2013_2034.192.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6Fqf4hcw1OeG2IIO442ckW/6d975af11e82e634f913ca9aed815e44/2013_2034.192.jpg"
 ---

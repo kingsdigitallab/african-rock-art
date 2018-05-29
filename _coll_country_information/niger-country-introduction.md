@@ -38,7 +38,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:16.151000000 Z
       title: '2013,2034.9967'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2FAYj7hG88aQ0Quq6Wc6gE/49ae0722057f453db4bb15da9c1ee6c0/2013_2034.9967.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2FAYj7hG88aQ0Quq6Wc6gE/49ae0722057f453db4bb15da9c1ee6c0/2013_2034.9967.jpg"
     caption: Block-pecked engraving of running hare. 2013,2034.9967 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637684&partId=1&page=1
   - sys:
@@ -67,7 +67,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:53:55.744000000 Z
       title: '2013,2034.8958'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4h5Sa7Ex2M2aEa8YSGW6iU/b394694db95c753013248a8e398017d4/2013_2034.8958.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4h5Sa7Ex2M2aEa8YSGW6iU/b394694db95c753013248a8e398017d4/2013_2034.8958.jpg"
     caption: Looking out of a shallow cave, Djado Plateau, Niger. 2013,2034.8958 ©
       TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637696&partId=1&page=1
@@ -108,7 +108,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.849000000 Z
       title: '2013,2034.11147'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6wKZcUGktaAG0IYOagAIQ4/9ddabc2eb10161fcb2c69cff6817741a/2013_2034.11147.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6wKZcUGktaAG0IYOagAIQ4/9ddabc2eb10161fcb2c69cff6817741a/2013_2034.11147.jpg"
     caption: Libyan Warrior figure, Western Aïr Mountains, Niger. 2013,2034.11147
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637713&partId=1&museumno=2013,2034.11147&page=1
@@ -149,7 +149,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.057000000 Z
       title: '2013,2034.8891'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
     caption: Two outline engravings of white rhinoceros. 2013,2034.8891 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637764&partId=1&museumno=2013,2034.8891&page=1
@@ -177,7 +177,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.916000000 Z
       title: '2013,2034.8960'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2ANvzNqFfiKkMWAAsWCWKQ/724f5a5d07a365fdf3b9040aa30d916c/2013_2034.8960.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2ANvzNqFfiKkMWAAsWCWKQ/724f5a5d07a365fdf3b9040aa30d916c/2013_2034.8960.jpg"
     caption: White cows with calves and three figures. Djado Plateau, Niger. 2013,2034.8960
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637694&partId=1&museumno=2013,2034.8960&page=1
@@ -232,7 +232,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.945000000 Z
       title: '2013,2034.10009'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5OBSH7pvt6I6eOAc4OaqEG/f667bce1cf4cf3c6dbce0bb5a83383bc/2013_2034.10009.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5OBSH7pvt6I6eOAc4OaqEG/f667bce1cf4cf3c6dbce0bb5a83383bc/2013_2034.10009.jpg"
     caption: Large reground and painted figure surrounded by ancient Tifinagh script.
       Northern Air Mountains, Niger. 2013,2034.10009 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637714&partId=1&museumno=2013,2034.10009&page=1
@@ -257,7 +257,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.168000000 Z
       title: '2013,2034.9910'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1vncvc4BCIG8ymWeS8c28q/ee518eb244c2193ea827c7875b30c049/2013_2034.9910.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1vncvc4BCIG8ymWeS8c28q/ee518eb244c2193ea827c7875b30c049/2013_2034.9910.jpg"
     caption: Block-pecked elephant. Northern Aïr Mountains, Niger. 2013,2034.9910
       © TARA/David Coulson
     col_link: http://bit.ly/2iVcmsb
@@ -285,7 +285,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.852000000 Z
       title: '2013,2034.9786'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
     caption: Outline and decorated cattle, some with elaborate deliberately turned-back
       horns. 2013,2034.9786 © TARA/David Coulson
     col_link: http://bit.ly/2jlwIKc
@@ -313,7 +313,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:30.823000000 Z
       title: '2013,2034.8834'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3nBXTYYPN6ucuaImm24iuG/a188d0ae5e00e8934acbf0397ce50194/2013_2034.8834.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3nBXTYYPN6ucuaImm24iuG/a188d0ae5e00e8934acbf0397ce50194/2013_2034.8834.jpg"
     caption: Outline Tazina-style engraving of a giraffe. 2013,2034.8834 © TARA/David
       Coulson
     col_link: http://bit.ly/2i9uPQ2
@@ -338,7 +338,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.797000000 Z
       title: '2013,2034.9875'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2wvcOF7LOQa6iEsWyQOUQi/ba1af764bd58d195ef002f58cca5eb51/2013_2034.9875.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2wvcOF7LOQa6iEsWyQOUQi/ba1af764bd58d195ef002f58cca5eb51/2013_2034.9875.jpg"
     caption: Libyan Warrior-style figures. Northern Aïr Mountains, Niger. 2013,2034.9875
       © TARA/David Coulson
     col_link: http://bit.ly/2i6usdB
@@ -354,7 +354,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.833000000 Z
       title: '2013,2034.9430'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4fSRLSsTP2MCiquKAEsmkQ/ad620450f16447bcbb6e734d2a4c1c0e/2013_2034.9430.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4fSRLSsTP2MCiquKAEsmkQ/ad620450f16447bcbb6e734d2a4c1c0e/2013_2034.9430.jpg"
     caption: Two horses attached to two-wheeled chariot with charioteer. Eastern Aïr
       Mountains, Niger. 2013,2034.9430 © TARA/David Coulson
     col_link: http://bit.ly/2i6uJ07
@@ -386,7 +386,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:53:55.796000000 Z
       title: '2013,2034.9578'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2bO7Zt5qJ6UI088i422mMe/337784cf715978325ffb7bda8179c3ce/2013_2034.9578.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2bO7Zt5qJ6UI088i422mMe/337784cf715978325ffb7bda8179c3ce/2013_2034.9578.jpg"
     caption: Crudely pecked camels. Eastern Aïr Mountains, Niger. 2013,2034.9578 ©
       TARA/David Coulson
     col_link: http://bit.ly/2i9tto4

@@ -3,18 +3,18 @@ contentful:
   sys:
     id: 5j76DfcDwk28WOmWMAm20C
     created_at: !ruby/object:DateTime 2015-11-26 09:47:55.196000000 Z
-    updated_at: !ruby/object:DateTime 2015-12-07 20:55:17.424000000 Z
+    updated_at: !ruby/object:DateTime 2018-05-25 16:57:49.881000000 Z
     content_type_id: introduction
   title: Techniques of production
   slug: techniques
   lead_image:
   - sys:
-      id: 53weII16ScuU6AQ6qWwIuS
-      created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
-    title: '2013,2034.4108'
+      id: 4uVUj08mRGOCkmK64q66MA
+      created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
+      updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
+    title: NAMDMT0010010
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
   chapters:
   - sys:
       id: 3ATyteWLBeyy0IU6cUY8cc
@@ -46,7 +46,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
       title: '2013,2034.4108'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
     caption: Bichrome antelope. Tin Tazarift, Tassili n’Ajjer, Algeria. 2013,2034.4108
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3595543&partId=1&museumno=2013,2034.4108&page=1
@@ -81,7 +81,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
       title: '2013,2034.123'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
     caption: Negative handprints. Wadi el-Obeiyd, Egypt. 2013,2034.123 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?searchText=Search%20the%20collection&museumno=2013,2034.123&ILINK|34484,&#124;assetId=1492207&objectId=3577680&partId=1
@@ -128,7 +128,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
       title: '2013,2034.4328'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1ViunR9pOs40oei6A4yC6q/a403a948fda6df00ef8ca14a2b9f409c/2013_2034.4328.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1ViunR9pOs40oei6A4yC6q/a403a948fda6df00ef8ca14a2b9f409c/2013_2034.4328.jpg"
     caption: Polished cattle engravings. Tegharghart, Tassili n’Ajjer, Algeria. 2013,2034.4328
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601772&partId=1&museumno=2013,2034.4328&page=1
@@ -151,12 +151,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.696000000 Z
     title: '2013,2034.123'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5eo1GYHRFS6SYSWoum4Usy/c698e0e9d7477b42c5375328abfd5a21/2013_2034.123.jpg"
   - sys:
       id: 53weII16ScuU6AQ6qWwIuS
       created_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:39:59.713000000 Z
     title: '2013,2034.4108'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/53weII16ScuU6AQ6qWwIuS/bceed94a08e062929a8c23605155d23f/2013_2034.4108.jpg"
 ---

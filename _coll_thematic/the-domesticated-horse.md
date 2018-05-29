@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.133000000 Z
     title: Fig. 1. Painted horse
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/n2MxgdjbMW2gm0IoOKkCU/e2c7369ef1e4ab11c71023a769f8fe0d/Fig._1._Painted_horse.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/n2MxgdjbMW2gm0IoOKkCU/e2c7369ef1e4ab11c71023a769f8fe0d/Fig._1._Painted_horse.jpg"
   chapters:
   - sys:
       id: 27bcd1mylKoMWiCQ2KuKMa
@@ -29,7 +29,7 @@ contentful:
   - sys:
       id: 2EbfpTN9L6E0sYmuGyiaec
       created_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 16:39:29.412000000 Z
       content_type_id: image
     image:
       sys:
@@ -38,30 +38,31 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.133000000 Z
       title: Fig. 1. Painted horse
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/n2MxgdjbMW2gm0IoOKkCU/e2c7369ef1e4ab11c71023a769f8fe0d/Fig._1._Painted_horse.jpg"
-    caption: Fig. 1. Painted horse and rider, Ennedi Plateau, Chad. © TARA/David Coulson.
-      Image not yet catalogued.
+      url: "//images.ctfassets.net/xt8ne4gbbocd/n2MxgdjbMW2gm0IoOKkCU/e2c7369ef1e4ab11c71023a769f8fe0d/Fig._1._Painted_horse.jpg"
+    caption: 'Painted horse and rider, Ennedi Plateau, Chad. 2013,2034.6406 © TARA/David
+      Coulson. '
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3641775&partId=1&searchText=2013,2034.6406&page=1
   - sys:
       id: 4QexWBEVXiAksikIK6g2S4
       created_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 16:40:28.446000000 Z
       content_type_id: chapter
     title: Horses and chariots
     title_internal: 'Thematic: horse, chapter 2'
     body: The first introduction of the domestic horse to Ancient Egypt- and thereby
-      to Africa- is usually cited at around 1,600 BC, linked with the arrival in Egypt
+      to Africa- is usually cited at around 1600 BC, linked with the arrival in Egypt
       of the Hyksos, a group from the Levant who ruled much of Northern Egypt during
       the Second Intermediate Period. By this point, horses had probably only been
       domesticated for about 2,000 years, but with the advent of the chariot after
       the 3rd millennium BC in Mesopotamia, the horse proved to be a valuable martial
       asset in the ancient world. One of the first clear records of the use of horses
       and chariots in battle in Africa is found in depictions from the mortuary complex
-      of the Pharaoh Ahmose at Abydos from around 1,525 BC, showing their use by Egyptians
+      of the Pharaoh Ahmose at Abydos from around 1525 BC, showing their use by Egyptians
       in defeating the Hyksos, and horses feature prominently in later Egyptian art.
   - sys:
       id: 22x06a7DteI0C2U6w6oKes
       created_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 16:40:52.214000000 Z
       content_type_id: image
     image:
       sys:
@@ -70,9 +71,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:50.284000000 Z
       title: '2013,2034.1001'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1AZD3AxiUwwoYUWSWY8MGW/b68bd24c9b19c5c8c7752bfb75a5db0e/2013_2034.1001.jpg"
-    caption: Fig. 2. Painted two-horse chariot, Acacus Mountains, Libya. 2013,2034.1001
-      © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1AZD3AxiUwwoYUWSWY8MGW/b68bd24c9b19c5c8c7752bfb75a5db0e/2013_2034.1001.jpg"
+    caption: Painted two-horse chariot, Acacus Mountains, Libya. 2013,2034.1001 ©
+      TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3588526&partId=1&people=197356&museumno=2013,2034.1001&page=1
   - sys:
       id: 1voXfvqIcQkgUYqq4w8isQ
@@ -98,7 +99,7 @@ contentful:
   - sys:
       id: LWROS2FhUkywWI60eQYIy
       created_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 16:41:33.841000000 Z
       content_type_id: image
     image:
       sys:
@@ -107,10 +108,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:44.708000000 Z
       title: '2013,2034.4574'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6N6BF79qk8EUygwkIgwcce/ac95a5214a326794542e0707c0d819d7/2013_2034.4574.jpg"
-    caption: Fig. 3. Painted human figure and horse. Tarssed Jebest, Tassili n’Ajjer,
-      Algeria. Horse displays Arabian breed-type characteristics such as dished face
-      and high tail carriage. 2013,2034.4574 © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6N6BF79qk8EUygwkIgwcce/ac95a5214a326794542e0707c0d819d7/2013_2034.4574.jpg"
+    caption: Painted human figure and horse. Tarssed Jebest, Tassili n’Ajjer, Algeria.
+      Horse displays Arabian breed-type characteristics such as dished face and high
+      tail carriage. 2013,2034.4574 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3603790&partId=1&people=197356&museumno=2013,2034.4574+&page=1
   - sys:
       id: 6eaH84QdUs46sEQoSmAG2u
@@ -132,7 +133,7 @@ contentful:
   - sys:
       id: 6LTzLWMCTSak4IIukAAQMa
       created_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 16:41:52.743000000 Z
       content_type_id: image
     image:
       sys:
@@ -141,15 +142,15 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.495000000 Z
       title: ME22958
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4NdhGNLc9yEck4My4uQwIo/703945afad6a8e3c97d10b09c487381c/ME22958.jpg"
-    caption: Fig. 4. Terracotta mould of man on horseback, Old Babylonian, Mesopotamia
-      2000-1600 BC. One of the oldest known depictions of horse riding in the world.
-      British Museum ME22958 © Trustees of the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4NdhGNLc9yEck4My4uQwIo/703945afad6a8e3c97d10b09c487381c/ME22958.jpg"
+    caption: Terracotta mould of man on horseback, Old Babylonian, Mesopotamia 2000-1600
+      BC. One of the oldest known depictions of horse riding in the world. British
+      Museum ME22958 © Trustees of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=388860&partId=1&people=197356&museumno=22958&page=1
   - sys:
       id: 5YkSCzujy8o08yuomIu6Ei
       created_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:12:34.068000000 Z
       content_type_id: image
     image:
       sys:
@@ -158,13 +159,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.188000000 Z
       title: Fig. 5. Painted ‘bitriangular’
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1tpjS4kZZ6YoeiWeIi8I4C/c798c1afb41006855c34363ec2b54557/Fig._5._Painted____bitriangular___.jpg"
-    caption: Fig. 5. Painted ‘bitriangular’ horse and rider with saddle, Guilemsi,
-      Mauritania. © TARA/David Coulson. Image not yet catalogued.
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1tpjS4kZZ6YoeiWeIi8I4C/c798c1afb41006855c34363ec2b54557/Fig._5._Painted____bitriangular___.jpg"
+    caption: Painted ‘bi-triangular’ horse and rider with saddle. Oued Jrid, Assaba,
+      Mauritania. 2013,2034.12285 © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645983&partId=1&searchText=2013,2034.12285&page=1
   - sys:
       id: 1vZDFfKXU0US2qkuaikG8m
       created_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:14:56.468000000 Z
       content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 5'
     body: Traditional chronologies for Saharan rock art areas tend to place depictions
@@ -176,7 +178,7 @@ contentful:
       period, where the appearance of images of dromedaries – known only to have been
       introduced to the eastern Sahara from Arabia at the end of the 1st century BC
       – reflects the next momentous influx of a beast of burden to the area and thus
-      a new dating parameter (read more about depictions of camels in the Sahara).
+      a new dating parameter ([read more about depictions of camels in the Sahara](https://africanrockart.britishmuseum.org/thematic/camels-in-saharan-rock-art/)).
       However, such simplistic categorisation can be misleading. For one thing, although
       mounting horses certainly gained popularity over driving them, it is not always
       clear that depictions of ridden horses are not contemporary with those of chariots.
@@ -186,7 +188,7 @@ contentful:
   - sys:
       id: 2gaHPgtyEwsyQcUqEIaGaq
       created_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:32:44.364000000 Z
       content_type_id: image
     image:
       sys:
@@ -195,9 +197,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:50.292000000 Z
       title: '2013,2034.5739'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6quML2y0nuYgSaeG0GGYy4/7f48ae9c550dd6b4f0e80b8da10a3da6/2013_2034.5739.jpg"
-    caption: Fig. 6. Engraved ridden horse and camel. Draa Valley, Morocco. 2013,2034.5739
-      © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6quML2y0nuYgSaeG0GGYy4/7f48ae9c550dd6b4f0e80b8da10a3da6/2013_2034.5739.jpg"
+    caption: Engraved ridden horse and camel. Draa Valley, Morocco. 2013,2034.5739
+      ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3619780&partId=1&people=197356&museumno=2013,2034.5739+&page=1
   - sys:
       id: 583LKSbz9SSg00uwsqquAG
@@ -220,7 +222,7 @@ contentful:
   - sys:
       id: 7zrBlvCEGkW86Qm8k2GQAK
       created_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:16:52.557000000 Z
       content_type_id: image
     image:
       sys:
@@ -229,11 +231,11 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:44.717000000 Z
       title: '2013,2034.5202'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/uOFcng0Q0gU8WG8kI2kyy/7fba0330e151fc416d62333f3093d950/2013_2034.5202.jpg"
-    caption: Fig. 7. Engraved horses and riders surrounded by Libyan-Berber script.
-      Oued Djerat, Algeria. These images appear to depict riders using Arab-style
-      saddles and stirrups, thus making them probably no older than 7th c. AD. 2013,2034.5202
-      © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/uOFcng0Q0gU8WG8kI2kyy/7fba0330e151fc416d62333f3093d950/2013_2034.5202.jpg"
+    caption: Engraved horses and riders surrounded by Libyan-Berber script. Oued Djerat,
+      Algeria. These images appear to depict riders using Arab-style saddles and stirrups,
+      thus making them probably no older than 7th c. AD. 2013,2034.5202 © TARA/David
+      Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3624404&partId=1&people=197356&museumno=2013,2034.5202&page=1
   - sys:
       id: 45vpX8SP7aGeOS0qGaoo4a
@@ -251,7 +253,7 @@ contentful:
   - sys:
       id: 7GeTQBofPamw0GeEAuGGee
       created_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:29:02.520000000 Z
       content_type_id: image
     image:
       sys:
@@ -260,21 +262,20 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.501000000 Z
       title: RRM12824
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5MaSKooQvYssI4us8G0MyO/8c3a7c2d372f2c48a868d60201909932/RRM12824.jpg"
-    caption: Fig. 8. 19th-century Moroccan stirrups with typical curved base of the
-      type possibly visible in the image above. British Museum RRM12824 © Trustees
-      of the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5MaSKooQvYssI4us8G0MyO/8c3a7c2d372f2c48a868d60201909932/RRM12824.jpg"
+    caption: 19th-century Moroccan stirrups with typical curved base of the type possibly
+      visible in the image above. 1939,0311.7-8 © Trustees of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=217451&partId=1&page=1
   - sys:
       id: 6mNtqnqaEE2geSkU0IiYYe
       created_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:29:50.228000000 Z
       content_type_id: chapter
     title_internal: 'Thematic: horse, chapter 8'
     body: 'Another intriguing possibility is that of gaining clues on the origins
       of modern horse breeds from rock art, in particular the ancient Barb breed native
       to the Maghreb, where it is still bred. Ancient Mesopotamian horses were generally
-      depicted as heavily-built, and It has been suggested that the basic type for
+      depicted as heavily-built, and it has been suggested that the basic type for
       the delicate Arabian horse, with its dished (concave) facial profile and high-set
       tail, may have been developed in north-east Africa prior to its subsequent appearance
       and cultivation in Arabia, and that these features may be observed in Ancient
@@ -289,7 +290,7 @@ contentful:
   - sys:
       id: 3OM1XJI6ruwGOwwmkKOKaY
       created_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:30:30.915000000 Z
       content_type_id: image
     image:
       sys:
@@ -298,15 +299,15 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:50.293000000 Z
       title: '2013,2034.1452'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6ZmNhZjLCoQSEIYKIYUUuk/45bbff5b29985eb19679e1e513499d6b/2013_2034.1452.jpg"
-    caption: Fig. 9. Engraved horses and riders, Awis, Acacus Mountains, Libya. High
-      head carriage and full rumps suggest Arabian/Barb breed type features. Riders
-      have been obscured. 2013,2034.1452 © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6ZmNhZjLCoQSEIYKIYUUuk/45bbff5b29985eb19679e1e513499d6b/2013_2034.1452.jpg"
+    caption: Engraved horses and riders, Awis, Acacus Mountains, Libya. High head
+      carriage and full rumps suggest Arabian/Barb breed type features. Riders have
+      been obscured. 2013,2034.1452 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3592678&partId=1&people=197356&museumno=2013,2034.1452&page=1
   - sys:
       id: 40E0pTCrUIkk00uGWsus4M
       created_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-16 11:33:55.443000000 Z
       content_type_id: image
     image:
       sys:
@@ -315,10 +316,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.468000000 Z
       title: Fig. 10. Barb horses
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5mbJWrbZV6aQQOyamKMqIa/87f29480513be0a531e0a93b51f9eae5/Fig._10._Barb_horses.jpg"
-    caption: 'Fig. 10. Barb horses ridden at a festival in Agadir, Morocco. Source:
-      Wikimedia Commons'
-    col_link: https://commons.wikimedia.org/wiki/File%3ABerber_warriors_show.JPG
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5mbJWrbZV6aQQOyamKMqIa/87f29480513be0a531e0a93b51f9eae5/Fig._10._Barb_horses.jpg"
+    caption: Barb horses ridden at a festival in Agadir, Morocco. ©Notwist (Wikimedia
+      Commons)
+    col_link: https://commons.wikimedia.org/wiki/File:Berber_warriors_show.JPG
   - sys:
       id: 3z5YSVu9y8caY6AoYWge2q
       created_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
@@ -346,7 +347,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.121000000 Z
       title: '2013,2034.11147'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
     caption: Fig. 11. Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte,
       Western Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637713&partId=1&people=197356&museumno=2013,2034.11147+&page=1
@@ -362,7 +363,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.117000000 Z
       title: Fig. 12. Human figure
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2FcYImmyd2YuqMKQMwAM0s/e48fda8e2a23b12e6afde5c560c3f164/Fig._12._Human_figure.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2FcYImmyd2YuqMKQMwAM0s/e48fda8e2a23b12e6afde5c560c3f164/Fig._12._Human_figure.jpg"
     caption: Fig. 12. Human figure painted over by horse to appear mounted (digitally
       enhanced image). © TARA/David Coulson
   - sys:
@@ -392,7 +393,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:44.697000000 Z
       title: '2013,2034.6297'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/21xnJrk3dKwW6uSSkGumMS/698c254a9a10c5a9a56d69e0525bca83/2013_2034.6297.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/21xnJrk3dKwW6uSSkGumMS/698c254a9a10c5a9a56d69e0525bca83/2013_2034.6297.jpg"
     caption: Fig. 13. Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637529&partId=1&people=197356&museumno=2013,2034.6297&page=1
@@ -408,7 +409,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.196000000 Z
       title: Fig. 14. Engraved horse
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3PfHuSbYGcqeo2U4AEKsmM/33a068fa954954fd3b9b446c943e0791/Fig._14._Engraved_horse.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3PfHuSbYGcqeo2U4AEKsmM/33a068fa954954fd3b9b446c943e0791/Fig._14._Engraved_horse.jpg"
     caption: Fig. 14. Engraved horse, Eastern Aïr Mountains. © TARA/David Coulson.
       Image not yet catalogued.
   - sys:
@@ -433,7 +434,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.128000000 Z
       title: Fig. 15. Painted horse, Terkei
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3UXc5NiGTYQcmu2yuU42g/7586f05e83f708ca9d9fca693ae0cd83/Fig._15._Painted_horse__Terkei.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3UXc5NiGTYQcmu2yuU42g/7586f05e83f708ca9d9fca693ae0cd83/Fig._15._Painted_horse__Terkei.jpg"
     caption: Fig. 15. Painted horse, Terkei, Ennedi Plateau, Chad. © TARA/David Coulson.
       Image not yet catalogued.
   citations:
@@ -459,12 +460,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 18:44:31.346000000 Z
     title: EAF 141485
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2avgKlHUm8CauWie6sKecA/cf02168ca83c922f27eca33f16e8cc90/EAF_141485.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2avgKlHUm8CauWie6sKecA/cf02168ca83c922f27eca33f16e8cc90/EAF_141485.jpg"
   - sys:
       id: 1wtaUDwbSk4MiyGiISE6i8
       created_at: !ruby/object:DateTime 2015-12-07 18:43:51.804000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 18:43:51.804000000 Z
     title: 01522751 001
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1wtaUDwbSk4MiyGiISE6i8/5918544d0289f9c4b2b4724f4cda7a2d/01522751_001.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1wtaUDwbSk4MiyGiISE6i8/5918544d0289f9c4b2b4724f4cda7a2d/01522751_001.jpg"
 ---

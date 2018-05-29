@@ -41,7 +41,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.189000000 Z
       title: MALDED0060001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1IFNGAi4IkScieYwOmGiMA/c57b23e18a40a00a63f25361a859805e/MALDED0060001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1IFNGAi4IkScieYwOmGiMA/c57b23e18a40a00a63f25361a859805e/MALDED0060001.jpg"
     caption: View of the landscape from Namzeze, with two signs indicating the presence
       of rock art paintings and codes of behaviour in the foreground. 2013,2034.19844
       © TARA/David Coulson
@@ -58,7 +58,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.998000000 Z
       title: MALDED0060017
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3mGBPrPBdYqWW4MUUissms/0989042b0914b15d42be755ae787f5de/MALDED0060017.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3mGBPrPBdYqWW4MUUissms/0989042b0914b15d42be755ae787f5de/MALDED0060017.jpg"
     caption: Rock art panel with red and white depictions. Namzeze. 2013,2034.19860
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730116&partId=1
@@ -95,7 +95,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.075000000 Z
       title: MALNAM0010015
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/26hf0yyVDWY6MAGWQeiaMY/d24ebe749ebd39df56c7587ec2ab9825/MALNAM0010015.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/26hf0yyVDWY6MAGWQeiaMY/d24ebe749ebd39df56c7587ec2ab9825/MALNAM0010015.jpg"
     caption: Detail of red geometric sign infilled with white dots. Namzeze. 2013,2034.
       20283 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730246&partId=1
@@ -129,7 +129,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.002000000 Z
       title: MALDED0060019
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1AdufAw4d6U6ioCOEiQyye/d6ab356b64107c958388d56ebc74a7e9/MALDED0060019.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1AdufAw4d6U6ioCOEiQyye/d6ab356b64107c958388d56ebc74a7e9/MALDED0060019.jpg"
     caption: Rock art panel with red geometric signs and white animal-like figures,
       Namzeze.  2013,2034.19862 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730114&partId=1
@@ -161,7 +161,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.077000000 Z
       title: MALNAM0010035
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/7iE4ypc2QwGUOmSAscwqC8/2e085aba2bd10c62941a32016835323c/MALNAM0010035.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/7iE4ypc2QwGUOmSAscwqC8/2e085aba2bd10c62941a32016835323c/MALNAM0010035.jpg"
     caption: White animal-like figures related to the Nyau rituals. Namzeze. 2013,2034.19892  ©
       TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730149&partId=1
@@ -196,7 +196,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.101000000 Z
       title: MALNAM0010036
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3oM6s0shy0UgQe8MAgy0GK/f85d336dfd78d4665fb96b6010db6682/MALNAM0010036.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3oM6s0shy0UgQe8MAgy0GK/f85d336dfd78d4665fb96b6010db6682/MALNAM0010036.jpg"
     caption: Detail of a white animal with the legs facing each other, interpreted
       as a costume for a Nyau masquerade, Namzeze. 2013,2034.20304 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730272&partId=1
@@ -212,7 +212,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.309000000 Z
       title: 17-03-2016 171
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2hJ1GBmp4cgOsaYWaCU684/bc96220c1a95462408c1b72f33fbc183/17-03-2016_171.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2hJ1GBmp4cgOsaYWaCU684/bc96220c1a95462408c1b72f33fbc183/17-03-2016_171.jpg"
     caption: 'Costume for Nyau masquerade in form of an animal construction (kasiyamaliro).  Af1993,09.150 '
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=472359&partId=1
   - sys:
@@ -249,12 +249,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.077000000 Z
     title: MALNAM0010035
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/7iE4ypc2QwGUOmSAscwqC8/2e085aba2bd10c62941a32016835323c/MALNAM0010035.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/7iE4ypc2QwGUOmSAscwqC8/2e085aba2bd10c62941a32016835323c/MALNAM0010035.jpg"
   - sys:
       id: 26hf0yyVDWY6MAGWQeiaMY
       created_at: !ruby/object:DateTime 2016-07-27 07:46:39.075000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:46:39.075000000 Z
     title: MALNAM0010015
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/26hf0yyVDWY6MAGWQeiaMY/d24ebe749ebd39df56c7587ec2ab9825/MALNAM0010015.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/26hf0yyVDWY6MAGWQeiaMY/d24ebe749ebd39df56c7587ec2ab9825/MALNAM0010015.jpg"
 ---

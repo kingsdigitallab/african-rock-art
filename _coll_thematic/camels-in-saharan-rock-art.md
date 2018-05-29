@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
     title: Fig. 1. Camel
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
   chapters:
   - sys:
       id: 1Q7xHD856UsISuceGegaqI
@@ -32,7 +32,7 @@ contentful:
   - sys:
       id: 4p7wUbC6FyiEYsm8ukI0ES
       created_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 14:19:18.059000000 Z
       content_type_id: image
     image:
       sys:
@@ -41,9 +41,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
       title: Fig. 1. Camel
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
-    caption: Fig. 1. Camel salt caravan crossing the Tenere desert in Niger. Image
-      not yet catalogued. © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
+    caption: Camel salt caravan crossing the Ténéré desert in Niger. 2013,2034.10487
+      © David Coulson/TARA
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652360&partId=1&searchText=2013,2034.10487&page=1
   - sys:
       id: 1LsXHHPAZaIoUksC2US08G
       created_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
@@ -65,7 +66,7 @@ contentful:
   - sys:
       id: j3q9XWFlMOMSK6kG2UWiG
       created_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 14:21:07.255000000 Z
       content_type_id: image
     image:
       sys:
@@ -74,9 +75,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.273000000 Z
       title: EA26664
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6afrRs4VLUS4iEG0iwEoua/e00bb3c81c6c9b44b5e224f5a8ce33a2/EA26664.jpg"
-    caption: Fig. 2. Roman terracotta camel with harness, 1st – 3rd century AD, Egypt.
-      British Museum EA26664 © Trustees of the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6afrRs4VLUS4iEG0iwEoua/e00bb3c81c6c9b44b5e224f5a8ce33a2/EA26664.jpg"
+    caption: Roman terracotta camel with harness, 1st – 3rd century AD, Egypt. British
+      Museum 1891,0403.31 © Trustees of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?museumno=1891,0430.31&objectId=118725&partId=1
   - sys:
       id: NxdAnazJaUkeMuyoSOy68
@@ -101,7 +102,7 @@ contentful:
   - sys:
       id: 2KjIpAzb9Kw4O82Yi6kg2y
       created_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 14:39:34.523000000 Z
       content_type_id: image
     image:
       sys:
@@ -110,14 +111,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.477000000 Z
       title: Af1937,0105.16
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6iaMmNK91YOU00S4gcgi6W/4a850695b34c1766d1ee5a06f61f2b36/Af1937_0105.16.jpg"
-    caption: Fig. 3. Clay female dromedary (possibly a toy), Somalia. British Museum
-      Af1937,0105.16 © Trustees of the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6iaMmNK91YOU00S4gcgi6W/4a850695b34c1766d1ee5a06f61f2b36/Af1937_0105.16.jpg"
+    caption: Clay female dromedary (possibly a toy), Somalia. British Museum Af1937,0105.16
+      © Trustees of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=1088379&objectId=590967&partId=1
   - sys:
       id: 12mIwQ0wG2qWasw4wKQkO0
       created_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 14:45:29.810000000 Z
       content_type_id: image
     image:
       sys:
@@ -126,9 +127,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.505000000 Z
       title: Fig. 4. Man
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4jTR7LKYv6IiY8wkc2CIum/3dbaa11c18703b33840a6cda2c2517f2/Fig._4._Man.jpg"
-    caption: Fig. 4. Man leading a camel train through the Ennedi Plateau, Chad. Image
-      not yet catalogued. © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4jTR7LKYv6IiY8wkc2CIum/3dbaa11c18703b33840a6cda2c2517f2/Fig._4._Man.jpg"
+    caption: Man leading a camel train through the Ennedi Plateau, Chad. 2013,2034.6134
+      ©David Coulson/TARA
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636989&partId=1&searchText=2013,2034.6134&page=1
   - sys:
       id: 6UIdhB0rYsSQikE8Yom4G6
       created_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
@@ -152,7 +154,7 @@ contentful:
   - sys:
       id: YLb3uCAWcKm288oak4ukS
       created_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 14:46:15.751000000 Z
       content_type_id: image
     image:
       sys:
@@ -161,10 +163,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:06:48.336000000 Z
       title: '1923,0401.850'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5aJ9wYpcHe6SImauCSGoM8/74efd37612ec798fd91c2a46c65587f7/1923_0401.850.jpg"
-    caption: Fig. 5. Glass paste gem imitating beryl, engraved with a short, bearded
-      man leading a camel with a pack on its hump. Roman empire, 1st – 3rd century
-      AD. 1923,0401.850 © Trustees of the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5aJ9wYpcHe6SImauCSGoM8/74efd37612ec798fd91c2a46c65587f7/1923_0401.850.jpg"
+    caption: Glass paste gem imitating beryl, engraved with a short, bearded man leading
+      a camel with a pack on its hump. Roman Empire, 1st – 3rd century AD. 1923,0401.850
+      ©Trustees of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=434529&partId=1&museumno=1923,0401.850&page=1
   - sys:
       id: 3uitqbkcY8s8GCcicKkcI4
@@ -184,7 +186,7 @@ contentful:
   - sys:
       id: 5OWosKxtUASWIO6IUii0EW
       created_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:11:49.775000000 Z
       content_type_id: image
     image:
       sys:
@@ -193,15 +195,15 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:06:48.343000000 Z
       title: '2013,2034.383'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3mY7XFQW6QY6KekSQm6SIu/85c0b70ab40ead396c695fe493081801/2013_2034.383.jpg"
-    caption: Fig. 6. Painted scene of a village, depicting a herd or caravan of camels
-      guided by riders and dogs. Wadi Teshuinat, Acacus Mountains, Libya. 2013,2034.383
-      © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3mY7XFQW6QY6KekSQm6SIu/85c0b70ab40ead396c695fe493081801/2013_2034.383.jpg"
+    caption: Painted scene of a village, depicting a herd or caravan of camels guided
+      by riders and dogs. Wadi Teshuinat, Acacus Mountains, Libya. 2013,2034.383 ©
+      David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3579914&partId=1&museumno=2013,2034.383&page=1
   - sys:
       id: 2Ocb7A3ig8OOkc2AAQIEmo
       created_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:12:22.249000000 Z
       content_type_id: image
     image:
       sys:
@@ -210,14 +212,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.480000000 Z
       title: '2013,2034.5117'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2xR2nZml7mQAse8CgckCa/984e95b65ebdc647949d656cb08c0fc9/2013_2034.5117.jpg"
-    caption: Fig. 7. Engravings of a female camel with calves. Oued Djerat, Algeria.
-      2013,2034.5117 © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2xR2nZml7mQAse8CgckCa/984e95b65ebdc647949d656cb08c0fc9/2013_2034.5117.jpg"
+    caption: Engravings of a female camel with calves. Oued Djerat, Algeria. 2013,2034.5117
+      © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3624292&partId=1&museumno=2013,2034.5117&page=1
   - sys:
       id: 4iTHcZ38wwSyGK8UIqY2yQ
       created_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:31:09.339000000 Z
       content_type_id: image
     image:
       sys:
@@ -226,10 +228,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.241000000 Z
       title: Fig. 8. Painted
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1ecCbVeHUGa2CsYoYSQ4Sm/21b2aebd215d0691482411608ad5682f/Fig._8._Painted.jpg"
-    caption: Fig. 8. Painted scene of Libyan-Berber warriors riding camels, accompanied
-      by infantry and cavalrymen. Kozen Pass, Chad. Image not yet catalogued. © David
-      Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1ecCbVeHUGa2CsYoYSQ4Sm/21b2aebd215d0691482411608ad5682f/Fig._8._Painted.jpg"
+    caption: " Painted scene of Libyan-Berber warriors riding camels, accompanied
+      by infantry and cavalrymen. Kozen Pass, Chad. 2013,2034.7295 © David Coulson/TARA"
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3655154&partId=1&searchText=2013,2034.7295&page=1
   - sys:
       id: 2zqiJv33OUM2eEMIK2042i
       created_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
@@ -243,7 +245,7 @@ contentful:
   - sys:
       id: 6dOm7ewqmA6oaM4cK4cy8c
       created_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:31:33.078000000 Z
       content_type_id: image
     image:
       sys:
@@ -252,10 +254,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:06:48.345000000 Z
       title: As1974,29.17
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5qXuQrcnUQKm0qCqoCkuGI/2b279eff2a6f42121ab0f6519d694a92/As1974_29.17.jpg"
-    caption: Fig. 9. North Arabian-style saddle, with a wooden framework designed
-      to be put around the hump. Jordan. British Museum As1974,29.17 © Trustees of
-      the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5qXuQrcnUQKm0qCqoCkuGI/2b279eff2a6f42121ab0f6519d694a92/As1974_29.17.jpg"
+    caption: North Arabian-style saddle, with a wooden framework designed to be put
+      around the hump. Jordan. British Museum As1974,29.17 © Trustees of the British
+      Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3320111&partId=1&object=23696&page=1
   - sys:
       id: 5jE9BeKCBUEK8Igg8kCkUO
@@ -279,7 +281,7 @@ contentful:
   - sys:
       id: 6yZaDQMr1Sc0sWgOG6MGQ8
       created_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:33:25.754000000 Z
       content_type_id: image
     image:
       sys:
@@ -288,14 +290,15 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.466000000 Z
       title: Fig. 10. Painting
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/40zIycUaTuIG06mgyaE20K/1736927ffb5e2fc71d1f1ab04310a73f/Fig._10._Painting.jpg"
-    caption: Fig. 10. Painting of rider on a one-humped camel. Note the North Arabian
-      saddle on the hump, similar to that in the Fig. 9. Terkei, Ennedi plateau, Chad.
-      Image not yet catalogued. © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/40zIycUaTuIG06mgyaE20K/1736927ffb5e2fc71d1f1ab04310a73f/Fig._10._Painting.jpg"
+    caption: Painting of rider on a one-humped camel. Note the North Arabian saddle
+      on the hump, similar to the example from Jordan above. Terkei, Ennedi plateau,
+      Chad. 2013,2034.6568 © David Coulson/TARA
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640623&partId=1&searchText=2013,2034.6568&page=1
   - sys:
       id: 5jHyVlfWXugI2acowekUGg
       created_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:36:07.603000000 Z
       content_type_id: image
     image:
       sys:
@@ -304,15 +307,15 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.249000000 Z
       title: '2013,2034.4471'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6EvwTsiMO4qoiIY4gGCgIK/1db47ae083ff605b9533898d9d9fb10d/2013_2034.4471.jpg"
-    caption: Fig. 11. Camel-rider using a North African saddle (in front of the hump),
-      surrounded by warriors with spears and swords, with Libyan-Berber graffiti.
-      Tin Tazarift, Tassili, Algeria. 2013,2034.4471 © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6EvwTsiMO4qoiIY4gGCgIK/1db47ae083ff605b9533898d9d9fb10d/2013_2034.4471.jpg"
+    caption: Camel-rider using a North African saddle (in front of the hump), surrounded
+      by warriors with spears and swords, with Libyan-Berber graffiti. Tin Tazarift,
+      Tassili, Algeria. 2013,2034.4471 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3602860&partId=1&museumno=2013,2034.4471&page=1
   - sys:
       id: 57goC8PzUs6G4UqeG0AgmW
       created_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 15:40:21.199000000 Z
       content_type_id: image
     image:
       sys:
@@ -321,11 +324,12 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.250000000 Z
       title: Fig. 12. Tuaregs
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5JDO7LrdKMcSEOMEG8qsS8/76cbecd637724d549db8a7a101553280/Fig._12._Tuaregs.jpg"
-    caption: Fig. 12. Tuaregs at Cura Salee, an annual meeting of desert peoples.
-      Note the saddles in front of the hump (as in Fig.11) and the camels' harnesses,
-      very similar to those in Fig.10. Ingal, Northern Niger. Image not yet catalogued.
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5JDO7LrdKMcSEOMEG8qsS8/76cbecd637724d549db8a7a101553280/Fig._12._Tuaregs.jpg"
+    caption: Tuaregs at Cura Salee, an annual meeting of desert peoples. Note the
+      saddles in front of the hump and the camels' harnesses,  similar to the rock
+      paintings above such as the image from Terkei. Ingal, Northern Niger. 2013,2034.10523
       © David Coulson/TARA
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652377&partId=1&searchText=2013,2034.10523&page=1
   - sys:
       id: 3QPr46gQP6sQWswuSA2wog
       created_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
@@ -346,7 +350,7 @@ contentful:
   - sys:
       id: 54fiYzKXEQw0ggSyo0mk44
       created_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 16:01:13.379000000 Z
       content_type_id: image
     image:
       sys:
@@ -355,13 +359,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.244000000 Z
       title: Fig. 13. Camel-riders
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3idPZkkIKAOWCiKouQ8c8i/4527b1eebe112ef9c38da1026e7540b3/Fig._13._Camel-riders.jpg"
-    caption: Fig. 13. Camel-riders galloping. Butress cave, Archael Guelta, Chad.
-      Image not yet catalogued. © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3idPZkkIKAOWCiKouQ8c8i/4527b1eebe112ef9c38da1026e7540b3/Fig._13._Camel-riders.jpg"
+    caption: Camel-riders galloping. Butress cave, Archael Guelta, Chad. 2013,2034.6077
+      ©David Coulson/TARA
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637992&partId=1&searchText=2013,2034.6077&page=1
   - sys:
       id: 1ymik3z5wMUEway6omqKQy
       created_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 16:02:41.679000000 Z
       content_type_id: image
     image:
       sys:
@@ -370,9 +375,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 16:07:06.194000000 Z
       title: Fig. 14. Tuareg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4Y85f5QkVGQiuYEaA2OSUC/4fbca027ed170b221daefdff0ae7d754/Fig._14._Tuareg.jpg"
-    caption: Fig. 14. Tuareg rider galloping at the Cure Salee meeting. Ingal, northern
-      Niger. Image not yet catalogued. © David Coulson/TARA
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4Y85f5QkVGQiuYEaA2OSUC/4fbca027ed170b221daefdff0ae7d754/Fig._14._Tuareg.jpg"
+    caption: Tuareg rider galloping at the Cure Salee meeting. Ingal, northern Niger.
+      2013,2034.10528 © David Coulson/TARA
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652371&partId=1&searchText=2013,2034.10528&page=1
   background_images:
   - sys:
       id: 3mhr7uvrpesmaUeI4Aiwau
@@ -380,12 +386,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 18:13:48.396000000 Z
     title: CHAENP0340003
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3mhr7uvrpesmaUeI4Aiwau/65c691f09cd60bb7aa08457e18eaa624/CHAENP0340003_1_.JPG"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3mhr7uvrpesmaUeI4Aiwau/65c691f09cd60bb7aa08457e18eaa624/CHAENP0340003_1_.JPG"
   - sys:
       id: BPzulf3QNqMC4Iqs4EoCG
       created_at: !ruby/object:DateTime 2015-12-07 18:13:31.094000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 18:13:31.094000000 Z
     title: CHAENP0340001
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/BPzulf3QNqMC4Iqs4EoCG/356b921099bfccf59008b69060d20d75/CHAENP0340001_1_.JPG"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/BPzulf3QNqMC4Iqs4EoCG/356b921099bfccf59008b69060d20d75/CHAENP0340001_1_.JPG"
 ---

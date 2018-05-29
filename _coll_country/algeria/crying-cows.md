@@ -35,7 +35,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:49:37.233000000 Z
       title: '2013,2034.4323'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6eeWLekeOI6MC2OO8SkAEk/2ce480e7c388db97e2619927c84ca059/2013_2034.4323.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6eeWLekeOI6MC2OO8SkAEk/2ce480e7c388db97e2619927c84ca059/2013_2034.4323.jpg"
     caption: Polished cattle engravings belonging to the Early Hunter Period. Tegharghart,
       south of Djanet, Tassili n'Ajjer, Algeria. 2013,2034.4323 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601754&partId=1&images=true&people=197356&museumno=2013,2034.4323&page=1
@@ -61,7 +61,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:49:37.249000000 Z
       title: '2013,2034.4328'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4BNQt2lt84WMoouGQgc6G0/96d40531dacc2538ad5c32de06190654/2013_2034.4328.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4BNQt2lt84WMoouGQgc6G0/96d40531dacc2538ad5c32de06190654/2013_2034.4328.jpg"
     caption: Close-up of polished cattle engravings. 2013,2034.4328 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601772&partId=1&images=true&people=197356&museumno=2013,2034.4328&page=1
   - sys:
@@ -92,12 +92,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 20:09:47.529000000 Z
     title: ALGDJA0010009
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3bwDgmmud2wssS4kAi0YMe/e6733b7060e67b2e94eecf1e08563a1b/ALGDJA0010009.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3bwDgmmud2wssS4kAi0YMe/e6733b7060e67b2e94eecf1e08563a1b/ALGDJA0010009.jpg"
   - sys:
       id: 7vsU1HA1s44SaSkK2mGiAU
       created_at: !ruby/object:DateTime 2015-12-07 20:09:47.502000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:09:47.502000000 Z
     title: ALGTDR0140002
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/7vsU1HA1s44SaSkK2mGiAU/cfa5804c371b2239e6d843593c6297fd/ALGTDR0140002.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/7vsU1HA1s44SaSkK2mGiAU/cfa5804c371b2239e6d843593c6297fd/ALGTDR0140002.jpg"
 ---

@@ -14,22 +14,22 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.778000000 Z
     title: '2013,2034.12976'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5yD7fOuAdU4cemkewCqCMO/4d203afb0318bee69decb23327864c79/2013_2034.12976.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5yD7fOuAdU4cemkewCqCMO/4d203afb0318bee69decb23327864c79/2013_2034.12976.jpg"
   chapters:
   - sys:
       id: 5plObOxqdq6MuC0k4YkCQ8
       created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:05:35.909000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
       content_type_id: chapter
     title_internal: 'Geometric motifs: thematic, chapter 1'
     body: |-
-      The rock art of Eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
+      The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
 
       First observed in Kenya in the 1970s with the work of Gramly (1975) at Lukenya Hill and Lynch and Robbins (1977) at Namoratung’a, some geometric motifs seen in the rock art of the region were observed to have had their counterparts on the hides of cattle of local communities. Although cattle branding is known to be  practised by several Kenyan groups, Gramly concluded that  “drawing cattle brands on the walls of rock shelters appears to be confined to the regions formerly inhabited by the Maa-speaking pastoralists or presently occupied by them”&dagger;(Gramly, 1977:117).
   - sys:
       id: 71cjHu2xrOC8O6IwSmMSS2
       created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
       content_type_id: image
     image:
       sys:
@@ -38,9 +38,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.778000000 Z
       title: '2013,2034.12976'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5yD7fOuAdU4cemkewCqCMO/4d203afb0318bee69decb23327864c79/2013_2034.12976.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5yD7fOuAdU4cemkewCqCMO/4d203afb0318bee69decb23327864c79/2013_2034.12976.jpg"
     caption: White symbolic designs possibly representing Maa clans and livestock
-      brands, Laikipia, Kenya. 2013,2034.12976   © TARA/David Coulson
+      brands, Laikipia, Kenya. 2013,2034.12976  © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3693276&partId=1&searchText=2013,2034.12976&page=1
   - sys:
       id: 36QhSWVHKgOeMQmSMcGeWs
@@ -62,7 +62,7 @@ contentful:
   - sys:
       id: 4t76LZy5zaSMGM4cUAsYOq
       created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
       content_type_id: image
     image:
       sys:
@@ -71,10 +71,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.764000000 Z
       title: '2013,2034.12846'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1lBqQePHxK2Iw8wW8S8Ygw/68fffb37b845614214e96ce78879c0b0/2013_2034.12846.jpg"
-    caption: View of the long rock shelter below the waterfall showing White abstract
-      Maasai paintings made during meat feasting ceremonies, probably quite recently,
-      Enkinyoi, Kenya. 2013,2034.12846. © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1lBqQePHxK2Iw8wW8S8Ygw/68fffb37b845614214e96ce78879c0b0/2013_2034.12846.jpg"
+    caption: View of the long rock shelter below the waterfall showing white abstract
+      Maasai paintings made probably quite recently during meat feasting ceremonies,
+      Enkinyoi, Kenya. 2013,2034.12846 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3694558&partId=1&searchText=2013,2034.12846&page=1
   - sys:
       id: 3HGWtlhoS424kQCMo6soOe
@@ -92,7 +92,7 @@ contentful:
   - sys:
       id: kgoyTkeS0oQIoaOaaWwwm
       created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
       content_type_id: image
     image:
       sys:
@@ -101,9 +101,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.756000000 Z
       title: '2013,2034.13006'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/19lqDiCw7UOomiMmYagQmq/6f54d106aaec53ed9a055dc7bf3ac014/2013_2034.13006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/19lqDiCw7UOomiMmYagQmq/6f54d106aaec53ed9a055dc7bf3ac014/2013_2034.13006.jpg"
     caption: Ndorobo man with bow and quiver of arrows kneels at a rock shelter adorned
-      with white symbolic paintings suggesting meat-feasting rituals, Laikipia, Kenya.  2013,2034.13006.
+      with white symbolic paintings suggesting meat-feasting rituals. Laikipia, Kenya.  2013,2034.13006
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3700172&partId=1&searchText=2013,2034.13006&page=1
   - sys:
@@ -140,7 +140,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.766000000 Z
       title: '2013,2034.13451'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5yUlpG85GMuW2IiMeYCgyy/a234f96f9931ec3fdddcf1ab54a33cd9/2013_2034.13451.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5yUlpG85GMuW2IiMeYCgyy/a234f96f9931ec3fdddcf1ab54a33cd9/2013_2034.13451.jpg"
     caption: Borana cattle brands. Namoratung’a, Kenya. 2013,2034.13451. © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3660359&partId=1&searchText=2013,2034.13451&page=1
@@ -198,12 +198,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 19:16:42.825000000 Z
     title: KENLOK0030053
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1TDQd4TutiKwIAE8mOkYEU/718ff84615930ddafb1f1fdc67b5e479/KENLOK0030053.JPG"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1TDQd4TutiKwIAE8mOkYEU/718ff84615930ddafb1f1fdc67b5e479/KENLOK0030053.JPG"
   - sys:
       id: 2SCvEkDjAcIewkiu6iSGC4
       created_at: !ruby/object:DateTime 2015-12-07 19:16:42.845000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 19:16:42.845000000 Z
     title: KENKAJ0030008
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2SCvEkDjAcIewkiu6iSGC4/b2e2e928e5d9a6a25aca5c99058dfd76/KENKAJ0030008.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2SCvEkDjAcIewkiu6iSGC4/b2e2e928e5d9a6a25aca5c99058dfd76/KENKAJ0030008.jpg"
 ---

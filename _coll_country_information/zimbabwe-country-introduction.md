@@ -37,7 +37,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 12:06:48.519000000 Z
       title: ZIMMSL0280001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/40o6cuVD1mg0GcouA8Iaym/32da0eecea127afbf2c5f839534485da/ZIMMSL0280001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/40o6cuVD1mg0GcouA8Iaym/32da0eecea127afbf2c5f839534485da/ZIMMSL0280001.jpg"
     caption: Rocky outcrop in Mashonaland, Zimbabwe (2013,2034.23240). ©TARA/David
       Coulson
   - sys:
@@ -79,7 +79,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:30.277000000 Z
       title: ZIMMSL0070001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2fUMJJmhu0gAW4Kkoscw2i/6c0c5908e2526dae2378c771a641e1f0/ZIMMSL0070001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2fUMJJmhu0gAW4Kkoscw2i/6c0c5908e2526dae2378c771a641e1f0/ZIMMSL0070001.jpg"
     caption: Yellow elephant calf painted on the roof of a shelter. Mashonaland, Zimbabwe
       (2013,2034.22675). ©TARA/David Coulson
   - sys:
@@ -114,7 +114,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:45.461000000 Z
       title: ZIMMSL0230014
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/51wED0wl4cSWQAWcEqAKek/7e367c5c29de4def2fd4fbc4f81b7dd1/ZIMMSL0230014.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/51wED0wl4cSWQAWcEqAKek/7e367c5c29de4def2fd4fbc4f81b7dd1/ZIMMSL0230014.jpg"
     caption: Complex scene of human figures and antelopes. Mashonaland, Zimbabwe (2013,2034.23055).
       ©TARA/David Coulson
   - sys:
@@ -148,7 +148,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:58:59.626000000 Z
       title: ZIMMSL0210014
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/37IO99TlpSsMKoCoOskwyO/5156a40344d65934a2c8bdf86d3f78b9/ZIMMSL0210014.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/37IO99TlpSsMKoCoOskwyO/5156a40344d65934a2c8bdf86d3f78b9/ZIMMSL0210014.jpg"
     caption: Group of human figures and different types of animals including giraffes,
       antelopes and warthogs (2013,2034.22962). ©TARA/David Coulson
   - sys:
@@ -176,7 +176,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:59:12.467000000 Z
       title: ZIMMTB0060005
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/nRXWoI9Gk8uy2go42GomE/2bb4e21572df0610dfa429bb8b6f4bf2/ZIMMTB0060005.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/nRXWoI9Gk8uy2go42GomE/2bb4e21572df0610dfa429bb8b6f4bf2/ZIMMTB0060005.jpg"
     caption: Depiction of a formling surrounding by animals. Matabeleland, Zimbabwe
       (2013,2034.23465). ©TARA/David Coulson
   - sys:
@@ -201,7 +201,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:59:28.407000000 Z
       title: ZIMMSL0120052
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4sy93JCmHKCso2muMWoOc0/ac69dd7a46cecd5c4ca9663931e915ed/ZIMMSL0120052.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4sy93JCmHKCso2muMWoOc0/ac69dd7a46cecd5c4ca9663931e915ed/ZIMMSL0120052.jpg"
     caption: Iron Age painting depicting a zebra. Mashonaland, Zimbabwe (2013,2034.22780).
       ©TARA/David Coulson
   - sys:
@@ -235,7 +235,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 12:00:29.957000000 Z
       title: ZIMMSL0220013
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6J08sWPtfOs88AmM20u02u/a3611f2b43b406427bd87003e5341612/ZIMMSL0220013.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6J08sWPtfOs88AmM20u02u/a3611f2b43b406427bd87003e5341612/ZIMMSL0220013.jpg"
     caption: Sable antelope, crocodile or lizard and human figure. Mashonaland, Zimbabwe
       (2013,2034.23028). ©TARA/David Coulson
   citations:

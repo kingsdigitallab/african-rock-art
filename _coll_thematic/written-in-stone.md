@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-08 08:25:55.339000000 Z
     title: '2013,2034.4200'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/5m9CnpjjOgEIeiaW6k6SYk/3dd6ae7d242722aa740c7229eb70d4e7/ALGDJA0040010.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5m9CnpjjOgEIeiaW6k6SYk/3dd6ae7d242722aa740c7229eb70d4e7/ALGDJA0040010.jpg"
   chapters:
   - sys:
       id: 3fpuPIJW9i2ESgqYsEMe02
@@ -35,7 +35,7 @@ contentful:
   - sys:
       id: 6MFGcsOw2QYceK2eWSsGqY
       created_at: !ruby/object:DateTime 2015-11-25 17:43:10.618000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:43:10.618000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:32:20.694000000 Z
       content_type_id: image
     image:
       sys:
@@ -44,16 +44,16 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 08:25:55.339000000 Z
       title: '2013,2034.4200'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5m9CnpjjOgEIeiaW6k6SYk/3dd6ae7d242722aa740c7229eb70d4e7/ALGDJA0040010.jpg"
-    caption: 'Figure 1: view of red wolf or lion with an spiral tail. A Libyco-Berber
-      script has been written under the belly, and another one can be seen to the
-      lower left of the photograph. Tin  Aboteka, Tassili n''Ajjer, Algeria. Col.
-      Number 2013,2034.4200'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5m9CnpjjOgEIeiaW6k6SYk/3dd6ae7d242722aa740c7229eb70d4e7/ALGDJA0040010.jpg"
+    caption: View of red wolf or lion with an spiral tail. A Libyco-Berber script
+      has been written under the belly, and another one can be seen to the lower left
+      of the photograph. Tin  Aboteka, Tassili n'Ajjer, Algeria. 2013,2034.4200 ©TARA/David
+      Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601330&partId=1&searchText=2013,2034.4200&page=1
   - sys:
       id: TwRWy4YkkUmg2yMGIWOQw
       created_at: !ruby/object:DateTime 2015-11-25 17:49:54.544000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 12:25:34.918000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:33:58.483000000 Z
       content_type_id: chapter
     title_internal: 'Libyco-Berber: thematic, chapter 2'
     body: Libyco-Berber characters were identified as written language as early as
@@ -61,15 +61,15 @@ contentful:
       the Roman city of Dougga (Tunisia). They were deciphered by F. de Saulcy in
       1843 through the comparison of personal names with equivalent Punic names in
       bilingual scenes, although a few characters still remain uncertain. Since the
-      beginning of the 19th century onwards different many proposals have been made
+      beginning of the 19th century onwards many different proposals have been made
       to explain the origin, expansion and translation of these alphabets. There are
-      three main explanations of its origin; the most accepted theory considers that
+      three main explanations of its origin - the most accepted theory considers that
       the Libyco-Berber alphabet and principles of writing were borrowed from the
       Phoenician script, with other symbols added locally.
   - sys:
       id: pfjxB9ZjI4c68SYYOcc6C
       created_at: !ruby/object:DateTime 2015-11-25 17:43:34.886000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 12:32:09.149000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:35:37.505000000 Z
       content_type_id: image
     image:
       sys:
@@ -78,10 +78,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:56:27.808000000 Z
       title: Libyco theme figure 2
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1i0U2eePgyWQKE8WgOEuug/03cf171fe9cde8389b055b4740f8d1fd/29-10-2015_11.05.jpg"
-    caption: 'Figure 2: half of a bilingual inscription written Numidian, part of
-      a monument dedicated to Ateban, a Numidian prince. Numidian is one of the languages
-      written in Libyco-Berber alphabets. 1852,0305.1 © Trustees of the British Museum'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1i0U2eePgyWQKE8WgOEuug/03cf171fe9cde8389b055b4740f8d1fd/29-10-2015_11.05.jpg"
+    caption: Half of a bilingual inscription written in Numidian, part of a monument
+      dedicated to Ateban, a Numidian prince. Numidian is one of the languages written
+      in Libyco-Berber alphabets. 1852,0305.1 ©Trustees of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=368104&partId=1&searchText=1852,0305.1&page=1
   - sys:
       id: 2QHgN5FuFGK4aoaWUcKuG2
@@ -100,7 +100,7 @@ contentful:
   - sys:
       id: 67cDVCAn3GMK8m2guKMeuY
       created_at: !ruby/object:DateTime 2015-11-25 17:44:09.415000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:44:09.415000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:37:11.219000000 Z
       content_type_id: image
     image:
       sys:
@@ -109,10 +109,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:40:34.619000000 Z
       title: '2013,2034.4996'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4kXC2w9xCwAASweyCgwg2O/4d864b520d505029c7c8b90cd9e5fde2/ALGTOD0050035.jpg"
-    caption: 'Figure 3: engraved panel full of camels and human figures, surrounded
-      by Libyco-Berber graffiti. Oued Djerat, Tassili  n’Ajjer, Algeria. Col. Number
-      2013,2034.4996.'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4kXC2w9xCwAASweyCgwg2O/4d864b520d505029c7c8b90cd9e5fde2/ALGTOD0050035.jpg"
+    caption: Engraved panel full of camels and human figures, surrounded by Libyco-Berber
+      graffiti. Oued Djerat, Tassili  n’Ajjer, Algeria. 2013,2034.4996 ©TARA/David
+      Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3623989&partId=1&searchText=2013,2034.4996&page=1
   - sys:
       id: 4UXtnuK0VGkYKMGyuqseKI
@@ -133,7 +133,7 @@ contentful:
   - sys:
       id: 13CDv9voc48oCmC0wqG4AA
       created_at: !ruby/object:DateTime 2015-11-25 17:44:51.935000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:44:51.935000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:37:41.169000000 Z
       content_type_id: image
     image:
       sys:
@@ -142,9 +142,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 08:28:43.019000000 Z
       title: '2013,2034.9338'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5rTkM78qGckOKu2q4AIUAI/1868823d4c9b78591d8fd94d156a8afc/NIGEAM0040013.jpg"
-    caption: 'Figure 4: view of Libyan warrior holding a spear, surrounded by Libyco-Berber
-      scripts. Ibel, Niger. Col. Number 2013,2034.9338'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5rTkM78qGckOKu2q4AIUAI/1868823d4c9b78591d8fd94d156a8afc/NIGEAM0040013.jpg"
+    caption: View of Libyan warrior holding a spear, surrounded by Libyco-Berber scripts.
+      Ibel, Niger. 2013,2034.9338 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3641907&partId=1&searchText=2013,2034.9338&page=1
   - sys:
       id: 1gWJWaxXZYc4IiUyiC8IkQ
@@ -171,7 +171,7 @@ contentful:
   - sys:
       id: 6K1hjSQHrGSmMIwyi4aEci
       created_at: !ruby/object:DateTime 2015-11-25 17:46:00.776000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 16:42:34.417000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:39:20.711000000 Z
       content_type_id: image
     image:
       sys:
@@ -180,11 +180,11 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:41:18.933000000 Z
       title: '2013,2034.5878'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/373GOE3JagQYoyY2gySyMy/75c096cc7f233cedc2f75f58b0b41290/Oukaimeden_adapted.jpg"
-    caption: 'Figure 5: panel with elephants and human figures superimposed by two
-      Libyco-Berber inscriptions which some consider one of the oldest written in
-      this alphabet. They have been enhanced for a better view of the symbols. Oukaïmeden,
-      Morocco.  2013,2034.5878.'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/373GOE3JagQYoyY2gySyMy/75c096cc7f233cedc2f75f58b0b41290/Oukaimeden_adapted.jpg"
+    caption: Panel with elephants and human figures superimposed by two Libyco-Berber
+      inscriptions, which some consider one of the oldest written in this alphabet,
+      enhanced for a better view of the symbols. Oukaïmeden, Morocco. 2013,2034.5878
+      ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613939&partId=1&searchText=2013,2034.5878&page=1
   - sys:
       id: 3ik84OMvkQaEu6yOAeCMS6
@@ -208,7 +208,7 @@ contentful:
   - sys:
       id: 1t5dVxKpiIqeqy82O4McOI
       created_at: !ruby/object:DateTime 2015-11-25 17:46:35.246000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 12:25:57.212000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:43:47.775000000 Z
       content_type_id: image
     image:
       sys:
@@ -217,9 +217,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:41:38.056000000 Z
       title: '2013,2034.3203'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/7x2yrpGfGEKaUQgyuiOYwk/27f613c48b37dbb1114df7b733465787/LIBMES0180013.jpg"
-    caption: 'Figure 6: panel depicting cattle, giraffes and Libyco-Berber graffiti.
-      In Galgiwen, Libya. Col. Number 2013,2034.3203'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/7x2yrpGfGEKaUQgyuiOYwk/27f613c48b37dbb1114df7b733465787/LIBMES0180013.jpg"
+    caption: Panel depicting cattle, giraffes and Libyco-Berber graffiti. In Galgiwen,
+      Libya. 2013,2034.3203 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3589647&partId=1&searchText=2013,2034.3203&page=1
   - sys:
       id: 3Ju6IkGoneueE2gYQKaAQm
@@ -242,7 +242,7 @@ contentful:
   - sys:
       id: 1fPVVfXalmoKy2mUUCQQOw
       created_at: !ruby/object:DateTime 2015-11-25 17:47:18.568000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:47:18.568000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:44:36.059000000 Z
       content_type_id: image
     image:
       sys:
@@ -251,9 +251,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:41:59.073000000 Z
       title: '2013,2034.4468'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2GLzuqBeIMgoUW0wqeiiKY/0ec84dd4272a7227215c45d16f1451c5/ALGDJA0100009.jpg"
-    caption: 'Figure 7: raid scene on a camel caravan, with several interspersed Libyco-Berber
-      inscriptions. Tassili plateau, Djanet, Algeria. Col. Number 2013,2034.4468'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2GLzuqBeIMgoUW0wqeiiKY/0ec84dd4272a7227215c45d16f1451c5/ALGDJA0100009.jpg"
+    caption: Raid scene on a camel caravan, with several interspersed Libyco-Berber
+      inscriptions. Tassili plateau, Djanet, Algeria. 2013,2034.4468 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3602846&partId=1&searchText=2013,2034.4468&page=1
   - sys:
       id: 5GOzFzswmcs8qgiqQgcQ2q
@@ -273,7 +273,7 @@ contentful:
   - sys:
       id: 6qjMP5OeukCMEiWWieE4O8
       created_at: !ruby/object:DateTime 2015-11-25 17:47:52.571000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:47:52.571000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:46:54.999000000 Z
       content_type_id: image
     image:
       sys:
@@ -282,9 +282,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:42:18.963000000 Z
       title: '2013,2034.2792'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/FGpTfysHqEay4OMO66YSE/c735c56a5dff7302beb58cec0e35bc85/LIBMES0040160.jpg"
-    caption: 'Figure 8: Libyco-Berber inscription engraved near a cow. Wadi Mathendous,
-      Libya. Col. Number 2013,2034.2792'
+      url: "//images.ctfassets.net/xt8ne4gbbocd/FGpTfysHqEay4OMO66YSE/c735c56a5dff7302beb58cec0e35bc85/LIBMES0040160.jpg"
+    caption: Libyco-Berber inscription engraved near a cow. Wadi Mathendous, Libya.
+      2013,2034.2792 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3584843&partId=1&searchText=2013,2034.2792&page=1
   - sys:
       id: NeG74FoyYuOowaaaUYgQq
@@ -324,12 +324,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 17:40:34.619000000 Z
     title: '2013,2034.4996'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4kXC2w9xCwAASweyCgwg2O/4d864b520d505029c7c8b90cd9e5fde2/ALGTOD0050035.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4kXC2w9xCwAASweyCgwg2O/4d864b520d505029c7c8b90cd9e5fde2/ALGTOD0050035.jpg"
   - sys:
       id: 2GLzuqBeIMgoUW0wqeiiKY
       created_at: !ruby/object:DateTime 2015-11-25 17:41:59.073000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:41:59.073000000 Z
     title: '2013,2034.4468'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2GLzuqBeIMgoUW0wqeiiKY/0ec84dd4272a7227215c45d16f1451c5/ALGDJA0100009.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2GLzuqBeIMgoUW0wqeiiKY/0ec84dd4272a7227215c45d16f1451c5/ALGDJA0100009.jpg"
 ---
