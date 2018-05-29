@@ -41,7 +41,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.328000000 Z
       title: '2013,2034.12416'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1uRo8OtMas0sE0uiOUSIok/71ebc908be14899de348803b21cddc31/2013_2034.12416.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1uRo8OtMas0sE0uiOUSIok/71ebc908be14899de348803b21cddc31/2013_2034.12416.jpg"
     caption: Fig. 1. Painted human figure on horseback, from Fig. 10. Guilemsi, Tadrart,
       Mauritania, 2013,2034.12416 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646314&partId=1&searchText=2013,2034.12416&page=1
@@ -73,7 +73,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.333000000 Z
       title: '2013,2034.12357'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5MkqJUXrj2o4e8SmweeoW2/92eeb35eb7e827596e213cd06cf9fe4a/2013_2034.12357.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5MkqJUXrj2o4e8SmweeoW2/92eeb35eb7e827596e213cd06cf9fe4a/2013_2034.12357.jpg"
     caption: Fig. 2. View looking South from the West summit on the sandstone ridge
       of Guilemsi, Tagant, Mauritania. 2013,2034.12357 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646542&partId=1&searchText=2013,2034.12357&page=1
@@ -102,7 +102,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.288000000 Z
       title: '2013,2034.12494'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/7yy2sbn6PCoeuqyQOAgcA8/0914de8f403684d18accff0284017210/2013_2034.12494.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/7yy2sbn6PCoeuqyQOAgcA8/0914de8f403684d18accff0284017210/2013_2034.12494.jpg"
     caption: Fig. 3. Stonewall remains, Guilemsi, Tagant, Mauritania. 2013,2034. 12494
       © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646554&partId=1&searchText=2013,2034.12494&page=1
@@ -132,7 +132,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:51.669000000 Z
       title: '2013,2034.12382'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6uIYZ0iOROas4Uqo4u4UyW/3215c1e93f536598e0a14be6fcecfa82/2013_2034.12382.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6uIYZ0iOROas4Uqo4u4UyW/3215c1e93f536598e0a14be6fcecfa82/2013_2034.12382.jpg"
     caption: Fig .4. Paint handprints on rock shelter wall, Guilemsi, Tagant, Mauritania.
       2013,2034.12382 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646167&partId=1&searchText=2013,2034.12382&page=1
@@ -148,7 +148,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.317000000 Z
       title: '2013,2034.12421'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2QrzxNR1jq4w8EO2KEUUoE/10c62c938cb1ed9f9b6d25edf4d17205/2013_2034.12421.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2QrzxNR1jq4w8EO2KEUUoE/10c62c938cb1ed9f9b6d25edf4d17205/2013_2034.12421.jpg"
     caption: Fig. 5. Painted heads of seven antelope (oryx?), rock shelter wall, Guilemsi,
       Tagant, Mauritania. 2013,2034.12421 © TARA/David Coulson
   - sys:
@@ -179,7 +179,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:20:01.824000000 Z
       title: '2013,2034.12381'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/32ojd6nNewwy8qSU0kuYYk/3328ca79a097f10fe9b125c43352c0a8/2013_2034.12381.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/32ojd6nNewwy8qSU0kuYYk/3328ca79a097f10fe9b125c43352c0a8/2013_2034.12381.jpg"
     caption: Fig. 6. Painted bichrome cow, cave wall, Guilemsi, Tagant, Mauritania.
       2013,2034.12381 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646170&partId=1&searchText=2013,2034.12381+&page=1
@@ -195,7 +195,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:51.681000000 Z
       title: '2013,2034.12449'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3Z70aGhdUsOCKyWyK6u8eE/c818ef2eba7505c159c231e4aa35ad4a/2013_2034.12449.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3Z70aGhdUsOCKyWyK6u8eE/c818ef2eba7505c159c231e4aa35ad4a/2013_2034.12449.jpg"
     caption: Fig. 7. Two schematic painted cattle, Guilemsi, Tagant, Mauritania. 2013,2034.12449
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3647071&partId=1&searchText=2013,2034.12449&page=1
@@ -232,7 +232,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:51.669000000 Z
       title: '2013,2034.12474'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2CFj8amCm8aMkkmQ0emk0o/c4ea95ada7f53b9ffb0c43bb6f412b8f/2013_2034.12474.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2CFj8amCm8aMkkmQ0emk0o/c4ea95ada7f53b9ffb0c43bb6f412b8f/2013_2034.12474.jpg"
     caption: Fig. 8. Painted figures of contorted cow and human figure, and regularly-proportioned
       cow, Guilemsi, Tagant, Mauritania. 2013,2034.12474 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646484&partId=1&searchText=2013,2034.12474+&page=1
@@ -248,7 +248,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.272000000 Z
       title: '2013,2034.12411'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/58CHInxW4wagKgwCAsWcqY/f1370f3f0700aaae60918abb3821cb22/2013_2034.12411.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/58CHInxW4wagKgwCAsWcqY/f1370f3f0700aaae60918abb3821cb22/2013_2034.12411.jpg"
     caption: Fig. 9. Painted figures of mounted horses on cave wall, Guilemsi, Tagant,
       Mauritania. 2013,2034.12411 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646326&partId=1&searchText=2013,2034.12411+&page=1
@@ -264,7 +264,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:51.680000000 Z
       title: '2013,2034.12454'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3nZtTK8uIEc2MqGAqQC8c6/c36ab38978b6ccdc3ff693edeeb20091/2013_2034.12454.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3nZtTK8uIEc2MqGAqQC8c6/c36ab38978b6ccdc3ff693edeeb20091/2013_2034.12454.jpg"
     caption: Fig. 10. Three painted “bi-triangular” schematic horses and riders, with
       white geometric shape and several unidentified figures. Guilemsi, Tagant, Mauritania.
       2013,2034.12454 © TARA/David Coulson
@@ -295,7 +295,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.251000000 Z
       title: '2013,20134.12436'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1EGPJpRMnmuk6Y6c0Qigos/332e9d6c97776b73a42854cff4ea81b4/2013_20134.12436.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1EGPJpRMnmuk6Y6c0Qigos/332e9d6c97776b73a42854cff4ea81b4/2013_20134.12436.jpg"
     caption: Fig. 11. Painted figures of mounted horses with armed riders, two armed
       human figures on foot, several prone human figures, with possible mounted cow
       at lower right. Guilemsi, Tagant, Mauritania. 2013,20134.12436 © TARA/David
@@ -327,12 +327,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 16:19:51.669000000 Z
     title: '2013,2034.12382'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6uIYZ0iOROas4Uqo4u4UyW/3215c1e93f536598e0a14be6fcecfa82/2013_2034.12382.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6uIYZ0iOROas4Uqo4u4UyW/3215c1e93f536598e0a14be6fcecfa82/2013_2034.12382.jpg"
   - sys:
       id: 7yy2sbn6PCoeuqyQOAgcA8
       created_at: !ruby/object:DateTime 2015-11-25 16:19:58.288000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:19:58.288000000 Z
     title: '2013,2034.12494'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/7yy2sbn6PCoeuqyQOAgcA8/0914de8f403684d18accff0284017210/2013_2034.12494.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/7yy2sbn6PCoeuqyQOAgcA8/0914de8f403684d18accff0284017210/2013_2034.12494.jpg"
 ---

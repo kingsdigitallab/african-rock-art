@@ -35,7 +35,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.077000000 Z
       title: '2013,2034.5863'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5A7q4PnbI4sYmQsi2u4yYg/95ab9db2de0532159c59d4bbe3e12316/2013_2034.5863.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5A7q4PnbI4sYmQsi2u4yYg/95ab9db2de0532159c59d4bbe3e12316/2013_2034.5863.jpg"
     caption: General view of Oukaimeden valley. 2013,2034.5863 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613833&partId=1&images=true&people=197356&museumno=2013,2034.5863&page=1
   - sys:
@@ -50,7 +50,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
       title: '2013,2034.5894'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1h9eCgWFYce8eqiq2KSGkU/830a45b1b9107528469498e3dc8c12d5/2013_2034.5894.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1h9eCgWFYce8eqiq2KSGkU/830a45b1b9107528469498e3dc8c12d5/2013_2034.5894.jpg"
     caption: Engraved anthropomorph surrounded by a dagger and a rectangular shield.
       2013,2034.5894 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3614035&partId=1&museumno=2013%2c2034.5894&page=1
@@ -84,7 +84,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
       title: '2013,2034.5874'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3OAdh6uCrCIgCeuQ2E0koa/a9fe9a0740e535707c227440bac46571/2013_2034.5874.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3OAdh6uCrCIgCeuQ2E0koa/a9fe9a0740e535707c227440bac46571/2013_2034.5874.jpg"
     caption: Circular engravings (shields?). 2013,2034.5874 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&museumno=2013%2c2034.5874&page=1
   - sys:
@@ -99,7 +99,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.068000000 Z
       title: '2013,2034.5907'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2joH7nmXU42sE00g0GUgMq/36076d52020d185a340141311398c879/2013_2034.5907.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2joH7nmXU42sE00g0GUgMq/36076d52020d185a340141311398c879/2013_2034.5907.jpg"
     caption: Engraved Bronze Age halberds (two-handed pole weapons). 2013,2034.5907
       © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3614147&partId=1&museumno=2013%2c2034.5907+&page=1
@@ -135,7 +135,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.081000000 Z
       title: '2013,2034.5916'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2nGxKesCSgWOeqSqa2eoAc/6bd751f25420e92c5655a1af86e277de/2013_2034.5916.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2nGxKesCSgWOeqSqa2eoAc/6bd751f25420e92c5655a1af86e277de/2013_2034.5916.jpg"
     caption: Pecked bull on a prominent place within the valley. 2013,2034.5916 ©
       David Coulson/TARA
     col_link: http://bit.ly/2jbIt5Q
@@ -164,7 +164,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.031000000 Z
       title: '2013,2034.5879'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/RXRm1UgosSw248YEayEgC/32ef250086422ca87ff06855c563174d/2013_2034.5879.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/RXRm1UgosSw248YEayEgC/32ef250086422ca87ff06855c563174d/2013_2034.5879.jpg"
     caption: Elephants’ Frieze. Several elephants and a rhinoceros or warthog are
       depicted facing right, where two human figures are represented. 2013,2034.5879
       © David Coulson/TARA
@@ -200,12 +200,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 20:09:20.487000000 Z
     title: '2013,2034.5874'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1FXFD6ckcAWESOOCMGo4gE/03c7c921ee08e8d8d359eddc273fc2e5/2013_2034.5874.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1FXFD6ckcAWESOOCMGo4gE/03c7c921ee08e8d8d359eddc273fc2e5/2013_2034.5874.jpg"
   - sys:
       id: 1fKpdeWDQu46gMIW8i4gki
       created_at: !ruby/object:DateTime 2015-12-07 20:09:33.601000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:09:33.601000000 Z
     title: '2013,2034.5879'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1fKpdeWDQu46gMIW8i4gki/efd0d1ecaeb976c4d94c4244a8066f4b/2013_2034.5879.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1fKpdeWDQu46gMIW8i4gki/efd0d1ecaeb976c4d94c4244a8066f4b/2013_2034.5879.jpg"
 ---

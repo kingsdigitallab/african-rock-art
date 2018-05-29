@@ -43,7 +43,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.352000000 Z
       title: '2013,2034.2555'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/23Sckf5aOU4E8WOkg8yoIG/5ad5ab2517694ac7ebacdd58be96b254/2013_2034.2555.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/23Sckf5aOU4E8WOkg8yoIG/5ad5ab2517694ac7ebacdd58be96b254/2013_2034.2555.jpg"
     caption: 'View of the now dried-up riverbed at Wadi Mathendous, Messak Settafet,
       Libya. 2013,2034.2555 © David Coulson/TARA '
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=1494150&objectId=3579237&partId=1
@@ -71,7 +71,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-15 14:29:10.261000000 Z
       title: '2013,2034.2761'
       description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584758
-      url: "//images.contentful.com/xt8ne4gbbocd/xe9mLFNrG0Ga6yUIoQycG/de7f087f96da7f9814d89ce25c7c4b44/2013_2034.2761.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/xe9mLFNrG0Ga6yUIoQycG/de7f087f96da7f9814d89ce25c7c4b44/2013_2034.2761.jpg"
     caption: Frontal view of the Fighting Cats. Wadi Mathendous, Messak Settafet,
       Libya. 2013,2034.2761 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3584758&partId=1&museumno=2013,2034.2761&page=1
@@ -100,7 +100,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.353000000 Z
       title: '2013,2034.2740'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3UCMJpOah2ayA8keMYsGkU/eb104c365e0f4a5e3b5f792bde70cb3d/2013_2034.2740.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3UCMJpOah2ayA8keMYsGkU/eb104c365e0f4a5e3b5f792bde70cb3d/2013_2034.2740.jpg"
     caption: Sandstone cliffs, with the Fighting Cats faintly visible at the top.
       Wadi Mathendous, Messak Settafet, Libya. 2013,2034.2740 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3584701&partId=1&museumno=2013,2034.2740&page=1
@@ -132,7 +132,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
       title: '2013,2034.2756'
       description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
-      url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
     caption: General view of the Fighting Cats showing nearby engravings. Wadi Mathendous,
       Messak Settafet, Libya. 2013,2034.2756 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3584749&partId=1&museumno=2013,2034.2756&page=1
@@ -161,7 +161,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.353000000 Z
       title: '2013,2034.2768'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1xfjGHyp6wMGQuKQikCeMo/46389e1547a0da49bc8ed43c897e1f8a/2013_2034.2768.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1xfjGHyp6wMGQuKQikCeMo/46389e1547a0da49bc8ed43c897e1f8a/2013_2034.2768.jpg"
     caption: Detail of engraved woman inside cat to the right. Wadi Mathendous, Messak
       Settafet, Libya. 2013,2034.2768 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3584772&partId=1&museumno=2013,2034.2768&page=1
@@ -191,7 +191,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.352000000 Z
       title: '2013,2034.2769'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1kO0IImYVGOk0oeQg6sqWm/631f5025d103fadbbcd966634cddc15f/2013_2034.2769.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1kO0IImYVGOk0oeQg6sqWm/631f5025d103fadbbcd966634cddc15f/2013_2034.2769.jpg"
     caption: Second pair of fighting cats. Wadi Mathendous, Messak Settafet, Libya.
       2013,2034.2769 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3584770&partId=1&museumno=2013,2034.2769&page=1
@@ -212,12 +212,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-12-15 14:08:22.574000000 Z
     title: '2013,2034.2756'
     description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3584749
-    url: "//images.contentful.com/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/5WH8hIWyZOI0QWe0SyAkC8/69ac9764bc2af640ff92531ee90422a4/2013_2034.2756.jpg"
   - sys:
       id: 23Sckf5aOU4E8WOkg8yoIG
       created_at: !ruby/object:DateTime 2015-11-25 15:23:42.352000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:23:42.352000000 Z
     title: '2013,2034.2555'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/23Sckf5aOU4E8WOkg8yoIG/5ad5ab2517694ac7ebacdd58be96b254/2013_2034.2555.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/23Sckf5aOU4E8WOkg8yoIG/5ad5ab2517694ac7ebacdd58be96b254/2013_2034.2555.jpg"
 ---

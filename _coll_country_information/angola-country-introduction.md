@@ -34,7 +34,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:48:02.366000000 Z
       title: ANGTCH0010008
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3fc97FP7N6Q4qaYY82yMee/f28490284dadb197c3aafc749fd9de88/ANGTCH0010008.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3fc97FP7N6Q4qaYY82yMee/f28490284dadb197c3aafc749fd9de88/ANGTCH0010008.jpg"
     caption: "Painted group of white, red and dark red geometric signs. Tchitundu-Hulu
       Mucai, Angola.  2013,2034.21211\t© TARA/David Coulson"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744321&partId=1
@@ -68,7 +68,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:48:02.353000000 Z
       title: ANGTCH0010001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2EhlaF5U6Qui8SueE66KUO/0329cbdac83a8bc3b9bbaff953025630/ANGTCH0010001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2EhlaF5U6Qui8SueE66KUO/0329cbdac83a8bc3b9bbaff953025630/ANGTCH0010001.jpg"
     caption: Aerial view of landscape showing a valley and a  plateau in south-western
       Angola.  Namibe Province, Angola.  2013,2034.21204 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744306&partId=1
@@ -107,7 +107,7 @@ contentful:
   - sys:
       id: 19eEn5GF9e0Yqk4yYmoqKg
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.784000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 09:15:17.457000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 16:25:10.620000000 Z
       content_type_id: chapter
     title: 'Themes '
     title_internal: 'Angola: country, chapter 5'
@@ -115,19 +115,19 @@ contentful:
       on the region and the chronology.  The oldest images are painted or engraved
       geometric symbols and anthropomorphic figures.  More recent depictions include
       axes, spears and firearms.  The latest period of the Angolan rock art includes
-      complex scenes of war and hunting, and in a number of cases human figures carried
-      on a palanquin-like structure.  Although schematic figures are widespread throughout
-      the country, they are predominant in the south-west where most of the sites
-      have been compared to those in the Central Africa Schematic Art zone, with parallels
-      in Malawi and Mozambique.  In the west-central area of Angola, in addition to
-      the schematic symbols and animals, images of men holding weapons, fighting and
-      hunting are common, including warriors holding firearms which make reference
-      to the first contact with Europeans by the 16th century.  Near the north-west
-      coast, some of the paintings and engravings have been related to objects used
-      in religious ceremonies –wooden statuettes or decorated pot lids.  In particular,
-      a close association has been establish between rock art depictions and the so-called
-      Cabinda pot lids, which have different carved symbols—animals, objects, human
-      figures—acting as a shared visual language.  '
+      complex scenes of war and hunting, and in a number of cases human figures are
+      carried on a palanquin-like structure.  Although schematic figures are widespread
+      throughout the country, they are predominant in the south-west where most of
+      the sites have been compared to those in the Central Africa Schematic Art zone,
+      with parallels in Malawi and Mozambique.  In the west-central area of Angola,
+      in addition to the schematic symbols and animals, images of men holding weapons,
+      fighting and hunting are common, including warriors holding firearms which make
+      reference to the first contact with Europeans by the 16th century.  Near the
+      north-west coast, some of the paintings and engravings have been related to
+      objects used in religious ceremonies – wooden statuettes or decorated pot lids.  In
+      particular, a close association has been established between rock art depictions
+      and the so-called Cabinda pot lids, which have different carved symbols—animals,
+      objects, human figures—acting as a shared visual language.  '
   - sys:
       id: avBmltKXBKIac040I4im4
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.027000000 Z
@@ -140,7 +140,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:36.335000000 Z
       title: ANGTCH0010006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6JWgcpb6JUq0yCegs4MsGc/6f9bad737cd113899538299e444e8007/ANGTCH0010006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6JWgcpb6JUq0yCegs4MsGc/6f9bad737cd113899538299e444e8007/ANGTCH0010006.jpg"
     caption: Paintings showing geometric signs, an unidentified  quadruped and a bird
       (?) infilled  with red and white lines.  Tchitundu-Hulu Mucai, Angola.  2013,2034.21209
       © TARA/David Coulson
@@ -170,7 +170,7 @@ contentful:
   - sys:
       id: 1oBOeAZi0QEmAsekMIgq88
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.908000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 09:13:19.855000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 16:27:56.903000000 Z
       content_type_id: image
     image:
       sys:
@@ -179,8 +179,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:47:54.905000000 Z
       title: ANGTCH0010022`
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/40lIKwvi8gwo4ckmuKguYk/074e930f8099bbfdf9dd872f874c3a32/ANGTCH0010022.jpg"
-    caption: Pecked concentric circles, Tchitundu-Hulu Mulume, Angola.  2013,2034.21225
+      url: "//images.ctfassets.net/xt8ne4gbbocd/40lIKwvi8gwo4ckmuKguYk/074e930f8099bbfdf9dd872f874c3a32/ANGTCH0010022.jpg"
+    caption: Pecked concentric circles. Tchitundu-Hulu Mulume, Angola.  2013,2034.21225
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744347&partId=1
   citations:

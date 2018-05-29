@@ -44,19 +44,19 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:36.210000000 Z
       title: ANGTCH0010003
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/7MqUsgyUhi8IIoM8sGKKAO/01aa753abbbd4fa8224263f644d78b1c/ANGTCH0010003.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/7MqUsgyUhi8IIoM8sGKKAO/01aa753abbbd4fa8224263f644d78b1c/ANGTCH0010003.jpg"
     caption: "landscape showing an inselberg in the  background.  Tchitundu-Hulu,
       Angola.  2013,2034.21206 © TARA/David Coulson \t"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744327&partId=1
   - sys:
       id: 3PYi7QceDKQa44gamOE0o4
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.877000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.877000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 16:30:01.864000000 Z
       content_type_id: chapter
     title_internal: 'Angola: featured site, chapter 2'
-    body: 'As aforementioned, Tchitundu-Hulu comprises four rock art sites : Tchitundu-Hulu
+    body: 'As forementioned, Tchitundu-Hulu comprises four rock art sites: Tchitundu-Hulu
       Mulume, Tchitundu-Hulu Mucai, Pedra das Zebras and Pedra da Lagoa.  The  first
-      two  combine paintings and engravings, while the latter only have engravings.  Pedra
+      two combine paintings and engravings, while the latter only have engravings.  Pedra
       das Zebras and Pedra da Lagoa are Portuguese names which can be translated as
       the Rock of the Zebras and the Rock of the Pond, but the name of Tchitundu-Hulu
       has different interpretations in the local languages –the hill of heaven, the
@@ -66,21 +66,21 @@ contentful:
   - sys:
       id: fm44bXnRYc0OiwS4Ywogw
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.865000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.866000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 16:30:34.170000000 Z
       content_type_id: chapter
     title_internal: 'Angola: featured site, chapter 3'
     body: 'Of the four sites, Tchitundu-Hulu Mulume is the largest , located at the
-      top of the inselberg,  726 m in height.  The slopes of the outcrop are covered
+      top of the inselberg, 726m in height.  The slopes of the outcrop are covered
       by large engravings, most of them consisting of circle-like shapes (simple or
       concentric circles, solar-like images), although some depictions of human figures
-      or animals are also present.  On a shelter on the top of the outcrop more than
+      or animals are also present.  In a shelter on the top of the outcrop more than
       180 images can be found painted in red or white, with geometric shapes being
       again widely predominant.  The depictions have abundant superimpositions and
       cover the walls, roof and base of the shelter.  '
   - sys:
       id: 35UGg2OapGC2qG4O4Eo2I0
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.726000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:45:15.726000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 16:42:06.863000000 Z
       content_type_id: image
     image:
       sys:
@@ -89,8 +89,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:36.151000000 Z
       title: ANGTCH0010019
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2KFJl6V2WsekUsMaq8M4Ga/8fd5bad6be6601f1a589674820b0770d/ANGTCH0010019.jpg"
-    caption: Pecked concentric lines, Tchitundu-Hulu Mulume, Angola.  2013,2034.21222
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2KFJl6V2WsekUsMaq8M4Ga/8fd5bad6be6601f1a589674820b0770d/ANGTCH0010019.jpg"
+    caption: Pecked concentric lines. Tchitundu-Hulu Mulume, Angola.  2013,2034.21222
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744352&partId=1
   - sys:
@@ -112,7 +112,7 @@ contentful:
   - sys:
       id: iZUL3BpxqEII82IQGGGGC
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.951000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:45:14.951000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 16:42:37.270000000 Z
       content_type_id: image
     image:
       sys:
@@ -121,8 +121,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:36.033000000 Z
       title: ANGTCH0010005
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1HfdgOK6lC4aCke6we2UGW/308f6b611eeec141c864e431073bf615/ANGTCH0010005.jpg"
-    caption: Paintings, Tchitundu-Hulu Mulume, Angola.  2013,2034.21208 © TARA/David
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1HfdgOK6lC4aCke6we2UGW/308f6b611eeec141c864e431073bf615/ANGTCH0010005.jpg"
+    caption: Paintings at Tchitundu-Hulu Mulume, Angola.  2013,2034.21208 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744324&partId=1
   - sys:
@@ -156,7 +156,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:36.182000000 Z
       title: ANGTCH0010011
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6u3Ewi14cgUU28MWOQ0WMI/6b84b50d8dd0daaefff6ac33cf7799a3/ANGTCH0010011.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6u3Ewi14cgUU28MWOQ0WMI/6b84b50d8dd0daaefff6ac33cf7799a3/ANGTCH0010011.jpg"
     caption: Red and white oval-like figure (bird?).  2013,2034.21214 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744318&partId=1
@@ -193,12 +193,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-07-27 07:46:34.096000000 Z
     title: ANGTCH0010007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/60WuYok9POoqaG2QuksOWI/0786f5b209c940eb57e2fa98b10f6cfb/ANGTCH0010007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/60WuYok9POoqaG2QuksOWI/0786f5b209c940eb57e2fa98b10f6cfb/ANGTCH0010007.jpg"
   - sys:
       id: 40lIKwvi8gwo4ckmuKguYk
       created_at: !ruby/object:DateTime 2016-07-27 07:47:54.905000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:47:54.905000000 Z
     title: ANGTCH0010022`
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/40lIKwvi8gwo4ckmuKguYk/074e930f8099bbfdf9dd872f874c3a32/ANGTCH0010022.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/40lIKwvi8gwo4ckmuKguYk/074e930f8099bbfdf9dd872f874c3a32/ANGTCH0010022.jpg"
 ---
