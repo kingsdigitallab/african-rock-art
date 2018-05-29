@@ -43,7 +43,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.707000000 Z
       title: '2013,2034.6150'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3x13gapfeoswomWyA0gyWS/25cf96fec447ce7f0bf93d75ac2efa7f/2013_2034.6150.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3x13gapfeoswomWyA0gyWS/25cf96fec447ce7f0bf93d75ac2efa7f/2013_2034.6150.jpg"
     caption: View of the second main group of engraved human figures. Ennedi Plateau.
       2013,2034.6150 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637019&partId=1&people=197356&museumno=2013,2034.6150&page=1
@@ -82,7 +82,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.745000000 Z
       title: '2013,2034.6164'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1EOAe1GFKQSG2oWYiKSIYI/15c83103aa2766992fd90414a29ea01b/2013_2034.6164.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1EOAe1GFKQSG2oWYiKSIYI/15c83103aa2766992fd90414a29ea01b/2013_2034.6164.jpg"
     caption: Detail of the first main group of engraved human figures, where the standardized
       position of the arms and the stick can be observed. Ennedi Plateau. 2013,2034.6164
       © David Coulson/TARA
@@ -112,7 +112,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.713000000 Z
       title: '2013,2034.6175'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4r9HybjNjOaMU2wI44IUWw/dd398573be19287063d1427947409e9d/2013_2034.6175.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4r9HybjNjOaMU2wI44IUWw/dd398573be19287063d1427947409e9d/2013_2034.6175.jpg"
     caption: Close-up of figure from the first main group. Note the schematic birds
       depicted at the waist –the only known example of zoomorphic pattern in these
       figures. Ennedi Plateau. 2013,2034.6175 © David Coulson/TARA
@@ -139,7 +139,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.717000000 Z
       title: Af,B1.25
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3UndBeXLYs8mK4Y4OWkMU8/be1053ea6e513ce14b92a736f6da52cf/Af_B1.25.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3UndBeXLYs8mK4Y4OWkMU8/be1053ea6e513ce14b92a736f6da52cf/Af_B1.25.jpg"
     caption: 'Scarification on upper back and shoulder of an adult. Sudan, early 20th
       century. Photograph: © British Museum Af,B1.25'
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1412934&partId=1&people=197356&museumno=Af,B1.25&page=1
@@ -181,12 +181,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.745000000 Z
     title: '2013,2034.6164'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1EOAe1GFKQSG2oWYiKSIYI/15c83103aa2766992fd90414a29ea01b/2013_2034.6164.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1EOAe1GFKQSG2oWYiKSIYI/15c83103aa2766992fd90414a29ea01b/2013_2034.6164.jpg"
   - sys:
       id: 4BGLzXecpqKOsuwwiIaM6K
       created_at: !ruby/object:DateTime 2015-12-07 20:31:44.334000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:31:44.334000000 Z
     title: CHANAS0103
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4BGLzXecpqKOsuwwiIaM6K/a4318baa413e590cc6fb087d62888382/CHANAS0103.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4BGLzXecpqKOsuwwiIaM6K/a4318baa413e590cc6fb087d62888382/CHANAS0103.jpg"
 ---

@@ -38,7 +38,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.381000000 Z
       title: UGATES0010002 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1UsysL5u3ioSim8YKyQ4mS/56c1505f1a1d24e85ba055421b1c0383/UGATES0010002_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1UsysL5u3ioSim8YKyQ4mS/56c1505f1a1d24e85ba055421b1c0383/UGATES0010002_1.jpg"
     caption: Site of Nyero 1. 2013,2034.14796 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671587&partId=1&searchText=2013,2034.14796&page=1
   - sys:
@@ -62,7 +62,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.367000000 Z
       title: UGATES0020007 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4TmZuqmyM8UukoEmU6kUcY/1fb5255968afbd1a3f022f8e8142a5ff/UGATES0020007_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4TmZuqmyM8UukoEmU6kUcY/1fb5255968afbd1a3f022f8e8142a5ff/UGATES0020007_1.jpg"
     caption: Nyero 2 showing rock art obscured by mineral salts leaching out from
       the rock face. 2013,2034.14828 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671630&partId=1&searchText=2013,2034.14828&page=1
@@ -92,7 +92,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.370000000 Z
       title: UGATES0020019 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/55q7QQMYVacGSCOEqOMq2q/cbe87e9b47e1b735a6ea4ed5709af86a/UGATES0020019_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/55q7QQMYVacGSCOEqOMq2q/cbe87e9b47e1b735a6ea4ed5709af86a/UGATES0020019_1.jpg"
     caption: Paintings at Nyero 2. 2013,2034.14840 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671647&partId=1&searchText=2013,2034.14840&page=1
   - sys:
@@ -107,7 +107,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.385000000 Z
       title: UGATES0020030 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/7yIW3zRgn6SEKuyWSW4ao0/abca8da930f88993859b431aa0487356/UGATES0020030_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/7yIW3zRgn6SEKuyWSW4ao0/abca8da930f88993859b431aa0487356/UGATES0020030_1.jpg"
     caption: Close up of concentric circles and large canoe shaped object design.
       2013,2034.14851 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671768&partId=1&searchText=2013,2034.14851&page=1
@@ -135,7 +135,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.362000000 Z
       title: UGATES0030001 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/qpeXjLAjUOK6GGOeE8iQK/d8caeb2c1a67f044f488183b926536e7/UGATES0030001_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/qpeXjLAjUOK6GGOeE8iQK/d8caeb2c1a67f044f488183b926536e7/UGATES0030001_1.jpg"
     caption: White concentric circle at Nyero 3. 2013,2034.14888 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673770&partId=1&searchText=2013,2034.14889&page=1
   - sys:
@@ -162,7 +162,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.384000000 Z
       title: UGATES0050011 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/66GiQKzNokmUKWM6IKSOeC/5a861c2c47d32c7a5a2271c4f824e0c0/UGATES0050011_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/66GiQKzNokmUKWM6IKSOeC/5a861c2c47d32c7a5a2271c4f824e0c0/UGATES0050011_1.jpg"
     caption: Nyero 5 showing paintings damaged by water erosion. 2013,2034.14954 ©
       TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673887&partId=1&searchText=2013,2034.14954&page=1
@@ -200,12 +200,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 14:26:21.477000000 Z
     title: '2013,2034.14840'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/51UNpKVSAEu6kkScs6uoOS/21f12a22f47abbc0a67a1552a0fcf045/UGATES0020019.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/51UNpKVSAEu6kkScs6uoOS/21f12a22f47abbc0a67a1552a0fcf045/UGATES0020019.jpg"
   - sys:
       id: gVjIO1sqY06wAO8oIewkM
       created_at: !ruby/object:DateTime 2015-11-25 14:27:30.672000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:27:30.672000000 Z
     title: '2013,2034.14954'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/gVjIO1sqY06wAO8oIewkM/304d628709a396506a486f96c78f6fa0/UGATES0050011.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/gVjIO1sqY06wAO8oIewkM/304d628709a396506a486f96c78f6fa0/UGATES0050011.jpg"
 ---

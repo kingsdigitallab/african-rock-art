@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
     title: '2013,2034.9707'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
   chapters:
   - sys:
       id: 2YeH0ki7Pq08iGWoyeI2SY
@@ -31,7 +31,7 @@ contentful:
   - sys:
       id: 3TQXxJGkAgOkCuQeq4eEEs
       created_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:09:37.769000000 Z
       content_type_id: image
     image:
       sys:
@@ -40,9 +40,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:56.981000000 Z
       title: '2013,2034.11148'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2HdsFc1kI0ogGEmGWi82Ci/5c85cb71338ff7ecd923c26339a73ef5/2013_2034.11148.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2HdsFc1kI0ogGEmGWi82Ci/5c85cb71338ff7ecd923c26339a73ef5/2013_2034.11148.jpg"
     caption: "‘Typical’ Libyan Warrior style figure with horse. Indakatte, Western
-      Aïr Mountains, Niger. (2013,2034.11148) © TARA/David Coulson"
+      Aïr Mountains, Niger. 2013,2034.11148 © TARA/David Coulson"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649143&partId=1&searchText=2013,2034.11148&page=1
   - sys:
       id: IENFM2XWMKmW02sWeYkaI
@@ -57,7 +57,7 @@ contentful:
   - sys:
       id: 1vwQrEx1gA2USS0uSUEO8u
       created_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:10:06.087000000 Z
       content_type_id: image
     image:
       sys:
@@ -66,9 +66,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
       title: '2013,2034.9707'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
     caption: "‘Typical’ Libyan Warrior style figure with antelope. Iwellene, Northern
-      Aïr Mountains, Niger. (2013,2034.9707) © TARA/David Coulson"
+      Aïr Mountains, Niger. 2013,2034.9707 © TARA/David Coulson"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649767&partId=1&searchText=2013,2034.9707&page=1
   - sys:
       id: 13aC6FIWtQAauy2SYC6CQu
@@ -91,7 +91,7 @@ contentful:
   - sys:
       id: 35mGQZhFio6a6Qs0Sm8Kec
       created_at: !ruby/object:DateTime 2015-11-25 17:27:34.827000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 16:24:34.980000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:14:27.532000000 Z
       content_type_id: image
     image:
       sys:
@@ -100,13 +100,13 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.539000000 Z
       title: '2013,234.9626'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5UjAbnAcE0A0gAmCQmKkyU/96c768d47d24c3d514cbcbd9b4e85aa5/2013_234.9626.jpg"
-    caption: Tagueit, Eastern Aïr Mountains, Niger. (2013,234.9620) © TARA/David Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639917&partId=1&searchText=2013,2034.9620&page=1
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5UjAbnAcE0A0gAmCQmKkyU/96c768d47d24c3d514cbcbd9b4e85aa5/2013_234.9626.jpg"
+    caption: Tagueit, Eastern Aïr Mountains, Niger. 2013,2034.9626 © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3642790&partId=1&searchText=Tagueit%2c+Eastern+A%u00efr+Mountains%2c+Niger&view=list&page=2
   - sys:
       id: 4thny4IiHKW66c2sGySMqE
       created_at: !ruby/object:DateTime 2015-11-25 17:28:05.405000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 11:31:49.083000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:15:37.257000000 Z
       content_type_id: image
     image:
       sys:
@@ -115,8 +115,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:40.548000000 Z
       title: '2013,2034.11167'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4Mq2eZY2bKogMqoCmu6gmW/9916aa4ecde51858768639f010a0442e/2013_2034.11167.jpg"
-    caption: Infissak, Western Aïr Mountains, Niger. (2013,2034.11167) © TARA/David
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4Mq2eZY2bKogMqoCmu6gmW/9916aa4ecde51858768639f010a0442e/2013_2034.11167.jpg"
+    caption: Infissak, Western Aïr Mountains, Niger. 2013,2034.11167 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3648925&partId=1&searchText=2013,2034.11167&page=1
   - sys:
@@ -138,7 +138,7 @@ contentful:
   - sys:
       id: 6GvLgKrVXaSIQaAMECeE2m
       created_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:15:11.171000000 Z
       content_type_id: image
     image:
       sys:
@@ -147,19 +147,19 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:10.453000000 Z
       title: '2013,2034.11133'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/18c47Fe9jeoIi4CouE8Eya/189da8bf1c84d7f95b532cf59780fe82/2013_2034.11133.jpg"
-    caption: Two Libyan- Warrior style figures, Western Aïr Mountains, Niger. (2013,2034.11133)  ©
+      url: "//images.ctfassets.net/xt8ne4gbbocd/18c47Fe9jeoIi4CouE8Eya/189da8bf1c84d7f95b532cf59780fe82/2013_2034.11133.jpg"
+    caption: Two Libyan Warrior style figures, Western Aïr Mountains, Niger. 2013,2034.11133  ©
       TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649155&partId=1&searchText=2013,2034.11133&page=1
   - sys:
       id: 4wQK9fpysE0GEaGYOEocws
       created_at: !ruby/object:DateTime 2015-11-27 12:06:27.167000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 11:41:04.031000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:17:33.313000000 Z
       content_type_id: chapter
     title_internal: 'Warrior: thematic, chapter 5'
     body: "Such a comment suggests that local ethnographies might assist in an understanding
       of more recent rock art, that not all figures described as Libyan-Warrior may
-      necessarily be the same; and indeed that women may not be as rare as previously
+      necessarily be the same, and indeed that women may not be as rare as previously
       documented. In fact, the Wodaabe have been noted to resemble figures in other
       Saharan rock art contexts (see article on Hairdressing in the Acacus).\n\nIf
       we accept that some of these representations share affinities with the Wodaabe
@@ -173,7 +173,7 @@ contentful:
   - sys:
       id: 2oNDIVZY2cY6y2ACUykYiW
       created_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:26:02.339000000 Z
       content_type_id: image
     image:
       sys:
@@ -182,9 +182,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:40.581000000 Z
       title: Wodaabe
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2klydX5Lbm6sGIUO8cCuow/af221201c757ffe51e741300ffaefcba/Wodaabe.jpg"
-    caption: Wodaabe men preparing for Gerewol ceremony by Dan Lundberg, Wikimedia
-      Commons
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2klydX5Lbm6sGIUO8cCuow/af221201c757ffe51e741300ffaefcba/Wodaabe.jpg"
+    caption: Wodaabe men preparing for Gerewol ceremony ©Dan Lundberg, Wikimedia Commons
+    col_link: https://commons.wikimedia.org/wiki/File:Flickr_-_Dan_Lundberg_-_1997_%5E274-33_Gerewol_contestants.jpg
   - sys:
       id: 3SOhBsJLQACesg4wogaksm
       created_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
@@ -216,7 +216,7 @@ contentful:
   - sys:
       id: 4AsNsHJ1n2USWMU68cIUko
       created_at: !ruby/object:DateTime 2015-11-27 11:46:03.474000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 12:12:29.767000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:30:37.659000000 Z
       content_type_id: image
     image:
       sys:
@@ -225,14 +225,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-27 11:54:37.045000000 Z
       title: Af2005,04.6 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6QT0CdFAgoISmsuUk6u4OW/02489b2a4374bdb0a92ad9684f6120f4/Af2005_04.6_1.jpg"
-    caption: 'Wodaabe dancing feather: (Af2005,04.6) from the British Museum collections.
-      © Trustees of the British Museum'
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585897&partId=1&searchText=Af2005,04.6&page=1
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6QT0CdFAgoISmsuUk6u4OW/02489b2a4374bdb0a92ad9684f6120f4/Af2005_04.6_1.jpg"
+    caption: Wodaabe dancing feather from the British Museum collections. Af2005,04.6
+      © Trustees of the British Museum
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585897&partId=1&searchText=Af2005%2c04.6&view=list&page=1
   - sys:
       id: 5z7EqYMmFaI0Eom6AAgu6i
       created_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:28:41.984000000 Z
       content_type_id: image
     image:
       sys:
@@ -241,14 +241,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.548000000 Z
       title: '2013,2034.9037'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/10pBS62m3eugyAkY8iQYGs/b54aab41922ff6690ca59533afddeb84/2013_2034.9037.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/10pBS62m3eugyAkY8iQYGs/b54aab41922ff6690ca59533afddeb84/2013_2034.9037.jpg"
     caption: Libyan Warrior figure showing symmetrical plumage from Eastern Aïr Mountains,
-      Niger (2013,2034.9037) © TARA/David Coulson
+      Niger. 2013,2034.9037 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636108&partId=1&searchText=2013,2034.9037&page=1
   - sys:
       id: 1UmQD1rR0IISqKmGe4UWYs
       created_at: !ruby/object:DateTime 2015-11-27 11:47:12.062000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 11:55:05.455000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:28:08.133000000 Z
       content_type_id: image
     image:
       sys:
@@ -257,10 +257,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-27 11:54:37.053000000 Z
       title: Af2005,04.20 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5oL3JD0PbaEMMyu4mA0oGw/72bb636538c36d21c62fef5628556238/Af2005_04.20_1.jpg"
-    caption: Wodaabe dancing feather (Af2005,04.20) from the British Museum collections.
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5oL3JD0PbaEMMyu4mA0oGw/72bb636538c36d21c62fef5628556238/Af2005_04.20_1.jpg"
+    caption: Wodaabe dancing feather from the British Museum collections. Af2005,04.20
       © Trustees of the British Museum
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585792&partId=1&searchText=Af2005,04.20&page=1
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585792&partId=1&searchText=Af2005%2c04.20&view=list&page=1
   - sys:
       id: 45NYo7UU5ymOCYiqEYyQQO
       created_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
@@ -274,7 +274,7 @@ contentful:
   - sys:
       id: 55JXs6mmfCoM6keQuwSeKA
       created_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:31:16.112000000 Z
       content_type_id: image
     image:
       sys:
@@ -283,14 +283,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:56.985000000 Z
       title: '2013,2034.9554'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3s0PrjlXlS2QwMKMk0giog/bef0019b59e2abe3ba3e29a4377eedd0/2013_2034.9554.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3s0PrjlXlS2QwMKMk0giog/bef0019b59e2abe3ba3e29a4377eedd0/2013_2034.9554.jpg"
     caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger.
-      (2013,2034.9554) © TARA/David Coulson
+      2013,2034.9554 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639988&partId=1&searchText=2013,2034.9554&page=1
   - sys:
       id: 2UL4zsEuwgekwI0ugSOSok
       created_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:31:41.776000000 Z
       content_type_id: image
     image:
       sys:
@@ -299,9 +299,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.555000000 Z
       title: '2013,2034.9600'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3XjtbP2JywoCw8Qm0O8iKo/fc0ccf0eb00a563da9a60276c87bbc11/2013_2034.9600.jpg"
-    caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger
-      (2013,2034.9600) © TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3XjtbP2JywoCw8Qm0O8iKo/fc0ccf0eb00a563da9a60276c87bbc11/2013_2034.9600.jpg"
+    caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger.
+      2013,2034.9600 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639940&partId=1&searchText=2013,2034.9600&page=1
   - sys:
       id: 64MCgMHx60M8e0GSCaM2qm
@@ -319,7 +319,7 @@ contentful:
   - sys:
       id: 78Ks1B0PPUA8YIm0ugMkQK
       created_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:33:27.671000000 Z
       content_type_id: image
     image:
       sys:
@@ -328,11 +328,11 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.583000000 Z
       title: Af,B47.19
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5SDdxljduwuQggsuWcYUCA/eeb48a1ec8550bb4e1622317e5b7cea0/Af_B47.19.jpg"
-    caption: Photograph of three Fulani male children "dressed up for a ceremonial
-      dance". Males carrying shoulder-bags and holding sticks. Male at right has flat
-      basket impaled on stick. Rural setting. (Af,B47.19) © Trustees of the British
-      Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5SDdxljduwuQggsuWcYUCA/eeb48a1ec8550bb4e1622317e5b7cea0/Af_B47.19.jpg"
+    caption: Photograph of three Fulani male children 'dressed up for a ceremonial
+      dance'. They are carrying shoulder-bags and holding sticks, and the male at
+      right has flat basket impaled on stick. Rural setting. Af,B47.19 © Trustees
+      of the British Museum
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1410664&partId=1&searchText=Af,B47.19&page=1
   - sys:
       id: 5nvXXoq4Baa0IwOmMSiUkI
@@ -347,7 +347,7 @@ contentful:
   - sys:
       id: 1Huul8DwMcACSECuGoASE2
       created_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:35:18.268000000 Z
       content_type_id: image
     image:
       sys:
@@ -356,12 +356,13 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.554000000 Z
       title: '7,2023.1'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1PmWIHnxq0cAESkGiiWCkK/51912ac1b7bffafe18fbbbb48a253fe9/7_2023.1.jpg"
-    caption: Wodaabe vest, Niger (7,2023.1). © Trustees of the British Museum
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1PmWIHnxq0cAESkGiiWCkK/51912ac1b7bffafe18fbbbb48a253fe9/7_2023.1.jpg"
+    caption: Wodaabe vest, Niger. 2007,2023.1 ©Trustees of the British Museum
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3372277&partId=1&searchText=2007%2c2023.1&view=list&page=1
   - sys:
       id: GT1E1E6FMc04CaQQUEuG6
       created_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:37:15.633000000 Z
       content_type_id: image
     image:
       sys:
@@ -370,9 +371,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.580000000 Z
       title: '2013,2034.9016'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/lz2F9O4kSWoi2g68csckA/97f7a9fbec98c4af224273fbd3f7e9a5/2013_2034.9016.jpg"
-    caption: Eastern Aïr Mountains, Niger (2013,2034.9016) © TARA/David Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636132&partId=1&searchText=2013,2034.9016&page=1
+      url: "//images.ctfassets.net/xt8ne4gbbocd/lz2F9O4kSWoi2g68csckA/97f7a9fbec98c4af224273fbd3f7e9a5/2013_2034.9016.jpg"
+    caption: Eastern Aïr Mountains, Niger. 2013,2034.9016 © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636134&partId=1&searchText=2013%2c2034.9016&&page=1
   - sys:
       id: MH7tazL1u0ocyy6ysc8ci
       created_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
@@ -386,7 +387,7 @@ contentful:
   - sys:
       id: 5f7LkndYMoCiE0C6cYI642
       created_at: !ruby/object:DateTime 2015-11-27 12:02:44.521000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-08 17:01:56.918000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 15:04:54.162000000 Z
       content_type_id: image
     image:
       sys:
@@ -395,13 +396,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:33.489000000 Z
       title: Gerewol
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4S1bl6LKUEKg0mMiQMoS2i/77678da7ac7b9573cfdfdcc9222b4187/Gerewol.jpg"
-    caption: Wodaabe participants in the Gerewol beauty contest. Photo by Dan Lundberg
-      via Wikimedia Commons
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4S1bl6LKUEKg0mMiQMoS2i/77678da7ac7b9573cfdfdcc9222b4187/Gerewol.jpg"
+    caption: Wodaabe participants in the Gerewol beauty contest. ©Dan Lundberg via
+      Wikimedia Commons
+    col_link: https://commons.wikimedia.org/wiki/File:1997_274-5_Gerewol.jpg
   - sys:
       id: 2s5eLxURwgEKUGYiCc62MM
       created_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 14:40:40.756000000 Z
       content_type_id: image
     image:
       sys:
@@ -410,8 +412,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:57.016000000 Z
       title: '2013,2034.9685'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3as8UfaNIk22iQwu2uccsO/bef9cc4c65f13f394c4c6c03fa665aab/2013_2034.9685.jpg"
-    caption: Four Warrior style figures, Eastern Aïr Mountains, Niger (2013,2034.9685)
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3as8UfaNIk22iQwu2uccsO/bef9cc4c65f13f394c4c6c03fa665aab/2013_2034.9685.jpg"
+    caption: Four Warrior style figures, Eastern Aïr Mountains, Niger. 2013,2034.9685
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3644735&partId=1&searchText=2013,2034.9685&page=1
   - sys:
@@ -451,12 +453,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 19:16:46.680000000 Z
     title: NIGNAM0010007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4ICv2mLYykaUs2K6sI600e/175a170bba1f5856e70c2bb59a88e28f/NIGNAM0010007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4ICv2mLYykaUs2K6sI600e/175a170bba1f5856e70c2bb59a88e28f/NIGNAM0010007.jpg"
   - sys:
       id: 4sWbJZXtCUKKqECk24wOwi
       created_at: !ruby/object:DateTime 2015-12-07 19:16:46.673000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 19:16:46.673000000 Z
     title: NIGEAM0070022
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4sWbJZXtCUKKqECk24wOwi/63797d84c9f0c89db25bd2f2cebaa21b/NIGEAM0070022.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4sWbJZXtCUKKqECk24wOwi/63797d84c9f0c89db25bd2f2cebaa21b/NIGEAM0070022.jpg"
 ---

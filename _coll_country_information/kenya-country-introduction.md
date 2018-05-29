@@ -35,7 +35,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:22.434000000 Z
       title: KENMTE0010018 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/191BlqkgSUmU20ckCQqCyk/72813bbadf5ed408fa5515940ff369f8/KENMTE0010018_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/191BlqkgSUmU20ckCQqCyk/72813bbadf5ed408fa5515940ff369f8/KENMTE0010018_1.jpg"
     caption: Painted panel with cattle. Kakapel, south of Mount Elgon 2013,2034.13640
       © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3699416&partId=1&searchText=2013,2034.13640&page=1
@@ -58,7 +58,7 @@ contentful:
   - sys:
       id: 69Hu2xajVCWIyOCCI6cQuC
       created_at: !ruby/object:DateTime 2015-11-26 15:23:43.746000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-13 16:21:30.276000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 16:39:32.374000000 Z
       content_type_id: image
     image:
       sys:
@@ -67,9 +67,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:17.623000000 Z
       title: KENKAJ0010017 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4ZkoqzwyVaAuciGqmAUqwC/240ce914ba1f5a1a6c05c71b1f587617/KENKAJ0010017_1.jpg"
-    caption: View of the Rift Valley near Mount Suswa 2013,2034.12836 © David Coulson/TARA.  Image
-      not yet catalogued
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4ZkoqzwyVaAuciGqmAUqwC/240ce914ba1f5a1a6c05c71b1f587617/KENKAJ0010017_1.jpg"
+    caption: 'View of the Rift Valley near Mount Suswa 2013,2034.12836 © David Coulson/TARA. '
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3776423&partId=1
   - sys:
       id: 54kNwI6Yq4wU88i6MoaM0K
@@ -109,7 +108,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:17.505000000 Z
       title: KENVIC0010004 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3o8IJEfzbWI4qiywkMu8WM/6c5d99356b89ab8e961c347207547889/KENVIC0010004_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3o8IJEfzbWI4qiywkMu8WM/6c5d99356b89ab8e961c347207547889/KENVIC0010004_1.jpg"
     caption: Painted panel showing concentric circles and spirals. Kwitone Shelter,
       Mfangano Island. 2013,2034.14238 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3685727&partId=1&searchText=2013,2034.14238&page=1
@@ -165,7 +164,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:19:31.878000000 Z
       title: '2013,2034.13567'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6sJEag1degeScYa0IYY66a/7b598c98a08f07a8af2290ee301c897d/KENLOK0040007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6sJEag1degeScYa0IYY66a/7b598c98a08f07a8af2290ee301c897d/KENLOK0040007.jpg"
     caption: Stone circles at Namoratung’a. 2013,2034.13567 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3660580&partId=1&searchText=2013,2034.13567&page=1
   - sys:
@@ -203,7 +202,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:22:07.193000000 Z
       title: '2013,2034.13018'
       description: 
-      url: "//downloads.contentful.com/xt8ne4gbbocd/1rIqvHUlxCgqW2caioAo4I/eaa5e32c3a5c09c5904157da0d3a9f0b/KENLAI0060017.jpg"
+      url: "//downloads.ctfassets.net/xt8ne4gbbocd/1rIqvHUlxCgqW2caioAo4I/eaa5e32c3a5c09c5904157da0d3a9f0b/KENLAI0060017.jpg"
     caption: Ndorobo man observing Maa-speaker symbols, possibly representing cattle
       brands. Laikipia  2013,2034.13018 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3700186&partId=1&searchText=2013,2034.13018&page=1
@@ -239,7 +238,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 15:20:17.930000000 Z
       title: '2013,2034.13694'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6CNVylYrKwUkk0YCcaYmE4/084ab0278a8863a0cbc3ac1f631eceea/KENNEP0020002.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6CNVylYrKwUkk0YCcaYmE4/084ab0278a8863a0cbc3ac1f631eceea/KENNEP0020002.jpg"
     caption: Rock gong with cupules. Lewa Downs Conservancy, Kenya. 2013,2034.13694
       © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3701781&partId=1&searchText=2013,2034.13694&page=1
@@ -283,7 +282,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-08 18:49:43.959000000 Z
       title: KENTUR0010065 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4dt5Tw7AXeoiMOkAqGIoWa/53ffe55ad755f4931e5651e84da47892/KENTUR0010065_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4dt5Tw7AXeoiMOkAqGIoWa/53ffe55ad755f4931e5651e84da47892/KENTUR0010065_1.jpg"
     caption: Engraved rock art showing giraffes and human figures. Turkana County,
       Lewa Downs Conservancy, Kenya. 2013,2034.13848 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3663256&partId=1&searchText=2013,2034.13848+&page=1

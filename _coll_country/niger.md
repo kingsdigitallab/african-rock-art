@@ -3,7 +3,7 @@ contentful:
   sys:
     id: 3GPYEG1KyQ4icW4yy46Y0G
     created_at: !ruby/object:DateTime 2015-11-26 18:53:05.784000000 Z
-    updated_at: !ruby/object:DateTime 2017-11-21 09:51:04.892000000 Z
+    updated_at: !ruby/object:DateTime 2018-05-17 16:52:26.695000000 Z
     content_type_id: country
   name: Niger
   slug: niger
@@ -17,14 +17,14 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.852000000 Z
     title: '2013,2034.9786'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
   - sys:
       id: 6yxgQFojbUcOUSwyaWwEMC
       created_at: !ruby/object:DateTime 2015-11-26 10:54:27.057000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.057000000 Z
     title: '2013,2034.8891'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
   featured_site:
     sys:
       id: 3iEbGKCOjuqgaMOGUQiQuS
@@ -58,7 +58,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.020000000 Z
         title: '2013,2034.10543'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/56TaQ0UFBK8sEE4GWaQOcw/d8465329314fcafe9814b92028e90927/2013_2034.10543.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/56TaQ0UFBK8sEE4GWaQOcw/d8465329314fcafe9814b92028e90927/2013_2034.10543.jpg"
       caption: Dabous giraffe. Western Aïr Mountains, Niger. 2013,2034.10543 © David
         Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637915&partId=1&searchText=2013,2034.9967&people=197356&place=13131&museumno=2013,2034.10543&page=1
@@ -84,7 +84,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:37:55.237000000 Z
         title: '2013,2034.10570'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6Y2u961dcWISC2E2CK62KS/64bef06da41a71f32cf8601c426d1608/2013_2034.10570.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6Y2u961dcWISC2E2CK62KS/64bef06da41a71f32cf8601c426d1608/2013_2034.10570.jpg"
       caption: Dabous giraffe. Western Aïr Mountains, Niger. 2013,2034.10570 © David
         Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637906&partId=1&searchText=2013,2034.10570&people=197356&place=13131&museumno=2013,2034.10570&page=1
@@ -100,7 +100,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.049000000 Z
         title: '2013,2034.10555'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/n2nHWRqjXE0qkaEqCWK6Y/7a3d94b2a4f3d792a0f9de60647d3d59/2013_2034.10555.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/n2nHWRqjXE0qkaEqCWK6Y/7a3d94b2a4f3d792a0f9de60647d3d59/2013_2034.10555.jpg"
       caption: Dabous giraffe at night. Western Aïr Mountains, Niger. 2013,2034.10555
         © David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637914&partId=1&searchText=2013,2034.10570&people=197356&place=13131&museumno=2013,2034.10555&page=1
@@ -126,7 +126,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:38:02.784000000 Z
         title: '2013,2034.10751'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
       caption: Further engravings at the site. Dabous, Western Aïr Mountains, Niger.
         2013,2034.10751 © David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637901&partId=1&searchText=2013,2034.10570&people=197356&place=13131&museumno=2013,2034.10751&page=1
@@ -152,7 +152,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.045000000 Z
         title: Gobero
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5Lzyd3mFTUII2MEkgQ0ki2/61cb38b7b4e4d62e911bb971cad67c7f/Gobero.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5Lzyd3mFTUII2MEkgQ0ki2/61cb38b7b4e4d62e911bb971cad67c7f/Gobero.jpg"
       caption: 'Aerial view of Gobero archaeological site in Niger, from the Holocene
         Period. Source: Sereno et al. 2008, (via Wikimedia Commons)'
       col_link: https://commons.wikimedia.org/wiki/File%3AGobero.jpg
@@ -182,7 +182,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:37:47.721000000 Z
         title: '2013,2034.10635'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/24rwZWG7UA02KCgcKeaOQS/762b9a27c73609c09017102e0f4cb3f4/2013_2034.10635.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/24rwZWG7UA02KCgcKeaOQS/762b9a27c73609c09017102e0f4cb3f4/2013_2034.10635.jpg"
       caption: Close up of head and neck of large giraffe. Dabous, Western Aïr Mountains,
         Niger. 2013,2034.10635 © David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637902&partId=1&people=197356&place=13131&museumno=2013,2034.10635&page=1
@@ -214,7 +214,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 15:37:38.095000000 Z
         title: '2013,2034.10608'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6HNDioOx44CMaGCccQQE2G/9c2d264396e34b6900229a7142f38d8e/2013_2034.10608.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6HNDioOx44CMaGCccQQE2G/9c2d264396e34b6900229a7142f38d8e/2013_2034.10608.jpg"
       caption: Taking a cast of the Dabous giraffe. Western Aïr Mountains, Niger.
         2013,2034.10608 © David Coulson/TARA
       col_link: http://bit.ly/2j0rzed
@@ -262,14 +262,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-07 20:33:25.148000000 Z
       title: NIGEAM0060015
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/58CpIve4WQo8wq4ooU0SoC/bdaac15fdb14d3baf1a2f2ffa2a00e80/NIGEAM0060015_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/58CpIve4WQo8wq4ooU0SoC/bdaac15fdb14d3baf1a2f2ffa2a00e80/NIGEAM0060015_jpeg.jpg"
     - sys:
         id: 4yEY9exQaswSA6k6Gu02c6
         created_at: !ruby/object:DateTime 2015-11-25 15:38:02.784000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:38:02.784000000 Z
       title: '2013,2034.10751'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4yEY9exQaswSA6k6Gu02c6/307728aa6d1880f11af9dc45d7e7d830/2013_2034.10751.jpg"
   key_facts:
     sys:
       id: 3GPdGGuBuU4oiKwq6GGsqk
@@ -297,7 +297,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
       title: '2013,2034.9707'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
     chapters:
     - sys:
         id: 2YeH0ki7Pq08iGWoyeI2SY
@@ -314,7 +314,7 @@ contentful:
     - sys:
         id: 3TQXxJGkAgOkCuQeq4eEEs
         created_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:21:56.426000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:09:37.769000000 Z
         content_type_id: image
       image:
         sys:
@@ -323,9 +323,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:56.981000000 Z
         title: '2013,2034.11148'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2HdsFc1kI0ogGEmGWi82Ci/5c85cb71338ff7ecd923c26339a73ef5/2013_2034.11148.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2HdsFc1kI0ogGEmGWi82Ci/5c85cb71338ff7ecd923c26339a73ef5/2013_2034.11148.jpg"
       caption: "‘Typical’ Libyan Warrior style figure with horse. Indakatte, Western
-        Aïr Mountains, Niger. (2013,2034.11148) © TARA/David Coulson"
+        Aïr Mountains, Niger. 2013,2034.11148 © TARA/David Coulson"
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649143&partId=1&searchText=2013,2034.11148&page=1
     - sys:
         id: IENFM2XWMKmW02sWeYkaI
@@ -340,7 +340,7 @@ contentful:
     - sys:
         id: 1vwQrEx1gA2USS0uSUEO8u
         created_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:22:32.328000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:10:06.087000000 Z
         content_type_id: image
       image:
         sys:
@@ -349,9 +349,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:27.484000000 Z
         title: '2013,2034.9707'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/69ZiYmRsreOiIUUEiCuMS6/3b4c3bdee6c66bce875eef8014e5fe93/2013_2034.9707.jpg"
       caption: "‘Typical’ Libyan Warrior style figure with antelope. Iwellene, Northern
-        Aïr Mountains, Niger. (2013,2034.9707) © TARA/David Coulson"
+        Aïr Mountains, Niger. 2013,2034.9707 © TARA/David Coulson"
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649767&partId=1&searchText=2013,2034.9707&page=1
     - sys:
         id: 13aC6FIWtQAauy2SYC6CQu
@@ -374,7 +374,7 @@ contentful:
     - sys:
         id: 35mGQZhFio6a6Qs0Sm8Kec
         created_at: !ruby/object:DateTime 2015-11-25 17:27:34.827000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 16:24:34.980000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:14:27.532000000 Z
         content_type_id: image
       image:
         sys:
@@ -383,14 +383,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.539000000 Z
         title: '2013,234.9626'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5UjAbnAcE0A0gAmCQmKkyU/96c768d47d24c3d514cbcbd9b4e85aa5/2013_234.9626.jpg"
-      caption: Tagueit, Eastern Aïr Mountains, Niger. (2013,234.9620) © TARA/David
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5UjAbnAcE0A0gAmCQmKkyU/96c768d47d24c3d514cbcbd9b4e85aa5/2013_234.9626.jpg"
+      caption: Tagueit, Eastern Aïr Mountains, Niger. 2013,2034.9626 © TARA/David
         Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639917&partId=1&searchText=2013,2034.9620&page=1
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3642790&partId=1&searchText=Tagueit%2c+Eastern+A%u00efr+Mountains%2c+Niger&view=list&page=2
     - sys:
         id: 4thny4IiHKW66c2sGySMqE
         created_at: !ruby/object:DateTime 2015-11-25 17:28:05.405000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:31:49.083000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:15:37.257000000 Z
         content_type_id: image
       image:
         sys:
@@ -399,8 +399,8 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:40.548000000 Z
         title: '2013,2034.11167'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4Mq2eZY2bKogMqoCmu6gmW/9916aa4ecde51858768639f010a0442e/2013_2034.11167.jpg"
-      caption: Infissak, Western Aïr Mountains, Niger. (2013,2034.11167) © TARA/David
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4Mq2eZY2bKogMqoCmu6gmW/9916aa4ecde51858768639f010a0442e/2013_2034.11167.jpg"
+      caption: Infissak, Western Aïr Mountains, Niger. 2013,2034.11167 © TARA/David
         Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3648925&partId=1&searchText=2013,2034.11167&page=1
     - sys:
@@ -422,7 +422,7 @@ contentful:
     - sys:
         id: 6GvLgKrVXaSIQaAMECeE2m
         created_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:31:34.914000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:15:11.171000000 Z
         content_type_id: image
       image:
         sys:
@@ -431,19 +431,19 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:10.453000000 Z
         title: '2013,2034.11133'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/18c47Fe9jeoIi4CouE8Eya/189da8bf1c84d7f95b532cf59780fe82/2013_2034.11133.jpg"
-      caption: Two Libyan- Warrior style figures, Western Aïr Mountains, Niger. (2013,2034.11133)  ©
+        url: "//images.ctfassets.net/xt8ne4gbbocd/18c47Fe9jeoIi4CouE8Eya/189da8bf1c84d7f95b532cf59780fe82/2013_2034.11133.jpg"
+      caption: Two Libyan Warrior style figures, Western Aïr Mountains, Niger. 2013,2034.11133  ©
         TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3649155&partId=1&searchText=2013,2034.11133&page=1
     - sys:
         id: 4wQK9fpysE0GEaGYOEocws
         created_at: !ruby/object:DateTime 2015-11-27 12:06:27.167000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:41:04.031000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:17:33.313000000 Z
         content_type_id: chapter
       title_internal: 'Warrior: thematic, chapter 5'
       body: "Such a comment suggests that local ethnographies might assist in an understanding
         of more recent rock art, that not all figures described as Libyan-Warrior
-        may necessarily be the same; and indeed that women may not be as rare as previously
+        may necessarily be the same, and indeed that women may not be as rare as previously
         documented. In fact, the Wodaabe have been noted to resemble figures in other
         Saharan rock art contexts (see article on Hairdressing in the Acacus).\n\nIf
         we accept that some of these representations share affinities with the Wodaabe
@@ -458,7 +458,7 @@ contentful:
     - sys:
         id: 2oNDIVZY2cY6y2ACUykYiW
         created_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 17:31:55.456000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:26:02.339000000 Z
         content_type_id: image
       image:
         sys:
@@ -467,9 +467,10 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:40.581000000 Z
         title: Wodaabe
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2klydX5Lbm6sGIUO8cCuow/af221201c757ffe51e741300ffaefcba/Wodaabe.jpg"
-      caption: Wodaabe men preparing for Gerewol ceremony by Dan Lundberg, Wikimedia
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2klydX5Lbm6sGIUO8cCuow/af221201c757ffe51e741300ffaefcba/Wodaabe.jpg"
+      caption: Wodaabe men preparing for Gerewol ceremony ©Dan Lundberg, Wikimedia
         Commons
+      col_link: https://commons.wikimedia.org/wiki/File:Flickr_-_Dan_Lundberg_-_1997_%5E274-33_Gerewol_contestants.jpg
     - sys:
         id: 3SOhBsJLQACesg4wogaksm
         created_at: !ruby/object:DateTime 2015-11-27 12:07:09.983000000 Z
@@ -501,7 +502,7 @@ contentful:
     - sys:
         id: 4AsNsHJ1n2USWMU68cIUko
         created_at: !ruby/object:DateTime 2015-11-27 11:46:03.474000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:12:29.767000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:30:37.659000000 Z
         content_type_id: image
       image:
         sys:
@@ -510,14 +511,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-27 11:54:37.045000000 Z
         title: Af2005,04.6 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6QT0CdFAgoISmsuUk6u4OW/02489b2a4374bdb0a92ad9684f6120f4/Af2005_04.6_1.jpg"
-      caption: 'Wodaabe dancing feather: (Af2005,04.6) from the British Museum collections.
-        © Trustees of the British Museum'
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585897&partId=1&searchText=Af2005,04.6&page=1
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6QT0CdFAgoISmsuUk6u4OW/02489b2a4374bdb0a92ad9684f6120f4/Af2005_04.6_1.jpg"
+      caption: Wodaabe dancing feather from the British Museum collections. Af2005,04.6
+        © Trustees of the British Museum
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585897&partId=1&searchText=Af2005%2c04.6&view=list&page=1
     - sys:
         id: 5z7EqYMmFaI0Eom6AAgu6i
         created_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:57:19.817000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:28:41.984000000 Z
         content_type_id: image
       image:
         sys:
@@ -526,14 +527,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.548000000 Z
         title: '2013,2034.9037'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/10pBS62m3eugyAkY8iQYGs/b54aab41922ff6690ca59533afddeb84/2013_2034.9037.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/10pBS62m3eugyAkY8iQYGs/b54aab41922ff6690ca59533afddeb84/2013_2034.9037.jpg"
       caption: Libyan Warrior figure showing symmetrical plumage from Eastern Aïr
-        Mountains, Niger (2013,2034.9037) © TARA/David Coulson
+        Mountains, Niger. 2013,2034.9037 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636108&partId=1&searchText=2013,2034.9037&page=1
     - sys:
         id: 1UmQD1rR0IISqKmGe4UWYs
         created_at: !ruby/object:DateTime 2015-11-27 11:47:12.062000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:55:05.455000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:28:08.133000000 Z
         content_type_id: image
       image:
         sys:
@@ -542,10 +543,10 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-27 11:54:37.053000000 Z
         title: Af2005,04.20 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5oL3JD0PbaEMMyu4mA0oGw/72bb636538c36d21c62fef5628556238/Af2005_04.20_1.jpg"
-      caption: Wodaabe dancing feather (Af2005,04.20) from the British Museum collections.
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5oL3JD0PbaEMMyu4mA0oGw/72bb636538c36d21c62fef5628556238/Af2005_04.20_1.jpg"
+      caption: Wodaabe dancing feather from the British Museum collections. Af2005,04.20
         © Trustees of the British Museum
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585792&partId=1&searchText=Af2005,04.20&page=1
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1585792&partId=1&searchText=Af2005%2c04.20&view=list&page=1
     - sys:
         id: 45NYo7UU5ymOCYiqEYyQQO
         created_at: !ruby/object:DateTime 2015-11-27 12:07:34.816000000 Z
@@ -559,7 +560,7 @@ contentful:
     - sys:
         id: 55JXs6mmfCoM6keQuwSeKA
         created_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:59:13.850000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:31:16.112000000 Z
         content_type_id: image
       image:
         sys:
@@ -568,14 +569,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:56.985000000 Z
         title: '2013,2034.9554'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3s0PrjlXlS2QwMKMk0giog/bef0019b59e2abe3ba3e29a4377eedd0/2013_2034.9554.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3s0PrjlXlS2QwMKMk0giog/bef0019b59e2abe3ba3e29a4377eedd0/2013_2034.9554.jpg"
       caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger.
-        (2013,2034.9554) © TARA/David Coulson
+        2013,2034.9554 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639988&partId=1&searchText=2013,2034.9554&page=1
     - sys:
         id: 2UL4zsEuwgekwI0ugSOSok
         created_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 11:59:49.961000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:31:41.776000000 Z
         content_type_id: image
       image:
         sys:
@@ -584,9 +585,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.555000000 Z
         title: '2013,2034.9600'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3XjtbP2JywoCw8Qm0O8iKo/fc0ccf0eb00a563da9a60276c87bbc11/2013_2034.9600.jpg"
-      caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger
-        (2013,2034.9600) © TARA/David Coulson
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3XjtbP2JywoCw8Qm0O8iKo/fc0ccf0eb00a563da9a60276c87bbc11/2013_2034.9600.jpg"
+      caption: Warrior style figure holding ‘shields’. Eastern Aïr Mountains, Niger.
+        2013,2034.9600 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3639940&partId=1&searchText=2013,2034.9600&page=1
     - sys:
         id: 64MCgMHx60M8e0GSCaM2qm
@@ -604,7 +605,7 @@ contentful:
     - sys:
         id: 78Ks1B0PPUA8YIm0ugMkQK
         created_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:00:47.553000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:33:27.671000000 Z
         content_type_id: image
       image:
         sys:
@@ -613,11 +614,11 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.583000000 Z
         title: Af,B47.19
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5SDdxljduwuQggsuWcYUCA/eeb48a1ec8550bb4e1622317e5b7cea0/Af_B47.19.jpg"
-      caption: Photograph of three Fulani male children "dressed up for a ceremonial
-        dance". Males carrying shoulder-bags and holding sticks. Male at right has
-        flat basket impaled on stick. Rural setting. (Af,B47.19) © Trustees of the
-        British Museum
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5SDdxljduwuQggsuWcYUCA/eeb48a1ec8550bb4e1622317e5b7cea0/Af_B47.19.jpg"
+      caption: Photograph of three Fulani male children 'dressed up for a ceremonial
+        dance'. They are carrying shoulder-bags and holding sticks, and the male at
+        right has flat basket impaled on stick. Rural setting. Af,B47.19 © Trustees
+        of the British Museum
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1410664&partId=1&searchText=Af,B47.19&page=1
     - sys:
         id: 5nvXXoq4Baa0IwOmMSiUkI
@@ -632,7 +633,7 @@ contentful:
     - sys:
         id: 1Huul8DwMcACSECuGoASE2
         created_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:01:35.826000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:35:18.268000000 Z
         content_type_id: image
       image:
         sys:
@@ -641,12 +642,13 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.554000000 Z
         title: '7,2023.1'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/1PmWIHnxq0cAESkGiiWCkK/51912ac1b7bffafe18fbbbb48a253fe9/7_2023.1.jpg"
-      caption: Wodaabe vest, Niger (7,2023.1). © Trustees of the British Museum
+        url: "//images.ctfassets.net/xt8ne4gbbocd/1PmWIHnxq0cAESkGiiWCkK/51912ac1b7bffafe18fbbbb48a253fe9/7_2023.1.jpg"
+      caption: Wodaabe vest, Niger. 2007,2023.1 ©Trustees of the British Museum
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3372277&partId=1&searchText=2007%2c2023.1&view=list&page=1
     - sys:
         id: GT1E1E6FMc04CaQQUEuG6
         created_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:02:14.003000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:37:15.633000000 Z
         content_type_id: image
       image:
         sys:
@@ -655,9 +657,9 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:48.580000000 Z
         title: '2013,2034.9016'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/lz2F9O4kSWoi2g68csckA/97f7a9fbec98c4af224273fbd3f7e9a5/2013_2034.9016.jpg"
-      caption: Eastern Aïr Mountains, Niger (2013,2034.9016) © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636132&partId=1&searchText=2013,2034.9016&page=1
+        url: "//images.ctfassets.net/xt8ne4gbbocd/lz2F9O4kSWoi2g68csckA/97f7a9fbec98c4af224273fbd3f7e9a5/2013_2034.9016.jpg"
+      caption: Eastern Aïr Mountains, Niger. 2013,2034.9016 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636134&partId=1&searchText=2013%2c2034.9016&&page=1
     - sys:
         id: MH7tazL1u0ocyy6ysc8ci
         created_at: !ruby/object:DateTime 2015-11-27 12:08:38.359000000 Z
@@ -671,7 +673,7 @@ contentful:
     - sys:
         id: 5f7LkndYMoCiE0C6cYI642
         created_at: !ruby/object:DateTime 2015-11-27 12:02:44.521000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-08 17:01:56.918000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 15:04:54.162000000 Z
         content_type_id: image
       image:
         sys:
@@ -680,13 +682,14 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:33.489000000 Z
         title: Gerewol
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4S1bl6LKUEKg0mMiQMoS2i/77678da7ac7b9573cfdfdcc9222b4187/Gerewol.jpg"
-      caption: Wodaabe participants in the Gerewol beauty contest. Photo by Dan Lundberg
-        via Wikimedia Commons
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4S1bl6LKUEKg0mMiQMoS2i/77678da7ac7b9573cfdfdcc9222b4187/Gerewol.jpg"
+      caption: Wodaabe participants in the Gerewol beauty contest. ©Dan Lundberg via
+        Wikimedia Commons
+      col_link: https://commons.wikimedia.org/wiki/File:1997_274-5_Gerewol.jpg
     - sys:
         id: 2s5eLxURwgEKUGYiCc62MM
         created_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-27 12:03:20.752000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 14:40:40.756000000 Z
         content_type_id: image
       image:
         sys:
@@ -695,8 +698,8 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 17:20:57.016000000 Z
         title: '2013,2034.9685'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3as8UfaNIk22iQwu2uccsO/bef9cc4c65f13f394c4c6c03fa665aab/2013_2034.9685.jpg"
-      caption: Four Warrior style figures, Eastern Aïr Mountains, Niger (2013,2034.9685)
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3as8UfaNIk22iQwu2uccsO/bef9cc4c65f13f394c4c6c03fa665aab/2013_2034.9685.jpg"
+      caption: Four Warrior style figures, Eastern Aïr Mountains, Niger. 2013,2034.9685
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3644735&partId=1&searchText=2013,2034.9685&page=1
     - sys:
@@ -737,14 +740,410 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-07 19:16:46.680000000 Z
       title: NIGNAM0010007
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4ICv2mLYykaUs2K6sI600e/175a170bba1f5856e70c2bb59a88e28f/NIGNAM0010007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4ICv2mLYykaUs2K6sI600e/175a170bba1f5856e70c2bb59a88e28f/NIGNAM0010007.jpg"
     - sys:
         id: 4sWbJZXtCUKKqECk24wOwi
         created_at: !ruby/object:DateTime 2015-12-07 19:16:46.673000000 Z
         updated_at: !ruby/object:DateTime 2015-12-07 19:16:46.673000000 Z
       title: NIGEAM0070022
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4sWbJZXtCUKKqECk24wOwi/63797d84c9f0c89db25bd2f2cebaa21b/NIGEAM0070022.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4sWbJZXtCUKKqECk24wOwi/63797d84c9f0c89db25bd2f2cebaa21b/NIGEAM0070022.jpg"
+  - sys:
+      id: 1KwPIcPzMga0YWq8ogEyCO
+      created_at: !ruby/object:DateTime 2015-11-26 16:25:56.681000000 Z
+      updated_at: !ruby/object:DateTime 2015-12-07 20:49:15.151000000 Z
+      content_type_id: thematic
+    title: 'Sailors on sandy seas: camels in Saharan rock art'
+    slug: camels-in-saharan-rock-art
+    lead_image:
+      sys:
+        id: 46X3vtG1faouSYYws0Aywu
+        created_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
+      title: Fig. 1. Camel
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
+    chapters:
+    - sys:
+        id: 1Q7xHD856UsISuceGegaqI
+        created_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 1'
+      body: 'If we were to choose a defining image for the Sahara Desert, it would
+        probably depict an endless sea of yellow dunes under a blue sky and, off in
+        the distance, a line of long-legged, humped animals whose profiles have become
+        synonymous with deserts: the one-humped camel (or dromedary). Since its domestication,
+        the camel’s resistance to heat and its ability to survive with small amounts
+        of water and a diet of desert vegetation have made it a key animal for inhabitants
+        of the Sahara, deeply bound to their economy, material culture and lifestyle.'
+    - sys:
+        id: 4p7wUbC6FyiEYsm8ukI0ES
+        created_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 14:19:18.059000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 46X3vtG1faouSYYws0Aywu
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
+        title: Fig. 1. Camel
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
+      caption: Camel salt caravan crossing the Ténéré desert in Niger. 2013,2034.10487
+        © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652360&partId=1&searchText=2013,2034.10487&page=1
+    - sys:
+        id: 1LsXHHPAZaIoUksC2US08G
+        created_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 2'
+      body: Yet, surprising as it seems, the camel is a relative newcomer to the Sahara
+        – at least when compared to other domestic animals such as cattle, sheep,
+        horses and donkeys. Although the process is not yet fully known, camels were
+        domesticated in the Arabian Peninsula around the third millennium BC, and
+        spread from there to the Middle East, North Africa and Somalia from the 1st
+        century AD onwards. The steps of this process from Egypt to the Atlantic Ocean
+        have been documented through many different historical sources, from Roman
+        texts to sculptures or coins, but it is especially relevant in Saharan rock
+        art, where camels became so abundant that they have given their name to a
+        whole period. The depictions of camels provide an incredible amount of information
+        about the life, culture and economy of the Berber and other nomadic communities
+        from the beginnings of the Christian era to the Muslim conquest in the late
+        years of the 7th century.
+    - sys:
+        id: j3q9XWFlMOMSK6kG2UWiG
+        created_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 14:21:07.255000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 6afrRs4VLUS4iEG0iwEoua
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:34.273000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.273000000 Z
+        title: EA26664
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6afrRs4VLUS4iEG0iwEoua/e00bb3c81c6c9b44b5e224f5a8ce33a2/EA26664.jpg"
+      caption: Roman terracotta camel with harness, 1st – 3rd century AD, Egypt. British
+        Museum 1891,0403.31 © Trustees of the British Museum
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?museumno=1891,0430.31&objectId=118725&partId=1
+    - sys:
+        id: NxdAnazJaUkeMuyoSOy68
+        created_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 3'
+      body: 'What is it that makes camels so suited to deserts? It is not only their
+        ability to transform the fat stored in their hump into water and energy, or
+        their capacity to eat thorny bushes, acacia leaves and even fish and bones.
+        Camels are also able to avoid perspiration by manipulating their core temperature,
+        enduring fluctuations of up to six degrees that could be fatal for other mammals.
+        They rehydrate very quickly, and some of their physical features (nostrils,
+        eyebrows) have adapted to increase water conservation and protect the animals
+        from dust and sand. All these capacities make camels uniquely suited to hot
+        climates: in temperatures of 30-40 °C, they can spend up to 15 days without
+        water. In addition, they are large animals, able to carry loads of up to 300kg,
+        over long journeys across harsh environments. The pads on their feet have
+        evolved so as to prevent them from sinking into the sand. It is not surprising
+        that dromedaries are considered the ‘ships of the desert’, transporting people,
+        commodities and goods through the vast territories of the Sahara.'
+    - sys:
+        id: 2KjIpAzb9Kw4O82Yi6kg2y
+        created_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 14:39:34.523000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 6iaMmNK91YOU00S4gcgi6W
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:51.477000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.477000000 Z
+        title: Af1937,0105.16
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6iaMmNK91YOU00S4gcgi6W/4a850695b34c1766d1ee5a06f61f2b36/Af1937_0105.16.jpg"
+      caption: Clay female dromedary (possibly a toy), Somalia. British Museum Af1937,0105.16
+        © Trustees of the British Museum
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=1088379&objectId=590967&partId=1
+    - sys:
+        id: 12mIwQ0wG2qWasw4wKQkO0
+        created_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 14:45:29.810000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 4jTR7LKYv6IiY8wkc2CIum
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:51.505000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.505000000 Z
+        title: Fig. 4. Man
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4jTR7LKYv6IiY8wkc2CIum/3dbaa11c18703b33840a6cda2c2517f2/Fig._4._Man.jpg"
+      caption: Man leading a camel train through the Ennedi Plateau, Chad. 2013,2034.6134
+        ©David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3636989&partId=1&searchText=2013,2034.6134&page=1
+    - sys:
+        id: 6UIdhB0rYsSQikE8Yom4G6
+        created_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 4'
+      body: As mentioned previously, camels came from the Arabian Peninsula through
+        Egypt, where bone remains have been dated to the early 1st millennium BC.
+        However, it took hundreds of years to move into the rest of North Africa due
+        to the River Nile, which represented a major geographical and climatic barrier
+        for these animals. The expansion began around the beginning of the Christian
+        era, and probably took place both along the Mediterranean Sea and through
+        the south of the Sahara. At this stage, it appears to have been very rapid,
+        and during the following centuries camels became a key element in the North
+        African societies. They were used mainly for riding, but also for transporting
+        heavy goods and even for ploughing. Their milk, hair and meat were also used,
+        improving the range of resources available to their herders. However, it seems
+        that the large caravans that crossed the desert searching for gold, ivory
+        or slaves came later, when the Muslim conquest of North Africa favoured the
+        establishment of vast trade networks with the Sahel, the semi-arid region
+        that lies south of the Sahara.
+    - sys:
+        id: YLb3uCAWcKm288oak4ukS
+        created_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 14:46:15.751000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 5aJ9wYpcHe6SImauCSGoM8
+          created_at: !ruby/object:DateTime 2015-11-26 16:06:48.336000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:06:48.336000000 Z
+        title: '1923,0401.850'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5aJ9wYpcHe6SImauCSGoM8/74efd37612ec798fd91c2a46c65587f7/1923_0401.850.jpg"
+      caption: Glass paste gem imitating beryl, engraved with a short, bearded man
+        leading a camel with a pack on its hump. Roman Empire, 1st – 3rd century AD.
+        1923,0401.850 ©Trustees of the British Museum
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=434529&partId=1&museumno=1923,0401.850&page=1
+    - sys:
+        id: 3uitqbkcY8s8GCcicKkcI4
+        created_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 5'
+      body: Rock art can be extremely helpful in learning about the different ways
+        in which camels were used in the first millennium AD. Images of camels are
+        found in both engravings and paintings in red, white or – on rare occasions
+        – black; sometimes the colours are combined to achieve a more impressive effect.
+        They usually appear in groups, alongside humans, cattle and, occasionally,
+        dogs and horses. Sometimes, even palm trees and houses are included to represent
+        the oases where the animals were watered. Several of the scenes show female
+        camels herded or taking care of their calves, showing the importance of camel-herding
+        and breeding for the Libyan-Berber communities.
+    - sys:
+        id: 5OWosKxtUASWIO6IUii0EW
+        created_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:11:49.775000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 3mY7XFQW6QY6KekSQm6SIu
+          created_at: !ruby/object:DateTime 2015-11-26 16:06:48.343000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:06:48.343000000 Z
+        title: '2013,2034.383'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3mY7XFQW6QY6KekSQm6SIu/85c0b70ab40ead396c695fe493081801/2013_2034.383.jpg"
+      caption: Painted scene of a village, depicting a herd or caravan of camels guided
+        by riders and dogs. Wadi Teshuinat, Acacus Mountains, Libya. 2013,2034.383
+        © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3579914&partId=1&museumno=2013,2034.383&page=1
+    - sys:
+        id: 2Ocb7A3ig8OOkc2AAQIEmo
+        created_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:12:22.249000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 2xR2nZml7mQAse8CgckCa
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:51.480000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.480000000 Z
+        title: '2013,2034.5117'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2xR2nZml7mQAse8CgckCa/984e95b65ebdc647949d656cb08c0fc9/2013_2034.5117.jpg"
+      caption: Engravings of a female camel with calves. Oued Djerat, Algeria. 2013,2034.5117
+        © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3624292&partId=1&museumno=2013,2034.5117&page=1
+    - sys:
+        id: 4iTHcZ38wwSyGK8UIqY2yQ
+        created_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:31:09.339000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 1ecCbVeHUGa2CsYoYSQ4Sm
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:34.241000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.241000000 Z
+        title: Fig. 8. Painted
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/1ecCbVeHUGa2CsYoYSQ4Sm/21b2aebd215d0691482411608ad5682f/Fig._8._Painted.jpg"
+      caption: " Painted scene of Libyan-Berber warriors riding camels, accompanied
+        by infantry and cavalrymen. Kozen Pass, Chad. 2013,2034.7295 © David Coulson/TARA"
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3655154&partId=1&searchText=2013,2034.7295&page=1
+    - sys:
+        id: 2zqiJv33OUM2eEMIK2042i
+        created_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 6'
+      body: |-
+        That camels were used to transport goods is obvious, and depictions of long lines of animals are common, sometimes with saddles on which to place the packs and ropes to tie the animals together. However, if rock art depictions are some indication of camel use, it seems that until the Muslim conquest the main function of one-humped camels was as mounts, often linked to war. The Sahara desert contains dozens of astonishingly detailed images of warriors riding camels, armed with spears, long swords and shields, sometimes accompanied by infantry soldiers and horsemen. Although camels are not as good as horses for use as war mounts (they are too tall and make insecure platforms for shooting arrows), they were undoubtedly very useful in raids – the most common type of war activity in the desert – as well as being a symbol of prestige, wealth and authority among the desert warriors, much as they still are today.
+
+        Moreover, the extraordinary detail of some of the rock art paintings has provided inestimable help in understanding how (and why) camels were ridden in the 1st millennium AD. Unlike horses, donkeys or mules, one-humped camels present a major problem for riders: where to put the saddle. Although it might be assumed that the saddle should be placed over the hump, they can, in fact, also be positioned behind or in front of the hump, depending on the activity. It seems that the first saddles were placed behind the hump, but that position was unsuitable for fighting, quite uncomfortable, and unstable. Subsequently, a new saddle was invented in North Arabia around the 5th century BC: a framework of wood that rested over the hump and provided a stable platform on which to ride and fight more effectively. The North Arabian saddle led to a revolution in the domestication of one-humped camels, allowed a faster expansion of the use of these animals, and it is probably still the most used type of saddle today.
+    - sys:
+        id: 6dOm7ewqmA6oaM4cK4cy8c
+        created_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:31:33.078000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 5qXuQrcnUQKm0qCqoCkuGI
+          created_at: !ruby/object:DateTime 2015-11-26 16:06:48.345000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:06:48.345000000 Z
+        title: As1974,29.17
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5qXuQrcnUQKm0qCqoCkuGI/2b279eff2a6f42121ab0f6519d694a92/As1974_29.17.jpg"
+      caption: North Arabian-style saddle, with a wooden framework designed to be
+        put around the hump. Jordan. British Museum As1974,29.17 © Trustees of the
+        British Museum
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3320111&partId=1&object=23696&page=1
+    - sys:
+        id: 5jE9BeKCBUEK8Igg8kCkUO
+        created_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 7'
+      body: 'Although North Arabian saddles are found throughout North Africa and
+        are often depicted in rock art paintings, at some point a new kind of saddle
+        was designed in North Africa: one placed in front of the hump, with the weight
+        over the shoulders of the camel. This type of shoulder saddle allows the rider
+        to control the camel with the feet and legs, thus improving the ride. Moreover,
+        the rider is seated in a lower position and thus needs shorter spears and
+        swords that can be brandished more easily, making warriors more efficient.
+        This new kind of saddle, which is still used throughout North Africa today,
+        appears only in the western half of the Sahara and is well represented in
+        the rock art of Algeria, Niger and Mauritania. And it is not only saddles
+        that are recognizable in Saharan rock art: harnesses, reins, whips or blankets
+        are identifiable in the paintings and show astonishing similarities to those
+        still used today by desert peoples.'
+    - sys:
+        id: 6yZaDQMr1Sc0sWgOG6MGQ8
+        created_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:33:25.754000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 40zIycUaTuIG06mgyaE20K
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:51.466000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.466000000 Z
+        title: Fig. 10. Painting
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/40zIycUaTuIG06mgyaE20K/1736927ffb5e2fc71d1f1ab04310a73f/Fig._10._Painting.jpg"
+      caption: Painting of rider on a one-humped camel. Note the North Arabian saddle
+        on the hump, similar to the example from Jordan above. Terkei, Ennedi plateau,
+        Chad. 2013,2034.6568 © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640623&partId=1&searchText=2013,2034.6568&page=1
+    - sys:
+        id: 5jHyVlfWXugI2acowekUGg
+        created_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:36:07.603000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 6EvwTsiMO4qoiIY4gGCgIK
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:34.249000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.249000000 Z
+        title: '2013,2034.4471'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6EvwTsiMO4qoiIY4gGCgIK/1db47ae083ff605b9533898d9d9fb10d/2013_2034.4471.jpg"
+      caption: Camel-rider using a North African saddle (in front of the hump), surrounded
+        by warriors with spears and swords, with Libyan-Berber graffiti. Tin Tazarift,
+        Tassili, Algeria. 2013,2034.4471 © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3602860&partId=1&museumno=2013,2034.4471&page=1
+    - sys:
+        id: 57goC8PzUs6G4UqeG0AgmW
+        created_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 15:40:21.199000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 5JDO7LrdKMcSEOMEG8qsS8
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:34.250000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.250000000 Z
+        title: Fig. 12. Tuaregs
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5JDO7LrdKMcSEOMEG8qsS8/76cbecd637724d549db8a7a101553280/Fig._12._Tuaregs.jpg"
+      caption: Tuaregs at Cura Salee, an annual meeting of desert peoples. Note the
+        saddles in front of the hump and the camels' harnesses,  similar to the rock
+        paintings above such as the image from Terkei. Ingal, Northern Niger. 2013,2034.10523
+        © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652377&partId=1&searchText=2013,2034.10523&page=1
+    - sys:
+        id: 3QPr46gQP6sQWswuSA2wog
+        created_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
+        content_type_id: chapter
+      title_internal: 'Camels: thematic, chapter 8'
+      body: Since their introduction to the Sahara during the first centuries of the
+        Christian era, camels have become indispensable for desert communities, providing
+        a method of transport for people and commodities, but also for their milk,
+        meat and hair for weaving. They allowed the improvement of wide cultural and
+        economic networks, transforming the Sahara into a key node linking the Mediterranean
+        Sea with Sub-Saharan Africa. A symbol of wealth and prestige, the Libyan-Berber
+        peoples recognized camels’ importance and expressed it through paintings and
+        engravings across the desert, leaving a wonderful document of their societies.
+        The painted images of camel-riders crossing the desert not only have an evocative
+        presence, they are also perfect snapshots of a history that started two thousand
+        years ago and seems as eternal as the Sahara.
+    - sys:
+        id: 54fiYzKXEQw0ggSyo0mk44
+        created_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 16:01:13.379000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 3idPZkkIKAOWCiKouQ8c8i
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:34.244000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:34.244000000 Z
+        title: Fig. 13. Camel-riders
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3idPZkkIKAOWCiKouQ8c8i/4527b1eebe112ef9c38da1026e7540b3/Fig._13._Camel-riders.jpg"
+      caption: Camel-riders galloping. Butress cave, Archael Guelta, Chad. 2013,2034.6077
+        ©David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637992&partId=1&searchText=2013,2034.6077&page=1
+    - sys:
+        id: 1ymik3z5wMUEway6omqKQy
+        created_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-17 16:02:41.679000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 4Y85f5QkVGQiuYEaA2OSUC
+          created_at: !ruby/object:DateTime 2015-11-26 16:07:06.194000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-26 16:07:06.194000000 Z
+        title: Fig. 14. Tuareg
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4Y85f5QkVGQiuYEaA2OSUC/4fbca027ed170b221daefdff0ae7d754/Fig._14._Tuareg.jpg"
+      caption: Tuareg rider galloping at the Cure Salee meeting. Ingal, northern Niger.
+        2013,2034.10528 © David Coulson/TARA
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652371&partId=1&searchText=2013,2034.10528&page=1
+    background_images:
+    - sys:
+        id: 3mhr7uvrpesmaUeI4Aiwau
+        created_at: !ruby/object:DateTime 2015-12-07 18:13:48.396000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 18:13:48.396000000 Z
+      title: CHAENP0340003
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3mhr7uvrpesmaUeI4Aiwau/65c691f09cd60bb7aa08457e18eaa624/CHAENP0340003_1_.JPG"
+    - sys:
+        id: BPzulf3QNqMC4Iqs4EoCG
+        created_at: !ruby/object:DateTime 2015-12-07 18:13:31.094000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 18:13:31.094000000 Z
+      title: CHAENP0340001
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/BPzulf3QNqMC4Iqs4EoCG/356b921099bfccf59008b69060d20d75/CHAENP0340001_1_.JPG"
   country_introduction:
     sys:
       id: 3dMpIo4d4cQa2OI4me2ACQ
@@ -784,7 +1183,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:16.151000000 Z
         title: '2013,2034.9967'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2FAYj7hG88aQ0Quq6Wc6gE/49ae0722057f453db4bb15da9c1ee6c0/2013_2034.9967.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2FAYj7hG88aQ0Quq6Wc6gE/49ae0722057f453db4bb15da9c1ee6c0/2013_2034.9967.jpg"
       caption: Block-pecked engraving of running hare. 2013,2034.9967 © TARA/David
         Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637684&partId=1&page=1
@@ -814,7 +1213,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:53:55.744000000 Z
         title: '2013,2034.8958'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4h5Sa7Ex2M2aEa8YSGW6iU/b394694db95c753013248a8e398017d4/2013_2034.8958.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4h5Sa7Ex2M2aEa8YSGW6iU/b394694db95c753013248a8e398017d4/2013_2034.8958.jpg"
       caption: Looking out of a shallow cave, Djado Plateau, Niger. 2013,2034.8958
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637696&partId=1&page=1
@@ -855,7 +1254,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.849000000 Z
         title: '2013,2034.11147'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6wKZcUGktaAG0IYOagAIQ4/9ddabc2eb10161fcb2c69cff6817741a/2013_2034.11147.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6wKZcUGktaAG0IYOagAIQ4/9ddabc2eb10161fcb2c69cff6817741a/2013_2034.11147.jpg"
       caption: Libyan Warrior figure, Western Aïr Mountains, Niger. 2013,2034.11147
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637713&partId=1&museumno=2013,2034.11147&page=1
@@ -896,7 +1295,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.057000000 Z
         title: '2013,2034.8891'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
       caption: Two outline engravings of white rhinoceros. 2013,2034.8891 © TARA/David
         Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637764&partId=1&museumno=2013,2034.8891&page=1
@@ -924,7 +1323,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.916000000 Z
         title: '2013,2034.8960'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2ANvzNqFfiKkMWAAsWCWKQ/724f5a5d07a365fdf3b9040aa30d916c/2013_2034.8960.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2ANvzNqFfiKkMWAAsWCWKQ/724f5a5d07a365fdf3b9040aa30d916c/2013_2034.8960.jpg"
       caption: White cows with calves and three figures. Djado Plateau, Niger. 2013,2034.8960
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637694&partId=1&museumno=2013,2034.8960&page=1
@@ -979,7 +1378,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.945000000 Z
         title: '2013,2034.10009'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5OBSH7pvt6I6eOAc4OaqEG/f667bce1cf4cf3c6dbce0bb5a83383bc/2013_2034.10009.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5OBSH7pvt6I6eOAc4OaqEG/f667bce1cf4cf3c6dbce0bb5a83383bc/2013_2034.10009.jpg"
       caption: Large reground and painted figure surrounded by ancient Tifinagh script.
         Northern Air Mountains, Niger. 2013,2034.10009 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637714&partId=1&museumno=2013,2034.10009&page=1
@@ -1004,7 +1403,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.168000000 Z
         title: '2013,2034.9910'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/1vncvc4BCIG8ymWeS8c28q/ee518eb244c2193ea827c7875b30c049/2013_2034.9910.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/1vncvc4BCIG8ymWeS8c28q/ee518eb244c2193ea827c7875b30c049/2013_2034.9910.jpg"
       caption: Block-pecked elephant. Northern Aïr Mountains, Niger. 2013,2034.9910
         © TARA/David Coulson
       col_link: http://bit.ly/2iVcmsb
@@ -1033,7 +1432,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.852000000 Z
         title: '2013,2034.9786'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
       caption: Outline and decorated cattle, some with elaborate deliberately turned-back
         horns. 2013,2034.9786 © TARA/David Coulson
       col_link: http://bit.ly/2jlwIKc
@@ -1061,7 +1460,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:30.823000000 Z
         title: '2013,2034.8834'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/3nBXTYYPN6ucuaImm24iuG/a188d0ae5e00e8934acbf0397ce50194/2013_2034.8834.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/3nBXTYYPN6ucuaImm24iuG/a188d0ae5e00e8934acbf0397ce50194/2013_2034.8834.jpg"
       caption: Outline Tazina-style engraving of a giraffe. 2013,2034.8834 © TARA/David
         Coulson
       col_link: http://bit.ly/2i9uPQ2
@@ -1087,7 +1486,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.797000000 Z
         title: '2013,2034.9875'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2wvcOF7LOQa6iEsWyQOUQi/ba1af764bd58d195ef002f58cca5eb51/2013_2034.9875.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2wvcOF7LOQa6iEsWyQOUQi/ba1af764bd58d195ef002f58cca5eb51/2013_2034.9875.jpg"
       caption: Libyan Warrior-style figures. Northern Aïr Mountains, Niger. 2013,2034.9875
         © TARA/David Coulson
       col_link: http://bit.ly/2i6usdB
@@ -1103,7 +1502,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.833000000 Z
         title: '2013,2034.9430'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4fSRLSsTP2MCiquKAEsmkQ/ad620450f16447bcbb6e734d2a4c1c0e/2013_2034.9430.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4fSRLSsTP2MCiquKAEsmkQ/ad620450f16447bcbb6e734d2a4c1c0e/2013_2034.9430.jpg"
       caption: Two horses attached to two-wheeled chariot with charioteer. Eastern
         Aïr Mountains, Niger. 2013,2034.9430 © TARA/David Coulson
       col_link: http://bit.ly/2i6uJ07
@@ -1136,7 +1535,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-26 10:53:55.796000000 Z
         title: '2013,2034.9578'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2bO7Zt5qJ6UI088i422mMe/337784cf715978325ffb7bda8179c3ce/2013_2034.9578.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2bO7Zt5qJ6UI088i422mMe/337784cf715978325ffb7bda8179c3ce/2013_2034.9578.jpg"
       caption: Crudely pecked camels. Eastern Aïr Mountains, Niger. 2013,2034.9578
         © TARA/David Coulson
       col_link: http://bit.ly/2i9tto4
@@ -1171,20 +1570,20 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.168000000 Z
     title: '2013,2034.9910'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1vncvc4BCIG8ymWeS8c28q/ee518eb244c2193ea827c7875b30c049/2013_2034.9910.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1vncvc4BCIG8ymWeS8c28q/ee518eb244c2193ea827c7875b30c049/2013_2034.9910.jpg"
   - sys:
       id: 4EatwZfN72waIquQqWEeOs
       created_at: !ruby/object:DateTime 2015-11-26 17:51:43.121000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:51:43.121000000 Z
     title: '2013,2034.11147'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
   - sys:
       id: 2wvcOF7LOQa6iEsWyQOUQi
       created_at: !ruby/object:DateTime 2015-11-26 10:54:26.797000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.797000000 Z
     title: '2013,2034.9875'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2wvcOF7LOQa6iEsWyQOUQi/ba1af764bd58d195ef002f58cca5eb51/2013_2034.9875.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2wvcOF7LOQa6iEsWyQOUQi/ba1af764bd58d195ef002f58cca5eb51/2013_2034.9875.jpg"
   region: Northern / Saharan Africa
 ---

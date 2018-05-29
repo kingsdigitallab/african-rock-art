@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
     title: NAMDMT0010010
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
   chapters:
   - sys:
       id: 4kAwRERjIIQ4wSkS6y2i8c
@@ -44,7 +44,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 11:11:03.005000000 Z
       title: Rhino Rifkin
       description: ''
-      url: "//images.contentful.com/xt8ne4gbbocd/37CIIcnQfC2GwQ6wUuAymc/299bc822c6f3a17ca6db005e0868218d/Rhino_Rifkin.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/37CIIcnQfC2GwQ6wUuAymc/299bc822c6f3a17ca6db005e0868218d/Rhino_Rifkin.jpg"
     caption: "'Drawn’ outline depiction of what conceivably represents a rhinoceros.
       black rhinoceros (Diceros bicornis) (© courtesy of Rifkin 2015)"
   - sys:
@@ -59,7 +59,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 11:44:42.255000000 Z
       title: Rhinocéros grotte Chauvet
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2ztUAznRiwc0qiE4iUIQGc/5958ce98b795f63e5ee49806275209b7/Rhinoc__ros_grotte_Chauvet.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2ztUAznRiwc0qiE4iUIQGc/5958ce98b795f63e5ee49806275209b7/Rhinoc__ros_grotte_Chauvet.jpg"
     caption: Rhinoceros from Chauvet Cave, Ardeche, France (© Inocybe/Wikimedia Commons)
   - sys:
       id: 6jA55SyPksGMQIYmYceMkQ
@@ -86,7 +86,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 12:18:16.078000000 Z
       title: 2013.2034.19234
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6hihVIK9s46Q00SG4Y2QMw/a0b92ad1db5c66639a005036bfacb809/2013.2034.19234_small.jpeg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6hihVIK9s46Q00SG4Y2QMw/a0b92ad1db5c66639a005036bfacb809/2013.2034.19234_small.jpeg"
     caption: The engraver of this charging rhinoceros captured its bulk and power
       in a simple pecked outline, South Africa. 2013,2034.19234  © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3731815&partId=1
@@ -117,7 +117,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 12:23:18.441000000 Z
       title: White Rhino
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3YQnGwVj8swySQIqgcs0wq/d969ab42d8540b0c37aa0a6a0cfa8c59/White_Rhino.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3YQnGwVj8swySQIqgcs0wq/d969ab42d8540b0c37aa0a6a0cfa8c59/White_Rhino.jpg"
     caption: White rhinoceros (© Ryan Harvey/Wikimedia Commons)
   - sys:
       id: 3VgqyhGcViwkwCoI88W4Ii
@@ -144,7 +144,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 12:26:24.400000000 Z
       title: Black Rhino
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6m2Q1HCGT6Q2cey00sKGmu/92caad1c13d4bbefe80a5a94aef9844e/Black_Rhino.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6m2Q1HCGT6Q2cey00sKGmu/92caad1c13d4bbefe80a5a94aef9844e/Black_Rhino.jpg"
     caption: Black rhinoceros  (© Ikiwaner/Wikimedia Commons)
   - sys:
       id: 4Z8zcElzjOCyO6iOasMuig
@@ -168,7 +168,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
       title: NAMDMT0010010
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
     caption: Block- pecked rhinoceros. Twyfelfontein, Namibia. 2013,2034.20476 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3730556
@@ -184,7 +184,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 14:01:24.022000000 Z
       title: 2013.2034.20450
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3BoFYuFzPWSOE2ewYOSWm2/edb6148c3f4435bee2f57c72e79f6b20/2013.2034.20450.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3BoFYuFzPWSOE2ewYOSWm2/edb6148c3f4435bee2f57c72e79f6b20/2013.2034.20450.jpg"
     caption: Painted rhinoceros in the Tsodilo Hills, Botswana. 2013,2034.20450 ©
       TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3729906&partId=1
@@ -228,7 +228,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-17 15:01:57.460000000 Z
       title: 2013.2034.18579
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6eRgAs6SRy6USaYCssaOKM/39136c061c79d1300e5dae2624e4fae2/2013.2034.18579.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6eRgAs6SRy6USaYCssaOKM/39136c061c79d1300e5dae2624e4fae2/2013.2034.18579.jpg"
     caption: View near the summit of the hill and location of  rock art site, looking
       into the village. Thaba Sione. 2013,2034.18579 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730570&partId=1
@@ -272,7 +272,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-25 16:07:54.767000000 Z
       title: 2013.2034.18610
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6usDWbit2ga4sM0qeqiKYo/e5cd82eb90dcf3312c2305d001ece795/2013.2034.18610.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6usDWbit2ga4sM0qeqiKYo/e5cd82eb90dcf3312c2305d001ece795/2013.2034.18610.jpg"
     caption: On the left of the boulder is a pecked outline of a giraffe facing right
       and stretching forwards. On the right of the split rock is a pecked outline
       of a buffalo facing left. Thaba Sione 1. 2013,2034.18610 © TARA/David Coulson
@@ -303,7 +303,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-05-25 16:17:13.665000000 Z
       title: 2013.2034.18595
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/13ZhEkZUJQA6omECyuWKue/0e49ec26a4b7715f08336e240b1ff158/2013.2034.18595.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/13ZhEkZUJQA6omECyuWKue/0e49ec26a4b7715f08336e240b1ff158/2013.2034.18595.jpg"
     caption: Pecked white rhinoceros and human/therianthrope figure on the far left.
       2013,2034.18595 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3730595
@@ -349,7 +349,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-06-14 16:48:35.968000000 Z
       title: 2013.2034.18583
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/57dvZ6DWhiYMuwu4Ek8Uwu/57c2fea0c2ab59676facefe4d3abe8a4/2013.2034.18583.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/57dvZ6DWhiYMuwu4Ek8Uwu/57c2fea0c2ab59676facefe4d3abe8a4/2013.2034.18583.jpg"
     caption: Black rhinoceros with elongated horns on the left and truncated horns
       on the right with crack in rock face above. 2013,2034.18583 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730587&partId=1
@@ -383,7 +383,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-06-14 17:04:34.914000000 Z
       title: 2013.2034.28582
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1sUJYfRaIUwoQ84GCiemig/fb0458a657c1b60cede2946274d6038f/2013.2034.28582.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1sUJYfRaIUwoQ84GCiemig/fb0458a657c1b60cede2946274d6038f/2013.2034.28582.jpg"
     caption: Two boulders in the foreground at Thaba Sione with engraved images of
       rhinoceros. 2013,2034.18582 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730567&partId=1
@@ -436,7 +436,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-06-14 17:28:15.706000000 Z
       title: goldenrhinoMapungubww
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4VhjmP7feE4wOsawSm4cEm/fcb3c56a141180d546baae6bec9b9022/goldenrhinoMapungubww.JPG"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4VhjmP7feE4wOsawSm4cEm/fcb3c56a141180d546baae6bec9b9022/goldenrhinoMapungubww.JPG"
     caption: 'The golden rhino of Mapungubwe, featured in the recent "South Africa:
       The Art of the Nation" Exhibition at the British Museum. ©Sian Tiley-Nel, University
       of Pretoria Museums /Wikimedia Commons'
@@ -464,12 +464,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-05-17 11:44:42.255000000 Z
     title: Rhinocéros grotte Chauvet
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2ztUAznRiwc0qiE4iUIQGc/5958ce98b795f63e5ee49806275209b7/Rhinoc__ros_grotte_Chauvet.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2ztUAznRiwc0qiE4iUIQGc/5958ce98b795f63e5ee49806275209b7/Rhinoc__ros_grotte_Chauvet.jpg"
   - sys:
       id: 6m2Q1HCGT6Q2cey00sKGmu
       created_at: !ruby/object:DateTime 2017-05-17 12:26:24.400000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:26:24.400000000 Z
     title: Black Rhino
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6m2Q1HCGT6Q2cey00sKGmu/92caad1c13d4bbefe80a5a94aef9844e/Black_Rhino.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6m2Q1HCGT6Q2cey00sKGmu/92caad1c13d4bbefe80a5a94aef9844e/Black_Rhino.jpg"
 ---

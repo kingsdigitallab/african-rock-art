@@ -3,7 +3,7 @@ contentful:
   sys:
     id: 68lvzyn1Reiwe04eaAqYa4
     created_at: !ruby/object:DateTime 2015-11-26 18:45:48.318000000 Z
-    updated_at: !ruby/object:DateTime 2015-12-11 15:58:54.193000000 Z
+    updated_at: !ruby/object:DateTime 2018-05-17 16:57:15.328000000 Z
     content_type_id: country
   name: Uganda
   slug: uganda
@@ -17,14 +17,14 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
     title: UGAVIC0010001 1
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
   - sys:
       id: 1PIG4cOXQg4GYcssAoIcgE
       created_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
       updated_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
     title: UGATES0020029 jpeg
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1PIG4cOXQg4GYcssAoIcgE/128ac1905e76484c13aa53c4356475b9/UGATES0020029_jpeg.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1PIG4cOXQg4GYcssAoIcgE/128ac1905e76484c13aa53c4356475b9/UGATES0020029_jpeg.jpg"
   featured_site:
     sys:
       id: 3crZmFK8Vyy0MGMoEwEaMS
@@ -58,7 +58,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.381000000 Z
         title: UGATES0010002 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/1UsysL5u3ioSim8YKyQ4mS/56c1505f1a1d24e85ba055421b1c0383/UGATES0010002_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/1UsysL5u3ioSim8YKyQ4mS/56c1505f1a1d24e85ba055421b1c0383/UGATES0010002_1.jpg"
       caption: Site of Nyero 1. 2013,2034.14796 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671587&partId=1&searchText=2013,2034.14796&page=1
     - sys:
@@ -82,7 +82,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.367000000 Z
         title: UGATES0020007 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4TmZuqmyM8UukoEmU6kUcY/1fb5255968afbd1a3f022f8e8142a5ff/UGATES0020007_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4TmZuqmyM8UukoEmU6kUcY/1fb5255968afbd1a3f022f8e8142a5ff/UGATES0020007_1.jpg"
       caption: Nyero 2 showing rock art obscured by mineral salts leaching out from
         the rock face. 2013,2034.14828 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671630&partId=1&searchText=2013,2034.14828&page=1
@@ -112,7 +112,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.370000000 Z
         title: UGATES0020019 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/55q7QQMYVacGSCOEqOMq2q/cbe87e9b47e1b735a6ea4ed5709af86a/UGATES0020019_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/55q7QQMYVacGSCOEqOMq2q/cbe87e9b47e1b735a6ea4ed5709af86a/UGATES0020019_1.jpg"
       caption: Paintings at Nyero 2. 2013,2034.14840 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671647&partId=1&searchText=2013,2034.14840&page=1
     - sys:
@@ -127,7 +127,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.385000000 Z
         title: UGATES0020030 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/7yIW3zRgn6SEKuyWSW4ao0/abca8da930f88993859b431aa0487356/UGATES0020030_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/7yIW3zRgn6SEKuyWSW4ao0/abca8da930f88993859b431aa0487356/UGATES0020030_1.jpg"
       caption: Close up of concentric circles and large canoe shaped object design.
         2013,2034.14851 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3671768&partId=1&searchText=2013,2034.14851&page=1
@@ -155,7 +155,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.362000000 Z
         title: UGATES0030001 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/qpeXjLAjUOK6GGOeE8iQK/d8caeb2c1a67f044f488183b926536e7/UGATES0030001_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/qpeXjLAjUOK6GGOeE8iQK/d8caeb2c1a67f044f488183b926536e7/UGATES0030001_1.jpg"
       caption: White concentric circle at Nyero 3. 2013,2034.14888 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673770&partId=1&searchText=2013,2034.14889&page=1
     - sys:
@@ -182,7 +182,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 16:05:57.384000000 Z
         title: UGATES0050011 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/66GiQKzNokmUKWM6IKSOeC/5a861c2c47d32c7a5a2271c4f824e0c0/UGATES0050011_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/66GiQKzNokmUKWM6IKSOeC/5a861c2c47d32c7a5a2271c4f824e0c0/UGATES0050011_1.jpg"
       caption: Nyero 5 showing paintings damaged by water erosion. 2013,2034.14954
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673887&partId=1&searchText=2013,2034.14954&page=1
@@ -220,14 +220,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 14:26:21.477000000 Z
       title: '2013,2034.14840'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/51UNpKVSAEu6kkScs6uoOS/21f12a22f47abbc0a67a1552a0fcf045/UGATES0020019.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/51UNpKVSAEu6kkScs6uoOS/21f12a22f47abbc0a67a1552a0fcf045/UGATES0020019.jpg"
     - sys:
         id: gVjIO1sqY06wAO8oIewkM
         created_at: !ruby/object:DateTime 2015-11-25 14:27:30.672000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:27:30.672000000 Z
       title: '2013,2034.14954'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/gVjIO1sqY06wAO8oIewkM/304d628709a396506a486f96c78f6fa0/UGATES0050011.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/gVjIO1sqY06wAO8oIewkM/304d628709a396506a486f96c78f6fa0/UGATES0050011.jpg"
   key_facts:
     sys:
       id: APkeqYuyooE8eUAEgSscc
@@ -245,6 +245,291 @@ contentful:
       dots and lines.
     famous_for: Concentric circles with emanating rays are a unique feature of Ugandan
       rock art.
+  thematic_articles:
+  - sys:
+      id: 2ULickNOv688OaGigYCWYm
+      created_at: !ruby/object:DateTime 2018-05-09 15:26:39.131000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-09 15:28:31.662000000 Z
+      content_type_id: thematic
+    title: Landscapes of Rock Art
+    slug: landscapes-of-rock-art
+    lead_image:
+      sys:
+        id: 62Htpy9mk8Gw28EuUE6SiG
+        created_at: !ruby/object:DateTime 2015-11-30 16:58:24.956000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-30 16:58:24.956000000 Z
+      title: SOADRB0050042_1
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/62Htpy9mk8Gw28EuUE6SiG/9cd9572ea1c079f4814104f40045cfb6/SOADRB0050042.jpg"
+    chapters:
+    - sys:
+        id: Ga9XxWBfqwke88qwUKGc2
+    - sys:
+        id: 5NCw7svaw0IoWWK2uuYEQG
+    - sys:
+        id: 7ng9hfsvLi2A0eWU6A0gWe
+    - sys:
+        id: 4ptu3L494cEYqk6KaY40o4
+    - sys:
+        id: 5C3yAo4w24egO2O46UCCQg
+    - sys:
+        id: 5FmuBPI2k0o6aCs8immMWQ
+    - sys:
+        id: 6cU5WF1xaEUIiEEkyoWaoq
+    - sys:
+        id: 1YZyNsFTHWIoYegcigYaik
+    - sys:
+        id: 6fhRJ1NiO4wSwSmqmSGEQA
+    - sys:
+        id: 6EhIOeplUA6ouw2kiOcmWe
+    - sys:
+        id: 2g0O5GIiaESIIGC2OOMeuC
+    - sys:
+        id: 4Zj7sd5KJW4Eq2i4aSmQSS
+    - sys:
+        id: 5I9qkMsO5iqI0s6wqQkisk
+    - sys:
+        id: 6WsItqVm8wawokCiCgE4Gu
+    - sys:
+        id: 1631tf7fv4QUwei0IIEk6I
+    - sys:
+        id: 6ycsEOIb0AgkqoQ4MUOMQi
+    - sys:
+        id: 2aa2jzRtPqwK8egGek6G6
+    - sys:
+        id: 47L9Y10YHmWY04QWCmI4qe
+    - sys:
+        id: 175X82dwJgqGAqkqCu4CkQ
+    - sys:
+        id: 5CGHVFKSUEA0oqY0cS2Cgo
+    - sys:
+        id: 60mUuKWzEkUMUeg4MEUO68
+    - sys:
+        id: 5AvLn9pvKoeYW2OKqwkUgQ
+    citations:
+    - sys:
+        id: 5z9VWU8t2MeaiAeQWa0Ake
+    background_images:
+    - sys:
+        id: 1yhBeyGEMYkuay2osswcyg
+        created_at: !ruby/object:DateTime 2018-05-09 15:16:49.135000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-09 15:16:49.135000000 Z
+      title: SOANTC0030004
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1yhBeyGEMYkuay2osswcyg/7cab20823cbc01ae24ae6456d6518dbd/SOANTC0030004.jpg"
+    - sys:
+        id: 1rRAJpaj6UMCs6qMKsGm8K
+        created_at: !ruby/object:DateTime 2018-05-09 15:14:41.480000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-09 15:14:41.480000000 Z
+      title: SOANTC0050054
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1rRAJpaj6UMCs6qMKsGm8K/f92d2174d4c5109237ab00379c2088b7/SOANTC0050054.jpg"
+  - sys:
+      id: 6h9anIEQRGmu8ASywMeqwc
+      created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
+      updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
+      content_type_id: thematic
+    title: Geometric motifs and cattle brands
+    slug: geometric-motifs
+    lead_image:
+      sys:
+        id: 5yD7fOuAdU4cemkewCqCMO
+        created_at: !ruby/object:DateTime 2015-11-25 16:56:44.778000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.778000000 Z
+      title: '2013,2034.12976'
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5yD7fOuAdU4cemkewCqCMO/4d203afb0318bee69decb23327864c79/2013_2034.12976.jpg"
+    chapters:
+    - sys:
+        id: 5plObOxqdq6MuC0k4YkCQ8
+        created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
+        content_type_id: chapter
+      title_internal: 'Geometric motifs: thematic, chapter 1'
+      body: |-
+        The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
+
+        First observed in Kenya in the 1970s with the work of Gramly (1975) at Lukenya Hill and Lynch and Robbins (1977) at Namoratung’a, some geometric motifs seen in the rock art of the region were observed to have had their counterparts on the hides of cattle of local communities. Although cattle branding is known to be  practised by several Kenyan groups, Gramly concluded that  “drawing cattle brands on the walls of rock shelters appears to be confined to the regions formerly inhabited by the Maa-speaking pastoralists or presently occupied by them”&dagger;(Gramly, 1977:117).
+    - sys:
+        id: 71cjHu2xrOC8O6IwSmMSS2
+        created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 5yD7fOuAdU4cemkewCqCMO
+          created_at: !ruby/object:DateTime 2015-11-25 16:56:44.778000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.778000000 Z
+        title: '2013,2034.12976'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5yD7fOuAdU4cemkewCqCMO/4d203afb0318bee69decb23327864c79/2013_2034.12976.jpg"
+      caption: White symbolic designs possibly representing Maa clans and livestock
+        brands, Laikipia, Kenya. 2013,2034.12976  © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3693276&partId=1&searchText=2013,2034.12976&page=1
+    - sys:
+        id: 36QhSWVHKgOeMQmSMcGeWs
+        created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
+        content_type_id: chapter
+      title: ''
+      title_internal: 'Geometric motifs: thematic, chapter 2'
+      body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
+        symbols occur are associated with meat-feasting ceremonies. Meat-feasting
+        shelters exist from northern Tanzania through Kenya to Lake Turkana, and are
+        places where Maa-speaking initiated men, who are not permitted to eat meat
+        in their homes, gather to kill and feast on animals, predominantly cattle.
+        During or after feasting, symbols of the animals that had been eaten were
+        painted on the shelter ceiling in white or less often red. Maa speakers brand
+        their cattle and camels with symbols that signify the lineage of their owners,
+        but may also indicate if an animal has been treated for a particular disease.
+        Different symbols may be used for male and female animals.
+    - sys:
+        id: 4t76LZy5zaSMGM4cUAsYOq
+        created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 1lBqQePHxK2Iw8wW8S8Ygw
+          created_at: !ruby/object:DateTime 2015-11-25 16:56:44.764000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.764000000 Z
+        title: '2013,2034.12846'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/1lBqQePHxK2Iw8wW8S8Ygw/68fffb37b845614214e96ce78879c0b0/2013_2034.12846.jpg"
+      caption: View of the long rock shelter below the waterfall showing white abstract
+        Maasai paintings made probably quite recently during meat feasting ceremonies,
+        Enkinyoi, Kenya. 2013,2034.12846 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3694558&partId=1&searchText=2013,2034.12846&page=1
+    - sys:
+        id: 3HGWtlhoS424kQCMo6soOe
+        created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
+        updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
+        content_type_id: chapter
+      title_internal: 'Geometric motifs: thematic, chapter 3'
+      body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a
+        similar visible relationship. The southernmost site is well known for its
+        167 megalithic stones marking male burials on which are engraved hundreds
+        of geometric motifs. Some of these motifs bear a striking resemblance to the
+        brand marks that the Turkana mark on their cattle, camels, donkeys and other
+        livestock in the area, although local people claim no authorship for the funerary
+        engravings (Russell, 2013:4).
+    - sys:
+        id: kgoyTkeS0oQIoaOaaWwwm
+        created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
+        updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 19lqDiCw7UOomiMmYagQmq
+          created_at: !ruby/object:DateTime 2015-11-25 16:56:44.756000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.756000000 Z
+        title: '2013,2034.13006'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/19lqDiCw7UOomiMmYagQmq/6f54d106aaec53ed9a055dc7bf3ac014/2013_2034.13006.jpg"
+      caption: Ndorobo man with bow and quiver of arrows kneels at a rock shelter
+        adorned with white symbolic paintings suggesting meat-feasting rituals. Laikipia,
+        Kenya.  2013,2034.13006 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3700172&partId=1&searchText=2013,2034.13006&page=1
+    - sys:
+        id: 2JZ8EjHqi4U8kWae8oEOEw
+        created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
+        updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
+        content_type_id: chapter
+      title_internal: 'Geometric motifs: thematic, chapter 4'
+      body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
+        of animals signifies a sense of belonging rather than a mark of ownership
+        as we understand it in a modern farming context; all livestock, cattle, camel,
+        goats, sheep and donkeys are branded according to species and sex (Russell,
+        2013:7). Ethnographic accounts document that clan membership can only be determined
+        by observing someone with their livestock (Russell, 2013:9). The symbol itself
+        is not as important as the act of placing it on the animal’s skin, and local
+        people have confirmed that they never mark rock with brand marks. Thus, the
+        geometric motifs on the grave markers may have been borrowed by local Turkana
+        to serve as identity markers, but in a different context. In the Horn of Africa,
+        some geometric rock art is located in the open landscape and on graves. It
+        has been suggested that these too are brand or clan marks, possibly made by
+        camel keeping pastoralists to mark achievement, territory or ownership (Russell,
+        2013:18). Some nomadic pastoralists, further afield, such as the Tuareg, place
+        their clan marks along the routes they travel, carved onto salt blocks, trees
+        and wells (Mohamed, 1990; Landais, 2001).
+    - sys:
+        id: 3sW37nPBleC8WSwA8SEEQM
+        created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
+        updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
+        content_type_id: image
+      image:
+        sys:
+          id: 5yUlpG85GMuW2IiMeYCgyy
+          created_at: !ruby/object:DateTime 2015-11-25 16:56:44.766000000 Z
+          updated_at: !ruby/object:DateTime 2015-11-25 16:56:44.766000000 Z
+        title: '2013,2034.13451'
+        description: 
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5yUlpG85GMuW2IiMeYCgyy/a234f96f9931ec3fdddcf1ab54a33cd9/2013_2034.13451.jpg"
+      caption: Borana cattle brands. Namoratung’a, Kenya. 2013,2034.13451. © TARA/David
+        Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3660359&partId=1&searchText=2013,2034.13451&page=1
+    - sys:
+        id: 6zBkbWkTaEoMAugoiuAwuK
+        created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
+        updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
+        content_type_id: chapter
+      title_internal: 'Geometric motifs: thematic, chapter 5'
+      body: "However, not all pastoralist geometric motifs can be associated with
+        meat-feasting or livestock branding; they may have wider symbolism or be symbolic
+        of something else (Russell, 2013:17).  For example, informants from the Samburu
+        people reported that while some of the painted motifs found at Samburu meat-feasting
+        shelters were of cattle brands, others represented female headdresses or were
+        made to mark an initiation, and in some Masai shelters there are also clear
+        representations of warriors’ shields.  In Uganda, a ceremonial rock in Karamoja,
+        shows a dung painting consisting of large circles bisected by a cross which
+        is said to represent cattle enclosures (Robbins, 1972). Geometric symbols,
+        painted in fat and red ochre, on large phallic-shaped fertility stones on
+        the Mesakin and Korongo Hills in south Sudan indicate the sex of the child
+        to whom prayers are offered (Bell, 1936). A circle bisected by a line or circles
+        bisected by two crosses represent boys. Girls are represented by a cross (drawn
+        diagonally) or a slanting line (like a forward slash)(Russell, 2013: 17).\n\nAlthough
+        pastoralist geometric motifs are widespread in the rock art of eastern Africa,
+        attempting to find the meaning behind geometric designs is problematic. The
+        examples discussed here demonstrate that motifs can have multiple authors,
+        even in the same location, and that identical symbols can be the products
+        of very different behaviours. \n"
+    citations:
+    - sys:
+        id: 2oNK384LbeCqEuSIWWSGwc
+        created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
+        updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
+        content_type_id: citation
+      citation_line: |-
+        Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
+
+        Gramly R 1975. ‘Meat-feasting sites and cattle brands: Patterns of rock-shelter utilization in East Africa’ in *Azania*, 10, pp.107–121.
+
+        Landais E. 2001. ‘The marking of livestock in traditional pastoral societies’, *Scientific and Technical Review of the Office International des Epizooties* (Paris), 20 (2), pp.463–479.
+
+        Lynch, B.M. and Robbins, L.H. 1977. ‘Animal brands and the interpretation of rock art in East Africa’ in *Current Anthropology *18, pp.538–539.
+
+        Robbins LH (1972) Archaeology in the Turkana district, Kenya. Science 176(4033):
+        359–366
+
+        Russell, T. 2013. ‘Through the skin: exploring pastoralist marks and their meanings to understand parts of East African rock art’, in *Journal of Social Archaeology* 13:1, pp.3-30
+
+
+        &dagger; The term Maa relates to a group of closely related Eastern Nilotic languages, which historically dominated the east African hinterland; and today is spoken by around a million people.
+    background_images:
+    - sys:
+        id: 1TDQd4TutiKwIAE8mOkYEU
+        created_at: !ruby/object:DateTime 2015-12-07 19:16:42.825000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 19:16:42.825000000 Z
+      title: KENLOK0030053
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1TDQd4TutiKwIAE8mOkYEU/718ff84615930ddafb1f1fdc67b5e479/KENLOK0030053.JPG"
+    - sys:
+        id: 2SCvEkDjAcIewkiu6iSGC4
+        created_at: !ruby/object:DateTime 2015-12-07 19:16:42.845000000 Z
+        updated_at: !ruby/object:DateTime 2015-12-07 19:16:42.845000000 Z
+      title: KENKAJ0030008
+      description: 
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2SCvEkDjAcIewkiu6iSGC4/b2e2e928e5d9a6a25aca5c99058dfd76/KENKAJ0030008.jpg"
   country_introduction:
     sys:
       id: 3DbhHAYYD6icYiuK62SY2w
@@ -279,7 +564,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:53:35.421000000 Z
         title: UGANGO0020031 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/40ezg2Ddosc4yYM0Myes8U/7d118bce5cf73e7a0fd8b7953a604bcd/UGANGO0020031_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/40ezg2Ddosc4yYM0Myes8U/7d118bce5cf73e7a0fd8b7953a604bcd/UGANGO0020031_1.jpg"
       caption: Circular motifs.Ngora, Eastern Province, Uganda. 2013,2034.14768 ©
         TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691105&partId=1&searchText=2013%2c2034.14768&page=1
@@ -322,7 +607,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
         title: UGAVIC0010001 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
       caption: Large boulder containing painted rock art overlooking Lake Victoria.
         2013,2034.15198 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690931&partId=1&searchText=2013%2c2034.15198&page=1
@@ -349,7 +634,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:54:11.681000000 Z
         title: UGAVIC0060056 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2FHA4qasM0YkYeY20OK20e/8dc76eadeb33620beaeedbba6b04399b/UGAVIC0060056_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2FHA4qasM0YkYeY20OK20e/8dc76eadeb33620beaeedbba6b04399b/UGAVIC0060056_1.jpg"
       caption: Painted ceiling of a rock shelter attributed to the BaTwa. Lolui Island,
         Eastern Province, Uganda. 2013,2034.15306 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691242&partId=1&searchText=2013%2c2034.15306&page=1
@@ -393,7 +678,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:53:35.413000000 Z
         title: UGAMOR0010021 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/6Rp8Jyx6Tu8CagewSGkKaG/8425bc465938ddae5cfed284f96a6e6f/UGAMOR0010021_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/6Rp8Jyx6Tu8CagewSGkKaG/8425bc465938ddae5cfed284f96a6e6f/UGAMOR0010021_1.jpg"
       caption: Painted red cattle and figures holding bows. Kanamugeot, Northern Province,
         Uganda, 2013,2034.14633 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690004&partId=1&searchText=2013%2c2034.14633&page=1
@@ -429,7 +714,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:53:43.648000000 Z
         title: UGANAS0002 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4TE2BAQkM8S0640ECkYayA/3a5a54bd23c2ecaa637d19e132e40263/UGANAS0002_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4TE2BAQkM8S0640ECkYayA/3a5a54bd23c2ecaa637d19e132e40263/UGANAS0002_1.jpg"
       caption: Engraved rock with  concentric circle motif. Kampala, Uganda. 2013,2034.14710
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690111&partId=1&searchText=2013%2c2034.14710&page=1
@@ -457,7 +742,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:53:48.341000000 Z
         title: UGAMUK0050001 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2kLCq0ponGEOemeycuauI2/55631bb48e53718bd799a7e8799f7439/UGAMUK0050001_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2kLCq0ponGEOemeycuauI2/55631bb48e53718bd799a7e8799f7439/UGAMUK0050001_1.jpg"
       caption: Large rock with grid of small carved cupules. Kimera, Central Province,
         Uganda. 2013,2034.14676  © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690085&partId=1&searchText=2013%2c2034.14676&page=1
@@ -484,7 +769,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:53:43.661000000 Z
         title: UGATES0030003 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/7awPQKadFK2k6mMegimuIE/0b3a8c2a03bcc34f8821f30bf0cf1367/UGATES0030003_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/7awPQKadFK2k6mMegimuIE/0b3a8c2a03bcc34f8821f30bf0cf1367/UGATES0030003_1.jpg"
       caption: Complex white motif comprising six concentric circles surrounded by
         curvilinear tentacles. Nyero, Eastern Province, Uganda. 2013,2034.14892 ©
         TARA/David Coulson
@@ -530,7 +815,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-12-11 15:53:48.306000000 Z
         title: UGANGO0010001 1
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/5gAcaHufAso60GKYiKsei2/b93cc028065d4f5c5dbe953558d1a4bb/UGANGO0010001_1.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/5gAcaHufAso60GKYiKsei2/b93cc028065d4f5c5dbe953558d1a4bb/UGANGO0010001_1.jpg"
       caption: View looking towards the forested location of a painted rock art site.
         Ngora, Eastern Province, Uganda. 2013,2034.14711 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690354&partId=1&searchText=2013,2034.14711&page=1
@@ -576,20 +861,20 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-30 14:16:24.740000000 Z
     title: UGAVIC0050009 jpeg
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3x2PiewS1i8ou4ik4Oe0eI/d14a880ca6ff92cd2017f57426a08d83/UGAVIC0050009_jpeg.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3x2PiewS1i8ou4ik4Oe0eI/d14a880ca6ff92cd2017f57426a08d83/UGAVIC0050009_jpeg.jpg"
   - sys:
       id: 1PIG4cOXQg4GYcssAoIcgE
       created_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
       updated_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
     title: UGATES0020029 jpeg
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1PIG4cOXQg4GYcssAoIcgE/128ac1905e76484c13aa53c4356475b9/UGATES0020029_jpeg.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1PIG4cOXQg4GYcssAoIcgE/128ac1905e76484c13aa53c4356475b9/UGATES0020029_jpeg.jpg"
   - sys:
       id: 3QpNCcuYEUaGiSisY0Qeoc
       created_at: !ruby/object:DateTime 2015-11-27 14:15:13.492000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 14:15:13.492000000 Z
     title: '2013,2034.14633'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3QpNCcuYEUaGiSisY0Qeoc/769a299227cfaaace934a1b79e09e4b9/UGAMOR0010021.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3QpNCcuYEUaGiSisY0Qeoc/769a299227cfaaace934a1b79e09e4b9/UGAMOR0010021.jpg"
   region: Eastern and central Africa
 ---
