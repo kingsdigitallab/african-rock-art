@@ -27,7 +27,7 @@ contentful:
   - sys:
       id: 3dA1xqkTa0mKwo2mQcASWm
       created_at: !ruby/object:DateTime 2015-11-26 18:23:03.983000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 18:23:03.983000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-17 16:37:53.141000000 Z
       content_type_id: image
     image:
       sys:
@@ -36,9 +36,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:17:32.780000000 Z
       title: '2013,1023.15855'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4n4aYQQ3ws86seSuSQC2Q0/dbb3602a28b6144aa4c317fe75196363/SOMLAG0030004.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4n4aYQQ3ws86seSuSQC2Q0/dbb3602a28b6144aa4c317fe75196363/SOMLAG0030004.jpg"
     caption: Figure of painted cattle and human figures, with a semi-desert plain
       in the background. Laas Geel, Somaliland. 2013,1023.15855 © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691566&partId=1&people=197356&place=41067%7c27048%7c1665&view=list&page=2
   - sys:
       id: 2OBCFk5x3OmouqCga48C8U
       created_at: !ruby/object:DateTime 2015-11-26 18:26:58.643000000 Z
@@ -74,7 +75,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:18:00.392000000 Z
       title: '2013,2034.15623'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2mLUneHM24eEYEQ8W4EKsq/53eef5b06e2341da0768225d38e7847c/SOMGABNAS010005.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2mLUneHM24eEYEQ8W4EKsq/53eef5b06e2341da0768225d38e7847c/SOMGABNAS010005.jpg"
     caption: Semi-desert landscape in Somaliland. Dhaga Koure. 2013,2034.15623 © TARA/David
       Coulson
     col_link: http://bit.ly/2jDoZeS
@@ -114,7 +115,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:19:01.529000000 Z
       title: '2013,2034.16100'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3mWyGCLGFacW2aOUYmGQWs/066214022447d9fbe76ff624e2887a57/SOMLAG0100001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3mWyGCLGFacW2aOUYmGQWs/066214022447d9fbe76ff624e2887a57/SOMLAG0100001.jpg"
     caption: View of engraved cattle with lyre-like horns and marked udders. Laas
       Geel. 2013,2034.16100© TARA/David Coulson
     col_link: http://bit.ly/2j68Ld2
@@ -149,7 +150,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:19:22.576000000 Z
       title: '2013,2034.15935'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/10vxtVrFIcuoaww8gEKCSY/c4d210b0ddd69dd44e5bcd59cdecc875/SOMLAG0070012.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/10vxtVrFIcuoaww8gEKCSY/c4d210b0ddd69dd44e5bcd59cdecc875/SOMLAG0070012.jpg"
     caption: View of painted cattle and human figures. Laas Geel, Somaliland. 2013,2034.15935
       © TARA/David Coulson
     col_link: http://bit.ly/2jiF5XI
@@ -180,7 +181,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:19:38.412000000 Z
       title: '2013,2034.15386'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/20zCz4hAbmiSm0MuGIkGQk/d36ff89e5284f1536daa5c3c82e345be/SOMDHA0020008.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/20zCz4hAbmiSm0MuGIkGQk/d36ff89e5284f1536daa5c3c82e345be/SOMDHA0020008.jpg"
     caption: Panel or relatively modern chronology showing painted white camels, unidentified
       quadrupeds and signs. Dhaga Khoure, Somaliland. 2013,2034.15386© TARA/David
       Coulson
@@ -218,7 +219,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:21:17.860000000 Z
       title: '2013,2034.15564'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/22wpEosKyYwyycaMgSmQMU/526e6ce44e5bf94379b55b2551a44b18/SOMGAB0050003.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/22wpEosKyYwyycaMgSmQMU/526e6ce44e5bf94379b55b2551a44b18/SOMGAB0050003.jpg"
     caption: Humped white cow. Dhaga Khoure, Somaliland. 2013,2034.15564 © TARA/David
       Coulson
     col_link: http://bit.ly/2ikqWb2
@@ -246,7 +247,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 18:21:32.901000000 Z
       title: '2013,2034.15617'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4njSKDcdtuaCGiSKGKmGEa/04b2b2ab0529ebec8831b47816d7f5f2/SOMGAB0090007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4njSKDcdtuaCGiSKGKmGEa/04b2b2ab0529ebec8831b47816d7f5f2/SOMGAB0090007.jpg"
     caption: 'Detail of painted rock art depicting two human figures and a humped
       cow, infilled in red and yellow. Dhaga Khoure, Somaliland. 2013,2034.15617 ©
       TARA/David Coulson '

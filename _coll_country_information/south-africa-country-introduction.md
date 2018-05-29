@@ -21,7 +21,7 @@ contentful:
   - sys:
       id: 6rGZi909xKeQSMcYmISMgA
       created_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:46:10.737000000 Z
       content_type_id: image
     image:
       sys:
@@ -30,9 +30,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:16:22.149000000 Z
       title: SOADRB0010004
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2bsw2WPaTKumMQ80maQ6iG/1748f1d507b1e6e7b40b12621fcf06a4/SOADRB0010004.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2bsw2WPaTKumMQ80maQ6iG/1748f1d507b1e6e7b40b12621fcf06a4/SOADRB0010004.jpg"
     caption: Painted eland antelope, horses and riders.  Drakensberg Mountains, South
-      Africa (2013,2034.18172) ©TARA/David Coulson
+      Africa. 2013,2034.18172 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738170&partId=1&searchText=2013,2034.18172&page=1
   - sys:
       id: 3SiNGUuMNi4EQ6S6iEg6u
@@ -73,7 +73,7 @@ contentful:
   - sys:
       id: 71sZP8YT0A8Eg6SUEqQE0K
       created_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:46:37.309000000 Z
       content_type_id: image
     image:
       sys:
@@ -82,9 +82,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
       title: SOASWC0130095
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
-    caption: Human figures with bows and other items.  Western Cape, South Africa
-      (2013,2034.19641). ©TARA/David Coulson
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
+    caption: Human figures with bows and other items.  Western Cape, South Africa.
+      2013,2034.19641 ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3740593&partId=1&searchText=2013,2034.19641&page=1
   - sys:
       id: dbiRhTPqBamyEw8Wa8Am0
@@ -105,7 +105,7 @@ contentful:
   - sys:
       id: avwg4dFD5muMuGwi64OG8
       created_at: !ruby/object:DateTime 2016-09-12 15:17:28.334000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-24 12:32:54.111000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:47:33.249000000 Z
       content_type_id: chapter
     title: Herder rock art and other traditions
     title_internal: 'South Africa: country, chapter 5'
@@ -117,7 +117,7 @@ contentful:
       San&#124;Bushmen. Some paintings also appear to reflect this tradition. Local
       rock art traditions specific to certain areas include, among others, conglomerations
       of handprints near the coast in the south-western part of the Western Cape and
-      rows of engraved cupules in the north east of the country. There are also several
+      rows of engraved cupules in the north-east of the country. There are also several
       examples from different rock art traditions across South Africa, of depictions
       of European people, items or events (such as horses and firearms) which clearly
       date from the 17th century or later.  In the Karoo region, rock gongs (natural
@@ -126,7 +126,7 @@ contentful:
   - sys:
       id: 1mBBOrIKNWY4m20ywAQEG4
       created_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:48:06.147000000 Z
       content_type_id: image
     image:
       sys:
@@ -135,9 +135,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:17:38.680000000 Z
       title: SOASWC0120007
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/afH4Qvv6OAAu6iW2sQumq/b1167a05a4746cff6df801f17a999b62/SOASWC0120007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/afH4Qvv6OAAu6iW2sQumq/b1167a05a4746cff6df801f17a999b62/SOASWC0120007.jpg"
     caption: Paintings showing people in long skirts and hats, with wagons drawn by
-      horses/mules.  Swartruggens, Western Cape, South Africa (2013,2034.19505). ©TARA/David
+      horses/mules.  Swartruggens, Western Cape, South Africa. 2013,2034.19505 ©TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3734262&partId=1&searchText=2013,2034.19505&page=1
   - sys:
@@ -161,7 +161,7 @@ contentful:
   - sys:
       id: 19Up0IjuAa2c2WQuks6Qka
       created_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:51:29.749000000 Z
       content_type_id: image
     image:
       sys:
@@ -170,9 +170,10 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-30 10:16:55.281000000 Z
       title: SOANTC0050054
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5pQOdclMWsYUoiqUe6UWUk/55b07efecee2210caec6f0fdbc227f60/SOANTC0050054.jpg"
-    caption: "Engraved eland, Northern Cape, South Africa.  2013,2034.18803 ©TARA/David
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5pQOdclMWsYUoiqUe6UWUk/55b07efecee2210caec6f0fdbc227f60/SOANTC0050054.jpg"
+    caption: "Engraved eland, Northern Cape, South Africa. 2013,2034.18803 ©TARA/David
       Coulson\t"
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3731055&partId=1&searchText=2013,2034.18803&page=1
   - sys:
       id: 57UPgZOAQgOMC2YmuSUeUA
       created_at: !ruby/object:DateTime 2016-09-12 15:20:19.692000000 Z
@@ -195,7 +196,7 @@ contentful:
   - sys:
       id: 3ji8ZxGSA0qEugGSKc4AiM
       created_at: !ruby/object:DateTime 2016-09-12 15:20:34.228000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 19:47:14.726000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:52:17.397000000 Z
       content_type_id: image
     image:
       sys:
@@ -204,9 +205,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:20:29.384000000 Z
       title: SOADRB0040015
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/49XE8B9AUwcsyuwKS4qIoS/0497ecca68dfaaf3b2656a890cff67dd/SOADRB0040015.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/49XE8B9AUwcsyuwKS4qIoS/0497ecca68dfaaf3b2656a890cff67dd/SOADRB0040015.jpg"
     caption: "Multiple painted eland and other antelope, Eland Cave, Drakensberg Mountains,
-      South Africa (2013,2034.18216). ©TARA/David Coulson\t"
+      South Africa. 2013,2034.18216 ©TARA/David Coulson\t"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738339&partId=1&searchText=2013,2034.18216&page=1
   - sys:
       id: 2JAfr47aaAUicKcoeSqiGu
@@ -260,7 +261,7 @@ contentful:
   - sys:
       id: 6PJbU7cpFYUUMSYqEgS0Am
       created_at: !ruby/object:DateTime 2016-09-12 15:21:09.071000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 19:47:35.457000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:52:56.704000000 Z
       content_type_id: image
     image:
       sys:
@@ -269,9 +270,9 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:21:03.996000000 Z
       title: SOADRB0110028
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2hL4pRsxIkw224k00EKeqQ/a0c3c33b1a178f24852aec444656fe55/SOADRB0110028.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2hL4pRsxIkw224k00EKeqQ/a0c3c33b1a178f24852aec444656fe55/SOADRB0110028.jpg"
     caption: Three painted ‘therianthrope’ figures with antelopes’ heads.  Giant’s
-      Castle Main Caves, Drakensberg Mountains, South Africa (2013,2034.18474). ©TARA/David
+      Castle Main Caves, Drakensberg Mountains, South Africa. 2013,2034.18474 ©TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738986&partId=1&searchText=2013,2034.18474&page=1
   - sys:
@@ -330,7 +331,7 @@ contentful:
   - sys:
       id: 2Qms4PsSqQiUMGg4c4CIaS
       created_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-15 13:53:23.983000000 Z
       content_type_id: image
     image:
       sys:
@@ -339,8 +340,8 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:21:40.866000000 Z
       title: SOANTC0030005
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3BojqKseXY0IQkcKOwoC6K/8e3971b5cccf481e5485cab60d361961/SOANTC0030005.jpg"
-    caption: Engraved rhinoceros.  Wildebeest Kuil, Northern Cape, South Africa (2013,2034.18669).
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3BojqKseXY0IQkcKOwoC6K/8e3971b5cccf481e5485cab60d361961/SOANTC0030005.jpg"
+    caption: Engraved rhinoceros.  Wildebeest Kuil, Northern Cape, South Africa. 2013,2034.18669
       ©TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730722&partId=1&searchText=2013,2034.18669&page=1
   citations:

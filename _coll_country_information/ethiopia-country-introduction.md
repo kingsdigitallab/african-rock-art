@@ -53,7 +53,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:43:02.833000000 Z
       title: ETHNAS0005
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/IIbbaihhGSi02y0qamaIy/b9ff2db6b1f2d89f359fe4f4278c51af/ETHNAS0005.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/IIbbaihhGSi02y0qamaIy/b9ff2db6b1f2d89f359fe4f4278c51af/ETHNAS0005.jpg"
     caption: View of landscape in southern Ethiopia. 2013,2034.16171 © David Coulson/TARA
     col_link: http://bit.ly/2jqquJj
   - sys:
@@ -89,7 +89,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:46:16.750000000 Z
       title: '2013,2034.16248'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4w2Qic7EkEe0omyUA2i6QU/5b36c4b2ad5132161c8e8348f760df1c/2013_2034.16248.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4w2Qic7EkEe0omyUA2i6QU/5b36c4b2ad5132161c8e8348f760df1c/2013_2034.16248.jpg"
     caption: View of engraved cow with curved horns and marked udders. Shepe, Ethiopia.
       2013,2034.16248 © David Coulson/TARA
     col_link: http://bit.ly/2i9tddD
@@ -125,7 +125,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:44:49.577000000 Z
       title: ETHLAG0010030
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5rOzA2mToQEA8eCoE2S6yc/8a7fad16c52c41bab12fb032ccfc026c/ETHLAG0010030.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5rOzA2mToQEA8eCoE2S6yc/8a7fad16c52c41bab12fb032ccfc026c/ETHLAG0010030.jpg"
     caption: View of painted cattle and human figures. Laga Oda, Ethiopia. 2013,2034.16575  ©
       David Coulson/TARA
     col_link: http://bit.ly/2j3OmG6
@@ -156,7 +156,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:44:57.045000000 Z
       title: ETHDAG0010003
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6jqDCZikwg60QmgaSYKsKA/43845a952bb5271b011eed5227486ec2/ETHDAG0010003.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6jqDCZikwg60QmgaSYKsKA/43845a952bb5271b011eed5227486ec2/ETHDAG0010003.jpg"
     caption: View of rock shelter full of humped cattle, human figures and unidentified
       shapes. Saka Sharifa, Ethiopia. 2013,2034.16397 © David Coulson/TARA
     col_link: http://bit.ly/2iAVSEX
@@ -187,7 +187,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:45:06.217000000 Z
       title: ETHKIM0010014
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/cyrbFGoA8wEaS8qM4Ys4c/dae038fef2aa592df7f64faebacd63a9/ETHKIM0010014.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/cyrbFGoA8wEaS8qM4Ys4c/dae038fef2aa592df7f64faebacd63a9/ETHKIM0010014.jpg"
     caption: Group of humped cattle painted in white, with round heads. Kimet, Ethiopia.
       2013,2034.16534 © David Coulson/TARA
     col_link: http://bit.ly/2iB07QT
@@ -217,7 +217,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:45:20.229000000 Z
       title: ETHKIM0010016
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1gmLTDIgQY8i4SgKUMYSc4/fb8b409508be98645c1d84812937d4ab/ETHKIM0010016.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1gmLTDIgQY8i4SgKUMYSc4/fb8b409508be98645c1d84812937d4ab/ETHKIM0010016.jpg"
     caption: View of schematic, red human figure. Kimet, Ethiopia. 2013,2034.16536
       © David Coulson/TARA
     col_link: http://bit.ly/2jqRjNt
@@ -247,7 +247,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:45:27.772000000 Z
       title: ETHSOD0030007
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6johOxHojKY4EkOqEco6c6/2640f76a5871320bf2ff03fefd8c37a7/ETHSOD0030007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6johOxHojKY4EkOqEco6c6/2640f76a5871320bf2ff03fefd8c37a7/ETHSOD0030007.jpg"
     caption: Engraved grids and geometric signs. Ambe Akirsa, Ethiopia. 2013,2034.16270
       © David Coulson/TARA
     col_link: http://bit.ly/2iYklVo
@@ -285,7 +285,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 19:45:35.501000000 Z
       title: ETHGOD0010011
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5Q738mIexa8sWUwqsai8Ai/89f7045007c92e674ef5854118853c04/ETHGOD0010011.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5Q738mIexa8sWUwqsai8Ai/89f7045007c92e674ef5854118853c04/ETHGOD0010011.jpg"
     caption: ": Panel infilled with painted camels, unidentified quadrupeds and geometric
       signs. Goda Ajewa, Ethiopia. 2013,2034.16466 © David Coulson/TARA"
     col_link: http://bit.ly/2jztgzY

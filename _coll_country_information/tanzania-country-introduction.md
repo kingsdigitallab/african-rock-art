@@ -32,7 +32,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:37.419000000 Z
       title: TANKON0130004 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6jqxlKBK8ggSwAyOIWC2w/62820080f1ce2792a5bbc9c38ac89b50/TANKON0130004_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6jqxlKBK8ggSwAyOIWC2w/62820080f1ce2792a5bbc9c38ac89b50/TANKON0130004_jpeg.jpg"
     caption: Painted panel of fine-line paintings of kudu and human figures with bow
       and arrow. Msokia, Kondoa, Tanzania. 2013,2034.17086 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3710216&partId=1&searchText=2013,2034.17086&page=1
@@ -62,7 +62,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.051000000 Z
       title: TANKON0310006 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5XVIPjHq7K4MiWIm6i6qEk/55d7e3497c0e2715ad2fe7605c49d533/TANKON0310006_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5XVIPjHq7K4MiWIm6i6qEk/55d7e3497c0e2715ad2fe7605c49d533/TANKON0310006_jpeg.jpg"
     caption: Elongated red figure facing right with rounded head and holding a narrow
       rectangular object (shield?); the image has been damaged by white water seepage.
       Kondoa, Tanzania. 2013,2034.17497 © TARA/David Coulson
@@ -102,7 +102,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:37.137000000 Z
       title: TANKON0050001 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/28qJxjtSOoC6Aa2IgQk06q/9d9b407dd70a62d06c4a95db72c0e9eb/TANKON0050001_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/28qJxjtSOoC6Aa2IgQk06q/9d9b407dd70a62d06c4a95db72c0e9eb/TANKON0050001_jpeg.jpg"
     caption: View looking out of rock shelter over Kondoa region, Tanzania. 2013,2034.16942
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3709993&partId=1&searchText=2013,2034.16942&page=1
@@ -146,7 +146,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:37.182000000 Z
       title: TANKON0100004 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3fNBqZVcfK8k0Cgo4SsGs6/1e5b30977d1a9f021e3eea07fca43f5a/TANKON0100004_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3fNBqZVcfK8k0Cgo4SsGs6/1e5b30977d1a9f021e3eea07fca43f5a/TANKON0100004_jpeg.jpg"
     caption: Panel of fine-line red figures with rounded heads seated, standing and
       dancing.  Anga, Kondoa, Tanzania. 2013,2034.17042 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3710340&partId=1&searchText=2013,2034.17042&page=1
@@ -171,7 +171,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.115000000 Z
       title: TANKON0370007 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3zoMrANvf2SgUmuAu2Wa4W/b759c5fe8747a6c19218f19bc693ab2e/TANKON0370007_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3zoMrANvf2SgUmuAu2Wa4W/b759c5fe8747a6c19218f19bc693ab2e/TANKON0370007_jpeg.jpg"
     caption: Panel of Sandawe red, fine-line paintings showing elephants and slender
       elongated figures. Kondoa, Tanzania. 2013,2034.17699 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3712682&partId=1&searchText=2013,2034.17699&page=1
@@ -187,7 +187,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.051000000 Z
       title: TANKON0300005 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4eRcBkspfOS2Ky4GE08qyC/5c0b8033c1328f01893ad54418b856ce/TANKON0300005_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4eRcBkspfOS2Ky4GE08qyC/5c0b8033c1328f01893ad54418b856ce/TANKON0300005_jpeg.jpg"
     caption: Seated figure wearing elaborate headdress which is possibly surrounded
       by bees. Thawi 1, Kondoa, Tanzania. 2013,2034. 17471 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711764&partId=1&searchText=2013,2034.17471&page=1
@@ -214,7 +214,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:38.208000000 Z
       title: TANLEY0020026 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1BwSSd5li0MUw4c4QYyAKA/b8a08110079558a56d9ac1d7bfb813a9/TANLEY0020026_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1BwSSd5li0MUw4c4QYyAKA/b8a08110079558a56d9ac1d7bfb813a9/TANLEY0020026_jpeg.jpg"
     caption: 'Top of this boulder: Red cow facing right superimposed on faded white
       cow facing left and figure facing forwards, Eshaw Hills, Tanzania. 2013,2034.17936
       © TARA/David Coulson'
@@ -242,7 +242,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-07-27 07:46:37.131000000 Z
       title: TANKON0020039 jpeg
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2iqeQFLDE06A8MW0UcUm2k/12b31881421ef6d5f5ccebbc4ec1c009/TANKON0020039_jpeg.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2iqeQFLDE06A8MW0UcUm2k/12b31881421ef6d5f5ccebbc4ec1c009/TANKON0020039_jpeg.jpg"
     caption: Numerous finger painted geometric designs covering large granite boulder.
       Pahi, Tanzania.  2013,2034.16793 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3709639&partId=1&searchText=2013,2034.16793&page=1

@@ -34,7 +34,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:13:55.093000000 Z
       title: '2013,2034.225'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4rPFCqitX2sUOAGUEAqui4/d0abf71d8e72774026c082d7ae16d71c/2013_2034.225.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4rPFCqitX2sUOAGUEAqui4/d0abf71d8e72774026c082d7ae16d71c/2013_2034.225.jpg"
     caption: Painted cattle. Karkur Talh, Jebel Uweinat, Sudan. 2013,2034.225 © TARA/David
       Coulson
     col_link: http://bit.ly/2iwfHwV
@@ -96,7 +96,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
       title: '2013,2034.272'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/AMf0wybjzMekgCuSAs28E/2afa178fb645276aa051e8dc597f1b1e/2013_2034.272.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/AMf0wybjzMekgCuSAs28E/2afa178fb645276aa051e8dc597f1b1e/2013_2034.272.jpg"
     caption: Engraved cattle, giraffe and ostrich. Karkur Talh, Jebel Uweinat. 2013,2034.272
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586260&partId=1
@@ -134,7 +134,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
       title: '2013,2034.347'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4pB2o28EnCOk6w8m8IwciG/5ce1e4a59f58a180045818bdc3bc8c13/2013_2034.347.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4pB2o28EnCOk6w8m8IwciG/5ce1e4a59f58a180045818bdc3bc8c13/2013_2034.347.jpg"
     caption: Engraved ostriches, dogs and antelope. Karkur Talh, Jebel Uweinat. 2013,2034.347
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586942&partId=1
@@ -173,7 +173,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
       title: '2013,2034.334'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2JHzf9XFUACqyq0AAaw8CQ/1070836ffd26fec60872b6b97fb72ff5/2013_2034.334.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2JHzf9XFUACqyq0AAaw8CQ/1070836ffd26fec60872b6b97fb72ff5/2013_2034.334.jpg"
     caption: Engraved camels and human figures. Karkur Talh, Jebel Uweinat. 2013,2034.334
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586833&partId=1

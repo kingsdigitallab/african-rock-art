@@ -44,7 +44,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:31.534000000 Z
       title: ZIMMTB0100001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/Jy8edAwMCGiAywQIyi0KI/4d9692d057fadcc525259a3eb75c00ba/ZIMMTB0100001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/Jy8edAwMCGiAywQIyi0KI/4d9692d057fadcc525259a3eb75c00ba/ZIMMTB0100001.jpg"
     caption: Ladscape of the Matobo Hills, Zimbabwe (2013,2034.23586). ©TARA/David
       Coulson
   - sys:
@@ -81,7 +81,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:43.328000000 Z
       title: ZIMMTB0020005
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4JrH9kFufCQkEwgGqycIQG/da276b8b7efba382dc16df58e2c43bef/ZIMMTB0020005.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4JrH9kFufCQkEwgGqycIQG/da276b8b7efba382dc16df58e2c43bef/ZIMMTB0020005.jpg"
     caption: View of a complex panel including hundreds of human figures, animals,
       formlings and other unidentified shapes. Inanke Cave, Matabeleland, Zimbabwe
       (2013,2034.23350). ©TARA/David Coulson
@@ -110,7 +110,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:59.400000000 Z
       title: ZIMMTB0020022
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3ZbDDzdXZuKCEEWWm2WUoE/67d4eba9ebb89aaf8394676637773ba5/ZIMMTB0020022.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3ZbDDzdXZuKCEEWWm2WUoE/67d4eba9ebb89aaf8394676637773ba5/ZIMMTB0020022.jpg"
     caption: Detail of a bichrome giraffe surrounded by other animals and human figures.
       Inanke Cave, Matabeleland, Zimbabwe (2013,2034.23367). ©TARA/David Coulson
   - sys:
@@ -151,7 +151,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:17.337000000 Z
       title: ZIMMTB0010007
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1vZtYjldh2UmCICQEIC8UG/18487324c77eb308393d900eb5f4a3c4/ZIMMTB0010007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1vZtYjldh2UmCICQEIC8UG/18487324c77eb308393d900eb5f4a3c4/ZIMMTB0010007.jpg"
     caption: Human figures running or seated over a wavy, yellow line outlined in
       red and infilled in yellow. Maholoholo cave, Matabeleland, Zimbabwe (2013,2034.23327).
       ©TARA/David Coulson
@@ -183,7 +183,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:30.948000000 Z
       title: ZIMMTB0070009
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1iRymPGEvYW4YUwsWCuw66/6d6a5a4e658e2c74a771bdf36a8052a8/ZIMMTB0070009.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1iRymPGEvYW4YUwsWCuw66/6d6a5a4e658e2c74a771bdf36a8052a8/ZIMMTB0070009.jpg"
     caption: Iron age white paintings. Zimbabwe (2013,2034.23487). ©TARA/David Coulson
   - sys:
       id: 5MtdMVT44MIamC44CmcMog
@@ -211,7 +211,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:48.037000000 Z
       title: ZIMMTB0100024
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/AlCcF5GAcC44Q268AUsuq/1a776553071d70cc070382226c7dc5ab/ZIMMTB0100024.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/AlCcF5GAcC44Q268AUsuq/1a776553071d70cc070382226c7dc5ab/ZIMMTB0100024.jpg"
     caption: Antelopes and human figures. Bambata cave, Matabeleland, Zimbabwe (2013,2034.23609).
       ©TARA/David Coulson
   - sys:
@@ -241,12 +241,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-12 11:56:31.534000000 Z
     title: ZIMMTB0100001
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/Jy8edAwMCGiAywQIyi0KI/4d9692d057fadcc525259a3eb75c00ba/ZIMMTB0100001.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/Jy8edAwMCGiAywQIyi0KI/4d9692d057fadcc525259a3eb75c00ba/ZIMMTB0100001.jpg"
   - sys:
       id: 1iRymPGEvYW4YUwsWCuw66
       created_at: !ruby/object:DateTime 2016-09-12 11:57:30.948000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:57:30.948000000 Z
     title: ZIMMTB0070009
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1iRymPGEvYW4YUwsWCuw66/6d6a5a4e658e2c74a771bdf36a8052a8/ZIMMTB0070009.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1iRymPGEvYW4YUwsWCuw66/6d6a5a4e658e2c74a771bdf36a8052a8/ZIMMTB0070009.jpg"
 ---

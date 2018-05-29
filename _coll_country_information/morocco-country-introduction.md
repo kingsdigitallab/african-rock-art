@@ -34,7 +34,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.713000000 Z
       title: '2013,2034.5277'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4Jt8P55Z56SkEegOMO6euY/698f587066b8b4fa30b14b0badf55817/2013_2034.5277.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4Jt8P55Z56SkEegOMO6euY/698f587066b8b4fa30b14b0badf55817/2013_2034.5277.jpg"
     caption: Engraved rock art of a rhinoceros and an oval shape, from Ait Ouazik,
       Draa valley, Ouazarzate province, Morocco. 2013,2034.5277 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3603526&partId=1&images=true&people=197356&place=40983&page=2
@@ -50,7 +50,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.713000000 Z
       title: '2013,2034.5654'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/46fV0mfFKMUYyywY0iUGYK/5341c01a6cc0cc3baed490b90509e26f/2013_2034.5654.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/46fV0mfFKMUYyywY0iUGYK/5341c01a6cc0cc3baed490b90509e26f/2013_2034.5654.jpg"
     caption: Southern Morocco landscape, with the Anti-Atlas mountains in the background.
       2013,2034.5654 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3605659&partId=1&images=true&people=197356&place=40983&museumno=2013,2034.5654&page=1
@@ -83,7 +83,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:38:47.432000000 Z
       title: '2013,2034.5866'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6AO1Pff4UowYQMsYU444qS/63b08d76fe217ca864a582ef1b634b1f/2013_2034.5866.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6AO1Pff4UowYQMsYU444qS/63b08d76fe217ca864a582ef1b634b1f/2013_2034.5866.jpg"
     caption: Circular engravings in the valley of Oukaïmeden, High Atlas. 2013,2034.5866
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613845&partId=1&images=true&people=197356&place=40983&museumno=2013,2034.5866+&page=1
@@ -147,7 +147,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
       title: '2013,2034.5558'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2iKZIRebewsGGQiKiOgQq/7a6ea71bedef21c05b78d13fe9883716/2013_2034.5558.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2iKZIRebewsGGQiKiOgQq/7a6ea71bedef21c05b78d13fe9883716/2013_2034.5558.jpg"
     caption: 'Antelope engravings, Tazina style. 2013,2034.5558 © TARA/David Coulson '
     col_link: http://bit.ly/2jbUc4v
   - sys:
@@ -180,7 +180,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.719000000 Z
       title: '2013,2034.5776'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2nR1MWquOoWQiikYooK22Q/3db626f582b41622c7a89a91ff6a6d12/2013_2034.5776.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2nR1MWquOoWQiikYooK22Q/3db626f582b41622c7a89a91ff6a6d12/2013_2034.5776.jpg"
     caption: Pecked cattle-style engravings. 2013,2034.5776 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3619818&partId=1&people=197356&museumno=2013,2034.5776&page=1
   citations:

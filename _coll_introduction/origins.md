@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
     title: Apollo.11.Cave
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
   chapters:
   - sys:
       id: fZLY1sn2JGo800I8oW2us
@@ -37,7 +37,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.693000000 Z
       title: Apollo.11.Cave
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2cVEIKXUmwQqwyOwauuGYc/7824d383fbab171ac0b32bd9117c066e/Apollo.11.Cave.jpg"
     caption: Quartzite slabs depicting animals, Apollo 11 Cave, Namibia. Image courtesy
       of State Museum of Namibia © State Museum of Namibia
   - sys:
@@ -89,7 +89,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.666000000 Z
       title: Blombos.Cave
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4lvOlwlUMwQqe6Cm2ka20c/fb10d6e20427bbc487de3ee68c9c5a28/Blombos.Cave.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4lvOlwlUMwQqe6Cm2ka20c/fb10d6e20427bbc487de3ee68c9c5a28/Blombos.Cave.jpg"
     caption: Incised ochre from Blombos Cave, South Africa. Photo by Chris. S. Henshilwood
       © Chris. S. Henshilwood
   - sys:
@@ -114,7 +114,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-26 10:10:14.669000000 Z
       title: ostrich.eggshells
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5KFpq9vW9O6k6umooQYiKA/63f65b8d010b1bdcbda0d2fb7049122e/ostrich.eggshells.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5KFpq9vW9O6k6umooQYiKA/63f65b8d010b1bdcbda0d2fb7049122e/ostrich.eggshells.jpg"
     caption: "Fragments of engraved ostrich eggshells from the Diepkloof Rock Shelter,\tWestern
       Cape, South Africa, dated to 60,000 BP. Courtesy of Jean-Pierre Texier, Diepkloof
       project. © Jean-Pierre Texier"
@@ -139,12 +139,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 20:43:37.744000000 Z
     title: MORATM0130051
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/1bstKcKNZqC2ygioEM0uYO/a5392851c49141540957368efbf2fa63/MORATM0130051.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/1bstKcKNZqC2ygioEM0uYO/a5392851c49141540957368efbf2fa63/MORATM0130051.jpg"
   - sys:
       id: 2q8dJPCe2AKcAeogKWikue
       created_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:17:06.782000000 Z
     title: SOASWC0130095
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/2q8dJPCe2AKcAeogKWikue/7edea03ab0a677b76edd11bda026ba2c/SOASWC0130095.jpg"
 ---

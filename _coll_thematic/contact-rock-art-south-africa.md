@@ -14,7 +14,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-12 15:11:37.019000000 Z
     title: SOASWC0110006
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
   chapters:
   - sys:
       id: 4cLakkCQWQUUYiceIaW6AG
@@ -62,7 +62,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-07-24 11:51:09.713000000 Z
       title: Portuguese Carracks off a Rocky Coast
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2qghLSE632AsMMC22MskiE/e6b80c4c43d212e78e81b4f185921093/Portuguese_Carracks_off_a_Rocky_Coast.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2qghLSE632AsMMC22MskiE/e6b80c4c43d212e78e81b4f185921093/Portuguese_Carracks_off_a_Rocky_Coast.jpg"
     caption: 16th century painting by Flemish painter Joachim Patinir (c.1480-1524)
       showing Portuguese ships leaving a port c.1540 (© National Maritime Museum)
     col_link: http://collections.rmg.co.uk/collections/objects/12197.html
@@ -98,7 +98,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-07-24 16:22:35.709000000 Z
       title: Charles Bell - Jan van Riebeeck se aankoms aan die Kaap
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6GsT2CqeHus8GqO2Uiq4IU/236c58e1ce8f1821960a33c9946d86e5/Charles_Bell_-_Jan_van_Riebeeck_se_aankoms_aan_die_Kaap.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6GsT2CqeHus8GqO2Uiq4IU/236c58e1ce8f1821960a33c9946d86e5/Charles_Bell_-_Jan_van_Riebeeck_se_aankoms_aan_die_Kaap.jpg"
     caption: A painting of the arrival of Jan van Riebeeck in Table Bay in April 1652,
       by Charles Davidson Bell (1813-1882).
   - sys:
@@ -139,7 +139,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-12 15:11:37.019000000 Z
       title: SOASWC0110006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6GqC6D7ckgwSoCCKEQqiEm/0ff3dcb37da4a9a4c5ef6275563cdfdd/SOASWC0110006.jpg"
     caption: "'Porterville Galleon’, South Africa. 2013,2034.19495 © TARA/David Coulson"
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3730142
   - sys:
@@ -196,7 +196,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-08-07 23:23:15.928000000 Z
       title: Willem van de Velde (II) - Calm - Dutch Ships Coming to Anchor - WGA24523
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4oNe9JTftSCaOcw2YMicQG/2466f3251bb8f15097853570e62c8de3/Willem_van_de_Velde__II__-_Calm_-_Dutch_Ships_Coming_to_Anchor_-_WGA24523.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4oNe9JTftSCaOcw2YMicQG/2466f3251bb8f15097853570e62c8de3/Willem_van_de_Velde__II__-_Calm_-_Dutch_Ships_Coming_to_Anchor_-_WGA24523.jpg"
     caption: 'Late 16th century Dutch ships are depicted in this painting entitled
       ‘Calm: Dutch Ships Coming to Anchor’ by Willem van de Velde the Younger (1633-1707)'
   - sys:
@@ -235,7 +235,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-08-13 13:27:10.583000000 Z
       title: '2013,2034.19509'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6OFVBr3mUgqcwCi4oC0u6m/5243bf9b8450bfab9fb3a454c2f78ca0/AN1613150762_l.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6OFVBr3mUgqcwCi4oC0u6m/5243bf9b8450bfab9fb3a454c2f78ca0/AN1613150762_l.jpg"
     caption: Women wearing European-style patterned dresses enclosed within a circle
       of finger dots. 2013,2034.19509 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3734258
@@ -275,7 +275,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-08-13 13:33:04.444000000 Z
       title: '2013,2034.19504 '
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4kZxlR0vCEkWaQIAQ8Coi0/2d7584a0294a352b591550629a9e4fbb/2013_2034.19504_.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4kZxlR0vCEkWaQIAQ8Coi0/2d7584a0294a352b591550629a9e4fbb/2013_2034.19504_.jpg"
     caption: Painted rock art panel at Swartruggens showing horse-drawn wagons, and
       figures in European-style clothing with guns. 2013,2034.19504 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3730134
@@ -324,7 +324,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-08-13 13:39:33.635000000 Z
       title: '2013,2034.19517'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/iW6ebYDzHycokicK8kWSW/291f7200ac8bd87ddf903921b3077f09/2013_2034.19517.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/iW6ebYDzHycokicK8kWSW/291f7200ac8bd87ddf903921b3077f09/2013_2034.19517.jpg"
     caption: Detail of rock art panel showing figures withhands on hips posture. Close
       up of 2013,2034.19517 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3734249
@@ -359,7 +359,7 @@ contentful:
       title: 'Horse and rider from the most northerly Drakensberg horse site in the
         Giant’s castle area. Note spears. (Challis, Retribe-4)  '
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4CQrxTBqow4SimQQGc62yI/b4721fbe40e1a9556698d622456fe4a8/Horse_and_rider_from_the_most_northerly_Drakensberg_horse_site_in_the_Giant___s_castle_area._Note_spears.__Challis__Retribe-.png"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4CQrxTBqow4SimQQGc62yI/b4721fbe40e1a9556698d622456fe4a8/Horse_and_rider_from_the_most_northerly_Drakensberg_horse_site_in_the_Giant___s_castle_area._Note_spears.__Challis__Retribe-.png"
     caption: Horse and rider from the most northerly Drakensberg horse site in the
       Giant’s castle area. Note spears. (Challis 2012, Retribe:4)
     col_link: https://www.researchgate.net/publication/254311445_Creolisation_on_the_Nineteenth-century_Frontiers_of_Southern_Africa_A_Case_Study_of_the_AmaTola_%27Bushmen%27_in_the_Maloti-Drakensberg
@@ -390,7 +390,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-08-13 13:48:22.538000000 Z
       title: Figure-8-A-Horse-and-Rider-Galloping-Behind-an-Outsize-Baboon-Traced-by-the-author-in
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5bo9lWxyO4YiiySIKuUIOs/a5a8066cbd9f5d39576012015e610049/Figure-8-A-Horse-and-Rider-Galloping-Behind-an-Outsize-Baboon-Traced-by-the-author-in.png"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5bo9lWxyO4YiiySIKuUIOs/a5a8066cbd9f5d39576012015e610049/Figure-8-A-Horse-and-Rider-Galloping-Behind-an-Outsize-Baboon-Traced-by-the-author-in.png"
     caption: Mount Fletcher region of the north Eastern Cape Province.  (Challis,
       2012:279)
     col_link: https://www.researchgate.net/publication/254311445_Creolisation_on_the_Nineteenth-century_Frontiers_of_Southern_Africa_A_Case_Study_of_the_AmaTola_%27Bushmen%27_in_the_Maloti-Drakensberg
@@ -434,12 +434,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2016-09-13 13:03:52.426000000 Z
     title: SOASWC0110006
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6QHTRqNGXmWic6K2cQU8EA/3d924964d904e34e6711c6224a7429e6/SOASWC0110006.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6QHTRqNGXmWic6K2cQU8EA/3d924964d904e34e6711c6224a7429e6/SOASWC0110006.jpg"
   - sys:
       id: 6OFVBr3mUgqcwCi4oC0u6m
       created_at: !ruby/object:DateTime 2017-08-13 13:27:10.583000000 Z
       updated_at: !ruby/object:DateTime 2017-08-13 13:27:10.583000000 Z
     title: '2013,2034.19509'
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6OFVBr3mUgqcwCi4oC0u6m/5243bf9b8450bfab9fb3a454c2f78ca0/AN1613150762_l.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6OFVBr3mUgqcwCi4oC0u6m/5243bf9b8450bfab9fb3a454c2f78ca0/AN1613150762_l.jpg"
 ---

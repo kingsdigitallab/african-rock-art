@@ -15,7 +15,7 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-12-15 17:01:05.082000000 Z
     title: '2013,2034.12982'
     description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3776396
-    url: "//images.contentful.com/xt8ne4gbbocd/3esXNapo5GOWIKSImcY4QW/6436b2034659eccb953844b21a400070/2013_2034.12982.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3esXNapo5GOWIKSImcY4QW/6436b2034659eccb953844b21a400070/2013_2034.12982.jpg"
   chapters:
   - sys:
       id: 4ln5fQLq2saMKsOA4WSAgc
@@ -40,7 +40,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2017-12-15 17:01:05.082000000 Z
       title: '2013,2034.12982'
       description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3776396
-      url: "//images.contentful.com/xt8ne4gbbocd/3esXNapo5GOWIKSImcY4QW/6436b2034659eccb953844b21a400070/2013_2034.12982.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3esXNapo5GOWIKSImcY4QW/6436b2034659eccb953844b21a400070/2013_2034.12982.jpg"
     caption: Laikipia, Kenya. 2013,2034.12982  © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3776396
   - sys:
@@ -75,7 +75,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:00.077000000 Z
       title: '2013,2034.17450'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6KOxC43Z9mYCuIuqcC8Qw0/e25141d07f483d0100c4cf5604e3e525/2013_2034.17450.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6KOxC43Z9mYCuIuqcC8Qw0/e25141d07f483d0100c4cf5604e3e525/2013_2034.17450.jpg"
     caption: This painting of a large antelope is possibly one of the earliest extant
       paintings. Emmanuel Anati believes similar paintings could be more than 28,000
       years old. (2013,2034.17450) © TARA/David Coulson
@@ -121,7 +121,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:11.188000000 Z
       title: '2013,2034.16849'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1fy9DD4BWwugeqkakqWiUA/9f8f1330c6c0bc0ff46d744488daa152/2013_2034.16849.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1fy9DD4BWwugeqkakqWiUA/9f8f1330c6c0bc0ff46d744488daa152/2013_2034.16849.jpg"
     caption: Three schematic figures formed by the use of multiple thin parallel lines.
       The shape and composition of the heads suggests either headdresses or elaborate
       hairstyles. Kondoa, Tanzania.(2013,2034.16849)© TARA/David Coulson
@@ -162,7 +162,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:56:43.848000000 Z
       title: '2013,2034.13653'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1hoZEK3d2Oi8iiWqoWACo/1a1adcfad5d5a1cf0a341316725d61c4/2013_2034.13653.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1hoZEK3d2Oi8iiWqoWACo/1a1adcfad5d5a1cf0a341316725d61c4/2013_2034.13653.jpg"
     caption: Two red bulls face right. Mt Elgon, Kenya. 2013,2034.13653. © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3700058
@@ -178,7 +178,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:56:43.880000000 Z
       title: '2013,2034.13635'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3bqDVyvXlS0S6AeY2yEmS8/c9921f3d8080bcef03c96c6b8f1b0323/2013_2034.13635.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3bqDVyvXlS0S6AeY2yEmS8/c9921f3d8080bcef03c96c6b8f1b0323/2013_2034.13635.jpg"
     caption: Two cattle with horns in twisted perspective. Mt Elgon, Kenya. 2013,2034.13635.
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3698905
@@ -203,7 +203,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:11.188000000 Z
       title: '2013,2034.16786'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6RGZZQ13qMQwmGI86Ey8ei/6d37a5bed439caf7a1223aca27dc27f8/2013_2034.16786.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6RGZZQ13qMQwmGI86Ey8ei/6d37a5bed439caf7a1223aca27dc27f8/2013_2034.16786.jpg"
     caption: Under a long narrow granite overhang, Late White designs including rectangular
       grids, concentric circles and various ‘square’ shapes. (2013,2034.16786) © TARA/David
       Coulson
@@ -220,7 +220,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:11.138000000 Z
       title: '2013,2034.16797'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1UT4r6kWRiyiUIYSkGoACm/fe915c6869b6c195d55b5ef805df7671/2013_2034.16797.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1UT4r6kWRiyiUIYSkGoACm/fe915c6869b6c195d55b5ef805df7671/2013_2034.16797.jpg"
     caption: A monuments guard stands next to Late White paintings attributed to Bantu
       speaking farmers in Tanzania, probably made during the last 700 years. (2013,2034.16797)
       © TARA/David Coulson
@@ -246,7 +246,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:56:49.743000000 Z
       title: '2013,2034.13004'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/p4E0BRJzossaus6uUUkuG/13562eee76ac2a9efe8c0d12e62fa23a/2013_2034.13004.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/p4E0BRJzossaus6uUUkuG/13562eee76ac2a9efe8c0d12e62fa23a/2013_2034.13004.jpg"
     caption: Huge granite boulder with Ndorobo man standing before a rock overhang
       used for meat-feasting. Laikipia, Kenya. 2013,2034. 13004. © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3700175
@@ -262,7 +262,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:11.150000000 Z
       title: '2013,2034.13018'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1RLyVKKV8MA4KEk4M28wqw/044529be14a590fd1d0da7456630bb0b/2013_2034.13018.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1RLyVKKV8MA4KEk4M28wqw/044529be14a590fd1d0da7456630bb0b/2013_2034.13018.jpg"
     caption: This symbol is probably a ‘brand’ used on cattle that were killed and
       eaten at a Maa meat feast. Laikipia, Kenya. 2013,2034.13018 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3700193
@@ -298,7 +298,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:56:49.737000000 Z
       title: '2013,2034.15306'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2MOrR79hMcO2i8G2oAm2ik/86179e84233956e34103566035c14b76/2013_2034.15306.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2MOrR79hMcO2i8G2oAm2ik/86179e84233956e34103566035c14b76/2013_2034.15306.jpg"
     caption: Paintings in red and originally in-filled in white cover the underside
       of a rock shelter roof. The art is attributed to central African Batwa; the
       age of the paintings is uncertain. Lake Victoria, Uganda (2013,2034.15306)  ©
@@ -330,7 +330,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:11.176000000 Z
       title: '2013,2034.16206'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
     caption: Group of anthropomorphic stelae with carved faces. Tuto Fela, Southern
       Ethiopia. © TARA/David Coulson 2013,2034.16206 (not yet uploaded)
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3703754
@@ -357,7 +357,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:56:43.849000000 Z
       title: '2013,2034.16235'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/PlhtduNGSaOIOKU4iYu8A/7625c8a21caf60046ea73f184e8b5c76/2013_2034.16235.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/PlhtduNGSaOIOKU4iYu8A/7625c8a21caf60046ea73f184e8b5c76/2013_2034.16235.jpg"
     caption: Around 50 images of cattle are engraved in bas-relief into the sandstone
       wall of a gorge in the Sidamo region of Ethiopia. 2013,2034.16235 © TARA/David
       Coulson
@@ -404,7 +404,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 18:57:11.155000000 Z
       title: '2013,2034.15749'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3ylztNmm2cYU0GgQuW0yiM/3be240bf82adfb5affc0d653e353350b/2013_2034.15749.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3ylztNmm2cYU0GgQuW0yiM/3be240bf82adfb5affc0d653e353350b/2013_2034.15749.jpg"
     caption: Painted roof of rock shelter  showing decorated cows and human  figures.
       Laas Geel, Somaliland. 2013,2034.15749. © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691391
@@ -459,12 +459,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2017-12-19 12:25:55.914000000 Z
     title: '2013,2034.1298'
     description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3592557
-    url: "//images.contentful.com/xt8ne4gbbocd/4aeKk2gBTiE6Es8qMC4eYq/31cde536c4abf1c0795761f8e35b255c/2013_2034.1298.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/4aeKk2gBTiE6Es8qMC4eYq/31cde536c4abf1c0795761f8e35b255c/2013_2034.1298.jpg"
   - sys:
       id: 6DbMO4lEBOU06CeAsEE8aA
       created_at: !ruby/object:DateTime 2015-12-07 19:41:53.440000000 Z
       updated_at: !ruby/object:DateTime 2017-12-19 12:26:40.898000000 Z
     title: '2013,2034.15749'
     description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691391
-    url: "//images.contentful.com/xt8ne4gbbocd/6DbMO4lEBOU06CeAsEE8aA/9fc2e1d88f73a01852e1871f631bf4ff/2013_2034.15749.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6DbMO4lEBOU06CeAsEE8aA/9fc2e1d88f73a01852e1871f631bf4ff/2013_2034.15749.jpg"
 ---

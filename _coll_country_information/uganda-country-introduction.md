@@ -33,7 +33,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:53:35.421000000 Z
       title: UGANGO0020031 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/40ezg2Ddosc4yYM0Myes8U/7d118bce5cf73e7a0fd8b7953a604bcd/UGANGO0020031_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/40ezg2Ddosc4yYM0Myes8U/7d118bce5cf73e7a0fd8b7953a604bcd/UGANGO0020031_1.jpg"
     caption: Circular motifs.Ngora, Eastern Province, Uganda. 2013,2034.14768 © TARA/David
       Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691105&partId=1&searchText=2013%2c2034.14768&page=1
@@ -75,7 +75,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
       title: UGAVIC0010001 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
     caption: Large boulder containing painted rock art overlooking Lake Victoria.
       2013,2034.15198 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690931&partId=1&searchText=2013%2c2034.15198&page=1
@@ -102,7 +102,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:54:11.681000000 Z
       title: UGAVIC0060056 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2FHA4qasM0YkYeY20OK20e/8dc76eadeb33620beaeedbba6b04399b/UGAVIC0060056_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2FHA4qasM0YkYeY20OK20e/8dc76eadeb33620beaeedbba6b04399b/UGAVIC0060056_1.jpg"
     caption: Painted ceiling of a rock shelter attributed to the BaTwa. Lolui Island,
       Eastern Province, Uganda. 2013,2034.15306 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691242&partId=1&searchText=2013%2c2034.15306&page=1
@@ -146,7 +146,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:53:35.413000000 Z
       title: UGAMOR0010021 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6Rp8Jyx6Tu8CagewSGkKaG/8425bc465938ddae5cfed284f96a6e6f/UGAMOR0010021_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6Rp8Jyx6Tu8CagewSGkKaG/8425bc465938ddae5cfed284f96a6e6f/UGAMOR0010021_1.jpg"
     caption: Painted red cattle and figures holding bows. Kanamugeot, Northern Province,
       Uganda, 2013,2034.14633 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690004&partId=1&searchText=2013%2c2034.14633&page=1
@@ -182,7 +182,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:53:43.648000000 Z
       title: UGANAS0002 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4TE2BAQkM8S0640ECkYayA/3a5a54bd23c2ecaa637d19e132e40263/UGANAS0002_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4TE2BAQkM8S0640ECkYayA/3a5a54bd23c2ecaa637d19e132e40263/UGANAS0002_1.jpg"
     caption: Engraved rock with  concentric circle motif. Kampala, Uganda. 2013,2034.14710
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690111&partId=1&searchText=2013%2c2034.14710&page=1
@@ -210,7 +210,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:53:48.341000000 Z
       title: UGAMUK0050001 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2kLCq0ponGEOemeycuauI2/55631bb48e53718bd799a7e8799f7439/UGAMUK0050001_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2kLCq0ponGEOemeycuauI2/55631bb48e53718bd799a7e8799f7439/UGAMUK0050001_1.jpg"
     caption: Large rock with grid of small carved cupules. Kimera, Central Province,
       Uganda. 2013,2034.14676  © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690085&partId=1&searchText=2013%2c2034.14676&page=1
@@ -237,7 +237,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:53:43.661000000 Z
       title: UGATES0030003 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/7awPQKadFK2k6mMegimuIE/0b3a8c2a03bcc34f8821f30bf0cf1367/UGATES0030003_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/7awPQKadFK2k6mMegimuIE/0b3a8c2a03bcc34f8821f30bf0cf1367/UGATES0030003_1.jpg"
     caption: Complex white motif comprising six concentric circles surrounded by curvilinear
       tentacles. Nyero, Eastern Province, Uganda. 2013,2034.14892 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673779&partId=1&searchText=2013%2c2034.14892&page=1
@@ -282,7 +282,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-12-11 15:53:48.306000000 Z
       title: UGANGO0010001 1
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5gAcaHufAso60GKYiKsei2/b93cc028065d4f5c5dbe953558d1a4bb/UGANGO0010001_1.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5gAcaHufAso60GKYiKsei2/b93cc028065d4f5c5dbe953558d1a4bb/UGANGO0010001_1.jpg"
     caption: View looking towards the forested location of a painted rock art site.
       Ngora, Eastern Province, Uganda. 2013,2034.14711 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690354&partId=1&searchText=2013,2034.14711&page=1

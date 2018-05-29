@@ -47,7 +47,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 10:45:07.360000000 Z
         title: '2013,2034.16227'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/pU5IbmTygg4ka2kYisEyc/72c98385edd3833e70e9763f66945e98/ETHSID0050002.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/pU5IbmTygg4ka2kYisEyc/72c98385edd3833e70e9763f66945e98/ETHSID0050002.jpg"
       caption: View of the crease where the Shepe engravings are placed. Shepe, Ethiopia.
         2013,2034.16227.
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691737&partId=1&searchText=2013,2034.16227&page=1
@@ -63,7 +63,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 10:45:07.360000000 Z
       title: '2013,2034.16227'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/pU5IbmTygg4ka2kYisEyc/72c98385edd3833e70e9763f66945e98/ETHSID0050002.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/pU5IbmTygg4ka2kYisEyc/72c98385edd3833e70e9763f66945e98/ETHSID0050002.jpg"
     caption: View of the crease where the Shepe engravings are placed. Shepe, Ethiopia.
       2013,2034.16227.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691737&partId=1&searchText=2013,2034.16227&page=1
@@ -97,7 +97,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 10:45:25.200000000 Z
         title: '2013,2034.16236'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/4wQ6Srd7EI0ckCYoA4IaWS/3b87b98a6668f272110f5baf48e65a5b/ETHSID0060007.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/4wQ6Srd7EI0ckCYoA4IaWS/3b87b98a6668f272110f5baf48e65a5b/ETHSID0060007.jpg"
       caption: View of the Shepe main panel. Shepe, Ethiopia. 2013,2034.16236.
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691722&partId=1&searchText=2013,2034.16236&page=1
   - sys:
@@ -112,7 +112,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 10:45:25.200000000 Z
       title: '2013,2034.16236'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4wQ6Srd7EI0ckCYoA4IaWS/3b87b98a6668f272110f5baf48e65a5b/ETHSID0060007.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4wQ6Srd7EI0ckCYoA4IaWS/3b87b98a6668f272110f5baf48e65a5b/ETHSID0060007.jpg"
     caption: View of the Shepe main panel. Shepe, Ethiopia. 2013,2034.16236.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691722&partId=1&searchText=2013,2034.16236&page=1
   - sys:
@@ -143,7 +143,7 @@ contentful:
           updated_at: !ruby/object:DateTime 2015-11-25 10:45:40.809000000 Z
         title: '2013,2034.16235'
         description: 
-        url: "//images.contentful.com/xt8ne4gbbocd/2NxPqNw24UkMkmY0oAeMUW/2722889dec86c49a3d5c1fa47f5c96ff/ETHSID0060006.jpg"
+        url: "//images.ctfassets.net/xt8ne4gbbocd/2NxPqNw24UkMkmY0oAeMUW/2722889dec86c49a3d5c1fa47f5c96ff/ETHSID0060006.jpg"
       caption: Frontal view of one the Shepe panels. Shepe, Ethiopia. 2013,2034.16235.
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691723&partId=1&searchText=2013,2034.16235&page=1
   - sys:
@@ -158,7 +158,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2015-11-25 10:45:40.809000000 Z
       title: '2013,2034.16235'
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/2NxPqNw24UkMkmY0oAeMUW/2722889dec86c49a3d5c1fa47f5c96ff/ETHSID0060006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/2NxPqNw24UkMkmY0oAeMUW/2722889dec86c49a3d5c1fa47f5c96ff/ETHSID0060006.jpg"
     caption: Frontal view of one the Shepe panels. Shepe, Ethiopia. 2013,2034.16235.
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691723&partId=1&searchText=2013,2034.16235&page=1
   - sys:
@@ -202,12 +202,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-07 20:36:14.616000000 Z
     title: ETHSID0080008
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6bqPx8NVF6CsoC6kS4KkQ4/2b81668d390ad745fc484b83c33c3548/ETHSID0080008.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6bqPx8NVF6CsoC6kS4KkQ4/2b81668d390ad745fc484b83c33c3548/ETHSID0080008.jpg"
   - sys:
       id: 6johOxHojKY4EkOqEco6c6
       created_at: !ruby/object:DateTime 2015-11-25 19:45:27.772000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 19:45:27.772000000 Z
     title: ETHSOD0030007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6johOxHojKY4EkOqEco6c6/2640f76a5871320bf2ff03fefd8c37a7/ETHSOD0030007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6johOxHojKY4EkOqEco6c6/2640f76a5871320bf2ff03fefd8c37a7/ETHSOD0030007.jpg"
 ---

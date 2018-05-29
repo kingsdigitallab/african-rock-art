@@ -15,12 +15,12 @@ contentful:
       updated_at: !ruby/object:DateTime 2015-12-08 11:52:10.854000000 Z
     title: SOADRB0080007
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/3OZCZuXvlYK4sqSuoqQIqI/711dc818d90fd962cbba4193146af707/SOADRB0080007.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/3OZCZuXvlYK4sqSuoqQIqI/711dc818d90fd962cbba4193146af707/SOADRB0080007.jpg"
   chapters:
   - sys:
       id: 5qv45Cw424smAwqkkg4066
       created_at: !ruby/object:DateTime 2016-09-13 13:01:39.329000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 12:40:03.918000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:09:20.849000000 Z
       content_type_id: chapter
     title_internal: 'Southern Africa: regional, chapter 1'
     body: |+
@@ -30,14 +30,14 @@ contentful:
   - sys:
       id: r3hNyCQVUcGgGmmCKs0sY
       created_at: !ruby/object:DateTime 2016-09-13 13:02:04.241000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:02:04.241000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:09:49.095000000 Z
       content_type_id: chapter
     title: Geography and distribution
     title_internal: 'Southern Africa: regional, chapter 2'
   - sys:
       id: 5cKrBogJHiAaCs6mMoyqee
       created_at: !ruby/object:DateTime 2016-09-13 13:02:27.584000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 12:02:55.497000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:10:55.925000000 Z
       content_type_id: image
     image:
       sys:
@@ -46,14 +46,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:02:17.232000000 Z
       title: ZIMMSL0070001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/4RBHhRPKHC2s6yWcEeWs0c/9d9bc5196cfac491fa099fd737b06e34/ZIMMSL0070001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/4RBHhRPKHC2s6yWcEeWs0c/9d9bc5196cfac491fa099fd737b06e34/ZIMMSL0070001.jpg"
     caption: Yellow elephant calf painted on the roof of a shelter. Mashonaland, Zimbabwe.
       2013,2034.22675 ©TARA/David Coulson
     col_link: http://bit.ly/2iUgvg0
   - sys:
       id: 69tB5BiRVKG2QQEKoSYw08
       created_at: !ruby/object:DateTime 2016-09-13 13:02:41.530000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 12:45:12.431000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:11:21.260000000 Z
       content_type_id: chapter
     title_internal: 'Southern Africa: regional, chapter 3'
     body: 'There is wide variation in the physical environments of southern Africa,
@@ -73,7 +73,7 @@ contentful:
   - sys:
       id: 4BJ17cEGyIC6QYSYGAkoaa
       created_at: !ruby/object:DateTime 2016-09-13 13:03:04.486000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-06 15:08:58.436000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:11:57.877000000 Z
       content_type_id: image
     image:
       sys:
@@ -82,14 +82,14 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:02:59.339000000 Z
       title: NAMBRG0030001
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/1hXbvhDSf2CmOss6ec0CsS/0bb079e491ac899abae435773c74fcf4/NAMBRG0030001.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/1hXbvhDSf2CmOss6ec0CsS/0bb079e491ac899abae435773c74fcf4/NAMBRG0030001.jpg"
     caption: View out of a rock shelter in the Brandberg, Namibia. 2013,2034.20452
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3729901
   - sys:
       id: 499lI34cAE6KAgKU4mkcqq
       created_at: !ruby/object:DateTime 2016-09-13 13:03:14.736000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 14:12:28.009000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:12:17.831000000 Z
       content_type_id: chapter
     title: Types of rock art
     title_internal: 'Southern Africa: regional, chapter 4'
@@ -118,7 +118,7 @@ contentful:
   - sys:
       id: 4NfdPoVtFKaM6K4w8I8ckg
       created_at: !ruby/object:DateTime 2016-09-13 13:22:13.102000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 12:04:23.072000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:12:40.860000000 Z
       content_type_id: image
     image:
       sys:
@@ -127,7 +127,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:22:08.653000000 Z
       title: NAMBRT0010002
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/20oHYa0oEcSEMOyM8IcCcO/67a69f9814e8ec994003bfacff0962cc/NAMBRT0010002.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/20oHYa0oEcSEMOyM8IcCcO/67a69f9814e8ec994003bfacff0962cc/NAMBRT0010002.jpg"
     caption: " Fine-line paintings of giraffes and line patterns, Brandberg, Namibia.
       \ It is thought that giraffes may have been associated with rain in local belief
       systems. 2013,2034.21324 © TARA/David Coulson"
@@ -135,7 +135,7 @@ contentful:
   - sys:
       id: 2nqpXdHTeoyKakEEOMUSA0
       created_at: !ruby/object:DateTime 2016-09-13 13:03:40.877000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-17 10:55:54.095000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:13:26.231000000 Z
       content_type_id: chapter
     title_internal: 'Southern Africa: regional, chapter 5'
     body: "Hunter-gatherer rock paintings are found in particular concentrations in
@@ -164,7 +164,7 @@ contentful:
   - sys:
       id: 1NrA6Z43fWIgwGoicy2Mw2
       created_at: !ruby/object:DateTime 2016-09-13 13:03:57.014000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:03:57.014000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:13:43.550000000 Z
       content_type_id: image
     image:
       sys:
@@ -173,16 +173,16 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:03:52.426000000 Z
       title: SOASWC0110006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/6QHTRqNGXmWic6K2cQU8EA/3d924964d904e34e6711c6224a7429e6/SOASWC0110006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/6QHTRqNGXmWic6K2cQU8EA/3d924964d904e34e6711c6224a7429e6/SOASWC0110006.jpg"
     caption: Painting of a ship from the south Western Cape in South Africa. 2013,2034.19495
       © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730142&partId=1&searchText=2013%2c2034.19495&page=1
   - sys:
       id: 4JVHOgrOyAAI8GWAuoyGY
       created_at: !ruby/object:DateTime 2016-09-13 13:24:14.217000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-14 10:25:14.689000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:17:20.511000000 Z
       content_type_id: chapter
-    title_internal: Southern Africa Chapter 10
+    title_internal: 'Southern Africa: regional, chapter 6'
     body: "This kind of imagery is found in a variety of styles, and some of those
       producing ‘contact’ images in the Cape may have been people of Khoekhoen heritage.
       The Khoekhoen were traditionally cattle and sheep herders, culturally related
@@ -194,10 +194,10 @@ contentful:
   - sys:
       id: 3zUtkjM57Omyko6Q2O0YMG
       created_at: !ruby/object:DateTime 2016-09-13 13:04:05.564000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-17 13:32:51.821000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:17:47.538000000 Z
       content_type_id: chapter
     title: History of research
-    title_internal: 'Southern Africa: regional, chapter 6'
+    title_internal: 'Southern Africa: regional, chapter 7'
     body: 'The first known reports of African rock art outside of the continent appear
       to come from the Bishop of Mozambique, who in 1721 reported sightings of paintings
       on rocks to the Royal Academy of History in Lisbon. Following this, reports,
@@ -218,7 +218,7 @@ contentful:
   - sys:
       id: 5bPZwsgp3qOGkogYuCIQEs
       created_at: !ruby/object:DateTime 2016-09-13 13:04:30.652000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 12:06:12.744000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:18:07.313000000 Z
       content_type_id: image
     image:
       sys:
@@ -227,17 +227,17 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:04:26.508000000 Z
       title: BOTTSD0300015
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/3BLPJ6SPMcccCE2qIG4eQG/639dd24028612b985042ea65536eef2e/BOTTSD0300015.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/3BLPJ6SPMcccCE2qIG4eQG/639dd24028612b985042ea65536eef2e/BOTTSD0300015.jpg"
     caption: Rhinoceros and cattle painting, Tsodilo Hills, Botswana. 2013,2034.20848
       © TARA/David Coulson
     col_link: http://bit.ly/2i5xfUJ
   - sys:
       id: 1QaeG3pF1KOEaooucoMUeE
       created_at: !ruby/object:DateTime 2016-09-13 13:04:37.305000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-17 10:11:17.305000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:18:34.546000000 Z
       content_type_id: chapter
     title: Interpretation
-    title_internal: 'Southern Africa: regional, chapter 7'
+    title_internal: 'Southern Africa: regional, chapter 8'
     body: Rather than showing scenes from daily life, as was once assumed, it is now
       usually accepted that hunter-gatherer art in southern Africa shows images and
       motifs of spiritual and cultural importance. In particular, it is thought that
@@ -252,7 +252,7 @@ contentful:
   - sys:
       id: 1YgT9SlSNeU8C6Cm62602E
       created_at: !ruby/object:DateTime 2016-09-13 13:04:53.447000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:04:53.447000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:19:08.779000000 Z
       content_type_id: image
     image:
       sys:
@@ -261,7 +261,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:04:48.941000000 Z
       title: SOADRB0030002
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/5Zk1QhSjEAOy8U6kK4yS4c/5896c3d088678257f9acd01bd59c4b26/SOADRB0030002.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/5Zk1QhSjEAOy8U6kK4yS4c/5896c3d088678257f9acd01bd59c4b26/SOADRB0030002.jpg"
     caption: 'Painting of an eland and an ambiguous figure in the Drakensberg, South
       Africa. Both the eland and this kind of human-like figure are thought to have
       had symbolic associations with beliefs about gender and power.  2013,2034.18187©
@@ -270,9 +270,9 @@ contentful:
   - sys:
       id: 5byxQopdNCqEC2kCa0OqCm
       created_at: !ruby/object:DateTime 2016-09-13 13:05:00.899000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-17 10:15:06.059000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:19:37.565000000 Z
       content_type_id: chapter
-    title_internal: 'Southern Africa: regional, chapter 8'
+    title_internal: 'Southern Africa: regional, chapter 9'
     body: "The rock art attributed to ancestral San&#124;Bushman hunter-gatherers
       has many varied motifs, some of which may also relate to specific themes such
       as initiation or rainmaking (indeed within its cultural context one image may
@@ -305,7 +305,7 @@ contentful:
   - sys:
       id: L9AkWhM1WwUKWC4MQ4iMe
       created_at: !ruby/object:DateTime 2016-09-13 13:05:15.123000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 14:22:35.317000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:21:01.026000000 Z
       content_type_id: image
     image:
       sys:
@@ -314,7 +314,7 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:05:11.473000000 Z
       title: NAMSNH0030006
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/ETDpJFg6beKyyOmQGCsKI/3dabb2ba8a3abaa559a6652eb10ea1eb/NAMSNH0030006.jpg"
+      url: "//images.ctfassets.net/xt8ne4gbbocd/ETDpJFg6beKyyOmQGCsKI/3dabb2ba8a3abaa559a6652eb10ea1eb/NAMSNH0030006.jpg"
     caption: 'Geometric rock engravings of the type suggested by some to be the work
       of Khoekhoen pastoralists and their ancestors. 2013,2034.22405 © TARA/David
       Coulson '
@@ -322,10 +322,10 @@ contentful:
   - sys:
       id: ayvCEQLjk4uUk8oKikGYw
       created_at: !ruby/object:DateTime 2016-09-13 13:05:22.665000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-17 10:21:37.931000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:21:16.059000000 Z
       content_type_id: chapter
     title: Dating
-    title_internal: 'Southern Africa: regional, chapter 9'
+    title_internal: 'Southern Africa: regional, chapter 10'
     body: "Although dating rock art is always difficult, the study of rock art sites
       from southern Africa has benefitted from archaeological study and excavations
       at rock art sites have sometimes revealed useful information for ascribing dates.
@@ -355,7 +355,7 @@ contentful:
   - sys:
       id: 3Kjcm7V1dYoCuyaqKga0GM
       created_at: !ruby/object:DateTime 2016-09-13 13:05:38.418000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:05:38.418000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:25:17.372000000 Z
       content_type_id: image
     image:
       sys:
@@ -364,16 +364,16 @@ contentful:
         updated_at: !ruby/object:DateTime 2016-09-13 13:05:34.865000000 Z
       title: NAMDME0080012
       description: 
-      url: "//images.contentful.com/xt8ne4gbbocd/58V5qef3pmMGu2aUW4mSQU/dec59cd8209d3d04b13447e9c985574a/NAMDME0080012.jpg"
-    caption: 'Engraved human footprints, Erongo Region, Namibia. 2013,2034.20457 ©
-      TARA/David Coulson  '
+      url: "//images.ctfassets.net/xt8ne4gbbocd/58V5qef3pmMGu2aUW4mSQU/dec59cd8209d3d04b13447e9c985574a/NAMDME0080012.jpg"
+    caption: Engraved human footprints, Erongo Region, Namibia. 2013,2034.20457 ©
+      TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3729958&partId=1&searchText=2013,2034.20457+&page=1
   - sys:
       id: 1kwt8c4P0gSkYOq8CO0ucq
       created_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:25:44.294000000 Z
       content_type_id: chapter
-    title_internal: Southern Africa Chapter 11
+    title_internal: 'Southern Africa: regional, chapter 11'
     body: "¹ San&#124;Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
       and cultural traditions.  Both 'San' and 'Bushmen' are considered offensive
@@ -383,39 +383,38 @@ contentful:
   - sys:
       id: 6GlTdq2WbeIQ6UoeOeUM84
       created_at: !ruby/object:DateTime 2016-10-17 10:45:36.418000000 Z
-      updated_at: !ruby/object:DateTime 2016-10-17 10:45:36.418000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:39:37.963000000 Z
       content_type_id: citation
     citation_line: |+
-      Campbell, Alec; Robbins, Larry, Taylor, Michael (2010) Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press
+      Campbell, A., Robbins, L. and Taylor, M. 2010. Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 
-      Garlake, Peter S. (1995): The hunter's vision: the prehistoric art of Zimbabwe. British Museum Press, London.
+      Garlake, Peter S. 1995. The Hunter's Vision: The Prehistoric Art of Zimbabwe. London: British Museum Press.
 
-      Lewis-Williams, J.D. 1981. Believing and Seeing: Symbolic Meanings in San&#124;BushmanRock Paintings. Johannesburg, University of Witwatersrand Press
+      Lewis-Williams, J.D. 1981. Believing and Seeing: Symbolic Meanings in San&#124;BushmanRock Paintings. Johannesburg: University of Witwatersrand Press
 
-      Maggs, T. 1995. Neglected Rock Art: The Rock Engravings of Agriculturist Communities in South Africa. South African Archaeological Bulletin. Vol. 50 No. 162 pp. 132.142
+      Maggs, T. 1995. 'Neglected Rock Art: The Rock Engravings of Agriculturist Communities in South Africa'. South African Archaeological Bulletin. Vol. 50 No. 162. pp. 132.142.
 
-      Pager, H. 1989-. Rock Paintings of the Upper Brandberg. vols. I-VI. Köln: Heinrich-Barth-Institut
+      Pager, H. 1989. Rock Paintings of the Upper Brandberg. vols. I-VI. Köln: Heinrich-Barth-Institut
 
-      Richter, J. & R. Vogelsang: Rock Art in North-Western Central Namibia – its Age and Cultural Background in: Limpricht, C., & M. Biesele. 2008. Heritage and Cultures in modern Namibia: in-depth views of the country : a TUCSIN Festschrift. Windhoek ; Goettingen : Klaus Hess Publishers pp 37:46
+      Richter, J. & Vogelsang, R. 2008. 'Beyond Development - Global Visions and Local Adaptations of a Contested Concept'  in Limpricht, C., & M. Biesele (eds) Heritage and Cultures in modern Namibia: in-depth views of the country: a TUCSIN Festschrift. Goettingen : Klaus Hess Publishers. pp 37:46.
 
-      Smith, B.   Rock Art Research ifn Africa in: Mitchell, P. and P. Lane .2013.  The Oxford Handbook of African Archaeology. Oxford, Oxford University Press
+      Smith, B. 2013. 'Rock Art Research in Africa' in Mitchell, P. and P. Lane (eds), The Oxford Handbook of African Archaeology. Oxford, Oxford University Press.
 
-
-      Smith, B. & Ouzman, S. Taking Stock: Identifying Khoekhoen Herder Rock Art in Southern Africa. Current Anthropology Vol. 45, No. 4. pp 499-52
+      Smith, B. & Ouzman, S. 2004. 'Taking Stock: Identifying Khoekhoen Herder Rock Art in Southern Africa'. Current Anthropology Vol. 45, No. 4. pp 499-52.
 
   background_images:
   - sys:
       id: 6oQGgfcXZYWGaeaiyS44oO
       created_at: !ruby/object:DateTime 2016-09-13 13:05:47.458000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:05:47.458000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:41:12.556000000 Z
     title: ZIMMSL0120015.tiff
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/6oQGgfcXZYWGaeaiyS44oO/c8bc0d9d1ceee0d23517a1bc68276b24/ZIMMSL0120015.tiff.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/6oQGgfcXZYWGaeaiyS44oO/c8bc0d9d1ceee0d23517a1bc68276b24/ZIMMSL0120015.tiff.jpg"
   - sys:
       id: 69ouDCLqDKo4EQWa6QCECi
       created_at: !ruby/object:DateTime 2016-09-13 13:05:55.993000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-13 13:05:55.993000000 Z
+      updated_at: !ruby/object:DateTime 2018-05-10 14:41:44.910000000 Z
     title: SOAEFS0030008
     description: 
-    url: "//images.contentful.com/xt8ne4gbbocd/69ouDCLqDKo4EQWa6QCECi/9c5da3bf755188e90003a9bc55550f6f/SOAEFS0030008.jpg"
+    url: "//images.ctfassets.net/xt8ne4gbbocd/69ouDCLqDKo4EQWa6QCECi/9c5da3bf755188e90003a9bc55550f6f/SOAEFS0030008.jpg"
 ---
