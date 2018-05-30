@@ -25,23 +25,24 @@ $(function() {
     return false
   })
 
-  var amountScrolled = 300
+  var offset = 300
 
   $(window).scroll(function() {
-    if ($(window).scrollTop() > amountScrolled) {
-      $('a.back-to-top').fadeIn('slow')
+    if ($(window).scrollTop() > offset) {
+      $('div.top-container').fadeIn('slow')
     } else {
-      $('a.back-to-top').fadeOut('slow')
+      $('div.top-container').fadeOut('slow')
     }
   })
 
-  $('a.back-to-top').click(function() {
+  $('a.top').click(function(event) {
+    event.preventDefault()
+
     $('html, body').animate(
       {
         scrollTop: 0
       },
       700
     )
-    return false
   })
 })

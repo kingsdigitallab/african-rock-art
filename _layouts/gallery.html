@@ -9,7 +9,7 @@ layout: default
 
     {% assign images_path = site.data.static.gallery | relative_url %}
 
-    <div class="container">
+    <div class="container" id="top">
         {% for image in site.data.gallery.images %}
         {% assign image_name = image.image | append: ".jpg" %}
 
@@ -39,6 +39,8 @@ layout: default
         </div>
         {% endfor %}
 
-        <a href="#" class="back-to-top" alt="Back to top">Back to Top</a>
+        <div class="top-container">
+            <a class="top button orange" href="#top" alt="Back to top">Back to top</a>
+        </div>
     </div>
 </article>
