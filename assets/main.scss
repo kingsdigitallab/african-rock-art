@@ -27,6 +27,12 @@
 
 /* Addtional CSS */
 
+.top {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+}
+
 *, *:after, *:before {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -42,6 +48,21 @@ a {
         border: none;
         outline: none;
     }
+}
+
+a.back-to-top {
+    display: none;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    position: fixed;
+    z-index: 999;
+    right: 20px;
+    bottom: 20px;
+    background: $brand-color url("{{ site.data.static.icons | relative_url }}/up-arrow.png") no-repeat center 43%;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
 }
 
 .align-right {
@@ -172,12 +193,11 @@ input {
 
 .more {
     &:after {
-        content: "\2192";
         padding-left: 10px;
     }
 
     &:hover {
-        text-decoration: none;
+        text-decoration: underline;
 
         &::after {
             padding-left: 16px;
