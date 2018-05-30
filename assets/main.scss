@@ -28,9 +28,10 @@
 /* Addtional CSS */
 
 .top {
+    display: none;
     position: fixed;
-    bottom: 2em;
-    right: 2em;
+    top: 0;
+    right: 0;
 }
 
 *, *:after, *:before {
