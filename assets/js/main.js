@@ -29,9 +29,9 @@ $(function() {
 
   $(window).scroll(function() {
     if ($(window).scrollTop() > offset) {
-      $('div.top-container').fadeIn('slow')
+      $('a.top').fadeIn('slow')
     } else {
-      $('div.top-container').fadeOut('slow')
+      $('a.top').fadeOut('slow')
     }
   })
 
