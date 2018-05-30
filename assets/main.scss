@@ -27,6 +27,12 @@
 
 /* Addtional CSS */
 
+.top {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+}
+
 *, *:after, *:before {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
