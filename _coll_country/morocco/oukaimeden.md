@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 15:15:17.431000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 14:39:26.150000000 Z
     content_type_id: featured_site
+    revision: 5
   title: Oukaïmeden, Morocco
   slug: oukaimeden
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:16:09.455000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:16:09.455000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Morocco: featured site, chapter 1'
     body: |-
       Oukaïmeden is an alpine-like valley set 2,630 metres above sea level at the core of Morocco’s High Atlas. Records from the 16th century onwards refer to its seasonal profit as summer pasturage by herders coming from villages settled at mid-altitude. It is a well-known place due to the existence of a ski resort, and a well-frequented tourist destination for people coming from Marrakech during the summer. It is also home to one of the most impressive collections of rock art engravings in Morocco, with about 250 rock art sites and one thousand depictions scattered throughout the valley.
@@ -28,6 +30,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:11:07.744000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:11:07.744000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5A7q4PnbI4sYmQsi2u4yYg
@@ -43,13 +46,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:11:50.001000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:11:50.001000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1h9eCgWFYce8eqiq2KSGkU
         created_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:03:01.253000000 Z
       title: '2013,2034.5894'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3614035&partId=1&searchText=2013,2034.5894&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/1h9eCgWFYce8eqiq2KSGkU/830a45b1b9107528469498e3dc8c12d5/2013_2034.5894.jpg"
     caption: Engraved anthropomorph surrounded by a dagger and a rectangular shield.
       2013,2034.5894 © David Coulson/TARA
@@ -59,6 +63,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:16:30.214000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:16:30.214000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Morocco: featured site, chapter 2'
     body: High Atlas rock art is remarkably different not only from the rest of Moroccan
       rock art, but also from most other depictions documented throughout the Sahara.
@@ -77,13 +82,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:12:18.882000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:12:18.882000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3OAdh6uCrCIgCeuQ2E0koa
         created_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:03:43.993000000 Z
       title: '2013,2034.5874'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&searchText=2013,2034.5874&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/3OAdh6uCrCIgCeuQ2E0koa/a9fe9a0740e535707c227440bac46571/2013_2034.5874.jpg"
     caption: Circular engravings (shields?). 2013,2034.5874 © David Coulson/TARA
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&museumno=2013%2c2034.5874&page=1
@@ -92,6 +98,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:12:51.006000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:12:51.006000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2joH7nmXU42sE00g0GUgMq
@@ -108,6 +115,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:16:49.016000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:16:49.016000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Morocco: featured site, chapter 3'
     body: Chronologically speaking, it seems Oukaïmeden engravings started to appear
       during the mid-3rd millennium BC, when the Sahara desert became increasingly
@@ -128,6 +136,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:13:24.362000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:38:01.412000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 2nGxKesCSgWOeqSqa2eoAc
@@ -144,6 +153,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:17:08.360000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:17:08.360000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Morocco: featured site, chapter 4'
     body: 'Unlike most of the rock art sites in North Africa, Oukaïmeden was not inhabited
       the whole year: the heavy snow that falls during the winter prevented occupation
@@ -157,6 +167,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:14:00.276000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:14:00.276000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: RXRm1UgosSw248YEayEgC
@@ -174,6 +185,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:17:25.702000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:38:58.399000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Morocco: featured site, chapter 5'
     body: |-
       Although Oukaïmeden rock art is distributed throughout the valley, there are some sites with scenes that stand above the rest due to their complexity and significance. One of them is the so-called Elephants’ Frieze, a horizontal rock face where four elephants, a feline, a rhinoceros or warthog and two human figures facing the animals were depicted. Two later, vertical Libyan-Berber inscriptions were added to the panel. The scene is placed near a shelter, facing a stream which constitutes one of the main access routes to the valley grazing areas.
@@ -185,6 +197,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:14:50.132000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:14:50.132000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 

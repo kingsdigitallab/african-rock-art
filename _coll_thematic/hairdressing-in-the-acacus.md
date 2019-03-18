@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 17:46:43.669000000 Z
     updated_at: !ruby/object:DateTime 2018-05-16 17:44:43.683000000 Z
     content_type_id: thematic
+    revision: 5
   title: Hairdressing in the Acacus
   slug: hairdressing-in-the-acacus
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: hairdressing, chapter 1'
     body: Hair is a global form of social communication. Among numerous social groups
       throughout Africa, hairstyling and hairdressing hold great cultural and aesthetic
@@ -35,6 +37,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:38:46.614000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:27:05.950000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5vt4IZCBSEmAQESGiGIS6Q
@@ -51,6 +54,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:42:59.906000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:29:46.989000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: hairdressing, chapter 2'
     body: |-
       A particularly interesting set of images from Uan Amil in the Acacus Mountains, south-western Libya, reflect the cultural significance of hair in African societies. The scenes depict groups of people engaged in a variety of communal social practices wearing elaborate coiffures, together with some very discrete moments of personal hairdressing.
@@ -61,6 +65,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:39:31.382000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:38:40.565000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2PRW2sBJWgiEwA40U2GSiC
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:43:22.643000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:40:09.594000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: hairdressing, chapter 3'
     body: 'The rock shelter of Uan Amil was discovered in 1957 by the Italian-Libyan
       Joint Archaeological Mission surveying in the Acacus and Messak regions of Libya.
@@ -96,6 +102,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:39:56.320000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:38:59.901000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1KUdkb6fbmW8KOsKWEcu02
@@ -113,6 +120,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:43:42.266000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 16:33:15.417000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Thematic: hairdressing, chapter 4'
     body: |-
       The Wodaabe number around 125,000. As pastoral nomads they migrate often and over large geographical areas, keeping mahogany-coloured Zebu cattle which have a hump on their back and long horns, shaped like a lyre. As a cultural group they have attracted much anthropological attention because of their traditional values of beauty (in particular the male beauty pageant) which pervades their everyday lives and practices.
@@ -123,6 +131,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:40:22.244000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:48:54.315000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2blaCOYdgYsqqCGakGIwoA
@@ -139,6 +148,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:44:06.559000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 16:32:51.163000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Thematic: hairdressing, chapter 5'
     body: |-
       A long, narrow face is also admired and this is enhanced by shaping the hair on top of the head, and also using an ostrich feather to elongate the face (Bovin,2001:26). The painting above, from Wadi Teshuinat, characterises this.
@@ -149,6 +159,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:40:47.827000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:54:21.695000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4gAFUKBZEsGKMie4cMomwS
@@ -165,6 +176,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:44:28.703000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 15:59:10.344000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: hairdressing, chapter 6'
     body: The cultural importance of hair is evident where depictions of hair-washing,
       hairstyling or hair preparation are an active element within more complex social
@@ -182,6 +194,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:42:04.601000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 16:31:22.408000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1a8FFEsdsuQeYggMCAasii
@@ -199,6 +212,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:44:46.392000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 16:32:18.314000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: hairdressing, chapter 7'
     body: The Wodaabe invest vast amounts of time and resources in their outward appearance
       and the need to beautify and refine. ‘Art’ is not just something that is aesthetically
@@ -218,6 +232,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-16 16:34:37.564000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 16:34:37.564000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: 'Bovin, Mette. 2001. Nomads Who Cultivate Beauty. Uppsala: Nordiska
       Afrikainstitutet'
   background_images:

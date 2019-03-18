@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2018-05-09 15:26:39.131000000 Z
     updated_at: !ruby/object:DateTime 2018-05-09 15:28:31.662000000 Z
     content_type_id: thematic
+    revision: 2
   title: Landscapes of Rock Art
   slug: landscapes-of-rock-art
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-01-10 15:12:02.010000000 Z
       updated_at: !ruby/object:DateTime 2018-01-10 15:12:02.010000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Landscape: thematic, chapter 1'
     body: "“Placed within a landscape setting, rock-art becomes a more complex and
       expressive visual language” (Chippindale and Nash, 2004:23)\n\nApart from the
@@ -35,6 +37,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-01-10 15:16:11.619000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 12:40:32.949000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1jNymQwU6K4AQaQOewgGgK
@@ -50,6 +53,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-01-10 15:20:20.533000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 12:24:25.304000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4JUCLGscOcGSS8SMCq06og
@@ -65,6 +69,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 12:27:10.888000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 12:27:10.888000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2w9QtfzuOAuEsWmSC6MweQ
@@ -81,6 +86,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 12:37:03.943000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 12:37:03.943000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Landscape: thematic, chapter 2'
     body: "Indeed, the defining characteristic of rock art beyond its association
       with rock surfaces, is its placement within the geographical landscape. Landscapes
@@ -100,6 +106,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 12:41:25.070000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 12:41:25.070000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4mC1G2fnJ6uKEmoUWsWq0u
@@ -116,6 +123,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 15:57:49.267000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 16:38:09.121000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Landscape: thematic, chapter 3'
     body: "However, a major concern for archaeologists is the concept of \"landscape\"
       itself. The conception or notion of “landscape” is genenerally a cultural construct
@@ -145,6 +153,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 16:11:16.467000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 16:11:16.467000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5hZt83Mv4cu6UcWuAKyMg4
@@ -160,6 +169,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 16:13:22.652000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 16:16:10.141000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4BGLzXecpqKOsuwwiIaM6K
@@ -175,6 +185,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 16:37:41.994000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 16:37:41.994000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Landscape: thematic, chapter 4'
     body: |
       This idea that the landscape is not a passive backdrop but an experiential one took hold in archaeology in the early 1990s with an interest in the *Phenomenology of Landscape* (Tilley,1994). The basic premise of this philosophical approach is how humans’ experience ‘being’ in their worlds, whereby the idea of landscape comprises sets of relational places linked by pathways, movements and narratives. Tilley proposed that phenomenology provides a useful tool to think about how people in the past interacted sensorially with the landscape in which they lived.
@@ -185,6 +196,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 16:46:29.400000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 15:06:31.365000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: XUV6CjD6QouOWCoI8OoSq
@@ -202,6 +214,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 16:48:08.048000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 15:07:07.463000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 7eyjgnirUkqiwIQmwc8uoe
@@ -218,6 +231,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 16:53:04.584000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 15:08:04.758000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: Wmt1hBD2MwmGYUQccaIuW
@@ -236,6 +250,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 17:27:42.253000000 Z
       updated_at: !ruby/object:DateTime 2018-02-27 17:27:42.253000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Landscape: thematic, chapter 5'
     body: "The following rock art studies demonstrate both the advantages of a landscape
       approach in thinking about the placement of images and the creation of special
@@ -252,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-02-27 17:28:59.999000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 14:45:43.402000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1hXbvhDSf2CmOss6ec0CsS
@@ -268,6 +284,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-08 15:15:59.100000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 15:15:59.100000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: rt6DZs4Zs4Ei8GIEQcGaI
@@ -284,6 +301,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-08 15:18:58.887000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 15:18:58.887000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5y7VeXhwTCMYQAGWIEaYiq
@@ -300,6 +318,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-08 15:23:52.878000000 Z
       updated_at: !ruby/object:DateTime 2018-05-08 15:23:52.878000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5gAJaqtkRUI4Ie0KCEYemk
@@ -316,6 +335,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:11:55.103000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:11:55.103000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Landscape: thematic, chapter 6'
     body: "There are approximately 1000 rock art sites in the Brandberg, made by San&#124;Bushmen,
       and human occupation dates back at least 6000 years through to the 20th century.
@@ -384,6 +404,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:15:54.601000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:15:54.601000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1rRAJpaj6UMCs6qMKsGm8K
@@ -400,6 +421,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:17:50.584000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:17:59.757000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1yhBeyGEMYkuay2osswcyg
@@ -416,6 +438,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:20:22.816000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:20:22.816000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Landscape: thematic, chapter 7'
     body: |
       As Smith and Blundell have shown, a landscape approach to rock art in northern South Africa would have been “embarrassingly far off the mark” (2004:258) without being able to draw on ethnographic and ethnohistorical information. This does not negate the validity of a landscape approach as a legitimate and rational method of analysis, what is of concern for Smith and Blundell is “those arguments that treat landscape as an unproblematic given” (2004:259).
@@ -427,6 +450,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:25:02.891000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:25:02.891000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Lenssen-Erz, T. 2004. ‘The landscape setting of rock-painting
       sites in the Brandberg (Namibia): infrastructure, Gestaltung, use and meaning’,
       in Christopher Chippindale and George Nash (eds), The Figured Landscapes of

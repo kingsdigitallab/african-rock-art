@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:51:28.567000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 16:51:13.201000000 Z
     content_type_id: country
+    revision: 12
   name: Libya
   slug: libya
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=37611
@@ -45,6 +46,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:32:46.632000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:53:06.792000000 Z
       content_type_id: featured_site
+      revision: 3
     title: Fighting cats, Libya
     slug: fighting-cats
     chapters:
@@ -53,6 +55,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libya: featured site, chapter 1'
       body: Running from the Red Sea to the Atlantic Ocean, the Sahara is by far the
         world's largest hot desert. It covers over 3,500,000 square miles (9,000,000
@@ -70,6 +73,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:24:17.896000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 14:44:36.006000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 23Sckf5aOU4E8WOkg8yoIG
@@ -86,6 +90,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libya: featured site, chapter 2'
       body: |-
         Little is known about the people who lived in the Sahara thousands of years ago; however, through rock art, we can discern who they may have been and what images were important to them. Throughout the desert, rock art engravings and paintings depict an earlier story of the Sahara: the wild animals that lived there; the cattle herds that provided food and labour; their daily activities and beliefs are all displayed in caves and cliffs, valleys or plateaus.
@@ -98,6 +103,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: xe9mLFNrG0Ga6yUIoQycG
@@ -114,6 +120,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libya: featured site, chapter 3'
       body: 'Deep in the Messak Settafet is a site that has intrigued researchers
         for decades: the image known as ‘Fighting Cats’. This iconic engraving shows
@@ -127,6 +134,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3UCMJpOah2ayA8keMYsGkU
@@ -143,6 +151,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:28:48.305000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:29:09.496000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Libya: featured site, chapter 4'
       body: The technical quality of the engravings is exceptional, with deeply outlined
         and carefully polished bodies and carved cupules within their heads to depict
@@ -159,6 +168,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5WH8hIWyZOI0QWe0SyAkC8
@@ -175,7 +185,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Libya: featured site, chapter 5'
       body: Several other engravings are found throughout the wadi. In its lower part
         to the right, another cat-like or monkey figure has been depicted, although
@@ -188,6 +199,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1xfjGHyp6wMGQuKQikCeMo
@@ -204,6 +216,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libya: featured site, chapter 6'
       body: Besides its impressive position in the landscape, their expressivity and
         complex interpretation, the Fighting Cats keep a secret within. On the polished
@@ -218,6 +231,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1kO0IImYVGOk0oeQg6sqWm
@@ -234,6 +248,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libya: featured site, chapter 7'
       body: |-
         Another example of fighting cats has been found nearby, although it is neither so carefully made nor in such a prominent place. The similarity is, however, astonishing, and we may wonder if this second pair of beings could be a copy of the first pair, thus reflecting its symbolic importance in the people’s collective imagination.
@@ -260,6 +275,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:24:38.459000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:24:38.459000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Libya: key facts'
     image_count: 3,899 images
     date_range: Mostly 10,000 BC to AD 100
@@ -272,6 +288,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:46:43.669000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 17:44:43.683000000 Z
       content_type_id: thematic
+      revision: 5
     title: Hairdressing in the Acacus
     slug: hairdressing-in-the-acacus
     lead_image:
@@ -288,6 +305,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:42:35.115000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: hairdressing, chapter 1'
       body: Hair is a global form of social communication. Among numerous social groups
         throughout Africa, hairstyling and hairdressing hold great cultural and aesthetic
@@ -302,6 +320,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:38:46.614000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:27:05.950000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5vt4IZCBSEmAQESGiGIS6Q
@@ -318,6 +337,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:42:59.906000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:29:46.989000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: hairdressing, chapter 2'
       body: |-
         A particularly interesting set of images from Uan Amil in the Acacus Mountains, south-western Libya, reflect the cultural significance of hair in African societies. The scenes depict groups of people engaged in a variety of communal social practices wearing elaborate coiffures, together with some very discrete moments of personal hairdressing.
@@ -328,6 +348,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:39:31.382000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:38:40.565000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2PRW2sBJWgiEwA40U2GSiC
@@ -344,6 +365,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:43:22.643000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:40:09.594000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: hairdressing, chapter 3'
       body: 'The rock shelter of Uan Amil was discovered in 1957 by the Italian-Libyan
         Joint Archaeological Mission surveying in the Acacus and Messak regions of
@@ -363,6 +385,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:39:56.320000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:38:59.901000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1KUdkb6fbmW8KOsKWEcu02
@@ -380,6 +403,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:43:42.266000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:33:15.417000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Thematic: hairdressing, chapter 4'
       body: |-
         The Wodaabe number around 125,000. As pastoral nomads they migrate often and over large geographical areas, keeping mahogany-coloured Zebu cattle which have a hump on their back and long horns, shaped like a lyre. As a cultural group they have attracted much anthropological attention because of their traditional values of beauty (in particular the male beauty pageant) which pervades their everyday lives and practices.
@@ -390,6 +414,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:40:22.244000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:48:54.315000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2blaCOYdgYsqqCGakGIwoA
@@ -406,6 +431,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:44:06.559000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:32:51.163000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Thematic: hairdressing, chapter 5'
       body: |-
         A long, narrow face is also admired and this is enhanced by shaping the hair on top of the head, and also using an ostrich feather to elongate the face (Bovin,2001:26). The painting above, from Wadi Teshuinat, characterises this.
@@ -416,6 +442,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:40:47.827000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:54:21.695000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4gAFUKBZEsGKMie4cMomwS
@@ -432,6 +459,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:44:28.703000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 15:59:10.344000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: hairdressing, chapter 6'
       body: The cultural importance of hair is evident where depictions of hair-washing,
         hairstyling or hair preparation are an active element within more complex
@@ -450,6 +478,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:42:04.601000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:31:22.408000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1a8FFEsdsuQeYggMCAasii
@@ -467,6 +496,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:44:46.392000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:32:18.314000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: hairdressing, chapter 7'
       body: The Wodaabe invest vast amounts of time and resources in their outward
         appearance and the need to beautify and refine. ‘Art’ is not just something
@@ -487,6 +517,7 @@ contentful:
         created_at: !ruby/object:DateTime 2018-05-16 16:34:37.564000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:34:37.564000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: 'Bovin, Mette. 2001. Nomads Who Cultivate Beauty. Uppsala: Nordiska
         Afrikainstitutet'
     background_images:
@@ -509,6 +540,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:35:22.951000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:47:35.130000000 Z
       content_type_id: thematic
+      revision: 4
     title: Chariots in the Sahara
     slug: chariots-in-the-sahara
     lead_image:
@@ -525,6 +557,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:27:59.282000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:42:36.356000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 1'
       body: A number of sites from this Collection are located in the Libyan Desert,
         notably the Fezzan region, and include paintings of chariots in a variety
@@ -538,6 +571,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:18:19.534000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:43:36.197000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2Ed8OkQdX2YIYAIEQwiY8W
@@ -554,6 +588,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 2'
       body: The chariot has been one of the great empowering innovations of history.
         It likely originated in Mesopotamia about 3000 BC due to advances in metallurgy
@@ -570,6 +605,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:19:58.050000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:44:46.340000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5neJpIDOpyUQAWC8q0mCIK
@@ -586,6 +622,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 3'
       body: The chariot in the Sahara was probably introduced by the Garamantes, a
         cultural group thought to be descended from Berbers and Saharan pastoralists.
@@ -603,6 +640,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:20:33.572000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:45:32.605000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4DBpxlJqeAS4O0eYeCO2Ms
@@ -619,6 +657,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 4'
       body: On average there are about 500 drawings of chariots across the Sahara,
         from the Fezzan in Libya through the Aïr of Niger into northern Mali and then
@@ -640,6 +679,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:20:59.281000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:46:44.461000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4XYASoQz6UQggUGI8gqkgq
@@ -656,6 +696,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 5'
       body: The absence of archaeological evidence for chariots has led to the suggestion
         that some representations of chariots may have been the result of cultural
@@ -670,6 +711,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:21:42.421000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:48:40.965000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 279BaN9Z4QeOYAWCMSkyeQ
@@ -687,6 +729,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 28JPIQ4mYQCMYQmMQ0Oke8
@@ -702,6 +745,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:23:33.472000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:20:52.618000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 697LgKlm3SWSQOu8CqSuIO
@@ -718,6 +762,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:24:01.069000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:21:25.227000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5RKPaYinvOW6yyCGYcIsmK
@@ -734,6 +779,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:29:40.388000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:31:17.884000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 6'
       body: |-
         The two images may or may not depict chariots. The rectangular shapes are potentially abstracted forms of the chariot similar to the ‘flattened out’ depictions discussed previously. These potentially abstracted representations often sit alongside distinguishing figures, such as geometric bi-triangular figures, spears or lances, women wearing long dresses, and animals drawn in a fairly naturalistic style, of the Horse Period when the chariots were being used.
@@ -744,6 +790,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:24:30.605000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:31:46.413000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 74j3IOLwLS8IocMCACY2W
@@ -760,6 +807,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:30:08.834000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:33:37.308000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 7'
       body: |-
         In a similar manner to the schematic chariots, the 'Flying Gallop' depictions display the entire platform and both wheels of the chariot. In addition, more than one horse is depicted as a single horse in profile with numerous legs indicating multiple horses; an artistic technique first seen during the Upper Palaeolithic in Europe. Interestingly, in the Libyan rock art of the Acacus Mountains it seemed that animals could be conceived of in profile and in movement, but chariots were conceived of differently, and are represented in plain view, seen from above or in three-quarters perspective.
@@ -770,6 +818,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:25:19.180000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:34:17.369000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4Mn54dTjEQ80ssSOK0q0Mq
@@ -787,6 +836,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:26:17.455000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:34:59.909000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 7zQLgo270Am82CG0Qa6gaE
@@ -803,6 +853,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:30:27.301000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:35:36.578000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 8'
       body: Vast trading networks across the Sahara Desert not only facilitated the
         spread of goods, but the routes served as a conduit for cultural diffusion
@@ -819,6 +870,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:26:53.266000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:43:56.525000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4rwQF960rueIOACosUMwoa
@@ -836,6 +888,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:27:28.284000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:44:28.029000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 70cjifYtVeeqIOoOCouaGS
@@ -852,6 +905,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 9'
       body: A hoard of 100,000 Roman coins from the Diocletian period (not the above)
         were unearthed near Misurata, Libya, probably used to pay both regular Roman
@@ -863,6 +917,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: Mattingley, David. ‘Kingdom of the Sands', in *Current Archaeology*,
         Vol. 57 No 2, March/April 2004
     background_images:
@@ -885,6 +940,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       updated_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       content_type_id: thematic
+      revision: 1
     title: 'Introduction to rock art in northern Africa '
     slug: rock-art-in-northern-africa
     lead_image:
@@ -901,7 +957,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'North Africa: regional, chapter 1'
       body: 'The Sahara is the largest non-polar desert in the world, covering almost
         8,600,000 km² and comprising most of northern Africa, from the Red Sea to
@@ -920,6 +977,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:54:19.234000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:12:21.657000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1fzfpavYuGaOKaAM2ko6es
@@ -936,6 +994,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:31.891000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:40:03.509000000 Z
         content_type_id: chapter
+        revision: 3
       title: Types of rock art and distribution
       title_internal: 'North Africa: regional, chapter 2'
       body: |+
@@ -948,6 +1007,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         content_type_id: chapter
+        revision: 1
       title: History of research
       title_internal: 'North Africa: regional chapter 2.5'
       body: Although the existence of rock art throughout the Sahara was known to
@@ -963,6 +1023,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:54:54.847000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:13:53.921000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2N4uhoeNLOceqqIsEM6iCC
@@ -979,6 +1040,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:52.432000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:45:37.885000000 Z
         content_type_id: chapter
+        revision: 4
       title: Attribution and dating
       title_internal: 'North Africa: regional, chapter 3'
       body: 'The investigations of these researchers and those who have followed them
@@ -1000,6 +1062,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:55:22.104000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:16:53.318000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5A1AwRfu9yM8mQ8EeOeI2I
@@ -1016,6 +1079,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:59:26.852000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:18:29.234000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'North Africa: regional, chapter 4'
       body: |-
         Occasionally, association with writing in the form of, for example, Libyan-Berber or Arabic graffiti can give a known dating margin, but in general, lack of contemporary writing and written sources (Herodotus wrote about the Garamantes) leaves much open to conjecture.
@@ -1026,6 +1090,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:55:58.985000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:19:11.991000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1YAVmJPnZ2QQiguCQsgOUi
@@ -1042,6 +1107,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'North Africa: regional, chapter 5'
       body: A possibly concurrent phase is known as the Round Head Period (about 10,000
         to 8,000 years ago) due to the large discoid heads of the painted human figures.
@@ -1057,6 +1123,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:56:25.598000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:39:22.861000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6MOI9r5tV6Gkae0CEiQ2oQ
@@ -1073,6 +1140,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:00:04.267000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:30:04.896000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'North Africa: regional, chapter 6'
       body: "While this chronology serves as a useful framework, it must be remembered
         that the area – and the time period in which rock art was produced – is extensive
@@ -1095,6 +1163,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |
         Le Quellec, J. 1998. Art rupestre et préhistoire du Sahara: le Messak Libyen. Paris: Payot & Rivages
 
@@ -1130,6 +1199,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:35:54.777000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:42:46.961000000 Z
       content_type_id: country_information
+      revision: 2
     title: 'Libya: country introduction'
     chapters:
     - sys:
@@ -1137,6 +1207,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:29:44.896000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:29:44.896000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Libya: country, chapter 1'
       body: 'Rock art occurs in two main areas in Libya: the Tadrart Acacus and the
@@ -1155,6 +1226,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:26:30.631000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:26:30.631000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 16a6qAimaaWYqcwqUqMKIm
@@ -1171,6 +1243,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:30:08.049000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:30:08.049000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography
       title_internal: 'Libya: country, chapter 2'
       body: The fourth largest country in Africa, Libya is located in the Maghreb
@@ -1188,6 +1261,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:27:03.984000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:27:03.984000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: YbgSaS84Eu0gE8yKEcI48
@@ -1203,6 +1277,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:30:46.023000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:30:46.023000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Libya: country, chapter 3'
       body: The Messak rock art has been known to Europeans since Heinrich Barth’s
@@ -1220,6 +1295,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:31:13.353000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:31:13.353000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology and early rock art
       title_internal: 'Libya: country, chapter 4'
       body: |-
@@ -1231,6 +1307,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:27:31.261000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:27:31.261000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4eOnyF3wVymkGMgOkmQsYm
@@ -1247,6 +1324,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:31:36.221000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:31:36.221000000 Z
         content_type_id: chapter
+        revision: 1
       title: Round Head Period
       title_internal: 'Libya: country, chapter 5'
       body: From around 9,000 years ago, the archaeological record in the Acacus changes;
@@ -1265,6 +1343,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:28:01.442000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:28:01.442000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 2diYKwS63u0MYs8eC4aesU
@@ -1281,6 +1360,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:32:06.214000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:32:06.214000000 Z
         content_type_id: chapter
+        revision: 1
       title: Pastoral Period
       title_internal: 'Libya: country, chapter 6'
       body: The introduction of domesticates into the region has been identified archaeologically
@@ -1294,6 +1374,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:28:36.906000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:28:36.906000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3EDRZDxlckISY0Gc0c44QK
@@ -1310,6 +1391,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:32:47.033000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 14:42:33.634000000 Z
         content_type_id: chapter
+        revision: 2
       title: Horse and Camel Periods
       title_internal: 'Libya: country, chapter 7'
       body: |-
@@ -1321,6 +1403,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:29:09.712000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:29:09.712000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4ShhlHTP4A08k6Ck0WmCme
@@ -1338,6 +1421,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:25:53.864000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:25:53.864000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Brooks, N., I. Chiapello, S. di Lernia, N. Drake, M.Legrand, C. Moulin and J. Pospero. 2005. *The Climate-Environment-Society Nexus in the Sahara from Prehistoric Times to the Present Day*. The Journal of North African Studies, Vol. 10, No 3-4, pp. 253-292
 

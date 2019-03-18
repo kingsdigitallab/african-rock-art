@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-09-12 11:02:35.091000000 Z
     updated_at: !ruby/object:DateTime 2016-09-13 13:32:13.193000000 Z
     content_type_id: featured_site
+    revision: 7
   title: Tsodilo Hills, Botswana
   slug: tsodilo
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.590000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.590000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Botswana: featured site, chapter 1'
     body: 'Tsodilo Hills, located in north-west Botswana, contains around 400 rock
@@ -34,6 +36,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:31:14.266000000 Z
       updated_at: !ruby/object:DateTime 2018-05-11 16:05:40.114000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1sR7vldVp2WgiY8MUyWI8E
@@ -51,6 +54,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.644000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.644000000 Z
       content_type_id: chapter
+      revision: 1
     title: Rock Art
     title_internal: 'Botswana: featured site, chapter 2'
     body: The paintings at Tsodilo are unique in comparison to other San&#124;Bushmen
@@ -70,6 +74,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.677000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.677000000 Z
       content_type_id: chapter
+      revision: 1
     title: The Red Paintings
     title_internal: 'Botswana: featured site, chapter 3'
     body: 'The subject matter of red finger-painted depictions can be divided into
@@ -81,6 +86,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:31:54.679000000 Z
       updated_at: !ruby/object:DateTime 2018-05-11 16:06:23.440000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1ciquTlk7CuacgoUmGW4ko
@@ -97,6 +103,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.705000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.705000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: featured site, chapter 4'
     body: 'Human figures are schematic and depicted by two intersecting lines, a vertical
       line which thickens at the middle to indicate hips and buttocks, and the other
@@ -108,6 +115,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:03.882000000 Z
       updated_at: !ruby/object:DateTime 2018-05-11 16:07:16.062000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3o0or3SkLeYGGUoAY0eesW
@@ -125,6 +133,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.552000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.552000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: featured site, chapter 5'
     body: 'Geometric designs include circles and ovals with internal grid patterns,
       rectilinear motifs termed “shields”, some handprints and rows of finger impressions.
@@ -136,6 +145,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:11.837000000 Z
       updated_at: !ruby/object:DateTime 2018-05-11 16:11:48.100000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6vCru3T4QwO8kSOSSUwOsG
@@ -152,6 +162,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.799000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.799000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: featured site, chapter 6'
     body: While most of the images in the Tsodilo Hills seem to be discrete depictions,
       some sites show figures. Some of these figures are with cattle as well as women
@@ -166,6 +177,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:29.588000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.588000000 Z
       content_type_id: chapter
+      revision: 1
     title: Late White Paintings
     title_internal: 'Botswana: featured site, chapter 7'
     body: White finger-painted images appear more crudely executed and are made from
@@ -181,6 +193,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:18.860000000 Z
       updated_at: !ruby/object:DateTime 2018-05-11 16:12:37.841000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: k0cOVVuRnUmcWEYUQsuiG
@@ -197,6 +210,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.484000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 12:43:48.178000000 Z
       content_type_id: chapter
+      revision: 3
     title: Cupules/Grooves
     title_internal: 'Botswana: featured site, chapter 8'
     body: There are no engravings at Tsodilo representing animals or human figures,
@@ -220,6 +234,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:30.877000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 12:44:51.891000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 65NOs0Iic0kGmCKyEQqSSO
@@ -236,6 +251,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.503000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 11:07:04.906000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Botswana: featured site, chapter 9'
     body: Grooves are less common than cupules, but are often easier to detect. They
       occur in small groups of 3 to 15 and are elongated oval or canoe-like in shape,
@@ -247,6 +263,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.536000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:31:07.523000000 Z
       content_type_id: chapter
+      revision: 5
     title: Who were the artists?
     title_internal: 'Botswana: featured site, chapter 10'
     body: "It is a bit of a mystery about who actually created the paintings at Tsodilo,
@@ -267,6 +284,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.558000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 11:10:22.009000000 Z
       content_type_id: chapter
+      revision: 2
     title: Dating
     title_internal: 'Botswana: featured site, chapter 11'
     body: The paintings at Tsodilo are often faded because they are located on rock
@@ -282,6 +300,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:40.775000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 12:49:05.907000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: Y7kLCRLHA2ciIS8eQOSyQ
@@ -298,6 +317,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.552000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:30.552000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: featured site, chapter 12'
     body: 'Similarly, the first horses known to reach Tsodilo belonged to a party
       of Griqua traders who passed nearby on their way to Andara in 1852, the earliest
@@ -310,6 +330,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:49.588000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:32:39.837000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 59TnAobO36C8wcEkwwq2Yq
@@ -327,6 +348,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.591000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:30:30.591000000 Z
       content_type_id: chapter
+      revision: 1
     title: Interpretation
     title_internal: 'Botswana: featured site, chapter 13'
     body: "Giraffe, eland and rhino are by far the most common species depicted at
@@ -345,6 +367,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:32:56.778000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:35:20.813000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: y5jBKXYeoCcMusKuIcKeG
@@ -362,6 +385,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:30:30.775000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:36:08.602000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Botswana: featured site, chapter 14'
     body: "Geometric designs are trickier to decipher.  Square geometric designs,
       also known as “shields” possibly represent human forms. Circular designs sometimes
@@ -378,6 +402,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:31:24.274000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:31:38.744000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: Botswana Chapter 14
     body: "¹ San&#124;Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -390,6 +415,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:33:04.551000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:33:04.551000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Campbell, Alec; Robbins, Larry, Taylor, Michael (2010) Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 

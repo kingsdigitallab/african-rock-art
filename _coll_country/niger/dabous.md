@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 15:50:42.860000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:52:09.605000000 Z
     content_type_id: featured_site
+    revision: 4
   title: Dabous, Niger
   slug: dabous
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:44:58.105000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:44:58.105000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 1'
     body: Dabous is located in north-eastern Niger, where the Ténéré desert meets
       the slopes of the Aïr Mountains. The area has been part of the trans-Saharan
@@ -31,6 +33,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:38:46.775000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:38:46.775000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 56TaQ0UFBK8sEE4GWaQOcw
@@ -47,6 +50,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:45:19.771000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:45:19.771000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 2'
     body: |-
       Recorded in 1987 by French archaeologist Christian Dupuy, two remarkable life-size engravings of giraffe have generated much interest due to the size, realism and technique of the depictions. The two giraffe, thought to be one large male in front of a smaller female, were engraved on the weathered surface of a sandstone outcrop. The larger giraffe measures 5.4 m from top to toe and combines several techniques of production, including scraping, smoothing and deep engraving of the outlines.
@@ -57,6 +61,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:39:28.089000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:39:28.089000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6Y2u961dcWISC2E2CK62KS
@@ -73,6 +78,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:40:08.118000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:40:08.118000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: n2nHWRqjXE0qkaEqCWK6Y
@@ -89,6 +95,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:45:53.655000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:45:53.655000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 3'
     body: |-
       The engravings cannot be seen from ground level; they are only visible by climbing onto the boulder. They are thought to date from between 6,000 and 8,000 years ago – a period known as the Neolithic Subpluvial, when environmental conditions were much wetter and the Sahara was a vast savannah stretching for thousands of miles, able to sustain large mammals such as giraffe. The soft sandstone is likely to have been incised using a harder material such as flint; there are chisels of petrified wood in the surrounding desert sands which would have acted as good tools for abrading and polishing outlines. It is easy to imagine people in the past sitting on the rocky outcrop watching these long-necked, graceful animals and immortalising them in stone for future generations.
@@ -99,6 +106,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:40:37.408000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:40:37.408000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4yEY9exQaswSA6k6Gu02c6
@@ -115,6 +123,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:46:12.778000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:46:12.778000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 4'
     body: |-
       While the giraffe have taken centre stage at this site because of their size and the skill of the execution, a systematic study of the area has identified 828 further engravings, including 704 zoomorphs (animal forms), 61 anthropomorphs (human forms), and 17 inscriptions of Tifinâgh script. The animals identified include: bovines (cattle ) (46%), ostrich (16%), antelope and gazelle (16%), giraffe (16%), and finally 12 dromedaries (camels), 11 canids (dog-like mammals), 6 rhinoceros, 3 equids (horses or donkeys), 2 monkeys, 2 elephants, and 1 lion.
@@ -125,6 +134,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:41:06.708000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:41:06.708000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5Lzyd3mFTUII2MEkgQ0ki2
@@ -141,6 +151,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:46:46.760000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:46:46.760000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 5'
     body: Gobero is located at the western tip of the Ténéré desert in Niger, approximately
       150 km south-east of the Aïr Mountains. Situated on the edge of a paleaolake
@@ -155,6 +166,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:41:32.700000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:41:32.700000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 24rwZWG7UA02KCgcKeaOQS
@@ -171,6 +183,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:47:13.849000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:47:13.849000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 6'
     body: This cultural group were largely sedentary; their subsistence economy was
       based on fishing (Nile perch, catfish, soft-shell turtles) and hunting (hippos,
@@ -186,6 +199,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:41:59.887000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:08:32.539000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6HNDioOx44CMaGCccQQE2G
@@ -202,6 +216,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:47:33.801000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:47:33.801000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 7'
     body: Unfortunately, the engravings have been subject to deterioration as a result
       of human intervention such as trampling, graffiti and fragments being stolen.
@@ -216,6 +231,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:48:27.320000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:48:27.320000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: featured site, chapter 8'
     body: In 2000, the giraffe engravings at Dabous were declared one of the 100 Most
       Endangered Sites by the [World Monuments Watch](https://www.wmf.org/). Today,
@@ -227,6 +243,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:43:52.331000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 18:25:23.674000000 Z
       content_type_id: citation
+      revision: 3
     citation_line: |+
       Dupuy Christian. ‘Réflexions sur l'identité des guerriers représentés dans les gravures de l'Adrar des Iforas et de l'Aïr’ in *Sahara*, 10, pp.31-54
 

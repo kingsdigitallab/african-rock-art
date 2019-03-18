@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 15:56:49.531000000 Z
     updated_at: !ruby/object:DateTime 2016-12-22 10:40:11.535000000 Z
     content_type_id: regional_introduction
+    revision: 9
   title: 'Introduction to rock art in northern Africa '
   intro_progress: true
   slug: rock-art-in-northern-africa
@@ -22,7 +23,8 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 1
+    title: 
     title_internal: 'North Africa: regional, chapter 1'
     body: 'The Sahara is the largest non-polar desert in the world, covering almost
       8,600,000 km² and comprising most of northern Africa, from the Red Sea to the
@@ -41,6 +43,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:54:19.234000000 Z
       updated_at: !ruby/object:DateTime 2016-12-22 10:12:21.657000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1fzfpavYuGaOKaAM2ko6es
@@ -57,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:58:31.891000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 13:40:03.509000000 Z
       content_type_id: chapter
+      revision: 3
     title: Types of rock art and distribution
     title_internal: 'North Africa: regional, chapter 2'
     body: |+
@@ -69,6 +73,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
       content_type_id: chapter
+      revision: 1
     title: History of research
     title_internal: 'North Africa: regional chapter 2.5'
     body: Although the existence of rock art throughout the Sahara was known to local
@@ -84,6 +89,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:54:54.847000000 Z
       updated_at: !ruby/object:DateTime 2016-12-22 10:13:53.921000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2N4uhoeNLOceqqIsEM6iCC
@@ -100,6 +106,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:58:52.432000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 13:45:37.885000000 Z
       content_type_id: chapter
+      revision: 4
     title: Attribution and dating
     title_internal: 'North Africa: regional, chapter 3'
     body: 'The investigations of these researchers and those who have followed them
@@ -121,6 +128,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:55:22.104000000 Z
       updated_at: !ruby/object:DateTime 2016-12-22 10:16:53.318000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5A1AwRfu9yM8mQ8EeOeI2I
@@ -137,6 +145,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:59:26.852000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:18:29.234000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'North Africa: regional, chapter 4'
     body: |-
       Occasionally, association with writing in the form of, for example, Libyan-Berber or Arabic graffiti can give a known dating margin, but in general, lack of contemporary writing and written sources (Herodotus wrote about the Garamantes) leaves much open to conjecture.
@@ -147,6 +156,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:55:58.985000000 Z
       updated_at: !ruby/object:DateTime 2016-12-22 10:19:11.991000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1YAVmJPnZ2QQiguCQsgOUi
@@ -163,6 +173,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'North Africa: regional, chapter 5'
     body: A possibly concurrent phase is known as the Round Head Period (about 10,000
       to 8,000 years ago) due to the large discoid heads of the painted human figures.
@@ -177,6 +188,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:56:25.598000000 Z
       updated_at: !ruby/object:DateTime 2016-12-22 10:39:22.861000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6MOI9r5tV6Gkae0CEiQ2oQ
@@ -193,6 +205,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 16:00:04.267000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:30:04.896000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'North Africa: regional, chapter 6'
     body: "While this chronology serves as a useful framework, it must be remembered
       that the area – and the time period in which rock art was produced – is extensive
@@ -215,6 +228,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |
       Le Quellec, J. 1998. Art rupestre et préhistoire du Sahara: le Messak Libyen. Paris: Payot & Rivages
 

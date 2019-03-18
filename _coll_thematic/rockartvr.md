@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2017-03-13 02:40:28.121000000 Z
     updated_at: !ruby/object:DateTime 2017-03-13 02:40:28.121000000 Z
     content_type_id: thematic
+    revision: 1
   title: Rock Art VR - Game Pass Shelter Mobile App
   slug: rockartvr
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:11:18.812000000 Z
       updated_at: !ruby/object:DateTime 2017-03-27 14:35:10.794000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3uawILzjCMg28ISmOO2Eyk
@@ -35,6 +37,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:15:13.768000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:40:23.061000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: rockartvr, chapter 1'
     body: "Come and explore a rock art site in South Africa! Using digital imagery
       from the African Rock Art Image Project at the British Museum, this interactive
@@ -48,6 +51,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:17:09.190000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:17:09.190000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 45vNSBVEZqgGyOcIAAsOw4
@@ -64,6 +68,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:17:54.604000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:17:54.604000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 2'
     body: This app will take you to Game Pass Shelter, one of the most well-known
       rock art sites in South Africa. Situated in the Drakensberg mountains, the shelter
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:19:05.899000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:19:05.899000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6Z7Fmlzd0kSYk2qU2S0eoo
@@ -91,6 +97,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:20:07.762000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:20:07.762000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 3'
     body: This app uses images from the African Rock Art Image Project, the largest
       archive of digitised images (also known as ‘born digital’ artifacts) recording
@@ -104,6 +111,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:23:08.612000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:23:08.612000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3fD4DQqyTS2UgwoyeqEYkc
@@ -120,6 +128,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:25:15.926000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:25:15.926000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 4'
     body: |-
       Using innovative digital technology and photogrammetry in combination with our extensive archival photographic collections, we started experimenting with making [3D models](https://sketchfab.com/britishmuseum/collections/african-rock-art) of rock art solely using 20-year-old digitised, archival photographs of the rock art sites.  Building on this work, we realised it would be possible to use these techniques to further contextualize rock art sites in their landscape environment, combining archival images and records with satellite imagery and 360° images of a site -- a technique which proves hugely important for possible reconstructions of heritage sites largely using historical photos!
@@ -130,6 +139,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:26:10.014000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:26:20.136000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6hYygcn6LKye0KQu4WE2Qi
@@ -146,6 +156,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:26:58.085000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:26:58.085000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 5'
     body: 'The app begins (after the title page and instructions for using the cardboard
       viewer) with an automated opening sequence  showing the location of Game Pass
@@ -157,6 +168,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:27:44.722000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:27:44.722000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4MLN0mgROgUe4e444yUUQE
@@ -171,6 +183,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:28:22.643000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:28:22.643000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 6'
     body: The interactive portion of the app then begins, with users following a path
       up the hillside to Game Pass Shelter, experiencing six places en route with
@@ -180,6 +193,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:29:27.383000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:29:27.383000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: a2qVgKlOU0IgeU8CGkooi
@@ -196,6 +210,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:30:08.600000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:30:08.600000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 7'
     body: This interactive tour is self-led and culminates with the user discovering
       two key rock art panels at the shelter site. When the user clicks on the highlighted
@@ -208,6 +223,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:32:53.962000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:32:53.962000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5bDwOlwnhm2CgCescKQoS6
@@ -228,6 +244,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:33:43.173000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:33:43.173000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: rockartvr, chapter 8'
     body: 'The desired user’s outcomes for using the app include: 1) to gain a first-hand
       experience exploring an African rock art site virtually; 2) to learn about the
@@ -241,6 +258,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-03-13 02:34:51.546000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:35:02.983000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1zVZ5PiOc0ukuISI6GUKQK
@@ -255,8 +273,9 @@ contentful:
   - sys:
       id: 75ifs3faSWy0qw2eUS4Yu4
       created_at: !ruby/object:DateTime 2017-03-13 02:37:17.726000000 Z
-      updated_at: !ruby/object:DateTime 2017-03-13 02:44:02.813000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 16:11:08.975000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Thematic: rockartvr, chapter 9'
     body: "We lauched the app in November 2016 with an event in the Great Court at
       the British Museum, where over 150 visitors used the app for the first time
@@ -274,12 +293,14 @@ contentful:
       [https://play.google.com/store/apps/details?id=com.soluis.gamepassshelter&hl=en_GB\n](https://play.google.com/store/apps/details?id=com.soluis.gamepassshelter&hl=en_GB)\n\nThis
       app is made available as an educational resource under an Attribution-Non Commercial-ShareAlike
       4.0 International (CC BY-NC-SA 4.0) license. Images copyright ©TARA/David Coulson
-      & African Conservation Trust\n\nFor more information:\nwww.britishmuseum.org/africanrockart\n[http://www.projectafrica.com/](http://www.projectafrica.com/)"
+      & African Conservation Trust\n\nFor more information:\n[https://africanrockart.org/](https://africanrockart.org/
+      \"Trust for African Rock Art (TARA)\")\n[http://www.projectafrica.com/](http://www.projectafrica.com/)"
   - sys:
       id: 3dnPPXO03ecUwA2ymasCKo
       created_at: !ruby/object:DateTime 2017-03-13 02:38:10.252000000 Z
       updated_at: !ruby/object:DateTime 2017-03-13 02:38:10.252000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6p0X9HegW4ikqMIUGCuMMc

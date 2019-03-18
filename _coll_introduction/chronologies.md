@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 09:54:46.501000000 Z
     updated_at: !ruby/object:DateTime 2018-05-25 17:16:46.300000000 Z
     content_type_id: introduction
+    revision: 6
   title: Chronologies
   slug: chronologies
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:55:17.375000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:55:17.375000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'General: chronologies, chapter 1'
     body: The axiom that rock art is notoriously difficult to date serves only to
@@ -38,6 +40,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:53:28.667000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:20:54.393000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5nqN2H6iB2W0GUsOOiuasa
@@ -54,6 +57,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:55:43.388000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:55:43.388000000 Z
       content_type_id: chapter
+      revision: 1
     title: Dating paintings
     title_internal: 'General: chronologies, chapter 2'
     body: 'Determining the age of rock art depictions has always been one of the main
@@ -65,6 +69,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:56:05.387000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:56:05.387000000 Z
       content_type_id: chapter
+      revision: 1
     title: Relative Dating
     title_internal: 'General: chronologies, chapter 3'
     body: |-
@@ -76,6 +81,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:56:25.708000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:56:25.708000000 Z
       content_type_id: chapter
+      revision: 1
     title: Absolute Dating
     title_internal: 'General: chronologies, chapter 4'
     body: The second type of dating is called absolute dating and provides concrete
@@ -93,6 +99,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:53:54.918000000 Z
       updated_at: !ruby/object:DateTime 2016-12-19 17:25:47.847000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6SWz7d0wSckMi2eMKsWAig
@@ -109,6 +116,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:56:47.364000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:04:26.721000000 Z
       content_type_id: chapter
+      revision: 2
     title: Dating engravings
     title_internal: 'General: chronologies, chapter 5'
     body: 'The study of engravings is even more difficult, as it is based on the changes
@@ -130,6 +138,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:54:23.552000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:54:23.552000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4CGawd5fWUaQicOIEk8omA
@@ -146,6 +155,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:57:08.516000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 09:57:08.516000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'General: chronologies, chapter 6'
     body: In practice, the dating of rock art is achieved through a combination of
       relative and - when possible - absolute dating methods, although relative techniques
@@ -160,6 +170,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 09:58:41.032000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:02:09.180000000 Z
       content_type_id: chapter
+      revision: 2
     title: Chronologies in northern Africa
     title_internal: 'General: chronologies, chapter 7'
     body: |-
@@ -182,6 +193,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:02:41.150000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:02:41.150000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronologies in southern Africa
     title_internal: 'General: chronologies, chapter 8'
     body: Although a vast amount of work has been undertaken in rock art research
@@ -195,6 +207,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:03:13.893000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:03:13.893000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'General: chronologies, chapter 9'
     body: |-
       __Relative dating__
@@ -211,6 +224,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:03:58.473000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:03:58.473000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronologies in central and eastern Africa
     title_internal: 'General: chronologies, chapter 10'
     body: |-

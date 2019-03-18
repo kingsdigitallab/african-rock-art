@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:44:17.012000000 Z
     updated_at: !ruby/object:DateTime 2018-05-15 15:09:13.279000000 Z
     content_type_id: country
+    revision: 12
   name: Kenya
   slug: kenya
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40899
@@ -14,16 +15,16 @@ contentful:
   - sys:
       id: QcwzqQBmEuGWGqC8yKYEM
       created_at: !ruby/object:DateTime 2015-12-08 18:21:55.079000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-08 18:21:55.079000000 Z
-    title: KENVIC0010004 1
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:09:37.621000000 Z
+    title: '2013,2034.14238'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3685727&partId=1&searchText=KENVIC0010004&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/QcwzqQBmEuGWGqC8yKYEM/18c3688b65a4a7c3e395e86ced3eec07/KENVIC0010004_1.jpg"
   - sys:
       id: 4egfSRDx3qCckaKuOsOOMC
       created_at: !ruby/object:DateTime 2015-12-08 18:21:55.087000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-08 18:21:55.087000000 Z
-    title: KENLAI0060017 1
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:11:24.671000000 Z
+    title: '2013,2034.13018'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3700186&partId=1&searchText=KENLAI0060017&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4egfSRDx3qCckaKuOsOOMC/7acacc9bb5777123390902f431833a08/KENLAI0060017_1.jpg"
   featured_site:
     sys:
@@ -31,6 +32,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:47:03.425000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 18:51:10.317000000 Z
       content_type_id: featured_site
+      revision: 6
     title: Mfangano Island, Kenya
     slug: mfangano-island
     chapters:
@@ -39,6 +41,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 13:54:02.102000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:54:02.102000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: featured site, chapter 1'
       body: 'Lake Victoria is the largest lake in Africa, and at 69,484km², the second
         largest in the world by surface area.   Sitting in a depression in the plateau
@@ -55,6 +58,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:47:44.566000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:45:35.105000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 37G9MkkxFuC0mu6qGwcs2y
@@ -70,6 +74,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 13:55:03.942000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:55:03.942000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: featured site, chapter 2'
       body: Mawanga is a roughly triangular limestone cavern, about 18m wide across
         the mouth and 12m deep.  The roof slopes sharply to the back towards a raised
@@ -92,6 +97,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:49:05.022000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:46:53.507000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 4RTDlc6IOIikMaMg8mQaoc
@@ -107,6 +113,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:49:47.517000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:47:08.898000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 516BFdHg1G4yO6IkWOQimW
@@ -122,6 +129,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 13:55:35.312000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:55:35.312000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: featured site, chapter 3'
       body: The circular shapes seen here are typical of an apparent wider East and
         Central African rock art tradition featuring a preponderance of circular motifs,
@@ -141,6 +149,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:50:25.070000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 17:17:59.954000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 2wD915QEYQqsQCCyEusyoW
@@ -157,6 +166,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 13:56:16.375000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:56:16.375000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: featured site, chapter 4'
       body: 'Further examples of apparently Batwa origin rock art can be seen in neighbouring
         Uganda and Tanzania, a reminder that contemporary political borders do not
@@ -181,6 +191,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:51:05.574000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 17:18:53.166000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: iF8lN8WDzqKWeu2OUQ8gc
@@ -196,6 +207,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 13:57:11.093000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:57:11.093000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: featured site, chapter 5'
       body: 'The rock art sites of the eastern Lake Victoria region retain spiritual
         connotations for the communities living around them, even if their denoted
@@ -220,6 +232,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:51:38.839000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 17:19:17.336000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 4QK41OYhpSa0qogICAW2aQ
@@ -236,6 +249,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 13:59:14.477000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 13:59:14.477000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: featured site, chapter 6'
       body: In 2014, Jack Obonyo, curator of the Abasuba Peace Museum, [visited The
         British Museum](http://www.britishmuseum.org/pdf/BM_Africa_Programme_Newsletter_spring_2015.pdf)
@@ -248,6 +262,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:52:31.875000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 12:52:31.875000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Chaplin, J.H. 1974. *The Prehistoric rock art of the lake Victoria region*. Azania, IX, 1-50.
 
@@ -275,6 +290,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-27 15:25:45.996000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 15:25:45.996000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Kenya: key facts'
     image_count: 1381 images
     date_range: Mostly 1,000 BC to the 20th century
@@ -288,6 +304,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
       content_type_id: thematic
+      revision: 4
     title: Geometric motifs and cattle brands
     slug: geometric-motifs
     lead_image:
@@ -304,6 +321,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 1'
       body: |-
         The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
@@ -314,6 +332,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5yD7fOuAdU4cemkewCqCMO
@@ -330,7 +349,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Geometric motifs: thematic, chapter 2'
       body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
         symbols occur are associated with meat-feasting ceremonies. Meat-feasting
@@ -347,6 +367,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1lBqQePHxK2Iw8wW8S8Ygw
@@ -364,6 +385,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 3'
       body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a
         similar visible relationship. The southernmost site is well known for its
@@ -377,6 +399,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 19lqDiCw7UOomiMmYagQmq
@@ -394,6 +417,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 4'
       body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
         of animals signifies a sense of belonging rather than a mark of ownership
@@ -416,6 +440,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5yUlpG85GMuW2IiMeYCgyy
@@ -432,6 +457,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 5'
       body: "However, not all pastoralist geometric motifs can be associated with
         meat-feasting or livestock branding; they may have wider symbolism or be symbolic
@@ -458,6 +484,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
         content_type_id: citation
+        revision: 3
       citation_line: |-
         Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
 
@@ -494,6 +521,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       updated_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       content_type_id: thematic
+      revision: 1
     title: Introduction to rock art in central and eastern Africa
     slug: rock-art-in-central-and-east-africa
     lead_image:
@@ -510,6 +538,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:09:33.580000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:17:25.155000000 Z
         content_type_id: chapter
+        revision: 4
       title: Central and East Africa
       title_internal: 'East Africa: regional, chapter 1'
       body: |-
@@ -521,6 +550,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:57:48.121000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:05:00.916000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3esXNapo5GOWIKSImcY4QW
@@ -536,6 +566,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:23.723000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:18:19.325000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 2'
       body: This collection from Central and East Africa comprises rock art from Kenya,
         Uganda and Tanzania, as well as the Horn of Africa; although predominantly
@@ -545,6 +576,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:59.991000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:34:14.653000000 Z
         content_type_id: chapter
+        revision: 3
       title: History of research
       title_internal: 'East Africa: regional, chapter 3'
       body: |-
@@ -556,6 +588,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:59:25.796000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:07:03.973000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 6KOxC43Z9mYCuIuqcC8Qw0
@@ -573,6 +606,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-12-09 11:56:31.754000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:21:03.240000000 Z
         content_type_id: chapter
+        revision: 4
       title: 'Categories: EAST AFRICA'
       title_internal: Intro to east africa, chapter 3.5
       body: "Rock art of East Africa consists mainly of paintings, most of which are
@@ -603,6 +637,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:07.434000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:08:30.262000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 1fy9DD4BWwugeqkakqWiUA
@@ -620,6 +655,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:12:00.544000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:21:09.647000000 Z
         content_type_id: chapter
+        revision: 8
       title_internal: 'East Africa: regional, chapter 4'
       body: "Zambian rock art does not share any similarities with Tanzanian rock
         art and can be divided into two categories; animals (with a few depictions
@@ -644,6 +680,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:41.789000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:10:04.890000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hoZEK3d2Oi8iiWqoWACo
@@ -660,6 +697,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:58.494000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:11:37.760000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3bqDVyvXlS0S6AeY2yEmS8
@@ -676,6 +714,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 5'
       body: |-
         *__Late White Paintings__*:
@@ -685,6 +724,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:01:26.458000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:14:02.819000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6RGZZQ13qMQwmGI86Ey8ei
@@ -702,6 +742,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:01:57.959000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:17:01.270000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1UT4r6kWRiyiUIYSkGoACm
@@ -719,6 +760,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 6'
       body: |-
         *__Meat-feasting paintings__*:
@@ -728,6 +770,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:23.595000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:19:11.619000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: p4E0BRJzossaus6uUUkuG
@@ -744,6 +787,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:45.427000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:20:14.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1RLyVKKV8MA4KEk4M28wqw
@@ -760,6 +804,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:15:34.582000000 Z
         updated_at: !ruby/object:DateTime 2016-12-19 17:56:54.946000000 Z
         content_type_id: chapter
+        revision: 3
       title: 'Categories: CENTRAL AFRICA'
       title_internal: 'East Africa: regional, chapter 7'
       body: The rock art of central Africa is attributed to hunter-gatherers known
@@ -780,6 +825,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:03:40.666000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:17:19.197000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 2MOrR79hMcO2i8G2oAm2ik
@@ -798,6 +844,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:16:07.130000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:16:19.722000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 8'
       body: "*__Engravings__*:\nThere are a few engravings occurring on inland plateaus
         but these have elicited little scientific interest and are not well documented.
@@ -810,8 +857,9 @@ contentful:
     - sys:
         id: LrZuJZEH8OC2s402WQ0a6
         created_at: !ruby/object:DateTime 2015-11-25 19:03:59.496000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:19:05.545000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 02:21:09.767000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 1uc9hASXXeCIoeMgoOuO4e
@@ -821,13 +869,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
       caption: Group of anthropomorphic stelae with carved faces. Tuto Fela, Southern
-        Ethiopia. © TARA/David Coulson 2013,2034.16206 (not yet uploaded)
+        Ethiopia. © TARA/David Coulson 2013,2034.16206
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3703754
     - sys:
         id: 7EBTx1IjKw6y2AUgYUkAcm
         created_at: !ruby/object:DateTime 2015-11-25 19:16:37.210000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:22:04.007000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 9'
       body: In the Sidamo region of Ethiopia, around 50 images of cattle are engraved
         in bas-relief on the wall of a gorge. All the engravings face right and the
@@ -839,6 +888,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:04:34.186000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:22:24.891000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: PlhtduNGSaOIOKU4iYu8A
@@ -856,6 +906,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:17:53.336000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:25:38.678000000 Z
         content_type_id: chapter
+        revision: 3
       title: Rock art in the Horn of Africa
       title_internal: 'East Africa: regional, chapter 10'
       body: "The Horn of Africa has historically been a crossroads area between the
@@ -886,6 +937,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:04:53.913000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:23:29.512000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3ylztNmm2cYU0GgQuW0yiM
@@ -902,6 +954,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:18:28.056000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:26:13.401000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 11'
       body: |-
         Rock art in the Horn of Africa faces several challenges. One of them is the lack of consolidated chronologies and absolute dating for the paintings and engravings. Another is the uneven knowledge of rock art throughout the region, with research often affected by political unrest. Therefore, distributions of rock art in the region are steadily growing as research is undertaken in one of the most interactive areas in East Africa.
@@ -913,6 +966,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:08:04.014000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:24:18.659000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: "Anati, E.  1996. ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa*. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14 September.\n\nČerviček, P. 1971.
@@ -963,6 +1017,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:35:38.627000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:43:02.363000000 Z
       content_type_id: country_information
+      revision: 2
     title: 'Kenya: country introduction'
     chapters:
     - sys:
@@ -970,6 +1025,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:28:45.582000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:51:02.714000000 Z
         content_type_id: chapter
+        revision: 2
       title: Introduction
       title_internal: 'Kenya: country, chapter 1'
       body: Rock art is distributed widely throughout Kenya, although historically
@@ -986,6 +1042,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:23:16.663000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 16:02:48.785000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 191BlqkgSUmU20ckCQqCyk
@@ -1002,6 +1059,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:29:20.719000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 16:15:40.192000000 Z
         content_type_id: chapter
+        revision: 3
       title: Geography and rock art distribution
       title_internal: 'Kenya: country, chapter 2'
       body: Kenya covers about 569,140km², bordering Ethiopia and Somalia in the north
@@ -1018,6 +1076,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:23:43.746000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 16:39:32.374000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4ZkoqzwyVaAuciGqmAUqwC
@@ -1033,6 +1092,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:30:05.512000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:30:05.512000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Kenya: country, chapter 3'
       body: 'Although researchers had been noting and investigating rock art in the
@@ -1059,6 +1119,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:24:16.333000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 17:16:53.891000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3o8IJEfzbWI4qiywkMu8WM
@@ -1075,6 +1136,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:31:05.485000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:31:13.826000000 Z
         content_type_id: chapter
+        revision: 2
       title: Themes
       title_internal: 'Kenya: country, chapter 4'
       body: "Figurative imagery only features prominently in about 10% of the known
@@ -1115,6 +1177,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:24:54.228000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:24:54.228000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6sJEag1degeScYa0IYY66a
@@ -1130,6 +1193,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:31:50.127000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 17:19:42.052000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Kenya: country, chapter 5'
       body: Not all of Kenya's rock art is associated with pastoralists. Much of the
         symbolic art, particularly to the south and west, is attributed to the ’Batwa’,
@@ -1153,6 +1217,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:25:30.561000000 Z
         updated_at: !ruby/object:DateTime 2017-01-13 17:20:10.830000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1rIqvHUlxCgqW2caioAo4I
@@ -1169,6 +1234,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:32:19.445000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:32:19.445000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Kenya: country, chapter 6'
       body: It is instructive to consider the use of rock art sites within their physical
         contexts as well as the rock art motifs themselves.  Locality and landscape
@@ -1189,6 +1255,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:26:01.650000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:01:02.004000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6CNVylYrKwUkk0YCcaYmE4
@@ -1205,6 +1272,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:32:57.237000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:32:57.237000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology
       title_internal: 'Kenya: country, chapter 7'
       body: "Rock art ascribed to Batwa peoples could be anywhere between 15,000-1,000
@@ -1233,6 +1301,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:26:31.130000000 Z
         updated_at: !ruby/object:DateTime 2017-01-23 16:41:13.806000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4dt5Tw7AXeoiMOkAqGIoWa
@@ -1250,6 +1319,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:27:37.639000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:55:17.747000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: |
         Gramly, R. 1975.  *Meat-feasting Sites and Cattle Brands: Patterns of Rock-shelter Utilization in East Africa*.  Azania, Vol. 10, Issue 1, pp. 107-122
 

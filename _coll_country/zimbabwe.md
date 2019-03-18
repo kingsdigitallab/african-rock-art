@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-12-08 11:20:37.367000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 16:54:03.994000000 Z
     content_type_id: country
+    revision: 10
   name: Zimbabwe
   slug: zimbabwe
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=27040
@@ -14,44 +15,44 @@ contentful:
   - sys:
       id: 6F8PhokaIMSEgUWE6Gyey
       created_at: !ruby/object:DateTime 2016-09-12 11:54:37.064000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:54:37.064000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:58:15.357000000 Z
     title: ZIMMSL0010017
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744522&partId=1&searchText=ZIMMSL0010017&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/6F8PhokaIMSEgUWE6Gyey/4e378677351cb553f2dde45eabe7f03e/ZIMMSL0010017.jpg"
   - sys:
       id: 3nKVXhSvWU0USE20UqK4WI
       created_at: !ruby/object:DateTime 2016-09-12 11:54:45.125000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:54:45.125000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:58:53.178000000 Z
     title: ZIMMSL0020009
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775214&partId=1&searchText=ZIMMSL0020009&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3nKVXhSvWU0USE20UqK4WI/d65ddb73261c7121ce4c094ff49aa826/ZIMMSL0020009.jpg"
   - sys:
       id: 4q3Wj7sKA8akoCm4UMYywG
       created_at: !ruby/object:DateTime 2016-09-12 11:54:51.814000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:54:51.814000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:59:30.879000000 Z
     title: ZIMMSL0040003
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775248&partId=1&searchText=ZIMMSL0040003&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4q3Wj7sKA8akoCm4UMYywG/c038814e5c673d11968394b1aec7070c/ZIMMSL0040003.jpg"
   - sys:
       id: 6nxvTO732wKwKwqsuKAEI6
       created_at: !ruby/object:DateTime 2016-09-12 11:54:57.743000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:54:57.743000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:59:59.013000000 Z
     title: ZIMMSL0120005
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775380&partId=1&searchText=ZIMMSL0120005&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/6nxvTO732wKwKwqsuKAEI6/132210ed54ffddd50db4a1b5579fa58c/ZIMMSL0120005.jpg"
   - sys:
       id: 324JkVvbraMsEKEAE6KIUA
       created_at: !ruby/object:DateTime 2016-09-12 11:55:03.866000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:55:03.866000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:00:38.414000000 Z
     title: ZIMMSL0130018
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775491&partId=1&searchText=ZIMMSL0130018&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/324JkVvbraMsEKEAE6KIUA/8bfbaf195d294b2afc9fb9d72f663895/ZIMMSL0130018.jpg"
   - sys:
       id: z8wO9hnAHeqwmiImUa2gO
       created_at: !ruby/object:DateTime 2016-09-12 11:55:10.636000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:55:10.636000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:01:21.543000000 Z
     title: ZIMMSL0270011
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775854&partId=1&searchText=ZIMMSL0270011&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/z8wO9hnAHeqwmiImUa2gO/b46d28c94bdbea7e60759a9c99abaa9c/ZIMMSL0270011.jpg"
   featured_site:
     sys:
@@ -59,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:55:26.290000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:33:48.421000000 Z
       content_type_id: featured_site
+      revision: 4
     title: Matobo Hills, Zimbabwe
     slug: matobo
     chapters:
@@ -67,6 +69,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.731000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.731000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: featured site, chapter 1'
       body: 'The Matobo Hills (also spelled as Matopo or Matopos Hills) are located
         to the south-west of Zimbabwe, in Matabeleland, one of the two main rock art
@@ -85,6 +88,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:56:26.939000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:26.939000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: Jy8edAwMCGiAywQIyi0KI
@@ -100,6 +104,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.437000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.437000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: featured site, chapter 2'
       body: 'The rock art of the Matobo Hills is as varied as that of the rest of
         Zimbabwe, mainly consisting of depictions of animals and human figures often
@@ -122,6 +127,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:56:47.135000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:47.135000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4JrH9kFufCQkEwgGqycIQG
@@ -138,6 +144,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.486000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.486000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: featured site, chapter 3'
       body: 'One of the characteristics of the Matobo Hills rock art is the incredible
         variety of colours used, which includes a wide range of reds, purples, oranges,
@@ -151,6 +158,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:56:54.742000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:56:54.742000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3ZbDDzdXZuKCEEWWm2WUoE
@@ -167,6 +175,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.426000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:33:12.839000000 Z
         content_type_id: chapter
+        revision: 5
       title_internal: 'Zimbabwe: featured site, chapter 4'
       body: "Many of the depictions in the Matobo Hills are associated with hunter-gatherers,
         providing a great amount of information about the social, economic and spiritual
@@ -194,6 +203,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:57:11.432000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:11.432000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1vZtYjldh2UmCICQEIC8UG
@@ -210,6 +220,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.570000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.570000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: featured site, chapter 5'
       body: 'Not all the paintings in the Matobo Hills can be ascribed to groups of
         hunter gatherers, though. Although fewer, there are some paintings that correspond
@@ -226,6 +237,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:57:35.126000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:35.126000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1iRymPGEvYW4YUwsWCuw66
@@ -240,6 +252,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.463000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.463000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: featured site, chapter 6'
       body: 'The Matobo Hills constitute a perfect example of how nature and human
         presence can become imbricated, to create a living landscape in which every
@@ -254,6 +267,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:57:43.734000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:57:43.734000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: AlCcF5GAcC44Q268AUsuq
@@ -269,6 +283,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: Matobo Chapter 7
       body: "¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -281,6 +296,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:54:06.690000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.690000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Walker, N. (2012): The Rock Art of the Matobo Hills, Zimbabwe.
         Adoranten: 38-59\n\nParry, Elspeth (2012): Guide to the Rock Art of the Matopo
         Hills, Zimbabwe. Bulawayo, AmaBooks Publishers. \n"
@@ -305,6 +321,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 12:01:05.308000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 12:01:05.308000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Zimbabwe: key facts'
     image_count: 1150 images
     date_range: Unknown, but most probably several thousands of years old
@@ -319,6 +336,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:26:39.131000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:28:31.662000000 Z
       content_type_id: thematic
+      revision: 2
     title: Landscapes of Rock Art
     slug: landscapes-of-rock-art
     lead_image:
@@ -397,6 +415,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-10 14:12:25.736000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:42:15.905000000 Z
       content_type_id: thematic
+      revision: 2
     title: Introduction to rock art in southern Africa
     slug: rock-art-in-southern-africa
     lead_image:
@@ -413,6 +432,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:01:39.329000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:09:20.849000000 Z
         content_type_id: chapter
+        revision: 6
       title_internal: 'Southern Africa: regional, chapter 1'
       body: |+
         The southern African countries of Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Botswana and Namibia contain thousands of rock art sites and southern African rock art has been studied extensively.  Due to perceived similarities in subject matter, even across great distances, much southern African rock art has been ascribed to hunter-gatherer painters and engravers who appear to have had a shared set of cultural references.  These have been linked with beliefs and practices which remain common to modern San&#124;Bushman¹ people, a number of traditional hunter-gatherer groups who continue to live in Southern Africa, principally in Namibia, Botswana and South Africa.  There are, however, differences in style and technique between regions, and various rock art traditions are attributed to other cultural groups and their ancestors.  As is often the case with rock art, the accurate attribution of authorship, date and motivation is difficult to establish, but the rock art of this region continues to be studied and the richness of the material in terms of subject matter, as well as in the context of the archaeological record, has much to tell us, both about its own provenance and the lives of the people who produced it.
@@ -423,6 +443,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:04.241000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:09:49.095000000 Z
         content_type_id: chapter
+        revision: 2
       title: Geography and distribution
       title_internal: 'Southern Africa: regional, chapter 2'
     - sys:
@@ -430,6 +451,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:27.584000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:10:55.925000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4RBHhRPKHC2s6yWcEeWs0c
@@ -446,6 +468,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:41.530000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:11:21.260000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Southern Africa: regional, chapter 3'
       body: 'There is wide variation in the physical environments of southern Africa,
         ranging from the rainforests of Mozambique to the arid Namib Desert of western
@@ -466,6 +489,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:04.486000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:11:57.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hXbvhDSf2CmOss6ec0CsS
@@ -482,6 +506,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:14.736000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:12:17.831000000 Z
         content_type_id: chapter
+        revision: 5
       title: Types of rock art
       title_internal: 'Southern Africa: regional, chapter 4'
       body: "Rock art of the type associated with hunter-gatherers is perhaps the
@@ -512,6 +537,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:22:13.102000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:12:40.860000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 20oHYa0oEcSEMOyM8IcCcO
@@ -529,6 +555,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:40.877000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:13:26.231000000 Z
         content_type_id: chapter
+        revision: 9
       title_internal: 'Southern Africa: regional, chapter 5'
       body: "Hunter-gatherer rock paintings are found in particular concentrations
         in the Drakensberg-Maloti and Cape Fold Mountains in South Africa and Lesotho,
@@ -559,6 +586,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:57.014000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:13:43.550000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6QHTRqNGXmWic6K2cQU8EA
@@ -575,6 +603,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:24:14.217000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:17:20.511000000 Z
         content_type_id: chapter
+        revision: 5
       title_internal: 'Southern Africa: regional, chapter 6'
       body: "This kind of imagery is found in a variety of styles, and some of those
         producing ‘contact’ images in the Cape may have been people of Khoekhoen heritage.
@@ -589,6 +618,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:05.564000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:17:47.538000000 Z
         content_type_id: chapter
+        revision: 6
       title: History of research
       title_internal: 'Southern Africa: regional, chapter 7'
       body: 'The first known reports of African rock art outside of the continent
@@ -613,6 +643,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:30.652000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:18:07.313000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3BLPJ6SPMcccCE2qIG4eQG
@@ -629,6 +660,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:37.305000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:18:34.546000000 Z
         content_type_id: chapter
+        revision: 4
       title: Interpretation
       title_internal: 'Southern Africa: regional, chapter 8'
       body: Rather than showing scenes from daily life, as was once assumed, it is
@@ -647,6 +679,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:53.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:19:08.779000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5Zk1QhSjEAOy8U6kK4yS4c
@@ -665,6 +698,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:00.899000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:19:37.565000000 Z
         content_type_id: chapter
+        revision: 4
       title_internal: 'Southern Africa: regional, chapter 9'
       body: "The rock art attributed to ancestral San&#124;Bushman hunter-gatherers
         has many varied motifs, some of which may also relate to specific themes such
@@ -701,6 +735,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:15.123000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:21:01.026000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: ETDpJFg6beKyyOmQGCsKI
@@ -718,6 +753,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:22.665000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:21:16.059000000 Z
         content_type_id: chapter
+        revision: 6
       title: Dating
       title_internal: 'Southern Africa: regional, chapter 10'
       body: "Although dating rock art is always difficult, the study of rock art sites
@@ -751,6 +787,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:38.418000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:25:17.372000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 58V5qef3pmMGu2aUW4mSQU
@@ -767,6 +804,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:25:44.294000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Southern Africa: regional, chapter 11'
       body: "¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -779,6 +817,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 10:45:36.418000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:39:37.963000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: |+
         Campbell, A., Robbins, L. and Taylor, M. 2010. Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 
@@ -817,6 +856,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
       content_type_id: country_information
+      revision: 1
     title: 'Zimbabwe: country introduction'
     chapters:
     - sys:
@@ -824,6 +864,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction - Geography and rock art distribution
       title_internal: 'Zimbabwe: country, chapter 1'
       body: 'Zimbabwe is a landlocked country surrounded by Mozambique, Zambia, Botswana
@@ -840,8 +881,9 @@ contentful:
     - sys:
         id: 1vTYjbXbXuoWIu8Og2Ga6u
         created_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:40:06.610000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 40o6cuVD1mg0GcouA8Iaym
@@ -850,13 +892,15 @@ contentful:
         title: ZIMMSL0280001
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/40o6cuVD1mg0GcouA8Iaym/32da0eecea127afbf2c5f839534485da/ZIMMSL0280001.jpg"
-      caption: Rocky outcrop in Mashonaland, Zimbabwe (2013,2034.23240). ©TARA/David
+      caption: Rocky outcrop in Mashonaland, Zimbabwe. 2013,2034.23240 ©TARA/David
         Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775899&partId=1&searchText=2013,2034.23240&page=1
     - sys:
         id: 2P8CUhzioUcQ2WQUCmy4eK
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.382000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 18:50:57.591000000 Z
         content_type_id: chapter
+        revision: 2
       title: History of the research
       title_internal: 'Zimbabwe: country, chapter 2'
       body: 'Zimbabwean rock art was first reported by Europeans in 1927, when Miles
@@ -882,8 +926,9 @@ contentful:
     - sys:
         id: cUUCZ3TJ1mmO48egCGE2k
         created_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:41:14.221000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2fUMJJmhu0gAW4Kkoscw2i
@@ -893,12 +938,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/2fUMJJmhu0gAW4Kkoscw2i/6c0c5908e2526dae2378c771a641e1f0/ZIMMSL0070001.jpg"
       caption: Yellow elephant calf painted on the roof of a shelter. Mashonaland,
-        Zimbabwe (2013,2034.22675). ©TARA/David Coulson
+        Zimbabwe. 2013,2034.22675 ©TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775294&partId=1&searchText=2013,2034.22675&page=1
     - sys:
         id: 1GwWneVcV2OGekOmYsisAk
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
         content_type_id: chapter
+        revision: 1
       title: Themes
       title_internal: 'Zimbabwe: country, chapter 3'
       body: The rock art of Zimbabwe is some of the richest in Africa both in variety
@@ -918,8 +965,9 @@ contentful:
     - sys:
         id: 7cZfHMXB84oouoceeswCUQ
         created_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:42:32.233000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 51wED0wl4cSWQAWcEqAKek
@@ -928,13 +976,15 @@ contentful:
         title: ZIMMSL0230014
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/51wED0wl4cSWQAWcEqAKek/7e367c5c29de4def2fd4fbc4f81b7dd1/ZIMMSL0230014.jpg"
-      caption: Complex scene of human figures and antelopes. Mashonaland, Zimbabwe
-        (2013,2034.23055). ©TARA/David Coulson
+      caption: Complex scene of human figures and antelopes. Mashonaland, Zimbabwe.
+        2013,2034.23055 ©TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775708&partId=1&searchText=2013,2034.23055&page=1
     - sys:
         id: 2JiGtVlFnOqOUEqWcOyCms
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: country, chapter 4'
       body: 'Along with human figures, animals are widely represented in Zimbabwean
         rock art, with kudu depictions dominating, but also with zebra, tsessebe and
@@ -952,8 +1002,9 @@ contentful:
     - sys:
         id: 60AofQXYWsUsusmsKwaGyS
         created_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:43:25.464000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 37IO99TlpSsMKoCoOskwyO
@@ -963,12 +1014,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/37IO99TlpSsMKoCoOskwyO/5156a40344d65934a2c8bdf86d3f78b9/ZIMMSL0210014.jpg"
       caption: Group of human figures and different types of animals including giraffes,
-        antelopes and warthogs (2013,2034.22962). ©TARA/David Coulson
+        antelopes and warthogs. 2013,2034.22962 ©TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775615&partId=1&searchText=2013,2034.22962&page=1
     - sys:
         id: 36YlRmgg8EIiueMgCamy6e
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Zimbabwe: country, chapter 5'
       body: 'Human figures and animals are accompanied by many geometric symbols,
         usually related to trance-like contexts and include dots, wavy lines or stripes.
@@ -980,8 +1033,9 @@ contentful:
     - sys:
         id: 5icNtVo3wWOg2EA62yK0gI
         created_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:44:25.781000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: nRXWoI9Gk8uy2go42GomE
@@ -990,13 +1044,15 @@ contentful:
         title: ZIMMTB0060005
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/nRXWoI9Gk8uy2go42GomE/2bb4e21572df0610dfa429bb8b6f4bf2/ZIMMTB0060005.jpg"
-      caption: Depiction of a formling surrounding by animals. Matabeleland, Zimbabwe
-        (2013,2034.23465). ©TARA/David Coulson
+      caption: Depiction of a formling surrounding by animals. Matabeleland, Zimbabwe.
+        2013,2034.23465 ©TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3763606&partId=1&searchText=2013,2034.23465&page=1
     - sys:
         id: 5RnaGufDxeImKGM0msMOs6
         created_at: !ruby/object:DateTime 2016-09-12 11:53:52.292000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 22:03:55.089000000 Z
         content_type_id: chapter
+        revision: 6
       title_internal: 'Zimbabwe: country, chapter 6'
       body: |-
         Traditionally, the themes expressed in Zimbabwean rock art have been identified as the same as those of the San&#124;Bushmen¹ from South Africa and in many cases are undoubtedly related, and provide key hints for their interpretation. However, there are also differences, such as the emphasis given to different animals, the higher presence of trees and plants in Zimbabwe or the smaller presence of trance scenes in the north compared to that of the Drakensberg. Moreover, the lack of ethnographic information for Zimbabwean paintings and their older chronology make it difficult to establish the same type of associations as those made for other areas with more direct connections rock art to known cultures, as happens in South Africa. Although in a minority, rock art of a later chronology can be attributed to Iron Age farmers, characterized by more schematic figures, usually white and painted thickly with the finger or the hand. As is the case in other areas in Central Africa, some of these later depictions are related to rain making and initiation ceremonies.
@@ -1005,8 +1061,9 @@ contentful:
     - sys:
         id: 62IspwBATCWA6aAe2Ymya8
         created_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:45:17.976000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4sy93JCmHKCso2muMWoOc0
@@ -1015,13 +1072,15 @@ contentful:
         title: ZIMMSL0120052
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/4sy93JCmHKCso2muMWoOc0/ac69dd7a46cecd5c4ca9663931e915ed/ZIMMSL0120052.jpg"
-      caption: Iron Age painting depicting a zebra. Mashonaland, Zimbabwe (2013,2034.22780).
+      caption: Iron Age painting depicting a zebra. Mashonaland, Zimbabwe. 2013,2034.22780
         ©TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775418&partId=1&searchText=2013,2034.22780&page=1
     - sys:
         id: 1ovLRkQ1IMUeuGQMoEaymO
         created_at: !ruby/object:DateTime 2016-09-12 11:53:51.470000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 19:02:39.778000000 Z
         content_type_id: chapter
+        revision: 3
       title: Chronology
       title_internal: 'Zimbabwe: country, chapter 6'
       body: "As with much rock art, the dating of Zimbabwe paintings is a challenging
@@ -1039,8 +1098,9 @@ contentful:
     - sys:
         id: 6j6wS0WtRmsKI20YK80AKC
         created_at: !ruby/object:DateTime 2016-09-12 11:59:48.982000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-12 12:00:17.005000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:46:14.971000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6J08sWPtfOs88AmM20u02u
@@ -1050,13 +1110,15 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/6J08sWPtfOs88AmM20u02u/a3611f2b43b406427bd87003e5341612/ZIMMSL0220013.jpg"
       caption: Sable antelope, crocodile or lizard and human figure. Mashonaland,
-        Zimbabwe (2013,2034.23028). ©TARA/David Coulson
+        Zimbabwe. 2013,2034.23028 ©TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775685&partId=1&searchText=2013,2034.23028&page=1
     citations:
     - sys:
         id: MXZ2L6VLmU2KqsWqcqO2u
         created_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Garlake, Peter S. (1995): The hunter's vision: the prehistoric
         art of Zimbabwe. British Museum Press, London.\n\nGarlake, Peter S. (1987):
         The painted caves: an introduction to the prehistoric art of Zimbabwe. Modus
@@ -1082,9 +1144,9 @@ contentful:
   - sys:
       id: 4q3Wj7sKA8akoCm4UMYywG
       created_at: !ruby/object:DateTime 2016-09-12 11:54:51.814000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:54:51.814000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:59:30.879000000 Z
     title: ZIMMSL0040003
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775248&partId=1&searchText=ZIMMSL0040003&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4q3Wj7sKA8akoCm4UMYywG/c038814e5c673d11968394b1aec7070c/ZIMMSL0040003.jpg"
   region: Southern Africa
 ---

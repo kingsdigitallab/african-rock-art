@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-09-12 15:22:12.732000000 Z
     updated_at: !ruby/object:DateTime 2016-09-12 15:22:12.732000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'South Africa: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:16:12.647000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 22:01:59.313000000 Z
       content_type_id: chapter
+      revision: 4
     title: Introduction
     title_internal: 'South Africa: country, chapter 1'
     body: |
@@ -23,6 +25,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:16:31.433000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:46:10.737000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2bsw2WPaTKumMQ80maQ6iG
@@ -39,6 +42,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:16:42.238000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:43:41.595000000 Z
       content_type_id: chapter
+      revision: 4
     title: Geography and rock art distribution
     title_internal: 'South Africa: country, chapter 2'
     body: South Africa covers around 1,213,090 km², encircling Lesotho and bordered
@@ -58,6 +62,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:16:52.597000000 Z
       updated_at: !ruby/object:DateTime 2016-10-24 12:32:11.801000000 Z
       content_type_id: chapter
+      revision: 3
     title: Hunter-gatherer rock art
     title_internal: 'South Africa: country, chapter 3'
     body: Much of both the painted and engraved rock art of South Africa is characterised
@@ -75,6 +80,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:17:10.281000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:46:37.309000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2q8dJPCe2AKcAeogKWikue
@@ -91,6 +97,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:17:21.602000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 19:41:29.750000000 Z
       content_type_id: chapter
+      revision: 2
     title: Farmer rock art
     title_internal: 'South Africa: country, chapter 4'
     body: "Some paintings and engravings in South Africa were made by Bantu language-speaking
@@ -107,6 +114,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:17:28.334000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:47:33.249000000 Z
       content_type_id: chapter
+      revision: 4
     title: Herder rock art and other traditions
     title_internal: 'South Africa: country, chapter 5'
     body: Some rock art styles and motifs elsewhere in South Africa seem to belong
@@ -128,6 +136,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:17:42.557000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:48:06.147000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: afH4Qvv6OAAu6iW2sQumq
@@ -145,6 +154,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:17:56.399000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:44:50.312000000 Z
       content_type_id: chapter
+      revision: 2
     title: Research history
     title_internal: 'South Africa: country, chapter 6'
     body: 'Rock art sites throughout what is now South Africa have likely always been
@@ -163,6 +173,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:20:07.688000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:51:29.749000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5pQOdclMWsYUoiqUe6UWUk
@@ -179,7 +190,8 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:20:19.692000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 19:45:24.815000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 2
+    title: 
     title_internal: 'South Africa: country, chapter 7'
     body: "Scholarly interest in Southern African rock art increased in the early
       20th century and pioneering efforts were made to record both painting and engraving
@@ -198,6 +210,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:20:34.228000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:52:17.397000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 49XE8B9AUwcsyuwKS4qIoS
@@ -214,6 +227,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:20:41.600000000 Z
       updated_at: !ruby/object:DateTime 2016-10-24 12:33:33.820000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'South Africa: country, chapter 8'
     body: In 1976, Vinnicombe published the seminal work *"People of the Eland"*,
       analysing paintings from 150 Drakensberg sites and attempting to gain insight
@@ -233,6 +247,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:20:48.780000000 Z
       updated_at: !ruby/object:DateTime 2016-10-24 12:36:25.686000000 Z
       content_type_id: chapter
+      revision: 4
     title: Themes and interpretations
     title_internal: 'South Africa: country, chapter 9'
     body: "Shamanistic interpretations of San&#124;Bushman paintings and engravings
@@ -263,6 +278,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:21:09.071000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:52:56.704000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 2hL4pRsxIkw224k00EKeqQ
@@ -280,6 +296,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:21:17.413000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:21:17.413000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'South Africa: country, chapter 10'
     body: 'Although the focus in South African rock art research has been on San&#124;Bushman
       art, research has also been done on other rock art traditions, suggesting different
@@ -299,6 +316,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:21:30.588000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:21:30.588000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'South Africa: country, chapter 11'
     body: "The earliest scientifically dated examples of clearly visible painted parietal
@@ -333,6 +351,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:21:46.299000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 13:53:23.983000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3BojqKseXY0IQkcKOwoC6K
@@ -350,6 +369,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 15:21:54.192000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 15:21:54.192000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Eastwood, E. & Eastwood, C. 2006. Capturing the Spoor: An exploration
       of Southern African Rock Art. Cape Town, David Philip\n\nLewis-Williams, J.D.
       & Challis, S. 2011. Deciphering Ancient Minds: The Mystery of San&#124;BushmanBushman

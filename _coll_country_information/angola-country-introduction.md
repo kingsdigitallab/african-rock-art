@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-07-27 07:44:28.009000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:44:28.009000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'Angola: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.048000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:10:43.664000000 Z
       content_type_id: chapter
+      revision: 2
     title: Introduction
     title_internal: 'Angola: country, chapter 1'
     body: 'Angola is a country located in the south-west of Africa, stretching from
@@ -27,6 +29,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.855000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:43:02.760000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 3fc97FP7N6Q4qaYY82yMee
@@ -43,6 +46,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.894000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.894000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography and rock art distribution
     title_internal: 'Angola: country, chapter 2'
     body: Angola has a variety of climates.  The flat coastal plain ranges between
@@ -61,6 +65,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.770000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:43:30.163000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 2EhlaF5U6Qui8SueE66KUO
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.825000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 10:00:25.820000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: 'Angola: country, chapter 3'
     body: 'Rock art in Angola is primarily located in the coastal region, from north
@@ -91,6 +97,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.824000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:35:38.140000000 Z
       content_type_id: chapter
+      revision: 2
     title: Research history
     title_internal: 'Angola: country, chapter 4'
     body: 'Although there are some references in Portuguese chronicles from the 1500s
@@ -109,6 +116,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.784000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 16:25:10.620000000 Z
       content_type_id: chapter
+      revision: 3
     title: 'Themes '
     title_internal: 'Angola: country, chapter 5'
     body: 'The rock art in Angola has a wide variety of styles and themes, depending
@@ -133,6 +141,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.027000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:13:04.815000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6JWgcpb6JUq0yCegs4MsGc
@@ -150,6 +159,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.760000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:16:27.004000000 Z
       content_type_id: chapter
+      revision: 2
     title: " Chronology"
     title_internal: 'Angola: country, chapter 6'
     body: 'As is so often the case with rock art, the dating of images is complex
@@ -172,6 +182,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.908000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 16:27:56.903000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 40lIKwvi8gwo4ckmuKguYk
@@ -189,6 +200,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:30.575000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 10:00:54.672000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: "Clark, J.  Desmond & Zinderen Bakker, E.  M.  van, 1963. *Prehistoric
       cultures of northeast Angola and their significance in tropical Africa*.  Companhia
       de Diamantes de Angola, Lisboa, Servicos Culturais \n\nGutierrez, M. 1996. *L'art

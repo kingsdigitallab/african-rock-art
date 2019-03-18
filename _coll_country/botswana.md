@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-12-08 11:21:19.798000000 Z
     updated_at: !ruby/object:DateTime 2018-05-15 13:39:16.998000000 Z
     content_type_id: country
+    revision: 13
   name: Botswana
   slug: botswana
   col_url: 'http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=19305|108608|108619|108618|108610|108613|108574|108572|108562|108568|108571|108570|108557|108558|14789|108560 '
@@ -14,23 +15,23 @@ contentful:
   - sys:
       id: 3y9Kyv4t440uAwuYqSiwmc
       created_at: !ruby/object:DateTime 2016-09-12 11:09:15.644000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:09:15.644000000 Z
-    title: BOTTSD0040008
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:12:34.714000000 Z
+    title: '2013,2034.20653'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3757916&partId=1&searchText=BOTTSD0040008&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3y9Kyv4t440uAwuYqSiwmc/be7de353c85797e38b480c1000c63690/BOTTSD0040008_jpeg.jpg"
   - sys:
       id: 6pHrsUcc2kaeKqeEcO0WmW
       created_at: !ruby/object:DateTime 2016-09-12 11:09:24.045000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:09:24.045000000 Z
-    title: BOTTSD1170002
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:13:24.351000000 Z
+    title: '2013,2034.21107'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3762101&partId=1&searchText=BOTTSD1170002&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/6pHrsUcc2kaeKqeEcO0WmW/c92b5e947430fcfbf28de83322cb1241/BOTTSD1170002_jpeg.jpg"
   - sys:
       id: 2vlf46R3veEcs28C8MuCMK
       created_at: !ruby/object:DateTime 2016-09-12 11:09:35.337000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:09:35.337000000 Z
-    title: BOTTSDNAS0010002
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:15:16.580000000 Z
+    title: '2013,2034.21147'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3762173&partId=1&searchText=BOTTSDNAS0010002&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/2vlf46R3veEcs28C8MuCMK/31642ccafef62968c186cc3608d1ea53/BOTTSDNAS0010002_jpeg.jpg"
   featured_site:
     sys:
@@ -38,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:02:35.091000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:32:13.193000000 Z
       content_type_id: featured_site
+      revision: 7
     title: Tsodilo Hills, Botswana
     slug: tsodilo
     chapters:
@@ -46,6 +48,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.590000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.590000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Botswana: featured site, chapter 1'
       body: 'Tsodilo Hills, located in north-west Botswana, contains around 400 rock
@@ -61,6 +64,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:31:14.266000000 Z
         updated_at: !ruby/object:DateTime 2018-05-11 16:05:40.114000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1sR7vldVp2WgiY8MUyWI8E
@@ -78,6 +82,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.644000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.644000000 Z
         content_type_id: chapter
+        revision: 1
       title: Rock Art
       title_internal: 'Botswana: featured site, chapter 2'
       body: The paintings at Tsodilo are unique in comparison to other San&#124;Bushmen
@@ -97,6 +102,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.677000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.677000000 Z
         content_type_id: chapter
+        revision: 1
       title: The Red Paintings
       title_internal: 'Botswana: featured site, chapter 3'
       body: 'The subject matter of red finger-painted depictions can be divided into
@@ -108,6 +114,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:31:54.679000000 Z
         updated_at: !ruby/object:DateTime 2018-05-11 16:06:23.440000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1ciquTlk7CuacgoUmGW4ko
@@ -124,6 +131,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.705000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.705000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: featured site, chapter 4'
       body: 'Human figures are schematic and depicted by two intersecting lines, a
         vertical line which thickens at the middle to indicate hips and buttocks,
@@ -135,6 +143,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:03.882000000 Z
         updated_at: !ruby/object:DateTime 2018-05-11 16:07:16.062000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3o0or3SkLeYGGUoAY0eesW
@@ -152,6 +161,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.552000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.552000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: featured site, chapter 5'
       body: 'Geometric designs include circles and ovals with internal grid patterns,
         rectilinear motifs termed “shields”, some handprints and rows of finger impressions.
@@ -163,6 +173,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:11.837000000 Z
         updated_at: !ruby/object:DateTime 2018-05-11 16:11:48.100000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6vCru3T4QwO8kSOSSUwOsG
@@ -179,6 +190,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.799000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.799000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: featured site, chapter 6'
       body: While most of the images in the Tsodilo Hills seem to be discrete depictions,
         some sites show figures. Some of these figures are with cattle as well as
@@ -193,6 +205,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:29.588000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:29.588000000 Z
         content_type_id: chapter
+        revision: 1
       title: Late White Paintings
       title_internal: 'Botswana: featured site, chapter 7'
       body: White finger-painted images appear more crudely executed and are made
@@ -209,6 +222,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:18.860000000 Z
         updated_at: !ruby/object:DateTime 2018-05-11 16:12:37.841000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: k0cOVVuRnUmcWEYUQsuiG
@@ -225,6 +239,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.484000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 12:43:48.178000000 Z
         content_type_id: chapter
+        revision: 3
       title: Cupules/Grooves
       title_internal: 'Botswana: featured site, chapter 8'
       body: There are no engravings at Tsodilo representing animals or human figures,
@@ -249,6 +264,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:30.877000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 12:44:51.891000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 65NOs0Iic0kGmCKyEQqSSO
@@ -265,6 +281,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.503000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 11:07:04.906000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Botswana: featured site, chapter 9'
       body: Grooves are less common than cupules, but are often easier to detect.
         They occur in small groups of 3 to 15 and are elongated oval or canoe-like
@@ -277,6 +294,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.536000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:31:07.523000000 Z
         content_type_id: chapter
+        revision: 5
       title: Who were the artists?
       title_internal: 'Botswana: featured site, chapter 10'
       body: "It is a bit of a mystery about who actually created the paintings at
@@ -297,6 +315,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.558000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 11:10:22.009000000 Z
         content_type_id: chapter
+        revision: 2
       title: Dating
       title_internal: 'Botswana: featured site, chapter 11'
       body: The paintings at Tsodilo are often faded because they are located on rock
@@ -312,6 +331,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:40.775000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 12:49:05.907000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: Y7kLCRLHA2ciIS8eQOSyQ
@@ -328,6 +348,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.552000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:30.552000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: featured site, chapter 12'
       body: 'Similarly, the first horses known to reach Tsodilo belonged to a party
         of Griqua traders who passed nearby on their way to Andara in 1852, the earliest
@@ -340,6 +361,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:49.588000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 13:32:39.837000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 59TnAobO36C8wcEkwwq2Yq
@@ -357,6 +379,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.591000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:30:30.591000000 Z
         content_type_id: chapter
+        revision: 1
       title: Interpretation
       title_internal: 'Botswana: featured site, chapter 13'
       body: "Giraffe, eland and rhino are by far the most common species depicted
@@ -375,6 +398,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:32:56.778000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 13:35:20.813000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: y5jBKXYeoCcMusKuIcKeG
@@ -392,6 +416,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:30:30.775000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 13:36:08.602000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Botswana: featured site, chapter 14'
       body: "Geometric designs are trickier to decipher.  Square geometric designs,
         also known as “shields” possibly represent human forms. Circular designs sometimes
@@ -408,6 +433,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:31:24.274000000 Z
         updated_at: !ruby/object:DateTime 2016-09-13 13:31:38.744000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: Botswana Chapter 14
       body: "¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -420,6 +446,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:33:04.551000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:33:04.551000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Campbell, Alec; Robbins, Larry, Taylor, Michael (2010) Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 
@@ -445,6 +472,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:03:11.059000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:03:11.059000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Botswana: key facts'
     image_count: '727'
     date_range: 'At least 2,000 years ago - around 150 years ago '
@@ -457,6 +485,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-10 14:12:25.736000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:42:15.905000000 Z
       content_type_id: thematic
+      revision: 2
     title: Introduction to rock art in southern Africa
     slug: rock-art-in-southern-africa
     lead_image:
@@ -473,6 +502,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:01:39.329000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:09:20.849000000 Z
         content_type_id: chapter
+        revision: 6
       title_internal: 'Southern Africa: regional, chapter 1'
       body: |+
         The southern African countries of Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Botswana and Namibia contain thousands of rock art sites and southern African rock art has been studied extensively.  Due to perceived similarities in subject matter, even across great distances, much southern African rock art has been ascribed to hunter-gatherer painters and engravers who appear to have had a shared set of cultural references.  These have been linked with beliefs and practices which remain common to modern San&#124;Bushman¹ people, a number of traditional hunter-gatherer groups who continue to live in Southern Africa, principally in Namibia, Botswana and South Africa.  There are, however, differences in style and technique between regions, and various rock art traditions are attributed to other cultural groups and their ancestors.  As is often the case with rock art, the accurate attribution of authorship, date and motivation is difficult to establish, but the rock art of this region continues to be studied and the richness of the material in terms of subject matter, as well as in the context of the archaeological record, has much to tell us, both about its own provenance and the lives of the people who produced it.
@@ -483,6 +513,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:04.241000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:09:49.095000000 Z
         content_type_id: chapter
+        revision: 2
       title: Geography and distribution
       title_internal: 'Southern Africa: regional, chapter 2'
     - sys:
@@ -490,6 +521,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:27.584000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:10:55.925000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4RBHhRPKHC2s6yWcEeWs0c
@@ -506,6 +538,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:41.530000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:11:21.260000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Southern Africa: regional, chapter 3'
       body: 'There is wide variation in the physical environments of southern Africa,
         ranging from the rainforests of Mozambique to the arid Namib Desert of western
@@ -526,6 +559,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:04.486000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:11:57.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hXbvhDSf2CmOss6ec0CsS
@@ -542,6 +576,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:14.736000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:12:17.831000000 Z
         content_type_id: chapter
+        revision: 5
       title: Types of rock art
       title_internal: 'Southern Africa: regional, chapter 4'
       body: "Rock art of the type associated with hunter-gatherers is perhaps the
@@ -572,6 +607,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:22:13.102000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:12:40.860000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 20oHYa0oEcSEMOyM8IcCcO
@@ -589,6 +625,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:40.877000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:13:26.231000000 Z
         content_type_id: chapter
+        revision: 9
       title_internal: 'Southern Africa: regional, chapter 5'
       body: "Hunter-gatherer rock paintings are found in particular concentrations
         in the Drakensberg-Maloti and Cape Fold Mountains in South Africa and Lesotho,
@@ -619,6 +656,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:57.014000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:13:43.550000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6QHTRqNGXmWic6K2cQU8EA
@@ -635,6 +673,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:24:14.217000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:17:20.511000000 Z
         content_type_id: chapter
+        revision: 5
       title_internal: 'Southern Africa: regional, chapter 6'
       body: "This kind of imagery is found in a variety of styles, and some of those
         producing ‘contact’ images in the Cape may have been people of Khoekhoen heritage.
@@ -649,6 +688,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:05.564000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:17:47.538000000 Z
         content_type_id: chapter
+        revision: 6
       title: History of research
       title_internal: 'Southern Africa: regional, chapter 7'
       body: 'The first known reports of African rock art outside of the continent
@@ -673,6 +713,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:30.652000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:18:07.313000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3BLPJ6SPMcccCE2qIG4eQG
@@ -689,6 +730,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:37.305000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:18:34.546000000 Z
         content_type_id: chapter
+        revision: 4
       title: Interpretation
       title_internal: 'Southern Africa: regional, chapter 8'
       body: Rather than showing scenes from daily life, as was once assumed, it is
@@ -707,6 +749,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:53.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:19:08.779000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5Zk1QhSjEAOy8U6kK4yS4c
@@ -725,6 +768,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:00.899000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:19:37.565000000 Z
         content_type_id: chapter
+        revision: 4
       title_internal: 'Southern Africa: regional, chapter 9'
       body: "The rock art attributed to ancestral San&#124;Bushman hunter-gatherers
         has many varied motifs, some of which may also relate to specific themes such
@@ -761,6 +805,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:15.123000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:21:01.026000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: ETDpJFg6beKyyOmQGCsKI
@@ -778,6 +823,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:22.665000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:21:16.059000000 Z
         content_type_id: chapter
+        revision: 6
       title: Dating
       title_internal: 'Southern Africa: regional, chapter 10'
       body: "Although dating rock art is always difficult, the study of rock art sites
@@ -811,6 +857,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:38.418000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:25:17.372000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 58V5qef3pmMGu2aUW4mSQU
@@ -827,6 +874,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:25:44.294000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Southern Africa: regional, chapter 11'
       body: "¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -839,6 +887,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 10:45:36.418000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:39:37.963000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: |+
         Campbell, A., Robbins, L. and Taylor, M. 2010. Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 
@@ -876,15 +925,16 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 17:36:35.946000000 Z
       updated_at: !ruby/object:DateTime 2017-06-21 13:55:43.874000000 Z
       content_type_id: thematic
+      revision: 5
     title: Rhinos in rock art
     slug: rhinos-in-rock-art
     lead_image:
       sys:
         id: 4uVUj08mRGOCkmK64q66MA
         created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-      title: NAMDMT0010010
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 02:01:17.553000000 Z
+      title: '2013,2034.20476'
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730556&partId=1&searchText=NAMDMT0010010&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
     chapters:
     - sys:
@@ -959,6 +1009,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:04:27.819000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:04:27.819000000 Z
       content_type_id: country_information
+      revision: 1
     title: 'Botswana: country introduction'
     chapters:
     - sys:
@@ -966,6 +1017,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:25:13.083000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:25:13.083000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Botswana: country, chapter 1'
       body: 'Botswana, a landlocked country in southern Africa, has a landscape defined
@@ -981,6 +1033,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:25:32.308000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:41:27.865000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3nU9N3ePduuQ60SQsiuYUO
@@ -999,6 +1052,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:26:11.853000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:26:11.853000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography and rock art distribution
       title_internal: 'Botswana: country, chapter 2'
       body: The Republic of Botswana is bordered by South Africa to the south, Namibia
@@ -1017,6 +1071,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:26:28.774000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:29:05.947000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 67txlVj7aMsymikMMMKm4U
@@ -1033,6 +1088,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:26:42.821000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:41:00.509000000 Z
         content_type_id: chapter
+        revision: 2
       title: Research history
       title_internal: 'Botswana: country, chapter 3'
       body: |
@@ -1044,6 +1100,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:26:52.599000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:41:44.339000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 54OlxJkeXK0ywWs4oQMqAK
@@ -1060,7 +1117,8 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:26:59.386000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:26:59.386000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Botswana: country, chapter 4'
       body: |
         In 1963 Alec Campbell visited the region with George Silberbauer, an ethnographer who had studied the San&#124;Bushmen in Botswana. As Director of Botswana’s National Museum, Campbell had a little government funding to record the rock art and excavate the rock shelters. Subsequently he collaborated with archaeologists Larry Robbins, Mike Murphy, and paleo-geographer George Brook.
@@ -1071,6 +1129,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:27:09.816000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:41:53.538000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6Nezz3ZlxCMOeSOiEKuG0s
@@ -1087,6 +1146,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:27:18.797000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:41:18.565000000 Z
         content_type_id: chapter
+        revision: 5
       title: Distribution and themes
       title_internal: 'Botswana: country, chapter 5'
       body: |-
@@ -1100,6 +1160,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:27:26.815000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:43:00.396000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4bfNSUilHiW0aqEus0CQeI
@@ -1116,6 +1177,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:27:35.809000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:42:24.988000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 19Wy6q0o68Saeo0uISC4e6
@@ -1132,6 +1194,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:27:44.093000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:27:44.093000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: country, chapter 6'
       body: '250 km east of the Tsodilo Hills, on the eastern side of the Okavango
         Delta, lie the Gubatshaa Hills. Paintings here consist of geometric designs
@@ -1144,6 +1207,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:27:53.423000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:42:46.477000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: FTRXrT2TQao4qQ2O6Yiea
@@ -1161,6 +1225,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:28:00.942000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:28:00.942000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: country, chapter 7'
       body: 'Rock art is rare in the south-east of the country, but the site of Manyana
         is noteworthy because it is the only one that has been excavated. The paintings
@@ -1179,6 +1244,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:28:09.513000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:43:52.079000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5DlH7qo75uqEUsW4qmGywg
@@ -1195,6 +1261,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:28:17.317000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:45:07.843000000 Z
         content_type_id: chapter
+        revision: 3
       title: Cupules and grooves
       title_internal: 'Botswana: country, chapter 8'
       body: Cupules and grooves can be found in the Tsodilo Hills, and also in the
@@ -1208,6 +1275,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:28:26.560000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 15:46:13.060000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 66x1NGJT6Eku8UIAYqQEMW
@@ -1225,6 +1293,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:28:33.030000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:28:33.030000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Botswana: country, chapter 9'
       body: Because the identity of the artists are unknown to us we can only speculate
         on the function and/or meanings of the art in relation to other rock art traditions
@@ -1243,6 +1312,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-12 11:03:48.079000000 Z
         updated_at: !ruby/object:DateTime 2016-09-12 11:03:48.079000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Campbell, Alec; Robbins, Larry, Taylor, Michael (2010) Tsodilo
         Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University
         Press.\n\nVan der Ryst, Maria; Lombard, Marlize; Biemond, Wim. (2004) Rocks
@@ -1266,9 +1336,9 @@ contentful:
   - sys:
       id: 6pHrsUcc2kaeKqeEcO0WmW
       created_at: !ruby/object:DateTime 2016-09-12 11:09:24.045000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:09:24.045000000 Z
-    title: BOTTSD1170002
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:13:24.351000000 Z
+    title: '2013,2034.21107'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3762101&partId=1&searchText=BOTTSD1170002&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/6pHrsUcc2kaeKqeEcO0WmW/c92b5e947430fcfbf28de83322cb1241/BOTTSD1170002_jpeg.jpg"
   region: Southern Africa
 ---

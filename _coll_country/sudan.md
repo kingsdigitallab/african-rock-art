@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:50:55.631000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 17:11:03.529000000 Z
     content_type_id: country
+    revision: 9
   name: Sudan
   slug: sudan
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=41071
@@ -14,44 +15,44 @@ contentful:
   - sys:
       id: 2s5Rp0kCzO46AsUy6ymeIO
       created_at: !ruby/object:DateTime 2015-11-30 13:39:42.184000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 13:39:42.184000000 Z
-    title: 2013,2034.225 1
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:05:34.453000000 Z
+    title: '2013,2034.225'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581550&partId=1&searchText=2013,2034.225&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/2s5Rp0kCzO46AsUy6ymeIO/5ee631964812cc8481d2dbb025ad7ef7/2013_2034.225_1.jpg"
   - sys:
       id: AMf0wybjzMekgCuSAs28E
       created_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:06:06.627000000 Z
     title: '2013,2034.272'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586260&partId=1&searchText=2013,2034.272&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/AMf0wybjzMekgCuSAs28E/2afa178fb645276aa051e8dc597f1b1e/2013_2034.272.jpg"
   - sys:
       id: 4pB2o28EnCOk6w8m8IwciG
       created_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:06:43.357000000 Z
     title: '2013,2034.347'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586942&partId=1&searchText=2013,2034.347&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4pB2o28EnCOk6w8m8IwciG/5ce1e4a59f58a180045818bdc3bc8c13/2013_2034.347.jpg"
   - sys:
       id: 2JHzf9XFUACqyq0AAaw8CQ
       created_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:07:20.356000000 Z
     title: '2013,2034.334'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586833&partId=1&searchText=2013,2034.334&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/2JHzf9XFUACqyq0AAaw8CQ/1070836ffd26fec60872b6b97fb72ff5/2013_2034.334.jpg"
   - sys:
       id: 1DXzN0USKMoCI4kywAKeEy
       created_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:07:57.029000000 Z
     title: '2013,2034.6'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577799&partId=1&searchText=2013,2034.6&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1DXzN0USKMoCI4kywAKeEy/c1f12caa1933afa9134b18c5505d14b8/2013_2034.6.jpg"
   - sys:
       id: 70RmZtVt9Cy4Ameg0qOoCo
       created_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:08:32.195000000 Z
     title: '2013,2034.258'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3583684&partId=1&searchText=2013,2034.258&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/70RmZtVt9Cy4Ameg0qOoCo/07832fd85c8ed2d2bbbb478c02bfddfc/2013_2034.258.jpg"
   featured_site:
     sys:
@@ -59,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:12:07.582000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:52:29.073000000 Z
       content_type_id: featured_site
+      revision: 4
     title: Jebel Uweinat, Sudan
     slug: jebel-uweinat
     chapters:
@@ -67,6 +69,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:19:54.772000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:19:54.772000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Sudan: featured site, chapter 1'
       body: At the nexus of Sudan, Libya and Egypt, where the borders meet at a point
         in the Eastern Sahara, a large rocky outcrop known as Jebel Uweinat peaks
@@ -79,13 +82,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:16:00.395000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:16:10.904000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1DXzN0USKMoCI4kywAKeEy
           created_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:07:57.029000000 Z
         title: '2013,2034.6'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577799&partId=1&searchText=2013,2034.6&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/1DXzN0USKMoCI4kywAKeEy/c1f12caa1933afa9134b18c5505d14b8/2013_2034.6.jpg"
       caption: Painted cattle and human figures on rock shelter roof. Karkur Talh,
         Jebel Uweinat. 2013,2034.6 © David Coulson/TARA
@@ -95,6 +99,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:20:17.081000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:20:17.081000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Sudan: featured site, chapter 2'
       body: This rock art comes in the form of paintings and engravings, commonly
         of animals and overwhelmingly of domestic cattle – 337 painted sites out of
@@ -109,13 +114,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:16:50.686000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:16:25.098000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 70RmZtVt9Cy4Ameg0qOoCo
           created_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:08:32.195000000 Z
         title: '2013,2034.258'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3583684&partId=1&searchText=2013,2034.258&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/70RmZtVt9Cy4Ameg0qOoCo/07832fd85c8ed2d2bbbb478c02bfddfc/2013_2034.258.jpg"
       caption: White-painted cattle. Karkur Talh, Jebel Uweinat. 2013,2034.258 © David
         Coulson/TARA
@@ -125,6 +131,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:20:38.415000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:20:38.415000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Sudan: featured site, chapter 3'
       body: While cattle are ubiquitous, there are also frequent depictions of humans
         in various styles, as well as other domesticates, including goats and dogs.
@@ -136,6 +143,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:17:47.704000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:16:39.272000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 32GOdHizCwYKGAqO4sQ8oW
@@ -152,6 +160,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:20:56.425000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:20:56.425000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Sudan: featured site, chapter 4'
       body: This variety, and similarities to rock art sites elsewhere in the eastern
         Sahara, has led to conjecture and debate regarding the date and authorship
@@ -168,6 +177,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:18:27.297000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:16:58.457000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3YBcXyxpbq6iKIegM66KgQ
@@ -184,6 +194,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:21:14.113000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:21:14.113000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Sudan: featured site, chapter 5'
       body: Other than giraffes, the lack of large wild animals depicted (e.g. elephants)
         may indicate the climate to have been too dry for them, as during this time
@@ -203,6 +214,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:19:16.492000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:17:15.357000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4TbDKiBZ2wg8GaK6GqsMsa
@@ -235,6 +247,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:23:42.312000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:23:42.312000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Sudan: key facts'
     image_count: 163 images
     date_range: Mostly 6,000 BC – 30 BC and Medieval Christian
@@ -247,6 +260,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:35:22.951000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:47:35.130000000 Z
       content_type_id: thematic
+      revision: 4
     title: Chariots in the Sahara
     slug: chariots-in-the-sahara
     lead_image:
@@ -263,6 +277,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:27:59.282000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:42:36.356000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 1'
       body: A number of sites from this Collection are located in the Libyan Desert,
         notably the Fezzan region, and include paintings of chariots in a variety
@@ -276,6 +291,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:18:19.534000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:43:36.197000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2Ed8OkQdX2YIYAIEQwiY8W
@@ -292,6 +308,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:28:18.968000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 2'
       body: The chariot has been one of the great empowering innovations of history.
         It likely originated in Mesopotamia about 3000 BC due to advances in metallurgy
@@ -308,6 +325,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:19:58.050000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:44:46.340000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5neJpIDOpyUQAWC8q0mCIK
@@ -324,6 +342,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:28:46.851000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 3'
       body: The chariot in the Sahara was probably introduced by the Garamantes, a
         cultural group thought to be descended from Berbers and Saharan pastoralists.
@@ -341,6 +360,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:20:33.572000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:45:32.605000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4DBpxlJqeAS4O0eYeCO2Ms
@@ -357,6 +377,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:06.521000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 4'
       body: On average there are about 500 drawings of chariots across the Sahara,
         from the Fezzan in Libya through the Aïr of Niger into northern Mali and then
@@ -378,6 +399,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:20:59.281000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:46:44.461000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4XYASoQz6UQggUGI8gqkgq
@@ -394,6 +416,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:29:23.611000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 5'
       body: The absence of archaeological evidence for chariots has led to the suggestion
         that some representations of chariots may have been the result of cultural
@@ -408,6 +431,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:21:42.421000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 16:48:40.965000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 279BaN9Z4QeOYAWCMSkyeQ
@@ -425,6 +449,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:23:05.317000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 28JPIQ4mYQCMYQmMQ0Oke8
@@ -440,6 +465,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:23:33.472000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:20:52.618000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 697LgKlm3SWSQOu8CqSuIO
@@ -456,6 +482,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:24:01.069000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:21:25.227000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5RKPaYinvOW6yyCGYcIsmK
@@ -472,6 +499,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:29:40.388000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:31:17.884000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 6'
       body: |-
         The two images may or may not depict chariots. The rectangular shapes are potentially abstracted forms of the chariot similar to the ‘flattened out’ depictions discussed previously. These potentially abstracted representations often sit alongside distinguishing figures, such as geometric bi-triangular figures, spears or lances, women wearing long dresses, and animals drawn in a fairly naturalistic style, of the Horse Period when the chariots were being used.
@@ -482,6 +510,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:24:30.605000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:31:46.413000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 74j3IOLwLS8IocMCACY2W
@@ -498,6 +527,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:30:08.834000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:33:37.308000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 7'
       body: |-
         In a similar manner to the schematic chariots, the 'Flying Gallop' depictions display the entire platform and both wheels of the chariot. In addition, more than one horse is depicted as a single horse in profile with numerous legs indicating multiple horses; an artistic technique first seen during the Upper Palaeolithic in Europe. Interestingly, in the Libyan rock art of the Acacus Mountains it seemed that animals could be conceived of in profile and in movement, but chariots were conceived of differently, and are represented in plain view, seen from above or in three-quarters perspective.
@@ -508,6 +538,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:25:19.180000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:34:17.369000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4Mn54dTjEQ80ssSOK0q0Mq
@@ -525,6 +556,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:26:17.455000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:34:59.909000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 7zQLgo270Am82CG0Qa6gaE
@@ -541,6 +573,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:30:27.301000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:35:36.578000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: chariots, chapter 8'
       body: Vast trading networks across the Sahara Desert not only facilitated the
         spread of goods, but the routes served as a conduit for cultural diffusion
@@ -557,6 +590,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:26:53.266000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:43:56.525000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4rwQF960rueIOACosUMwoa
@@ -574,6 +608,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:27:28.284000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:44:28.029000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 70cjifYtVeeqIOoOCouaGS
@@ -590,6 +625,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:30:47.583000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: chariots, chapter 9'
       body: A hoard of 100,000 Roman coins from the Diocletian period (not the above)
         were unearthed near Misurata, Libya, probably used to pay both regular Roman
@@ -601,6 +637,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:31:32.248000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: Mattingley, David. ‘Kingdom of the Sands', in *Current Archaeology*,
         Vol. 57 No 2, March/April 2004
     background_images:
@@ -623,6 +660,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
       content_type_id: thematic
+      revision: 4
     title: Geometric motifs and cattle brands
     slug: geometric-motifs
     lead_image:
@@ -639,6 +677,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 1'
       body: |-
         The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
@@ -649,6 +688,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5yD7fOuAdU4cemkewCqCMO
@@ -665,7 +705,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Geometric motifs: thematic, chapter 2'
       body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
         symbols occur are associated with meat-feasting ceremonies. Meat-feasting
@@ -682,6 +723,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1lBqQePHxK2Iw8wW8S8Ygw
@@ -699,6 +741,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 3'
       body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a
         similar visible relationship. The southernmost site is well known for its
@@ -712,6 +755,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 19lqDiCw7UOomiMmYagQmq
@@ -729,6 +773,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 4'
       body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
         of animals signifies a sense of belonging rather than a mark of ownership
@@ -751,6 +796,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5yUlpG85GMuW2IiMeYCgyy
@@ -767,6 +813,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 5'
       body: "However, not all pastoralist geometric motifs can be associated with
         meat-feasting or livestock branding; they may have wider symbolism or be symbolic
@@ -793,6 +840,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
         content_type_id: citation
+        revision: 3
       citation_line: |-
         Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
 
@@ -830,6 +878,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:22:39.465000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:42:14.925000000 Z
       content_type_id: country_information
+      revision: 2
     title: 'Sudan: country introduction'
     chapters:
     - sys:
@@ -837,6 +886,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:18:28.564000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:18:28.564000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Sudan: country, chapter 1'
       body: 'Sudan''s known rock art mainly consists of paintings and engravings on
@@ -852,6 +902,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:14:29.575000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:12:37.390000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4rPFCqitX2sUOAGUEAqui4
@@ -868,6 +919,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:18:56.395000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:18:56.395000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography
       title_internal: 'Sudan: country, chapter 2'
       body: Sudan covers nearly 2,000,000 km² and is geographically diverse, dominated
@@ -884,6 +936,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:19:26.835000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:19:26.835000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Sudan: country, chapter 3'
       body: Historically, rock art research in Sudan has either been incorporated
@@ -902,6 +955,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:19:49.980000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:20:08.533000000 Z
         content_type_id: chapter
+        revision: 2
       title: Rock art types
       title_internal: 'Sudan: country, chapter 4'
       body: |-
@@ -915,13 +969,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:15:01.481000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:13:14.413000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: AMf0wybjzMekgCuSAs28E
           created_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:06:06.627000000 Z
         title: '2013,2034.272'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586260&partId=1&searchText=2013,2034.272&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/AMf0wybjzMekgCuSAs28E/2afa178fb645276aa051e8dc597f1b1e/2013_2034.272.jpg"
       caption: Engraved cattle, giraffe and ostrich. Karkur Talh, Jebel Uweinat. 2013,2034.272
         © TARA/David Coulson
@@ -931,6 +986,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:20:29.697000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:20:29.697000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology
       title_internal: 'Sudan: country, chapter 5'
       body: The understanding of much of Sudanese prehistory as it relates to rock
@@ -953,13 +1009,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:15:30.625000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:13:29.546000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4pB2o28EnCOk6w8m8IwciG
           created_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:06:43.357000000 Z
         title: '2013,2034.347'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586942&partId=1&searchText=2013,2034.347&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/4pB2o28EnCOk6w8m8IwciG/5ce1e4a59f58a180045818bdc3bc8c13/2013_2034.347.jpg"
       caption: Engraved ostriches, dogs and antelope. Karkur Talh, Jebel Uweinat.
         2013,2034.347 © TARA/David Coulson
@@ -969,7 +1026,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:20:54.588000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:20:54.588000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Sudan: country, chapter 6'
       body: 'Ascribing dates to rock art like that at Jebel Uweinat is also uncertain
         and is more difficult than dating images such as the depictions of Nile river
@@ -992,13 +1050,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:16:01.977000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 17:13:48.660000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2JHzf9XFUACqyq0AAaw8CQ
           created_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:07:20.356000000 Z
         title: '2013,2034.334'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586833&partId=1&searchText=2013,2034.334&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/2JHzf9XFUACqyq0AAaw8CQ/1070836ffd26fec60872b6b97fb72ff5/2013_2034.334.jpg"
       caption: Engraved camels and human figures. Karkur Talh, Jebel Uweinat. 2013,2034.334
         © TARA/David Coulson
@@ -1009,6 +1068,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:17:53.755000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:17:53.755000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Jesse, F. 2005. *Rock Art in Lower Wadi Howar, northwest Sudan*. Sahara vol.16, pp. 27-38
 
@@ -1043,9 +1103,9 @@ contentful:
   - sys:
       id: 2s5Rp0kCzO46AsUy6ymeIO
       created_at: !ruby/object:DateTime 2015-11-30 13:39:42.184000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 13:39:42.184000000 Z
-    title: 2013,2034.225 1
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:05:34.453000000 Z
+    title: '2013,2034.225'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3581550&partId=1&searchText=2013,2034.225&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/2s5Rp0kCzO46AsUy6ymeIO/5ee631964812cc8481d2dbb025ad7ef7/2013_2034.225_1.jpg"
   region: Northern / Saharan Africa
 ---
