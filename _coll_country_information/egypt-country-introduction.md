@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 10:45:19.662000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:03.255000000 Z
     content_type_id: country_information
+    revision: 2
   title: 'Egypt: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:37:46.214000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:05:57.139000000 Z
       content_type_id: chapter
+      revision: 3
     title: Introduction
     title_internal: 'Egypt: country, chapter 1'
     body: The rock art of Egypt was largely unknown outside of the region until the
@@ -25,24 +27,26 @@ contentful:
   - sys:
       id: JXxIothd6gke6u68aMS2k
       created_at: !ruby/object:DateTime 2015-11-26 10:33:39.571000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-09 15:09:08.552000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:30:48.038000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 4yqh628H2wae4Mwe6MQGWa
         created_at: !ruby/object:DateTime 2015-11-26 10:33:01.324000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:33:01.324000000 Z
-      title: '2013,2034.5277'
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 01:30:00.913000000 Z
+      title: '2013,2034.25'
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577780&partId=1&images=true&people=197356&place=42209&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/4yqh628H2wae4Mwe6MQGWa/41dcae1c01f69ace28bccc26fd712c6f/2013_2034.5277.jpg"
     caption: Painted human figures and cows on rock shelter roof. Karkur Talh, Jebel
-      Uweinat, Egypt. 2013,2034.5277 © TARA/David Coulson
+      Uweinat, Egypt. 2013,2034.25© TARA/David Coulson
     col_link: http://bit.ly/2iVMFd0
   - sys:
       id: 3Cs9Muna1qeMOCAUyCCuQm
       created_at: !ruby/object:DateTime 2015-11-26 10:38:16.091000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:38:16.091000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography
     title_internal: 'Egypt: country, chapter 2'
     body: Egypt covers about 996,000km² at Africa’s north-east corner and until the
@@ -56,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:38:54.278000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:38:54.278000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Egypt: country, chapter 3'
     body: |-
@@ -67,6 +72,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:39:46.908000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:44:29.300000000 Z
       content_type_id: chapter
+      revision: 2
     title: Themes
     title_internal: 'Egypt: country, chapter 4'
     body: In desert areas, recognisably stylised Pharaonic-period inscriptions and
@@ -88,6 +94,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:34:25.538000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:09:37.165000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3MIwpw8kAMIuGukggC2mUo
@@ -104,6 +111,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:40:02.893000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:07:08.214000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Egypt: country, chapter 5'
     body: Possible links between ancient Egyptian culture and wider Saharan rock art
       traditions have been discussed since the rock art of northern Africa first met
@@ -114,6 +122,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:40:26.215000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:21:14.317000000 Z
       content_type_id: chapter
+      revision: 2
     title: Chronology
     title_internal: 'Egypt: country, chapter 6'
     body: Certainly, not all rock art found in Egypt has direct links to Pharaonic
@@ -129,6 +138,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:35:03.483000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:21:43.897000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1BqBCPqhDiiM0qqeM6Eeie
@@ -145,6 +155,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:40:44.511000000 Z
       updated_at: !ruby/object:DateTime 2016-07-22 19:36:46.175000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Egypt: country, chapter 7'
     body: This development fostered both ancient Egyptian culture and isolated populations
       of animals elsewhere driven out of their environments by encroaching desert,
@@ -158,6 +169,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:35:44.393000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:28:38.595000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2eE8VylT2ocoEoAQ22m2Qq
@@ -174,6 +186,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:41:00.987000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:30:05.093000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Egypt: country, chapter 8'
     body: Some of Egypt’s most striking and famous rock art is found far from the
       Nile at Gilf Kebir, a vast sandstone plateau in the desert near the Libyan border.
@@ -192,6 +205,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:41:27.078000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:41:27.078000000 Z
       content_type_id: chapter
+      revision: 1
     title: Interpretation
     title_internal: 'Egypt: country, chapter 9'
     body: The motivation behind producing these images remains elusive. Where a particular
@@ -209,6 +223,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:36:22.741000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:36:22.741000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2QN2xRgnrOcQKsIM224CYY
@@ -226,6 +241,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:37:10.022000000 Z
       updated_at: !ruby/object:DateTime 2016-07-22 19:38:21.856000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: |+
       Huyge, D. 2009, *Rock Art*. In Willeke Wendrich (ed.), UCLA Encyclopedia of Egyptology, Los Angeles, p. 4
 

@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 16:45:15.719000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:52:38.130000000 Z
     content_type_id: featured_site
+    revision: 3
   title: Niola Doa, Chad
   slug: niola-doa
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:42:21.650000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:42:21.650000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Chad: featured site, chapter 1'
     body: The Ennedi Plateau is a mountainous region in the north-eastern corner of
       Chad, an impressive sandstone massif eroded by wind and temperature changes
@@ -36,6 +38,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:39:08.235000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:39:08.235000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3x13gapfeoswomWyA0gyWS
@@ -52,6 +55,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:42:38.368000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:42:38.368000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Chad: featured site, chapter 2'
     body: 'Within this kaleidoscope, a series of engravings have become especially
       renowned for their singularity and quality: several groups of life-sized human
@@ -75,13 +79,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:40:06.201000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:40:06.201000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1EOAe1GFKQSG2oWYiKSIYI
         created_at: !ruby/object:DateTime 2015-11-25 16:38:31.745000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.745000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:11:12.941000000 Z
       title: '2013,2034.6164'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637058&partId=1&searchText=Niola+Doa&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/1EOAe1GFKQSG2oWYiKSIYI/15c83103aa2766992fd90414a29ea01b/2013_2034.6164.jpg"
     caption: Detail of the first main group of engraved human figures, where the standardized
       position of the arms and the stick can be observed. Ennedi Plateau. 2013,2034.6164
@@ -92,6 +97,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:42:56.088000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:42:56.088000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Chad: featured site, chapter 3'
     body: Another characteristic feature of these images is their abnormally wide
       buttocks and thighs, which have been interpreted as steatopygia (a genetic condition
@@ -105,6 +111,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:40:36.716000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:40:36.716000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4r9HybjNjOaMU2wI44IUWw
@@ -122,6 +129,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:43:21.226000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:43:21.226000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Chad: featured site, chapter 4'
     body: |-
       In addition, almost all the figures are decorated with intricate geometric patterns (straight and wavy lines, squares, meanders and, in one case, schematic birds), which could be interpreted as garments, tattoos, scarifications or body paintings. In some cases, figures appear simply outlined, but these very rare cases were probably left unfinished. The decorative patterns extend to the ears, which are always depicted with geometric designs, and to the head, where these designs could correspond to hairstyles.
@@ -132,6 +140,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:41:04.916000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:41:16.496000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3UndBeXLYs8mK4Y4OWkMU8
@@ -148,6 +157,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:43:40.154000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:43:40.154000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Chad: featured site, chapter 5'
     body: 'Regarding their chronology, as with most rock art depictions the Niola
       Doa figures are difficult to date, although they undoubtedly belong to the older
@@ -170,6 +180,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:41:51.721000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 16:41:51.721000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Bailloud, Gerard (1997). *Art rupestre en Ennedi. Looking for
       rock paintings and engravings in the Ennedi Hills*, Sépia, Saint-Maur.\n \nSimonis,
       R., Faleschini, G. and Negro, G. (1994) *Niola Doa, ‘il luogo delle fanciulle’
@@ -178,9 +189,9 @@ contentful:
   - sys:
       id: 1EOAe1GFKQSG2oWYiKSIYI
       created_at: !ruby/object:DateTime 2015-11-25 16:38:31.745000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 16:38:31.745000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:11:12.941000000 Z
     title: '2013,2034.6164'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637058&partId=1&searchText=Niola+Doa&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1EOAe1GFKQSG2oWYiKSIYI/15c83103aa2766992fd90414a29ea01b/2013_2034.6164.jpg"
   - sys:
       id: 4BGLzXecpqKOsuwwiIaM6K

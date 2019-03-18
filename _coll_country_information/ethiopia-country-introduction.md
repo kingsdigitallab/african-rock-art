@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 18:43:00.803000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:55.895000000 Z
     content_type_id: country_information
+    revision: 4
   title: 'Ethiopia: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:38:08.693000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:38:08.693000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Ethiopia: country, chapter 1'
     body: Ethiopia is the biggest country of the Horn of Africa, a very diverse country
@@ -28,6 +30,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:38:32.241000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 14:34:31.428000000 Z
       content_type_id: chapter
+      revision: 4
     title: Geography and rock art distribution
     title_internal: 'Ethiopia: country, chapter 2'
     body: The geography of Ethiopia is varied and ranges from high plateaus to savannahs
@@ -46,6 +49,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:40:22.095000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 14:42:57.195000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: IIbbaihhGSi02y0qamaIy
@@ -61,6 +65,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:38:53.256000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 14:48:57.742000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Ethiopia: country, chapter 3'
     body: 'Ethiopian rock art is located around two main areas: around the city of
       Harar to the east and the Sidamo region to the south-west. The first group comprises
@@ -82,6 +87,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:46:38.477000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 15:06:35.150000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4w2Qic7EkEe0omyUA2i6QU
@@ -98,6 +104,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:39:19.763000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:39:19.763000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Ethiopia: country, chapter 4'
     body: Ethiopian rock art has played a key role in the Horn of Africa research,
@@ -118,6 +125,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:41:06.599000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 15:20:14.088000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5rOzA2mToQEA8eCoE2S6yc
@@ -134,6 +142,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:39:35.423000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:39:35.423000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Ethiopia: country, chapter 5'
     body: Rock art research in Ethiopia has traditionally included the term Ethiopian-Arabian
       style, coined in 1971 by Červiček to show the similarities between the depictions
@@ -149,6 +158,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:41:26.088000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 15:21:39.681000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6jqDCZikwg60QmgaSYKsKA
@@ -165,6 +175,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:39:53.855000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 15:34:19.840000000 Z
       content_type_id: chapter
+      revision: 2
     title: Themes
     title_internal: 'Ethiopia: country, chapter 6'
     body: Cattle and cattle-related depictions are the main subject of Ethiopian rock
@@ -180,6 +191,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:41:45.230000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 15:35:54.275000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: cyrbFGoA8wEaS8qM4Ys4c
@@ -196,6 +208,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:40:11.167000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:40:11.167000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Ethiopia: country, chapter 7'
     body: The other main group of depictions is of anthropomorphs, which are usually
       schematic and often distributed in rows. In some cases, the tendency to schematism
@@ -210,6 +223,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:42:03.855000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 16:28:50.616000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1gmLTDIgQY8i4SgKUMYSc4
@@ -226,6 +240,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:40:35.934000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:40:35.934000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Ethiopia: country, chapter 8'
     body: 'Not all themes are distributed in every area. In Sidamo, almost all figures
       depict humpless cows, while subjects in the Harar region show a far bigger variability.
@@ -240,6 +255,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:42:26.511000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 16:29:56.050000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6johOxHojKY4EkOqEco6c6
@@ -256,6 +272,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:41:00.681000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 18:41:00.681000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Ethiopia: country, chapter 9'
     body: As is the case with most African rock art, absolute dates for depictions
@@ -278,6 +295,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 19:42:45.233000000 Z
       updated_at: !ruby/object:DateTime 2017-01-10 16:31:49.133000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5Q738mIexa8sWUwqsai8Ai
@@ -295,6 +313,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 18:41:41.635000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:45:00.268000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: |
       Červiček, P. (1971): Rock paintings of Laga Oda (Ethiopia). *Paideuma*, 17: 121-136.
 

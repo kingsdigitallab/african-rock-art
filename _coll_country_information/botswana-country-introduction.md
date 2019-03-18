@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-09-12 11:04:27.819000000 Z
     updated_at: !ruby/object:DateTime 2016-09-12 11:04:27.819000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'Botswana: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:25:13.083000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:25:13.083000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Botswana: country, chapter 1'
     body: 'Botswana, a landlocked country in southern Africa, has a landscape defined
@@ -26,6 +28,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:25:32.308000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:41:27.865000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3nU9N3ePduuQ60SQsiuYUO
@@ -44,6 +47,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:26:11.853000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:26:11.853000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography and rock art distribution
     title_internal: 'Botswana: country, chapter 2'
     body: The Republic of Botswana is bordered by South Africa to the south, Namibia
@@ -61,6 +65,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:26:28.774000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:29:05.947000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 67txlVj7aMsymikMMMKm4U
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:26:42.821000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:41:00.509000000 Z
       content_type_id: chapter
+      revision: 2
     title: Research history
     title_internal: 'Botswana: country, chapter 3'
     body: |
@@ -88,6 +94,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:26:52.599000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:41:44.339000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 54OlxJkeXK0ywWs4oQMqAK
@@ -104,7 +111,8 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:26:59.386000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:26:59.386000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 1
+    title: 
     title_internal: 'Botswana: country, chapter 4'
     body: |
       In 1963 Alec Campbell visited the region with George Silberbauer, an ethnographer who had studied the San&#124;Bushmen in Botswana. As Director of Botswana’s National Museum, Campbell had a little government funding to record the rock art and excavate the rock shelters. Subsequently he collaborated with archaeologists Larry Robbins, Mike Murphy, and paleo-geographer George Brook.
@@ -115,6 +123,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:27:09.816000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:41:53.538000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 6Nezz3ZlxCMOeSOiEKuG0s
@@ -131,6 +140,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:27:18.797000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:41:18.565000000 Z
       content_type_id: chapter
+      revision: 5
     title: Distribution and themes
     title_internal: 'Botswana: country, chapter 5'
     body: |-
@@ -144,6 +154,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:27:26.815000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:43:00.396000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 4bfNSUilHiW0aqEus0CQeI
@@ -160,6 +171,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:27:35.809000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:42:24.988000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 19Wy6q0o68Saeo0uISC4e6
@@ -176,6 +188,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:27:44.093000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:27:44.093000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: country, chapter 6'
     body: '250 km east of the Tsodilo Hills, on the eastern side of the Okavango Delta,
       lie the Gubatshaa Hills. Paintings here consist of geometric designs and finger
@@ -187,6 +200,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:27:53.423000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:42:46.477000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: FTRXrT2TQao4qQ2O6Yiea
@@ -204,6 +218,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:28:00.942000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:28:00.942000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: country, chapter 7'
     body: 'Rock art is rare in the south-east of the country, but the site of Manyana
       is noteworthy because it is the only one that has been excavated. The paintings
@@ -222,6 +237,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:28:09.513000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:43:52.079000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5DlH7qo75uqEUsW4qmGywg
@@ -238,6 +254,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:28:17.317000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:45:07.843000000 Z
       content_type_id: chapter
+      revision: 3
     title: Cupules and grooves
     title_internal: 'Botswana: country, chapter 8'
     body: Cupules and grooves can be found in the Tsodilo Hills, and also in the eastern
@@ -250,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:28:26.560000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 15:46:13.060000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 66x1NGJT6Eku8UIAYqQEMW
@@ -267,6 +285,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:28:33.030000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:28:33.030000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Botswana: country, chapter 9'
     body: Because the identity of the artists are unknown to us we can only speculate
       on the function and/or meanings of the art in relation to other rock art traditions
@@ -285,6 +304,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:03:48.079000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:03:48.079000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Campbell, Alec; Robbins, Larry, Taylor, Michael (2010) Tsodilo
       Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University
       Press.\n\nVan der Ryst, Maria; Lombard, Marlize; Biemond, Wim. (2004) Rocks

@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 12:15:21.374000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:53:38.667000000 Z
     content_type_id: featured_site
+    revision: 5
   title: Laas Geel, Somaliland
   slug: laas-geel
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:40:46.141000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:51:05.773000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Somaliland: featured site, chapter 1'
     body: Laas Geel, one of the most important rock art sites in the region, is located
       in the north-western part of the Horn of Africa, in Somaliland, in the road
@@ -35,6 +37,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:17:16.995000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:52:45.006000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 31GgY4I8aIMi6wscCMaysq
@@ -51,6 +54,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:17:16.995000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:52:45.006000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 31GgY4I8aIMi6wscCMaysq
@@ -67,6 +71,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:41:31.266000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 12:41:31.266000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Somaliland: featured site, chapter 2'
     body: The site was discovered in 2002 by a French team led by Xavier Gutherz which
       studied the beginning of Pastoralism in the Horn of Africa. Along with the paintings,
@@ -86,6 +91,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:38:47.035000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:54:21.792000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4oUCCQM2xiEaa0WIKyAoIm
@@ -102,6 +108,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:38:47.035000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:54:21.792000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4oUCCQM2xiEaa0WIKyAoIm
@@ -118,7 +125,8 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:42:09.252000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:16:01.889000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 2
+    title: 
     title_internal: 'Somaliland: featured site, chapter 3'
     body: 'Cows appear isolated or in groups of up to fifteen, although no clear representation
       of herds can be made out, and they are often associated with human figures with
@@ -137,6 +145,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:39:17.751000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:55:44.228000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4VTvKF1G52eSUicC2wuu8e
@@ -153,6 +162,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:39:17.751000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:55:44.228000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4VTvKF1G52eSUicC2wuu8e
@@ -169,6 +179,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:42:51.276000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:16:39.344000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Somaliland: featured site, chapter 4'
     body: Unlike many other rock art sites, Laas Geel has been dated quite precisely
       thanks to the excavations carried out in one of the shelters by the French team
@@ -185,6 +196,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:39:41.223000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:58:47.282000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 65ttuyQSS4C4CC62kSKeaQ
@@ -202,6 +214,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:39:41.223000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:58:47.282000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 65ttuyQSS4C4CC62kSKeaQ
@@ -219,6 +232,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:43:38.752000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 12:43:38.752000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Somaliland: featured site, chapter 5'
     body: When discovered, Laas Geel was considered a unique site, and although its
       general characteristics corresponded to the so-called Ethiopian-Arabic style,
@@ -233,6 +247,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:40:04.102000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:59:56.493000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: Le7MwhlqWA8omCGckqeC0
@@ -250,6 +265,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:40:04.102000000 Z
       updated_at: !ruby/object:DateTime 2017-01-12 16:59:56.493000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: Le7MwhlqWA8omCGckqeC0
@@ -267,6 +283,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:44:09.364000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:17:05.456000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Somaliland: featured site, chapter 6'
     body: 'Laas Geel is a marvellous example of the potential of African rock art
       still waiting to be discovered and studied. Not only the quality of the images
@@ -281,6 +298,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:44:40.978000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 12:44:40.978000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Gutherz, X., Cros, J.P. y Lesur, J. (2003b): The Discovery of New Rock Art Paintings in the Horn of Africa: The Rock Shelters of Laas Geel, Republic of Somaliland. *Journal of African Archaeology*, 1 (2): 227-236.
 

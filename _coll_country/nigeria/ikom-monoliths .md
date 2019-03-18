@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2017-12-12 03:41:45.814000000 Z
     updated_at: !ruby/object:DateTime 2017-12-12 03:41:45.814000000 Z
     content_type_id: featured_site
+    revision: 1
   title: Ikom Monoliths, Cross River State, Nigeria
   slug: 'ikom-monoliths '
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:00:49.285000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:00:49.285000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Nigeria: featured site, chapter 1'
     body: The Ikom Monoliths, originally consisting of around 400-450 engraved standing
       stones and distributed around thirty communities in the Ikom area of Cross River
@@ -30,6 +32,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:03:19.623000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:03:19.623000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6ndlBNzj4kC4IyysaSk20Y
@@ -45,6 +48,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:13:13.390000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:13:13.390000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Nigeria: featured site, chapter 2'
     body: 'The majority of the stones are skilfully carved in hard, medium-textured
       basaltic rock, with a few carved in sandstone and shelly limestone. Varying
@@ -62,6 +66,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:46:21.095000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:46:21.095000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3EPsiq8TFKE0omSUGy2OiW
@@ -76,6 +81,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:50:43.447000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:50:43.447000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1FTDyPet3WiyQYiq2UYEeu
@@ -90,6 +96,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:51:41.445000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:51:41.445000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Nigeria: featured site, chapter 3'
     body: The effects of weathering has resulted in erosion and deterioration, and
       as such in 2007 were added to the World Monuments Fund’s list of sites in danger
@@ -102,6 +109,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:54:04.301000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:54:04.301000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1wBaFXQ6iY2igSUc0Qwm02
@@ -117,6 +125,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 01:55:42.020000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 01:55:42.020000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4GxwIaZP680CyIGeQ4YesO
@@ -132,6 +141,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 02:03:17.080000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 02:03:17.080000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Nigeria: featured site, chapter 4'
     body: Known as Akwasnshi or Atal among the local Ejagham people of Cross River,
       the monoliths can be found in the centre of the village or in the central meeting
@@ -144,6 +154,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 02:04:55.030000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 02:04:55.030000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4Rzr1W9YZ2yecY6MGkQ8Y8
@@ -159,6 +170,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 02:05:49.581000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 02:05:49.581000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Nigeria: featured site, chapter 5'
     body: Whilst the stones seem to share common features, each monolith is unique
       in its design and execution, and are thought to “bear a complex codified iconography
@@ -169,6 +181,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 03:35:55.321000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 03:35:55.321000000 Z
       content_type_id: chapter
+      revision: 1
     title: Interpretation
     title_internal: 'Nigeria: featured site, chapter 6'
     body: |
@@ -180,6 +193,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 03:39:23.421000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 03:39:23.421000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: rOeKzKuGw8EMG08MyM02Q
@@ -196,6 +210,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 03:40:23.912000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 03:40:23.912000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Nigeria: featured site, chapter 7'
     body: 'Recent criticism has focused on ways in which scholars have situated these
       sculptural forms within Western/European anthropological and archaeological
@@ -207,6 +222,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Akpang, C. E. 2014. ‘Beyond Anthropological and Associational
       discourse- interrogating the minimalism of Ikom Monoliths as concept and found
       object art’, in \n*Global Journal of Arts Humanities and Social Sciences*, Vol.2,
