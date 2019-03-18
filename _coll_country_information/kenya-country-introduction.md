@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 15:35:38.627000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:43:02.363000000 Z
     content_type_id: country_information
+    revision: 2
   title: 'Kenya: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:28:45.582000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:51:02.714000000 Z
       content_type_id: chapter
+      revision: 2
     title: Introduction
     title_internal: 'Kenya: country, chapter 1'
     body: Rock art is distributed widely throughout Kenya, although historically rock
@@ -28,6 +30,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:23:16.663000000 Z
       updated_at: !ruby/object:DateTime 2017-01-13 16:02:48.785000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 191BlqkgSUmU20ckCQqCyk
@@ -44,6 +47,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:29:20.719000000 Z
       updated_at: !ruby/object:DateTime 2017-01-13 16:15:40.192000000 Z
       content_type_id: chapter
+      revision: 3
     title: Geography and rock art distribution
     title_internal: 'Kenya: country, chapter 2'
     body: Kenya covers about 569,140km², bordering Ethiopia and Somalia in the north
@@ -60,6 +64,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:23:43.746000000 Z
       updated_at: !ruby/object:DateTime 2018-05-17 16:39:32.374000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 4ZkoqzwyVaAuciGqmAUqwC
@@ -75,6 +80,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:30:05.512000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:30:05.512000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Kenya: country, chapter 3'
     body: 'Although researchers had been noting and investigating rock art in the
@@ -101,6 +107,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:24:16.333000000 Z
       updated_at: !ruby/object:DateTime 2017-01-13 17:16:53.891000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 3o8IJEfzbWI4qiywkMu8WM
@@ -117,6 +124,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:31:05.485000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:31:13.826000000 Z
       content_type_id: chapter
+      revision: 2
     title: Themes
     title_internal: 'Kenya: country, chapter 4'
     body: "Figurative imagery only features prominently in about 10% of the known
@@ -157,6 +165,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:24:54.228000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:24:54.228000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6sJEag1degeScYa0IYY66a
@@ -172,6 +181,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:31:50.127000000 Z
       updated_at: !ruby/object:DateTime 2017-01-13 17:19:42.052000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Kenya: country, chapter 5'
     body: Not all of Kenya's rock art is associated with pastoralists. Much of the
       symbolic art, particularly to the south and west, is attributed to the ’Batwa’,
@@ -195,6 +205,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:25:30.561000000 Z
       updated_at: !ruby/object:DateTime 2017-01-13 17:20:10.830000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1rIqvHUlxCgqW2caioAo4I
@@ -211,6 +222,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:32:19.445000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:32:19.445000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Kenya: country, chapter 6'
     body: It is instructive to consider the use of rock art sites within their physical
       contexts as well as the rock art motifs themselves.  Locality and landscape
@@ -231,6 +243,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:26:01.650000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 16:01:02.004000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6CNVylYrKwUkk0YCcaYmE4
@@ -247,6 +260,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:32:57.237000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:32:57.237000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Kenya: country, chapter 7'
     body: "Rock art ascribed to Batwa peoples could be anywhere between 15,000-1,000
@@ -275,6 +289,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:26:31.130000000 Z
       updated_at: !ruby/object:DateTime 2017-01-23 16:41:13.806000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 4dt5Tw7AXeoiMOkAqGIoWa
@@ -292,6 +307,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:27:37.639000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 11:55:17.747000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: |
       Gramly, R. 1975.  *Meat-feasting Sites and Cattle Brands: Patterns of Rock-shelter Utilization in East Africa*.  Azania, Vol. 10, Issue 1, pp. 107-122
 

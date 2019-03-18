@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 15:07:32.113000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:53:48.674000000 Z
     content_type_id: featured_site
+    revision: 3
   title: Cave of Swimmers, Egypt
   slug: cave-of-swimmers
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:04:41.300000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:04:41.300000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Egypt: featured site, chapter 1'
     body: The ‘Cave of Swimmers’ is one of the most famous rock art sites of the Sahara.
       It sits in Wadi Sura, loosely translated as the ‘Valley of Pictures’ due to
@@ -28,6 +30,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:01:11.701000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:35:42.682000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5LebP1Vcqs4A4US00uI0Q4
@@ -45,6 +48,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:05:05.937000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 15:44:27.933000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Egypt: featured site, chapter 2'
     body: The ‘Cave of Swimmers’ is the larger of two shallow caves situated side
       by side in the southern part of the Gilf Kebir plateau in Egypt’s Western Desert,
@@ -58,6 +62,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:01:51.007000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:35:41.280000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2halaUUgAMe6ES0uycIIIG
@@ -73,6 +78,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:05:27.680000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:05:27.680000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Egypt: featured site, chapter 3'
     body: The book and film feature fictionalised versions of the cave and its real-life
       discoverer, László Almásy, as the title character. In reality, Almásy was a
@@ -89,13 +95,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:02:56.246000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:36:48.650000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3R3Ri8y5pe2I4AM8iauayW
         created_at: !ruby/object:DateTime 2015-11-25 15:00:35.477000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 15:00:35.477000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:28:16.164000000 Z
       title: '2013,2034.190'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577611&partId=1&searchText=2013,2034.190&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/3R3Ri8y5pe2I4AM8iauayW/5e53609e755eba8130847a5017e32268/2013_2034.190.jpg"
     caption: The main painted panel on the cave wall, showing the famous ‘swimming’
       figures (bottom centre and top right). 2013,2034.190 © David Coulson / TARA
@@ -105,6 +112,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:05:49.205000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:05:49.205000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Egypt: featured site, chapter 4'
     body: 'New rock art discoveries in this area have been made in recent years and
       add to the debate, which has continued, as have expeditions by academics, tourists
@@ -119,6 +127,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:03:54.190000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:37:39.120000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6Fqf4hcw1OeG2IIO442ckW
@@ -136,6 +145,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:06:06.304000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:06:06.304000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Egypt: featured site, chapter 5'
     body: 'The ‘swimmers’ are not the only humans depicted here: there are others,
       some heavily adorned, some apparently engaged in activities. A meticulously

@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 11:15:52.509000000 Z
     updated_at: !ruby/object:DateTime 2015-12-08 14:55:14.724000000 Z
     content_type_id: country_information
+    revision: 4
   title: 'Niger: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:03:04.104000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:49:15.950000000 Z
       content_type_id: chapter
+      revision: 2
     title: Introduction
     title_internal: 'Niger: country, chapter 1'
     body: Niger is geographically diverse, having both the Sahel (savannah) and the
@@ -31,6 +33,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:55:02.416000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:55:02.416000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2FAYj7hG88aQ0Quq6Wc6gE
@@ -46,6 +49,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:03:35.303000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:03:35.303000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: country, chapter 2'
     body: Links have been made between the rock art of Niger and that of several other
       countries – in particular, between the so-called Libyan Warrior art found in
@@ -60,6 +64,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:55:34.135000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:55:34.135000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4h5Sa7Ex2M2aEa8YSGW6iU
@@ -76,6 +81,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:04:29.851000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 17:12:48.554000000 Z
       content_type_id: chapter
+      revision: 6
     title: Geography and rock art distribution
     title_internal: 'Niger: country, chapter 3'
     body: "Covering an area of 1.267 million km², this landlocked country borders
@@ -94,6 +100,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-12-07 17:13:15.478000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 17:13:15.478000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: Sub heading 1
     body: '__Aïr Mountains (northern Niger)__ '
   - sys:
@@ -101,6 +108,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:56:09.992000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:56:09.992000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6wKZcUGktaAG0IYOagAIQ4
@@ -117,6 +125,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:05:00.923000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:54:12.049000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Niger: country, chapter 4'
     body: Consisting predominantly of engravings, the majority of depictions in this
       region fall within the so-called Libyan Warrior period or style of art, dating
@@ -135,6 +144,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-12-08 14:54:32.334000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:54:48.031000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: Sub heading 2
     body: __Djado Plateau__
   - sys:
@@ -142,13 +152,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:56:33.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:56:33.929000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6yxgQFojbUcOUSwyaWwEMC
         created_at: !ruby/object:DateTime 2015-11-26 10:54:27.057000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:54:27.057000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:54:03.540000000 Z
       title: '2013,2034.8891'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637764&partId=1&searchText=2013,2034.8891&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/6yxgQFojbUcOUSwyaWwEMC/5547eadfdf388937a8c708c145c2dba6/2013_2034.8891.jpg"
     caption: Two outline engravings of white rhinoceros. 2013,2034.8891 © TARA/David
       Coulson
@@ -158,6 +169,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:05:22.441000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:05:22.441000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: country, chapter 5'
     body: Here, both paintings and engravings occur. The earliest engravings include
       images of wild animals such as elephants, rhinoceros, giraffe and other game,
@@ -170,6 +182,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:57:18.063000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:57:18.063000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2ANvzNqFfiKkMWAAsWCWKQ
@@ -186,6 +199,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:05:56.545000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:05:56.545000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: country, chapter 6'
     body: The number of cattle depictions is small, but particular images of calves
       attached to a lead can be compared stylistically with images of cattle in Tassili
@@ -202,6 +216,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:06:48.293000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:06:48.293000000 Z
       content_type_id: chapter
+      revision: 1
     title: History of rock art discovery in Niger
     title_internal: 'Niger: country, chapter 7'
     body: Until relatively recently rock art research has been sporadic in Niger.
@@ -225,6 +240,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:57:51.550000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 10:57:51.550000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5OBSH7pvt6I6eOAc4OaqEG
@@ -241,6 +257,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:07:24.753000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:07:24.753000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Niger: country, chapter 8'
     body: 'The relative chronology for rock art in Niger can be based, as in other
@@ -250,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:58:19.111000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:51:42.139000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1vncvc4BCIG8ymWeS8c28q
@@ -266,6 +284,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:07:44.432000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:53:27.619000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Niger: country, chapter 9'
     body: Early Hunter or Bubalus Period rock engravings are executed with deeply
       incised and smoothened lines, mainly depicting big game such as elephants, rhinoceros,
@@ -278,13 +297,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:58:42.964000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:54:59.579000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2lW3L3iwz60ekeWsYKgOYC
         created_at: !ruby/object:DateTime 2015-11-26 10:54:26.852000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 10:54:26.852000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:53:07.945000000 Z
       title: '2013,2034.9786'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3637692
       url: "//images.ctfassets.net/xt8ne4gbbocd/2lW3L3iwz60ekeWsYKgOYC/c303352ed0b0976a3f1508ea30b8a41d/2013_2034.9786.jpg"
     caption: Outline and decorated cattle, some with elaborate deliberately turned-back
       horns. 2013,2034.9786 © TARA/David Coulson
@@ -294,6 +314,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:08:13.631000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:08:13.631000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: country, chapter 10'
     body: Although the Bovidian Period is sparsely represented in comparison to other
       rock art regions, both on the Djado Plateau and the Aïr Mountains, this period
@@ -306,6 +327,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:59:13.005000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:03:18.580000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3nBXTYYPN6ucuaImm24iuG
@@ -322,6 +344,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:08:30.254000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:08:30.254000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: country, chapter 11'
     body: Engravings in the Tazina style are found on the Djado Plateau and have been
       likened to those in south-eastern Morocco. While dates in Niger are not generally
@@ -331,6 +354,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 10:59:45.306000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:04:32.984000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2wvcOF7LOQa6iEsWyQOUQi
@@ -347,6 +371,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:00:12.745000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:05:53.718000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4fSRLSsTP2MCiquKAEsmkQ
@@ -363,6 +388,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:08:51.981000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:57:22.081000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Niger: country, chapter 12'
     body: Consisting predominantly of rock engravings and found in the Aïr Mountains,
       the Horse Period and Libyan Warrior Period date from around 3,000–1,500 years
@@ -379,6 +405,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:00:38.006000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:06:56.071000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2bO7Zt5qJ6UI088i422mMe
@@ -395,6 +422,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:09:10.217000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:09:10.217000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Niger: country, chapter 13'
     body: A small number of engravings from the Camel Period occur on the Djado Plateau,
       but as camels were introduced to the Sahara up to 2,000 years ago, the relative
@@ -406,6 +434,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:02:17.186000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:02:17.186000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Coulson, David. ‘Sub-zone 3: Niger’, in *Rock art of Sahara and North Africa: Thematic study*. [ICOMOS](http://www.icomos.org/en/116-english-categories/resources/publications/222-rock-art-of-sahara-and-north-africa-thematic-study).
 

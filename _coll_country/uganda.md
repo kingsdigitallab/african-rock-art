@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:45:48.318000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 16:57:15.328000000 Z
     content_type_id: country
+    revision: 14
   name: Uganda
   slug: uganda
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=27047
@@ -14,16 +15,16 @@ contentful:
   - sys:
       id: 6LAhyXtnagaeiiYcyqAUS8
       created_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
-    title: UGAVIC0010001 1
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:47:44.145000000 Z
+    title: '2013,2034.15198'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690931&partId=1&searchText=UGAVIC0010001&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
   - sys:
       id: 1PIG4cOXQg4GYcssAoIcgE
       created_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
-    title: UGATES0020029 jpeg
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:48:49.387000000 Z
+    title: '2013,2034.14850'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673353&partId=1&searchText=UGATES0020029&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1PIG4cOXQg4GYcssAoIcgE/128ac1905e76484c13aa53c4356475b9/UGATES0020029_jpeg.jpg"
   featured_site:
     sys:
@@ -31,6 +32,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:47:12.403000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:52:00.749000000 Z
       content_type_id: featured_site
+      revision: 3
     title: Nyero, Uganda
     slug: nyero
     chapters:
@@ -39,6 +41,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:38:38.847000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:16:47.887000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Uganda: featured site, chapter 1'
       body: |-
         First documented in 1913 (in the Teso Report&dagger;), the geometric paintings at Nyero are among the most important and well documented rock art sites in Uganda, and are on the Tentative list of UNESCO World Heritage sites&Dagger;.
@@ -51,6 +54,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:28:33.065000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:18:23.508000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1UsysL5u3ioSim8YKyQ4mS
@@ -66,6 +70,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:39:27.080000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:39:27.080000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: featured site, chapter 2'
       body: |-
         More recent studies have proposed that the rock art was the work of settled human groups and not early hunter-gatherers. It has been proposed that rock shelters were used by semi-nomadic peoples devoted to animal herding, and used as reference points in the landscape. Generally positioned away from flat land, they may have served to direct herders of cattle and/or goats towards paths and water. The unknown identity of the rock artists makes dating problematic, but some of the paintings may be up to 12,000 years old.
@@ -75,6 +80,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:29:09.297000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:19:01.643000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4TmZuqmyM8UukoEmU6kUcY
@@ -91,6 +97,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:39:54.020000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:20:18.146000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Uganda: featured site, chapter 3'
       body: |
         __Nyero Rock Art sites:__
@@ -105,6 +112,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:30:29.951000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:20:45.228000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 55q7QQMYVacGSCOEqOMq2q
@@ -120,6 +128,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:31:19.584000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:21:14.609000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 7yIW3zRgn6SEKuyWSW4ao0
@@ -136,6 +145,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:40:37.018000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:40:37.018000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: featured site, chapter 4'
       body: |
         The paintings are protected from direct rain by the overhang and rocks to the front and sides protect the paintings from the sun, which is likely to have contributed to their preservation. Early users of the shelter placed ritual gifts on its south-eastern side; the tradition of using this space to place money either before or after receiving help from ancestral spirits is continued by the local community.
@@ -148,6 +158,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:36:03.085000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:21:39.949000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: qpeXjLAjUOK6GGOeE8iQK
@@ -163,6 +174,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:41:05.035000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:41:05.035000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: featured site, chapter 5'
       body: |
         __Nyero 4__
@@ -175,6 +187,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:36:38.229000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:22:17.715000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 66GiQKzNokmUKWM6IKSOeC
@@ -191,6 +204,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:41:27.841000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:41:27.841000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: featured site, chapter 6'
       body: |
         __Nyero 6__
@@ -203,6 +217,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 14:37:22.101000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 14:44:11.347000000 Z
         content_type_id: citation
+        revision: 4
       citation_line: |+
         Namono, Catherine. 2010. *Surrogate Surfaces: A contextual interpretive approach to the rock art of Uganda*. Unpublished PhD Thesis. Johannesburg: University of Witwatersrand
 
@@ -234,6 +249,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-27 10:55:47.577000000 Z
       updated_at: !ruby/object:DateTime 2015-11-27 15:26:07.478000000 Z
       content_type_id: country_key_facts
+      revision: 2
     title_internal: 'Uganda: key facts'
     image_count: 863 images
     date_range: c.12,000 to 1,000 years ago.
@@ -251,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:26:39.131000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:28:31.662000000 Z
       content_type_id: thematic
+      revision: 2
     title: Landscapes of Rock Art
     slug: landscapes-of-rock-art
     lead_image:
@@ -329,6 +346,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
       content_type_id: thematic
+      revision: 4
     title: Geometric motifs and cattle brands
     slug: geometric-motifs
     lead_image:
@@ -345,6 +363,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 1'
       body: |-
         The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
@@ -355,6 +374,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5yD7fOuAdU4cemkewCqCMO
@@ -371,7 +391,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Geometric motifs: thematic, chapter 2'
       body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
         symbols occur are associated with meat-feasting ceremonies. Meat-feasting
@@ -388,6 +409,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1lBqQePHxK2Iw8wW8S8Ygw
@@ -405,6 +427,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 3'
       body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a
         similar visible relationship. The southernmost site is well known for its
@@ -418,6 +441,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 19lqDiCw7UOomiMmYagQmq
@@ -435,6 +459,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 4'
       body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
         of animals signifies a sense of belonging rather than a mark of ownership
@@ -457,6 +482,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5yUlpG85GMuW2IiMeYCgyy
@@ -473,6 +499,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 5'
       body: "However, not all pastoralist geometric motifs can be associated with
         meat-feasting or livestock branding; they may have wider symbolism or be symbolic
@@ -499,6 +526,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
         content_type_id: citation
+        revision: 3
       citation_line: |-
         Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
 
@@ -536,6 +564,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:47:24.211000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:43:10.697000000 Z
       content_type_id: country_information
+      revision: 3
     title: 'Uganda: country introduction'
     chapters:
     - sys:
@@ -543,6 +572,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:35:01.243000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:35:01.243000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Uganda: country, chapter 1'
       body: Rock art in Uganda is mostly concentrated in the eastern part of the country,
@@ -557,6 +587,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:21:57.842000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:05:24.474000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 40ezg2Ddosc4yYM0Myes8U
@@ -573,6 +604,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:35:36.716000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:35:36.716000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: country, chapter 2'
       body: One of the most well-known sites is at Nyero, a large granite outcrop
         situated between Mbale and Soroti in the east of the country.  Nyero consists
@@ -584,6 +616,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:36:04.177000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:36:04.177000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography
       title_internal: 'Uganda: country, chapter 3'
       body: Uganda is located in East Africa, comprises an area of 236,040 km² and
@@ -600,13 +633,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:22:43.586000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:07:19.503000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6LAhyXtnagaeiiYcyqAUS8
           created_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
-          updated_at: !ruby/object:DateTime 2015-12-11 15:54:00.944000000 Z
-        title: UGAVIC0010001 1
-        description: 
+          updated_at: !ruby/object:DateTime 2019-02-12 01:47:44.145000000 Z
+        title: '2013,2034.15198'
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3690931&partId=1&searchText=UGAVIC0010001&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/6LAhyXtnagaeiiYcyqAUS8/06fee85996cb2e9625cbfd6b7a6a07dc/UGAVIC0010001_1.jpg"
       caption: Large boulder containing painted rock art overlooking Lake Victoria.
         2013,2034.15198 © TARA/David Coulson
@@ -616,6 +650,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:36:58.092000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:36:58.092000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research History
       title_internal: 'Uganda: country, chapter 4'
       body: |-
@@ -627,6 +662,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:24:00.757000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:09:06.452000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 2FHA4qasM0YkYeY20OK20e
@@ -643,6 +679,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:37:14.262000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:43:31.000000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Uganda: country, chapter 5'
       body: Much of the interpretation of the rock art in the region was based on
         the assumption that the art was attributable to the so-called “Bushmen” of
@@ -655,6 +692,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:37:41.691000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:37:41.691000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronologies/Styles
       title_internal: 'Uganda: country, chapter 6'
       body: "__Paintings__\n\nThe geometric rock art that predominates in Uganda is
@@ -671,6 +709,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:24:31.625000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:09:53.569000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6Rp8Jyx6Tu8CagewSGkKaG
@@ -687,6 +726,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:38:08.326000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:38:08.326000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: country, chapter 7'
       body: "While some of the animals are remarkably naturalistic in their portrayal,
         the majority are highly distorted and difficult to identify to species level,
@@ -707,6 +747,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:25:05.494000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:10:31.191000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 4TE2BAQkM8S0640ECkYayA
@@ -723,6 +764,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:38:44.670000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:38:44.670000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Uganda: country, chapter 8'
       body: Another common type of engraving is small cupules aligned in rows, found
         predominantly on hilltops or large rock slabs near water sources. None have
@@ -735,6 +777,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:25:46.047000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:11:49.658000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 2kLCq0ponGEOemeycuauI2
@@ -751,6 +794,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:39:35.319000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:44:11.747000000 Z
         content_type_id: chapter
+        revision: 2
       title: Dating
       title_internal: 'Uganda: country, chapter 9'
       body: |-
@@ -762,6 +806,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:26:33.741000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:12:35.188000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 7awPQKadFK2k6mMegimuIE
@@ -779,6 +824,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:39:56.176000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:44:55.317000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Uganda: country, chapter 10'
       body: However, more recent studies have proposed that these were the work of
         settled human groups and not early hunter-gatherers. Radiocarbon dating at
@@ -792,6 +838,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:40:20.558000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:40:20.558000000 Z
         content_type_id: chapter
+        revision: 1
       title: Interpretation
       title_internal: 'Uganda: country, chapter 11'
       body: A recent comprehensive study (Namono, 2010) of the potential meaning of
@@ -808,6 +855,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-27 14:27:14.840000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:13:32.803000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 5gAcaHufAso60GKYiKsei2
@@ -824,6 +872,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:40:41.970000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:45:09.119000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Uganda: country, chapter 12'
       body: It is difficult to determine when rock art sites were last used, and in
         some cases, such as at Nyero, sites are still in use by local peoples with
@@ -836,6 +885,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:42:30.538000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:42:30.538000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |
         &dagger; A Tentative List is an inventory of those properties considered to be of cultural and/or natural heritage of outstanding universal value and therefore suitable for inscription on the World Heritage List.
 
@@ -865,9 +915,9 @@ contentful:
   - sys:
       id: 1PIG4cOXQg4GYcssAoIcgE
       created_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 14:16:31.945000000 Z
-    title: UGATES0020029 jpeg
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:48:49.387000000 Z
+    title: '2013,2034.14850'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3673353&partId=1&searchText=UGATES0020029&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1PIG4cOXQg4GYcssAoIcgE/128ac1905e76484c13aa53c4356475b9/UGATES0020029_jpeg.jpg"
   - sys:
       id: 3QpNCcuYEUaGiSisY0Qeoc

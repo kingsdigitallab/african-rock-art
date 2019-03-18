@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-07-27 07:45:11.921000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 08:51:26.975000000 Z
     content_type_id: featured_site
+    revision: 5
   title: 'Namzeze, Malawi '
   slug: namzeze
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:24.101000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:32:20.393000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Malawi: featured site, chapter 1'
     body: 'Namzeze, one of the most emblematic sites in the Chongoni rock art area,
       is currently one of the three that can be visited and is open to the public.  Unlike
@@ -34,6 +36,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:24.019000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:33:30.093000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 1IFNGAi4IkScieYwOmGiMA
@@ -51,6 +54,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:23.819000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:34:17.661000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 3mGBPrPBdYqWW4MUUissms
@@ -67,6 +71,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:23.189000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:23.189000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Malawi: featured site, chapter 2'
     body: "The superimpositions in the panel above show that the red, schematic paintings
       covering most of the rock face are undoubtedly older than those made in white.
@@ -88,6 +93,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:23.173000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:34:50.814000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 26hf0yyVDWY6MAGWQeiaMY
@@ -104,6 +110,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:23.031000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:23.031000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Malawi: featured site, chapter 3'
     body: The second type of painting found in Namzeze is radically different and
       depicts mainly quadrupeds and birds, as well as some geometric symbols and a
@@ -122,6 +129,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.972000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.972000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1AdufAw4d6U6ioCOEiQyye
@@ -138,6 +146,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.920000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.920000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Malawi: featured site, chapter 4'
     body: 'Regarding the interpretation of the paintings, they are directly related
       to the *nyau*, a secret society of the Chewa and other neighbouring groups in
@@ -154,6 +163,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.859000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.859000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 7iE4ypc2QwGUOmSAscwqC8
@@ -170,6 +180,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.733000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:05:31.732000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Malawi: featured site, chapter 5'
     body: "In fact, some of the more than 100 types of masks can be easily identified
       in the rock shelters.  The most common is the *kasiyamaliro*, a big structure
@@ -189,6 +200,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.151000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.151000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3oM6s0shy0UgQe8MAgy0GK
@@ -205,6 +217,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.173000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.173000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2hJ1GBmp4cgOsaYWaCU684
@@ -220,6 +233,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.059000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.059000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Malawi: featured site, chapter 6'
     body: "Paintings associated to the *nyau* secret society were used during a very
       specific period of time (before that other styles of white paintings were used),
@@ -239,6 +253,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:22.058000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 10:01:31.562000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: 'Smith, B. 2001. ''Forbidden Images: Rock Paintings and the Nyau
       Secret Society of Central Malawi and Eastern Zambia''. *African Archaeological
       Review, 18 (4)* pp. 187-212'

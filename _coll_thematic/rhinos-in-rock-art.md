@@ -5,15 +5,16 @@ contentful:
     created_at: !ruby/object:DateTime 2017-06-14 17:36:35.946000000 Z
     updated_at: !ruby/object:DateTime 2017-06-21 13:55:43.874000000 Z
     content_type_id: thematic
+    revision: 5
   title: Rhinos in rock art
   slug: rhinos-in-rock-art
   lead_image:
     sys:
       id: 4uVUj08mRGOCkmK64q66MA
       created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-    title: NAMDMT0010010
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:01:17.553000000 Z
+    title: '2013,2034.20476'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730556&partId=1&searchText=NAMDMT0010010&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
   chapters:
   - sys:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 10:44:14.414000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 10:44:14.414000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 1'
     body: Around 30,000 years ago, in the hot, arid environment of the Huns Mountains
       in southern Namibia, modern humans painted images of animals, including rhinoceros,
@@ -37,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 11:12:19.181000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 11:12:19.181000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 37CIIcnQfC2GwQ6wUuAymc
@@ -52,6 +55,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 11:45:29.394000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 11:45:29.394000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2ztUAznRiwc0qiE4iUIQGc
@@ -66,6 +70,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 11:57:32.852000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 17:19:12.877000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Rhinos: thematic, chapter 2'
     body: "Representations of rhinoceros in rock art can be found throughout the African
       continent and while their meaning is not always known, they are often depicted
@@ -79,6 +84,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:18:12.142000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:18:12.142000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6hihVIK9s46Q00SG4Y2QMw
@@ -95,6 +101,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:20:14.827000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:21:52.334000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Rhinos: thematic, chapter 3'
     body: "Southern Africa is home to two species of rhinoceros - the white or square-lipped
       rhinoceros and the black or hook-lipped rhinoceros - both of which we see depicted
@@ -110,6 +117,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:23:12.939000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:23:12.939000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3YQnGwVj8swySQIqgcs0wq
@@ -124,6 +132,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:24:23.783000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:24:23.783000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 4'
     body: The black rhino is smaller than the white rhino, although adults can still
       reach 1.5 metres in height and weigh in at 1.4 tonnes. The black rhino has a
@@ -137,6 +146,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:26:52.247000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:26:52.247000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6m2Q1HCGT6Q2cey00sKGmu
@@ -151,6 +161,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:32:11.389000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:32:11.389000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 5'
     body: |
       In both species, a layer of fat sits between the hide and the flesh of the animal and in the white rhinoceros this can be up to or exceed a thickness of 50mm. It is well known that San&#124;Bushmen believed the fat around the heart of the eland contained high levels of supernatural potency, and like the eland, they believed the rhinoceros to be especially potent animals (Ouzman, 1996:45)
@@ -161,13 +172,14 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 12:34:15.621000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 12:34:15.621000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4uVUj08mRGOCkmK64q66MA
         created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-      title: NAMDMT0010010
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 02:01:17.553000000 Z
+      title: '2013,2034.20476'
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730556&partId=1&searchText=NAMDMT0010010&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
     caption: Block- pecked rhinoceros. Twyfelfontein, Namibia. 2013,2034.20476 © TARA/David
       Coulson
@@ -177,6 +189,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 14:02:05.953000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 14:02:05.953000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3BoFYuFzPWSOE2ewYOSWm2
@@ -193,6 +206,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 14:47:15.208000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 14:47:15.208000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 6'
     body: "Most rock art researchers consider the engravings of San/Bushmen, like
       paintings, to have been influenced by shamanism (Ouzman, 1996:36). Both painted
@@ -221,6 +235,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 15:02:36.385000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 15:02:36.385000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6eRgAs6SRy6USaYCssaOKM
@@ -237,6 +252,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-17 15:31:58.834000000 Z
       updated_at: !ruby/object:DateTime 2017-05-17 15:31:58.834000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 7'
     body: "Dating rock engravings is always problematic, and the imagery at Thaba
       Sione has been estimated to fall within a broad estimate of between 1,200 -
@@ -265,6 +281,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-25 16:08:20.404000000 Z
       updated_at: !ruby/object:DateTime 2017-05-25 16:08:46.939000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6usDWbit2ga4sM0qeqiKYo
@@ -282,6 +299,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-25 16:12:08.925000000 Z
       updated_at: !ruby/object:DateTime 2017-05-25 16:12:08.925000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 8'
     body: Rhinoceros constitute the second largest category of identifiable imagery
       (62 or 11.1%), after human figures (72 or 12.9%) (Ouzman, 1996:43). Of the 62
@@ -296,6 +314,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-05-25 16:18:32.881000000 Z
       updated_at: !ruby/object:DateTime 2017-05-25 16:18:32.881000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 13ZhEkZUJQA6omECyuWKue
@@ -312,6 +331,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 16:40:28.801000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 16:40:28.801000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Rhinos: thematic, chapter 9'
     body: "Rhinoceros show more ‘non-real’ features, combinations and variations in
       engraving techniques and occur in more complex ‘scenes’ than any other category
@@ -342,6 +362,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 16:49:32.079000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 16:49:32.079000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 57dvZ6DWhiYMuwu4Ek8Uwu
@@ -358,6 +379,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 16:59:04.056000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 17:01:44.568000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Rhinos: thematic, chapter 10'
     body: 'An additional engraving of a black rhinoceros shows three horns and has
       been argued to indicate a supernatural significance and possibly a transformed
@@ -376,6 +398,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 17:05:06.739000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 17:05:06.739000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1sUJYfRaIUwoQ84GCiemig
@@ -392,6 +415,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 17:19:59.171000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 17:25:34.931000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Rhinos: thematic, chapter 11'
     body: "San&#124;Bushman shamans were also inextricably linked with rain-making
       ceremonies. The ritual involved the whole of the community but it was the shaman,
@@ -429,6 +453,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 17:29:46.863000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 17:31:43.613000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4VhjmP7feE4wOsawSm4cEm
@@ -447,6 +472,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 17:36:04.132000000 Z
       updated_at: !ruby/object:DateTime 2017-06-14 17:36:04.132000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Hollmann, J.C. and Lewis-Wlliams, D. 2006. Species and supernatural potency: an unusual rockpainting from the Motheo District, Free State province, South Africa. *South African Journal of Science*102: 509-512.
 

@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'Tanzania: Country Introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.035000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 12:30:57.863000000 Z
       content_type_id: chapter
+      revision: 3
     title: Introduction
     title_internal: Tanzania Chapter 1
     body: Containing some of the densest concentrations of rock art in East Africa,
@@ -25,6 +27,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.825000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:37:31.932000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6jqxlKBK8ggSwAyOIWC2w
@@ -41,6 +44,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.738000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:44:49.657000000 Z
       content_type_id: chapter
+      revision: 3
     title: Geography and Rock Art distribution
     title_internal: Tanzania Chapter 2
     body: |-
@@ -55,6 +59,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.912000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:38:18.560000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5XVIPjHq7K4MiWIm6i6qEk
@@ -72,6 +77,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
       content_type_id: chapter
+      revision: 1
     title: History of rock art research in Tanzania
     title_internal: Tanzania Chapter 3
     body: 'The existence of painted rock art was first reported  to Europeans in 1908
@@ -95,6 +101,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.806000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:41:21.774000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 28qJxjtSOoC6Aa2IgQk06q
@@ -111,6 +118,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.691000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 12:32:37.897000000 Z
       content_type_id: chapter
+      revision: 4
     title: Chronologies
     title_internal: Tanzania Chapter 4
     body: "Scholars have classified the rock art in Tanzania into three main stylistic
@@ -139,6 +147,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.089000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:41:54.311000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3fNBqZVcfK8k0Cgo4SsGs6
@@ -155,6 +164,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:17.860000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:45:13.087000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: Tanzania Chapter 5
     body: |2
 
@@ -162,8 +172,9 @@ contentful:
   - sys:
       id: QLuzPXhKqOmMSm0weqOGG
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.897000000 Z
-      updated_at: !ruby/object:DateTime 2017-01-24 15:46:57.641000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:37:50.613000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 3zoMrANvf2SgUmuAu2Wa4W
@@ -173,13 +184,14 @@ contentful:
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/3zoMrANvf2SgUmuAu2Wa4W/b759c5fe8747a6c19218f19bc693ab2e/TANKON0370007_jpeg.jpg"
     caption: Panel of Sandawe red, fine-line paintings showing elephants and slender
-      elongated figures. Kondoa, Tanzania. 2013,2034.17699 © TARA/David Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3712682&partId=1&searchText=2013,2034.17699&page=1
+      elongated figures. Kondoa, Tanzania. 2013,2034.17702 © TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3712676&partId=1&searchText=2013,2034.17702&page=1
   - sys:
       id: 55d7OVNn5YEii4KSYwE0wE
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.859000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:47:21.921000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4eRcBkspfOS2Ky4GE08qyC
@@ -196,6 +208,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:16.827000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:45:27.688000000 Z
       content_type_id: chapter
+      revision: 4
     title: ''
     title_internal: Tanzania Chapter 6
     body: |
@@ -207,6 +220,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.760000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:47:47.628000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1BwSSd5li0MUw4c4QYyAKA
@@ -224,6 +238,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.874000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:45:36.649000000 Z
       content_type_id: chapter
+      revision: 3
     title: ''
     title_internal: Tanzania Chapter 7
     body: |
@@ -235,6 +250,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:10.886000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:49:16.769000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 2iqeQFLDE06A8MW0UcUm2k
@@ -252,6 +268,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.786000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 12:42:00.048000000 Z
       content_type_id: citation
+      revision: 6
     citation_line: "Anati . E. (1996) ‘Cultural Patterns in the Rock Art of Central
       Tanzania.’ in *The Prehistory of Africa. XIII International Congress of Prehistoric
       and Protohistoric Sciences Forli-Italia-8/14* September 1996\n\nBwasiri, E.J

@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:52:36.781000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 17:11:24.639000000 Z
     content_type_id: country
+    revision: 10
   name: Morocco
   slug: morocco
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=40983
@@ -14,23 +15,23 @@ contentful:
   - sys:
       id: 1h9eCgWFYce8eqiq2KSGkU
       created_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:03:01.253000000 Z
     title: '2013,2034.5894'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3614035&partId=1&searchText=2013,2034.5894&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1h9eCgWFYce8eqiq2KSGkU/830a45b1b9107528469498e3dc8c12d5/2013_2034.5894.jpg"
   - sys:
       id: 3OAdh6uCrCIgCeuQ2E0koa
       created_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:03:43.993000000 Z
     title: '2013,2034.5874'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&searchText=2013,2034.5874&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3OAdh6uCrCIgCeuQ2E0koa/a9fe9a0740e535707c227440bac46571/2013_2034.5874.jpg"
   - sys:
       id: 2iKZIRebewsGGQiKiOgQq
       created_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:04:25.512000000 Z
     title: '2013,2034.5558'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3605427&partId=1&searchText=2013,2034.5558&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/2iKZIRebewsGGQiKiOgQq/7a6ea71bedef21c05b78d13fe9883716/2013_2034.5558.jpg"
   featured_site:
     sys:
@@ -38,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:15:17.431000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:39:26.150000000 Z
       content_type_id: featured_site
+      revision: 5
     title: Oukaïmeden, Morocco
     slug: oukaimeden
     chapters:
@@ -46,6 +48,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:16:09.455000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:16:09.455000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Morocco: featured site, chapter 1'
       body: |-
         Oukaïmeden is an alpine-like valley set 2,630 metres above sea level at the core of Morocco’s High Atlas. Records from the 16th century onwards refer to its seasonal profit as summer pasturage by herders coming from villages settled at mid-altitude. It is a well-known place due to the existence of a ski resort, and a well-frequented tourist destination for people coming from Marrakech during the summer. It is also home to one of the most impressive collections of rock art engravings in Morocco, with about 250 rock art sites and one thousand depictions scattered throughout the valley.
@@ -55,6 +58,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:11:07.744000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:11:07.744000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5A7q4PnbI4sYmQsi2u4yYg
@@ -70,13 +74,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:11:50.001000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:11:50.001000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1h9eCgWFYce8eqiq2KSGkU
           created_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.053000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:03:01.253000000 Z
         title: '2013,2034.5894'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3614035&partId=1&searchText=2013,2034.5894&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/1h9eCgWFYce8eqiq2KSGkU/830a45b1b9107528469498e3dc8c12d5/2013_2034.5894.jpg"
       caption: Engraved anthropomorph surrounded by a dagger and a rectangular shield.
         2013,2034.5894 © David Coulson/TARA
@@ -86,6 +91,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:16:30.214000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:16:30.214000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Morocco: featured site, chapter 2'
       body: High Atlas rock art is remarkably different not only from the rest of
         Moroccan rock art, but also from most other depictions documented throughout
@@ -105,13 +111,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:12:18.882000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:12:18.882000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3OAdh6uCrCIgCeuQ2E0koa
           created_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:03:43.993000000 Z
         title: '2013,2034.5874'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&searchText=2013,2034.5874&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/3OAdh6uCrCIgCeuQ2E0koa/a9fe9a0740e535707c227440bac46571/2013_2034.5874.jpg"
       caption: Circular engravings (shields?). 2013,2034.5874 © David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&museumno=2013%2c2034.5874&page=1
@@ -120,6 +127,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:12:51.006000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:12:51.006000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 2joH7nmXU42sE00g0GUgMq
@@ -136,6 +144,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:16:49.016000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:16:49.016000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Morocco: featured site, chapter 3'
       body: Chronologically speaking, it seems Oukaïmeden engravings started to appear
         during the mid-3rd millennium BC, when the Sahara desert became increasingly
@@ -156,6 +165,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:13:24.362000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:38:01.412000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 2nGxKesCSgWOeqSqa2eoAc
@@ -172,6 +182,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:17:08.360000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:17:08.360000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Morocco: featured site, chapter 4'
       body: 'Unlike most of the rock art sites in North Africa, Oukaïmeden was not
         inhabited the whole year: the heavy snow that falls during the winter prevented
@@ -185,6 +196,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:14:00.276000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:14:00.276000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: RXRm1UgosSw248YEayEgC
@@ -202,6 +214,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:17:25.702000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:38:58.399000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Morocco: featured site, chapter 5'
       body: |-
         Although Oukaïmeden rock art is distributed throughout the valley, there are some sites with scenes that stand above the rest due to their complexity and significance. One of them is the so-called Elephants’ Frieze, a horizontal rock face where four elephants, a feline, a rhinoceros or warthog and two human figures facing the animals were depicted. Two later, vertical Libyan-Berber inscriptions were added to the panel. The scene is placed near a shelter, facing a stream which constitutes one of the main access routes to the valley grazing areas.
@@ -213,6 +226,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 15:14:50.132000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 15:14:50.132000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 
@@ -242,6 +256,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:27:12.053000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:27:12.053000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Morocco: key facts'
     image_count: 921 images
     date_range: Mostly 3,000 BC to AD 700
@@ -254,6 +269,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:59:00.673000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:29:03.345000000 Z
       content_type_id: thematic
+      revision: 6
     title: 'Written in stone: the Libyco-Berber scripts'
     slug: written-in-stone
     lead_image:
@@ -270,6 +286,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:49:07.520000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:49:16.531000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Libyco-Berber: thematic, chapter 1'
       body: 'A remarkable feature of North African rock art is the existence of numerous
         engraved or painted inscriptions which can be found throughout the Sahara
@@ -286,6 +303,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:43:10.618000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:32:20.694000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 5m9CnpjjOgEIeiaW6k6SYk
@@ -304,6 +322,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:49:54.544000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:33:58.483000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Libyco-Berber: thematic, chapter 2'
       body: Libyco-Berber characters were identified as written language as early
         as the 17th century, when some inscriptions in the language were documented
@@ -320,6 +339,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:43:34.886000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:35:37.505000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1i0U2eePgyWQKE8WgOEuug
@@ -337,6 +357,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:50:30.377000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:50:30.377000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libyco-Berber: thematic, chapter 3'
       body: A second, recent proposal has defended an indigenous (autochthonous) origin
         deriving from a stock of ancient signs –tribal tattoos, marks of ownership,
@@ -351,6 +372,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:44:09.415000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:37:11.219000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4kXC2w9xCwAASweyCgwg2O
@@ -368,7 +390,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:50:56.343000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:50:56.343000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Libyco-Berber: thematic, chapter 4'
       body: 'How is the Libyco-Berber alphabet composed? In fact, we should talk about
         Libyco-Berber alphabets, as one of the main characteristics of these scripts
@@ -384,6 +407,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:44:51.935000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:37:41.169000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5rTkM78qGckOKu2q4AIUAI
@@ -400,6 +424,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:51:32.328000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:51:32.328000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libyco-Berber: thematic, chapter 5'
       body: 'The study of Libyco-Berber script faces some huge challenges. In addition
         to its aforementioned variability, it is necessary to differentiate the ancient
@@ -422,6 +447,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:46:00.776000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:39:20.711000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 373GOE3JagQYoyY2gySyMy
@@ -440,6 +466,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:51:51.719000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:51:51.719000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libyco-Berber: thematic, chapter 6'
       body: Considering all these problems, what do we know about Libyco-Berber scripts?
         First of all, they normally used only consonants, although due to the influence
@@ -459,6 +486,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:46:35.246000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:43:47.775000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 7x2yrpGfGEKaUQgyuiOYwk
@@ -475,6 +503,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:52:16.445000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:27:17.030000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Libyco-Berber: thematic, chapter 7'
       body: Of course, the Libyco-Berber scripts evolved through time, although discussion
         is still going on about the chronologies and rhythms of this process. After
@@ -493,6 +522,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:47:18.568000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:44:36.059000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2GLzuqBeIMgoUW0wqeiiKY
@@ -510,6 +540,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:52:52.167000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:52:52.167000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libyco-Berber: thematic, chapter 8'
       body: The many challenges that surround the study of Libyco-Berber scripts have
         led to a complex crossroads of terms, chronologies and theories which sometimes
@@ -525,6 +556,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:47:52.571000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:46:54.999000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: FGpTfysHqEay4OMO66YSE
@@ -541,6 +573,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:53:11.586000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:53:11.586000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Libyco-Berber: thematic, chapter 9'
       body: Undoubtedly, the deciphering of forgotten languages captures the imagination
         and is one of the most exciting challenges in the study of ancient cultures.
@@ -561,6 +594,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:48:24.656000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:28:59.132000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: |
         Le Quellec, J.L. 2012. Rock Art, Scripts and proto-scripts in Africa: the Libyco-berber example. In: Delmas, A. and Penn, P. (eds.), *Written Culture in a Colonial Context: Africa and the Americas 1500 – 1900*.  Brill Academic Publishers, Boston, pp. 3-29.
 
@@ -587,6 +621,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:10:57.025000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:23.897000000 Z
       content_type_id: thematic
+      revision: 6
     title: Gone fishing...
     slug: gone-fishing
     lead_image:
@@ -603,6 +638,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:58:39.843000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:58:59.910000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: fishing, chapter 1'
       body: Fishing is an ancient practice in Africa, dating back 100,000 years, when
         modern humans started moving into coastal environments. The remains of thousands
@@ -619,6 +655,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:34:38.217000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:46:25.921000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5O1g77GG9UEIeyWWgoCwOa
@@ -636,6 +673,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:35:04.493000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:48:40.438000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3PqImAJY3CeKKkMwqeayoe
@@ -652,6 +690,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:35:28.865000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:48:58.748000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5TVVOzkAlaWKaK4oG2wqq8
@@ -670,6 +709,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:59:31.911000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:59:31.911000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: fishing, chapter 2'
       body: |-
         We rarely consider the Sahara as the optimum environment for fishing. Seeing painted and engraved images of fish located in these waterless and unfavourable landscapes therefore seems at odds with our present-day knowledge of this vast desert. However, as we have noted before in these project pages (see introductions to Libya and Algeria), water-dependent animals such as crocodile and hippo have regularly been depicted in Saharan rock art, illustrating a once wetter and more fertile landscape. To date, the African rock art image project has catalogued representations of aquatic species in Libya, Algeria and Morocco, depicted with varying degrees of proficiency and ease of identification. This has been an insightful encounter, because it not only informs our thinking about the nature of the environment in the past and the way people were using their available resources, but also allows us to think about the cultural importance of water-based species.
@@ -682,6 +722,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:36:02.168000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:51:34.767000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 62OPN6zwbKOym4YUAKCoAY
@@ -698,6 +739,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:36:34.680000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 18:02:17.202000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: oV9yR91U3YSg2McmgeCA2
@@ -714,6 +756,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:00:13.905000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:57:51.334000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: fishing, chapter 3'
       body: Rock art imagery is replete with both very naturalistic representations
         and also those which are more conceptual or abstract in nature, and the depictions
@@ -731,6 +774,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:37:00.084000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 18:04:03.162000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 4fQKRSGFIA6OMCe8waOWmM
@@ -747,6 +791,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:37:27.294000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 18:02:43.933000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: rJLJBELLi0yAYiCuM4SWi
@@ -763,6 +808,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:37:55.248000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 17:59:58.067000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 14NfPoZlKIUOoacY8GWQ4c
@@ -779,6 +825,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:00:36.225000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 18:00:54.782000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: fishing, chapter 4'
       body: Some of the engravings bear close morphological resemblances to Catfish,
         with even the barbels depicted. Catfish seem to occur more regularly in rock
@@ -795,6 +842,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:38:21.905000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 18:01:22.453000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3nZmrbE5yUEuc2qaWc2Age
@@ -811,6 +859,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:38:50.016000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 18:03:15.219000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 7M6nZhpTuoUuOOk0oWu8ea
@@ -827,6 +876,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:00:55.256000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:00:55.256000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: fishing, chapter 5'
       body: In arid ecosystems, bodies of water are characterised by daily and seasonal
         fluctuations in water temperature, evaporation and other natural phenomena,
@@ -846,6 +896,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:01:46.522000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:01:46.522000000 Z
         content_type_id: chapter
+        revision: 1
       title: Fishing
       title_internal: 'Thematic: fishing, chapter 6'
       body: Fish are likely to have been caught in a variety of ways, but in the Sahara
@@ -858,8 +909,9 @@ contentful:
     - sys:
         id: 1bwCettQ98qY2wEyiQMOmU
         created_at: !ruby/object:DateTime 2015-11-26 16:39:23.290000000 Z
-        updated_at: !ruby/object:DateTime 2018-05-16 18:06:31.113000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 14:59:03.644000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 4cgsOBoxReGOAiCqw2UYM8
@@ -870,12 +922,13 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/4cgsOBoxReGOAiCqw2UYM8/e84d40b791670fc04e8b47d312248bd5/Fig._11._Bone_point_from_Katanda.jpg"
       caption: Bone point from Katanda, DRC, 80,000-90,000 BP. Image ©Human Origins
         Program, Smithsonian Institution
-      col_link: http://humanorigins.si.edu/evidence/behavior/getting-food/katanda-bone-harpoon-point
+      col_link: hhttp://humanorigins.si.edu/evidence/behavior/getting-food/katanda-bone-harpoon-point
     - sys:
         id: 159mLyHGvyC4ccwOQMyQIs
         created_at: !ruby/object:DateTime 2015-11-26 17:02:05.585000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:02:05.585000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: fishing, chapter 7'
       body: Chronologically, the earliest barbed bone point records are from Katanda
         in the Upper Semliki Valley in modern-day Democratic Republic of the Congo,
@@ -890,6 +943,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:02:48.620000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 10:26:57.354000000 Z
         content_type_id: chapter
+        revision: 2
       title: Other aquatic species
       title_internal: 'Thematic: fishing, chapter 8'
       body: Other aquatic species are more difficult to identify and are much rarer.
@@ -911,6 +965,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:39:52.787000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 10:34:45.084000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 7pDQ1Q7cm4u4KKkayeugGY
@@ -927,6 +982,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:40:52.658000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 10:35:17.649000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6k5J6VbwZOq2yg86Y4GsEc
@@ -943,6 +999,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:03:15.438000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 10:50:37.252000000 Z
         content_type_id: chapter
+        revision: 2
       title: Case study – Gobero
       title_internal: 'Thematic: fishing, chapter 9'
       body: A recently excavated cemetery site called Gobero (Sereno *et al.* 2008),
@@ -957,6 +1014,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:41:18.798000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 10:52:51.807000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5ZHSZA9fHOyAu8kaMceGOa
@@ -972,6 +1030,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:03:47.119000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:03:47.119000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: fishing, chapter 10'
       body: |-
         Approximately 200 burials, ranging over a 5000-year period, were found on the edge of an ancient lake. Grave goods include bones or tusks from wild fauna, ceramics, lithic projectile points, and bone, ivory and shell ornaments. One adult male was buried in a recumbent pose seated on the carapace of a mud turtle. Microliths, bone harpoon points and hooks, and ceramics with dotted wavy-line and zigzag impressed motifs were found in the burial fill, in an associated midden area, and in nearby paleolake deposits. Nile perch (*Lates niloticus*), large catfish, and tilapia dominate the midden fauna, which also includes bones and teeth from hippos, several bovids, small carnivores, softshell turtles and crocodiles.
@@ -981,11 +1040,12 @@ contentful:
     - sys:
         id: 6JNu3sK5DGaUyWo4omoc2M
         created_at: !ruby/object:DateTime 2015-11-26 16:58:14.227000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 16:58:14.227000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:03:53.071000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: 'Sereno P.C., Garcea E.A.A., Jousse H., Stojanowski C.M., Saliège
         J-F., et al. 2008. *Lakeside Cemeteries in the Sahara: 5000 Years of Holocene
-        Population and Environmental Change*. PLoS ONE 3(8)'
+        Population and Environmental Change*. PLoS ONE 3(8): [https://doi.org/10.1371/journal.pone.0002995](https://doi.org/10.1371/journal.pone.0002995)'
     background_images:
     - sys:
         id: 1MzxjY9CecYwee0IWcCQqe
@@ -1006,6 +1066,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:11:30.861000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:51:34.879000000 Z
       content_type_id: thematic
+      revision: 4
     title: The domesticated horse in northern African rock art
     slug: the-domesticated-horse
     lead_image:
@@ -1022,6 +1083,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 1'
       body: Throughout northern Africa, there is a wealth of rock art depicting the
         domestic horse and its various uses, providing valuable evidence for the uses
@@ -1032,6 +1094,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:39:29.412000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: n2MxgdjbMW2gm0IoOKkCU
@@ -1048,6 +1111,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:40:28.446000000 Z
         content_type_id: chapter
+        revision: 2
       title: Horses and chariots
       title_internal: 'Thematic: horse, chapter 2'
       body: The first introduction of the domestic horse to Ancient Egypt- and thereby
@@ -1066,6 +1130,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:40:52.214000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1AZD3AxiUwwoYUWSWY8MGW
@@ -1082,6 +1147,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 3'
       body: 'Some of the most renowned images of horses in Saharan rock art are also
         those of chariot teams: in particular, those of the so-called ‘flying gallop’
@@ -1103,6 +1169,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:41:33.841000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6N6BF79qk8EUygwkIgwcce
@@ -1120,6 +1187,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
         content_type_id: chapter
+        revision: 1
       title: Horse Riding
       title_internal: 'Thematic: horse, chapter 4'
       body: As well as the unique iconography of rock art chariot depictions, there
@@ -1137,6 +1205,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:41:52.743000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4NdhGNLc9yEck4My4uQwIo
@@ -1154,6 +1223,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:12:34.068000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1tpjS4kZZ6YoeiWeIi8I4C
@@ -1170,6 +1240,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:14:56.468000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: horse, chapter 5'
       body: Traditional chronologies for Saharan rock art areas tend to place depictions
         of ridden horses chronologically after those of horses and chariots, and in
@@ -1194,6 +1265,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:32:44.364000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6quML2y0nuYgSaeG0GGYy4
@@ -1210,6 +1282,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
         content_type_id: chapter
+        revision: 1
       title: Berber Horses
       title_internal: 'Thematic: horse, chapter 6'
       body: As the more manoeuvrable rider rose in popularity against the chariot
@@ -1228,6 +1301,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:16:52.557000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: uOFcng0Q0gU8WG8kI2kyy
@@ -1246,6 +1320,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 7'
       body: 'Certainly, from the 14th century AD, horses became a key commodity in
         trans-Saharan trade routes and became items of great military value in West
@@ -1260,6 +1335,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:29:02.520000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5MaSKooQvYssI4us8G0MyO
@@ -1277,6 +1353,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:29:50.228000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: horse, chapter 8'
       body: 'Another intriguing possibility is that of gaining clues on the origins
         of modern horse breeds from rock art, in particular the ancient Barb breed
@@ -1298,6 +1375,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:30:30.915000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6ZmNhZjLCoQSEIYKIYUUuk
@@ -1315,6 +1393,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:33:55.443000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5mbJWrbZV6aQQOyamKMqIa
@@ -1331,6 +1410,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
         content_type_id: chapter
+        revision: 1
       title: The symbolism of the horse
       title_internal: 'Thematic: horse, chapter 9'
       body: However, caution must be taken in drawing such comparisons based on morphology
@@ -1344,8 +1424,9 @@ contentful:
     - sys:
         id: 1FRP1Z2hyQEWUSOoKqgic2
         created_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:41:39.821000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4EatwZfN72waIquQqWEeOs
@@ -1354,14 +1435,15 @@ contentful:
         title: '2013,2034.11147'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
-      caption: Fig. 11. Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte,
-        Western Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
+      caption: Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte, Western
+        Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637713&partId=1&people=197356&museumno=2013,2034.11147+&page=1
     - sys:
         id: 45pI4ivRk4IM6gaG40gUU0
         created_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:41:59.784000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2FcYImmyd2YuqMKQMwAM0s
@@ -1370,13 +1452,14 @@ contentful:
         title: Fig. 12. Human figure
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/2FcYImmyd2YuqMKQMwAM0s/e48fda8e2a23b12e6afde5c560c3f164/Fig._12._Human_figure.jpg"
-      caption: Fig. 12. Human figure painted over by horse to appear mounted (digitally
-        enhanced image). © TARA/David Coulson
+      caption: Human figure painted over by horse to appear mounted (digitally enhanced
+        image). © TARA/David Coulson
     - sys:
         id: 54hoc6Htwck8eyewsa6kA8
         created_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 10'
       body: The nature of the depictions in this sense speaks intriguingly of the
         apparent symbolism and implied value of the horse image in different cultural
@@ -1390,8 +1473,9 @@ contentful:
     - sys:
         id: 4XMm1Mdm7Y0QacMuy44EKa
         created_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:42:27.444000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 21xnJrk3dKwW6uSSkGumMS
@@ -1400,14 +1484,15 @@ contentful:
         title: '2013,2034.6297'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/21xnJrk3dKwW6uSSkGumMS/698c254a9a10c5a9a56d69e0525bca83/2013_2034.6297.jpg"
-      caption: Fig. 13. Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297
-        © TARA/David Coulson
+      caption: Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297 © TARA/David
+        Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637529&partId=1&people=197356&museumno=2013,2034.6297&page=1
     - sys:
         id: 4rB9FCopjOCC4iA2wOG48w
         created_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:43:34.211000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3PfHuSbYGcqeo2U4AEKsmM
@@ -1416,23 +1501,25 @@ contentful:
         title: Fig. 14. Engraved horse
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3PfHuSbYGcqeo2U4AEKsmM/33a068fa954954fd3b9b446c943e0791/Fig._14._Engraved_horse.jpg"
-      caption: Fig. 14. Engraved horse, Eastern Aïr Mountains. © TARA/David Coulson.
-        Image not yet catalogued.
+      caption: Engraved horse, Eastern Aïr Mountains. 2013,2034.9421 ©TARA/David Coulson.
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640574&partId=1&searchText=2013,2034.9421&page=1
     - sys:
         id: 6tFSQzFupywiK6aESCgCia
         created_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:47:26.838000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: horse, chapter 11'
       body: |-
-        In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (e.g. figs 5 &13), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
+        In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (see above), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
 
         Whatever the myriad circumstances and significances of the images, it is clear that following its introduction to the continent, the hardy and surefooted desert horse’s usefulness for draught, transport and fighting purposes transformed the societies which used it and gave it a powerful symbolic value.
     - sys:
         id: 2P6ERbclfOIcGEgI6e0IUq
         created_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:45:12.419000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3UXc5NiGTYQcmu2yuU42g
@@ -1441,14 +1528,16 @@ contentful:
         title: Fig. 15. Painted horse, Terkei
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3UXc5NiGTYQcmu2yuU42g/7586f05e83f708ca9d9fca693ae0cd83/Fig._15._Painted_horse__Terkei.jpg"
-      caption: Fig. 15. Painted horse, Terkei, Ennedi Plateau, Chad. © TARA/David
-        Coulson. Image not yet catalogued.
+      caption: Painted horse, Terkei, Ennedi Plateau, Chad. 2013,2034.6537 © TARA/David
+        Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640682&partId=1&searchText=2013,2034.6537&page=1
     citations:
     - sys:
         id: 32AXGC1EcoSi4KcogoY2qu
         created_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Blench, R.M. & MacDonald, K. C. 2000, *The Origins and Development
         of African Livestock:  archaeology, genetics, linguistics and ethnography*.
         London; New York, NY: UCL Press\n \nCurtis, C., Tallis, N., Johansen, A.,
@@ -1480,6 +1569,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       updated_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       content_type_id: thematic
+      revision: 1
     title: 'Introduction to rock art in northern Africa '
     slug: rock-art-in-northern-africa
     lead_image:
@@ -1496,7 +1586,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'North Africa: regional, chapter 1'
       body: 'The Sahara is the largest non-polar desert in the world, covering almost
         8,600,000 km² and comprising most of northern Africa, from the Red Sea to
@@ -1515,6 +1606,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:54:19.234000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:12:21.657000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1fzfpavYuGaOKaAM2ko6es
@@ -1531,6 +1623,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:31.891000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:40:03.509000000 Z
         content_type_id: chapter
+        revision: 3
       title: Types of rock art and distribution
       title_internal: 'North Africa: regional, chapter 2'
       body: |+
@@ -1543,6 +1636,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         content_type_id: chapter
+        revision: 1
       title: History of research
       title_internal: 'North Africa: regional chapter 2.5'
       body: Although the existence of rock art throughout the Sahara was known to
@@ -1558,6 +1652,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:54:54.847000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:13:53.921000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2N4uhoeNLOceqqIsEM6iCC
@@ -1574,6 +1669,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:52.432000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:45:37.885000000 Z
         content_type_id: chapter
+        revision: 4
       title: Attribution and dating
       title_internal: 'North Africa: regional, chapter 3'
       body: 'The investigations of these researchers and those who have followed them
@@ -1595,6 +1691,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:55:22.104000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:16:53.318000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5A1AwRfu9yM8mQ8EeOeI2I
@@ -1611,6 +1708,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:59:26.852000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:18:29.234000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'North Africa: regional, chapter 4'
       body: |-
         Occasionally, association with writing in the form of, for example, Libyan-Berber or Arabic graffiti can give a known dating margin, but in general, lack of contemporary writing and written sources (Herodotus wrote about the Garamantes) leaves much open to conjecture.
@@ -1621,6 +1719,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:55:58.985000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:19:11.991000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1YAVmJPnZ2QQiguCQsgOUi
@@ -1637,6 +1736,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'North Africa: regional, chapter 5'
       body: A possibly concurrent phase is known as the Round Head Period (about 10,000
         to 8,000 years ago) due to the large discoid heads of the painted human figures.
@@ -1652,6 +1752,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:56:25.598000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:39:22.861000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6MOI9r5tV6Gkae0CEiQ2oQ
@@ -1668,6 +1769,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:00:04.267000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:30:04.896000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'North Africa: regional, chapter 6'
       body: "While this chronology serves as a useful framework, it must be remembered
         that the area – and the time period in which rock art was produced – is extensive
@@ -1690,6 +1792,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |
         Le Quellec, J. 1998. Art rupestre et préhistoire du Sahara: le Messak Libyen. Paris: Payot & Rivages
 
@@ -1725,6 +1828,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:42:41.014000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:41:48.166000000 Z
       content_type_id: country_information
+      revision: 3
     title: 'Morocco: country introduction'
     chapters:
     - sys:
@@ -1732,6 +1836,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Morocco: country, chapter 1'
       body: 'Morocco is located at the north-western corner of Africa, in a unique
@@ -1748,6 +1853,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4Jt8P55Z56SkEegOMO6euY
@@ -1764,6 +1870,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:39:56.904000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:32:33.859000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 46fV0mfFKMUYyywY0iUGYK
@@ -1780,6 +1887,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography and rock art distribution
       title_internal: 'Morocco: country, chapter 2'
       body: Morocco has a very variable geography, with the Atlas Mountains crossing
@@ -1798,6 +1906,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6AO1Pff4UowYQMsYU444qS
@@ -1814,6 +1923,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Morocco: country, chapter 3'
       body: The second main zone, an arid region where the majority of Moroccan rock
         art sites are situated, contains the oldest engravings in the country, some
@@ -1827,6 +1937,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Morocco: country, chapter 4'
       body: 'European audiences began studying the rock art in Morocco decades after
@@ -1847,6 +1958,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
         content_type_id: chapter
+        revision: 1
       title: Themes
       title_internal: 'Morocco: country, chapter 5'
       body: 'As in most countries, mammals are the most frequent depictions, especially
@@ -1862,13 +1974,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:40:59.047000000 Z
         updated_at: !ruby/object:DateTime 2017-01-06 15:36:19.352000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2iKZIRebewsGGQiKiOgQq
           created_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:04:25.512000000 Z
         title: '2013,2034.5558'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3605427&partId=1&searchText=2013,2034.5558&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/2iKZIRebewsGGQiKiOgQq/7a6ea71bedef21c05b78d13fe9883716/2013_2034.5558.jpg"
       caption: 'Antelope engravings, Tazina style. 2013,2034.5558 © TARA/David Coulson '
       col_link: http://bit.ly/2jbUc4v
@@ -1877,6 +1990,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology
       title_internal: 'Morocco: country, chapter 6'
       body: A consensus has yet to be achieved about Moroccan rock art chronology
@@ -1896,6 +2010,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 2nR1MWquOoWQiikYooK22Q
@@ -1912,6 +2027,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |+
         Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 
@@ -1939,9 +2055,9 @@ contentful:
   - sys:
       id: 3OAdh6uCrCIgCeuQ2E0koa
       created_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-25 15:10:29.049000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:03:43.993000000 Z
     title: '2013,2034.5874'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3613873&partId=1&searchText=2013,2034.5874&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3OAdh6uCrCIgCeuQ2E0koa/a9fe9a0740e535707c227440bac46571/2013_2034.5874.jpg"
   region: Northern / Saharan Africa
 ---

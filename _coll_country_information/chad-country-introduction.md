@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 15:14:49.211000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:40:13.544000000 Z
     content_type_id: country_information
+    revision: 2
   title: 'Chad: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:05:47.745000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:05:47.745000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Chad: country, chapter 1'
     body: 'Located in the centre of North Africa, landlocked Chad stretches from the
@@ -28,13 +30,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 14:55:32.628000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 14:55:32.628000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 47ocQmZwI8iOE4Sskq8IeE
         created_at: !ruby/object:DateTime 2015-11-26 13:20:23.164000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.164000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:11:47.535000000 Z
       title: '2013,2034.6155'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637041&partId=1&searchText=2013,2034.6155&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/47ocQmZwI8iOE4Sskq8IeE/8ce5836027971e7b02317274015177ac/2013_2034.6155.jpg"
     caption: Engravings of human figures from Niola Doa. Ennedi Plateau, Chad. 2013,2034.6155
       © TARA/David Coulson
@@ -44,6 +47,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 14:58:20.362000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 14:58:20.362000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: V66nfuesIoQGsMw2ugcwk
@@ -60,6 +64,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:08:11.474000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:08:11.474000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography and rock art distribution
     title_internal: 'Chad: country, chapter 2'
     body: 'The north-south orientation of Chad''s elongated shape means it is divided
@@ -81,6 +86,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 14:59:35.937000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:10:44.651000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 401K6ww8asemkaCySqeci
@@ -97,6 +103,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:08:48.316000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:08:48.316000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Chad: country, chapter 3'
     body: 'The Tibesti Mountains are situated at the north-western corner of Chad,
       and partly extend into Libya. The central area of the Tibesti Mountains is volcanic
@@ -111,6 +118,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:00:20.104000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:00:20.104000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1AS5ngxVRGWeAaKemYyOyo
@@ -126,6 +134,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:10:44.568000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:10:44.568000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Chad: country, chapter 4'
     body: |-
@@ -137,6 +146,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:11:09.168000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:11:09.168000000 Z
       content_type_id: chapter
+      revision: 1
     title: Themes
     title_internal: 'Chad: country, chapter 5'
     body: As in the rest of the Sahara, the main themes in Chadian rock art are directly
@@ -156,6 +166,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:00:58.853000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:00:58.853000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: Z50lrTE2EUM0egk4Mk482
@@ -173,13 +184,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:01:28.260000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:01:28.260000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6uYaJrzaMgAwK42CSgwcMW
         created_at: !ruby/object:DateTime 2015-11-26 13:20:23.253000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 13:20:23.253000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:12:19.070000000 Z
       title: '2013,2034.6595'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640375&partId=1&searchText=2013,2034.6595&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/6uYaJrzaMgAwK42CSgwcMW/b71fe481a99fa36b16f32265828a440e/2013_2034.6595.jpg"
     caption: Raiding scene with horses in the so-called ‘Flying gallop’ style. Camel
       Period. 2013,2034.6595 © TARA/David Coulson
@@ -189,6 +201,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:11:36.258000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:11:36.258000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Chad: country, chapter 6'
     body: |-
@@ -200,6 +213,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:01:55.122000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:01:55.122000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4tdnKRONuECgKUm66woS2M
@@ -217,6 +231,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:02:31.184000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:02:31.184000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5PmKmAsIH6OO8eyuOYgUa2
@@ -233,6 +248,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 15:03:01.760000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 15:03:01.760000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6weCWSE3EkyIcyWW4S8QAc
@@ -251,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:21:04.168000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:21:04.168000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Bailloud, Gerard (1997). *Art rupestre en Ennedi. Looking for rock paintings and engravings in the Ennedi Hills* Sépia, Saint-Maur
 

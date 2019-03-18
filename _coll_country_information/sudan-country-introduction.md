@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 12:22:39.465000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:14.925000000 Z
     content_type_id: country_information
+    revision: 2
   title: 'Sudan: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:18:28.564000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:18:28.564000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Sudan: country, chapter 1'
     body: 'Sudan''s known rock art mainly consists of paintings and engravings on
@@ -27,6 +29,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:14:29.575000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:12:37.390000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4rPFCqitX2sUOAGUEAqui4
@@ -43,6 +46,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:18:56.395000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:18:56.395000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography
     title_internal: 'Sudan: country, chapter 2'
     body: Sudan covers nearly 2,000,000 km² and is geographically diverse, dominated
@@ -59,6 +63,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:19:26.835000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:19:26.835000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Sudan: country, chapter 3'
     body: Historically, rock art research in Sudan has either been incorporated into
@@ -76,6 +81,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:19:49.980000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:20:08.533000000 Z
       content_type_id: chapter
+      revision: 2
     title: Rock art types
     title_internal: 'Sudan: country, chapter 4'
     body: |-
@@ -89,13 +95,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:15:01.481000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:13:14.413000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: AMf0wybjzMekgCuSAs28E
         created_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.741000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:06:06.627000000 Z
       title: '2013,2034.272'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586260&partId=1&searchText=2013,2034.272&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/AMf0wybjzMekgCuSAs28E/2afa178fb645276aa051e8dc597f1b1e/2013_2034.272.jpg"
     caption: Engraved cattle, giraffe and ostrich. Karkur Talh, Jebel Uweinat. 2013,2034.272
       © TARA/David Coulson
@@ -105,6 +112,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:20:29.697000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:20:29.697000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Sudan: country, chapter 5'
     body: The understanding of much of Sudanese prehistory as it relates to rock art
@@ -127,13 +135,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:15:30.625000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:13:29.546000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4pB2o28EnCOk6w8m8IwciG
         created_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.703000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:06:43.357000000 Z
       title: '2013,2034.347'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586942&partId=1&searchText=2013,2034.347&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/4pB2o28EnCOk6w8m8IwciG/5ce1e4a59f58a180045818bdc3bc8c13/2013_2034.347.jpg"
     caption: Engraved ostriches, dogs and antelope. Karkur Talh, Jebel Uweinat. 2013,2034.347
       © TARA/David Coulson
@@ -143,7 +152,8 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:20:54.588000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:20:54.588000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 1
+    title: 
     title_internal: 'Sudan: country, chapter 6'
     body: 'Ascribing dates to rock art like that at Jebel Uweinat is also uncertain
       and is more difficult than dating images such as the depictions of Nile river
@@ -166,13 +176,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:16:01.977000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:13:48.660000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2JHzf9XFUACqyq0AAaw8CQ
         created_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:13:51.755000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:07:20.356000000 Z
       title: '2013,2034.334'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3586833&partId=1&searchText=2013,2034.334&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/2JHzf9XFUACqyq0AAaw8CQ/1070836ffd26fec60872b6b97fb72ff5/2013_2034.334.jpg"
     caption: Engraved camels and human figures. Karkur Talh, Jebel Uweinat. 2013,2034.334
       © TARA/David Coulson
@@ -183,6 +194,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:17:53.755000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:17:53.755000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Jesse, F. 2005. *Rock Art in Lower Wadi Howar, northwest Sudan*. Sahara vol.16, pp. 27-38
 

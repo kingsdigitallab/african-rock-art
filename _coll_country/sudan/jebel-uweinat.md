@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 14:12:07.582000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:52:29.073000000 Z
     content_type_id: featured_site
+    revision: 4
   title: Jebel Uweinat, Sudan
   slug: jebel-uweinat
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:19:54.772000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:19:54.772000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Sudan: featured site, chapter 1'
     body: At the nexus of Sudan, Libya and Egypt, where the borders meet at a point
       in the Eastern Sahara, a large rocky outcrop known as Jebel Uweinat peaks at
@@ -31,13 +33,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:16:00.395000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:16:10.904000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1DXzN0USKMoCI4kywAKeEy
         created_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.585000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:07:57.029000000 Z
       title: '2013,2034.6'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3577799&partId=1&searchText=2013,2034.6&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/1DXzN0USKMoCI4kywAKeEy/c1f12caa1933afa9134b18c5505d14b8/2013_2034.6.jpg"
     caption: Painted cattle and human figures on rock shelter roof. Karkur Talh, Jebel
       Uweinat. 2013,2034.6 © David Coulson/TARA
@@ -47,6 +50,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:20:17.081000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:20:17.081000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Sudan: featured site, chapter 2'
     body: This rock art comes in the form of paintings and engravings, commonly of
       animals and overwhelmingly of domestic cattle – 337 painted sites out of 414
@@ -61,13 +65,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:16:50.686000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:16:25.098000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 70RmZtVt9Cy4Ameg0qOoCo
         created_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 14:18:38.600000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:08:32.195000000 Z
       title: '2013,2034.258'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3583684&partId=1&searchText=2013,2034.258&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/70RmZtVt9Cy4Ameg0qOoCo/07832fd85c8ed2d2bbbb478c02bfddfc/2013_2034.258.jpg"
     caption: White-painted cattle. Karkur Talh, Jebel Uweinat. 2013,2034.258 © David
       Coulson/TARA
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:20:38.415000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:20:38.415000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Sudan: featured site, chapter 3'
     body: While cattle are ubiquitous, there are also frequent depictions of humans
       in various styles, as well as other domesticates, including goats and dogs.
@@ -88,6 +94,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:17:47.704000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:16:39.272000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 32GOdHizCwYKGAqO4sQ8oW
@@ -104,6 +111,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:20:56.425000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:20:56.425000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Sudan: featured site, chapter 4'
     body: This variety, and similarities to rock art sites elsewhere in the eastern
       Sahara, has led to conjecture and debate regarding the date and authorship of
@@ -120,6 +128,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:18:27.297000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:16:58.457000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3YBcXyxpbq6iKIegM66KgQ
@@ -136,6 +145,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:21:14.113000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:21:14.113000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Sudan: featured site, chapter 5'
     body: Other than giraffes, the lack of large wild animals depicted (e.g. elephants)
       may indicate the climate to have been too dry for them, as during this time
@@ -155,6 +165,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:19:16.492000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 17:17:15.357000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4TbDKiBZ2wg8GaK6GqsMsa

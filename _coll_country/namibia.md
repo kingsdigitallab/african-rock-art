@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-12-08 11:20:50.406000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 16:50:16.809000000 Z
     content_type_id: country
+    revision: 10
   name: Namibia
   slug: namibia
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=17546
@@ -14,44 +15,44 @@ contentful:
   - sys:
       id: 4uVUj08mRGOCkmK64q66MA
       created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-    title: NAMDMT0010010
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:01:17.553000000 Z
+    title: '2013,2034.20476'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730556&partId=1&searchText=NAMDMT0010010&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
   - sys:
       id: 5cgvtbKg2IkkMsWAOeIqi0
       created_at: !ruby/object:DateTime 2016-09-26 14:46:58.320000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:46:58.320000000 Z
-    title: NAMDMO0040022
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:02:14.734000000 Z
+    title: '2013,2034.21988'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3769890&partId=1&searchText=NAMDMO0040022&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/5cgvtbKg2IkkMsWAOeIqi0/4bbb296a22b981820312dd4c63a44073/NAMDMO0040022.jpg"
   - sys:
       id: 3HjTzHykAUWMwwMMu4e2AE
       created_at: !ruby/object:DateTime 2016-09-26 14:47:11.723000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:47:11.723000000 Z
-    title: NAMSNH0030045
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:03:06.352000000 Z
+    title: '2013,2034.22444'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3770077&partId=1&searchText=NAMSNH0030045&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3HjTzHykAUWMwwMMu4e2AE/c1518319d2e20eeed9103daab8fe948d/NAMSNH0030045.jpg"
   - sys:
       id: 5U3At7fjr2GoEEUycA6m46
       created_at: !ruby/object:DateTime 2016-09-26 14:47:19.504000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:47:19.504000000 Z
-    title: NAMDMO0020013
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:03:51.111000000 Z
+    title: '2013,2034.21922'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3768143&partId=1&searchText=NAMDMO0020013&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/5U3At7fjr2GoEEUycA6m46/ebda186cdcfc4c68f5b0af80470c7d87/NAMDMO0020013.jpg"
   - sys:
       id: 47PCoKDlCM6AmwuS6kUkwY
       created_at: !ruby/object:DateTime 2016-09-26 14:47:27.715000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:47:27.715000000 Z
-    title: NAMBRH0010005
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:04:53.158000000 Z
+    title: '2013,2034.21288'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3768617&partId=1&searchText=NAMBRH0010005&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/47PCoKDlCM6AmwuS6kUkwY/b834d60849bdb03e767cba886d4edb9d/NAMBRH0010005.jpg"
   - sys:
       id: 1EmDxtbZEMmgucUegiQCSE
       created_at: !ruby/object:DateTime 2016-09-26 14:47:36.968000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-26 14:47:36.968000000 Z
-    title: NAMSNA0020005
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:05:46.811000000 Z
+    title: '2013,2034.22316'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3772012&partId=1&searchText=NAMSNA0020005&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1EmDxtbZEMmgucUegiQCSE/0e849a3b48819bdffea0079fe8442578/NAMSNA0020005.jpg"
   featured_site:
     sys:
@@ -59,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-26 14:56:44.920000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 14:56:44.920000000 Z
       content_type_id: featured_site
+      revision: 1
     title: Twyfelfontein, Namibia
     slug: twyfelfontein
     chapters:
@@ -67,6 +69,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:54:19.760000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:54:19.760000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Namibia: featured site, chapter 1'
       body: 'The proliferation of rock engravings at Twyfelfontein | /Ui-//aes in
         the north-west of central Namibia, forms the largest single grouping of ancient
@@ -88,6 +91,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:54:31.866000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 13:43:41.409000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4CdBm63EZaG0uscOGAOimI
@@ -105,6 +109,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:54:37.644000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:54:37.644000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Namibia: featured site, chapter 2'
       body: The engravings are found in several loose conglomerations, on sandstone
         surfaces at the base of a hill scarp within the basin of the ephemeral Huab
@@ -123,6 +128,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:54:49.830000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 13:44:40.593000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4TZJHdTWc0kgOOEqek4OUs
@@ -139,6 +145,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:55:05.395000000 Z
         updated_at: !ruby/object:DateTime 2016-09-30 17:03:01.797000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Namibia: featured site, chapter 3'
       body: The figurative images in the engraved art feature several different distinct
         styles, ranging from very naturalistic outlines of animals such as giraffes
@@ -155,6 +162,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:55:17.975000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:55:17.975000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: XPX1r31GCsUmOaAIIMQy8
@@ -171,6 +179,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:55:26.702000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:55:26.702000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Namibia: featured site, chapter 4'
       body: "It appears that the kudu figure is pregnant and it has been suggested
         that the choice of this animal may have been made in relation to female initiation
@@ -205,6 +214,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:55:40.171000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 13:45:12.694000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 5qTBuuWKukMoO4kcQYiQWa
@@ -221,6 +231,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:55:53.771000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:55:53.771000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Namibia: featured site, chapter 5'
       body: "Such interpretations are made on the basis that the artists followed
         the same cultural tradition as the ancestral San&#124;Bushman. The few examples
@@ -250,6 +261,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:56:10.408000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:56:10.408000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6AdC84mjBuuGMsQo2oCCYo
@@ -268,6 +280,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:56:16.915000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:56:16.915000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Namibia: featured site, chapter 6'
       body: 'In 1952 the site was made a National Monument and in 2007 Twyfelfontein
         | /Ui-//aes was inscribed on the UNESCO World Heritage list.  Portions of
@@ -296,6 +309,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-26 14:47:57.283000000 Z
       updated_at: !ruby/object:DateTime 2016-09-26 16:51:07.480000000 Z
       content_type_id: country_key_facts
+      revision: 2
     title_internal: 'Namibia: key facts'
     image_count: 1,338 images
     date_range: Mainly 6,000 BC to the mid-1st millennium AD
@@ -311,15 +325,16 @@ contentful:
       created_at: !ruby/object:DateTime 2017-06-14 17:36:35.946000000 Z
       updated_at: !ruby/object:DateTime 2017-06-21 13:55:43.874000000 Z
       content_type_id: thematic
+      revision: 5
     title: Rhinos in rock art
     slug: rhinos-in-rock-art
     lead_image:
       sys:
         id: 4uVUj08mRGOCkmK64q66MA
         created_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-        updated_at: !ruby/object:DateTime 2016-09-26 14:46:35.956000000 Z
-      title: NAMDMT0010010
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 02:01:17.553000000 Z
+      title: '2013,2034.20476'
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3730556&partId=1&searchText=NAMDMT0010010&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/4uVUj08mRGOCkmK64q66MA/c1c895d4f72a2260ae166ab9c2148daa/NAMDMT0010010.jpg"
     chapters:
     - sys:
@@ -393,6 +408,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-10 14:12:25.736000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:42:15.905000000 Z
       content_type_id: thematic
+      revision: 2
     title: Introduction to rock art in southern Africa
     slug: rock-art-in-southern-africa
     lead_image:
@@ -409,6 +425,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:01:39.329000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:09:20.849000000 Z
         content_type_id: chapter
+        revision: 6
       title_internal: 'Southern Africa: regional, chapter 1'
       body: |+
         The southern African countries of Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Botswana and Namibia contain thousands of rock art sites and southern African rock art has been studied extensively.  Due to perceived similarities in subject matter, even across great distances, much southern African rock art has been ascribed to hunter-gatherer painters and engravers who appear to have had a shared set of cultural references.  These have been linked with beliefs and practices which remain common to modern San&#124;Bushman¹ people, a number of traditional hunter-gatherer groups who continue to live in Southern Africa, principally in Namibia, Botswana and South Africa.  There are, however, differences in style and technique between regions, and various rock art traditions are attributed to other cultural groups and their ancestors.  As is often the case with rock art, the accurate attribution of authorship, date and motivation is difficult to establish, but the rock art of this region continues to be studied and the richness of the material in terms of subject matter, as well as in the context of the archaeological record, has much to tell us, both about its own provenance and the lives of the people who produced it.
@@ -419,6 +436,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:04.241000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:09:49.095000000 Z
         content_type_id: chapter
+        revision: 2
       title: Geography and distribution
       title_internal: 'Southern Africa: regional, chapter 2'
     - sys:
@@ -426,6 +444,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:27.584000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:10:55.925000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 4RBHhRPKHC2s6yWcEeWs0c
@@ -442,6 +461,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:02:41.530000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:11:21.260000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Southern Africa: regional, chapter 3'
       body: 'There is wide variation in the physical environments of southern Africa,
         ranging from the rainforests of Mozambique to the arid Namib Desert of western
@@ -462,6 +482,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:04.486000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:11:57.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hXbvhDSf2CmOss6ec0CsS
@@ -478,6 +499,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:14.736000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:12:17.831000000 Z
         content_type_id: chapter
+        revision: 5
       title: Types of rock art
       title_internal: 'Southern Africa: regional, chapter 4'
       body: "Rock art of the type associated with hunter-gatherers is perhaps the
@@ -508,6 +530,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:22:13.102000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:12:40.860000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 20oHYa0oEcSEMOyM8IcCcO
@@ -525,6 +548,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:40.877000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:13:26.231000000 Z
         content_type_id: chapter
+        revision: 9
       title_internal: 'Southern Africa: regional, chapter 5'
       body: "Hunter-gatherer rock paintings are found in particular concentrations
         in the Drakensberg-Maloti and Cape Fold Mountains in South Africa and Lesotho,
@@ -555,6 +579,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:03:57.014000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:13:43.550000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6QHTRqNGXmWic6K2cQU8EA
@@ -571,6 +596,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:24:14.217000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:17:20.511000000 Z
         content_type_id: chapter
+        revision: 5
       title_internal: 'Southern Africa: regional, chapter 6'
       body: "This kind of imagery is found in a variety of styles, and some of those
         producing ‘contact’ images in the Cape may have been people of Khoekhoen heritage.
@@ -585,6 +611,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:05.564000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:17:47.538000000 Z
         content_type_id: chapter
+        revision: 6
       title: History of research
       title_internal: 'Southern Africa: regional, chapter 7'
       body: 'The first known reports of African rock art outside of the continent
@@ -609,6 +636,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:30.652000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:18:07.313000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3BLPJ6SPMcccCE2qIG4eQG
@@ -625,6 +653,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:37.305000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:18:34.546000000 Z
         content_type_id: chapter
+        revision: 4
       title: Interpretation
       title_internal: 'Southern Africa: regional, chapter 8'
       body: Rather than showing scenes from daily life, as was once assumed, it is
@@ -643,6 +672,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:04:53.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:19:08.779000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5Zk1QhSjEAOy8U6kK4yS4c
@@ -661,6 +691,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:00.899000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:19:37.565000000 Z
         content_type_id: chapter
+        revision: 4
       title_internal: 'Southern Africa: regional, chapter 9'
       body: "The rock art attributed to ancestral San&#124;Bushman hunter-gatherers
         has many varied motifs, some of which may also relate to specific themes such
@@ -697,6 +728,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:15.123000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:21:01.026000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: ETDpJFg6beKyyOmQGCsKI
@@ -714,6 +746,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:22.665000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:21:16.059000000 Z
         content_type_id: chapter
+        revision: 6
       title: Dating
       title_internal: 'Southern Africa: regional, chapter 10'
       body: "Although dating rock art is always difficult, the study of rock art sites
@@ -747,6 +780,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:05:38.418000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:25:17.372000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 58V5qef3pmMGu2aUW4mSQU
@@ -763,6 +797,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:25:44.294000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Southern Africa: regional, chapter 11'
       body: "¹ San&#124;Bushmen is a collective term used to describe the many different
         hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -775,6 +810,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 10:45:36.418000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 14:39:37.963000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: |+
         Campbell, A., Robbins, L. and Taylor, M. 2010. Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 
@@ -813,6 +849,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-26 14:54:01.738000000 Z
       updated_at: !ruby/object:DateTime 2016-10-17 15:39:27.185000000 Z
       content_type_id: country_information
+      revision: 2
     title: 'Namibia: country introduction'
     chapters:
     - sys:
@@ -820,6 +857,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:48:35.037000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:46:01.299000000 Z
         content_type_id: chapter
+        revision: 3
       title: Introduction
       title_internal: 'Namibia: country, chapter 1'
       body: 'Namibia is home to over 1,200 rock art sites countrywide.  Most of these
@@ -828,15 +866,17 @@ contentful:
     - sys:
         id: 1dABVOGavUAI6goAY8miaA
         created_at: !ruby/object:DateTime 2016-10-17 15:38:31.464000000 Z
-        updated_at: !ruby/object:DateTime 2016-10-17 15:38:31.464000000 Z
+        updated_at: !ruby/object:DateTime 2018-09-19 14:58:53.570000000 Z
         content_type_id: chapter
+        revision: 2
       title: Geography and rock art distribution
-      title_internal: Namibia chapter 2
+      title_internal: 'Namibia: country, chapter 2'
     - sys:
         id: 5gSXylxGD6eO20EyeOIQSY
         created_at: !ruby/object:DateTime 2016-09-26 14:49:11.461000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:49:11.461000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3Xk6O4MMsgEYY0WcaiCYqs
@@ -852,6 +892,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:49:17.497000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:51:45.252000000 Z
         content_type_id: chapter
+        revision: 5
       title_internal: 'Namibia: country, chapter 3'
       body: 'Namibia covers an area of around 815,625km² in the south-west of Africa,
         bordering Angola and Zambia in the north, Botswana in the east, and South
@@ -867,6 +908,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:49:30.621000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:53:37.343000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 62AXX05gE8yACQgOgW0kqO
@@ -883,6 +925,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:49:37.812000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:57:17.099000000 Z
         content_type_id: chapter
+        revision: 9
       title_internal: 'Namibia: country, chapter 4'
       body: "Rock art is found across the country from the southern border almost
         to the northern border, although rock art sites are scarce in the far north.
@@ -913,6 +956,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:49:45.248000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:56:06.499000000 Z
         content_type_id: chapter
+        revision: 5
       title: History of research
       title_internal: 'Namibia: country, chapter 5'
       body: 'The first published mention of rock art in south-western Africa may be
@@ -934,6 +978,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:50:03.966000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:50:03.966000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4nbVLA22Y0Uw06ICSeGYQm
@@ -950,6 +995,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:50:14.861000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 16:36:47.346000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Namibia: country, chapter 6'
       body: "During the course of an earlier expedition, Maack had stumbled upon a
         singular painting in a Brandberg rock shelter. This image came to be well-known
@@ -981,6 +1027,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:50:38.544000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:59:58.758000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4ZB32q4diwyQMIaOomeQOg
@@ -998,6 +1045,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:50:47.116000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:48:16.058000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Namibia: country, chapter 7'
       body: 'The Cologne programme also sponsored the excavation work of archaeologist
         Erich Wendt, who between 1968 and 1970 worked at numerous sites investigating
@@ -1016,6 +1064,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:51:03.951000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:48:40.803000000 Z
         content_type_id: chapter
+        revision: 3
       title: Themes
       title_internal: 'Namibia: country, chapter 8'
       body: "Much of the painted rock art in Namibia may be broadly compared to the
@@ -1043,6 +1092,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:51:19.714000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 17:01:09.262000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3eVwGLF6ooeMySiG8G0a8U
@@ -1060,6 +1110,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:51:27.064000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:22:02.825000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Namibia: country, chapter 9'
       body: "Within Namibia, paintings come in a variety of styles, ranging from naturalistic
         to stylised.  Paintings found at Spitzkoppe tend to be smaller and cruder
@@ -1080,6 +1131,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:51:42.124000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:23:26.466000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3zUEF7pFUIeqsKeW2wOIkw
@@ -1097,6 +1149,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:51:49.953000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:49:27.291000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Namibia: country, chapter 10'
       body: 'Engravings are often pecked and sometimes rubbed or polished. Although
         engravings, like paintings, feature animal figures heavily, with images of
@@ -1114,6 +1167,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:52:14.154000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:24:08.309000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6lpq225cZOe0MKaC8cuuy6
@@ -1130,6 +1184,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:52:22.473000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:49:48.177000000 Z
         content_type_id: chapter
+        revision: 3
       title: Interpretation
       title_internal: 'Namibia: country, chapter 11'
       body: "Namibian rock paintings, and most engravings, have largely been interpreted
@@ -1158,6 +1213,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:52:40.163000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:26:46.067000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5UMcF5DE2siok0k4UakAUW
@@ -1175,6 +1231,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:52:47.433000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:30:06.342000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Namibia: country, chapter 12'
       body: "Other differences are found in style and emphasis: the frequency with
         which giraffe feature in Namibian paintings and engravings contrasts with
@@ -1199,6 +1256,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:52:59.658000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:50:17.361000000 Z
         content_type_id: chapter
+        revision: 5
       title: Chronology
       title_internal: 'Namibia: country, chapter 13'
       body: "The pieces from the cave Wendt excavated (named ‘Apollo 11 Cave’ after
@@ -1225,6 +1283,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:53:21.292000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:30:47.494000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5SxIVsUotUcuWoI2iyYOSO
@@ -1241,6 +1300,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:53:29.617000000 Z
         updated_at: !ruby/object:DateTime 2018-05-09 16:50:37.206000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Namibia: country, chapter 14'
       body: 'Engravings are more difficult to obtain dates for scientifically. Superimpositioning
         and other physical factors can serve to indicate which styles of image are
@@ -1257,6 +1317,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:53:45.520000000 Z
         updated_at: !ruby/object:DateTime 2018-05-10 10:40:21.998000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4I7MYP97u8AK8YE88UGOKS
@@ -1275,6 +1336,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-09-26 14:53:53.399000000 Z
         updated_at: !ruby/object:DateTime 2016-09-26 14:53:53.399000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |
         CeSMAP- Study Centre and Museum of Prehistoric Art of Pinerolo. 1997. African pictograms.  Pinerolo, Centro Studi e Museo di arte preistorica.
 

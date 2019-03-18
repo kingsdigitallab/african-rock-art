@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 17:59:00.673000000 Z
     updated_at: !ruby/object:DateTime 2015-12-11 12:29:03.345000000 Z
     content_type_id: thematic
+    revision: 6
   title: 'Written in stone: the Libyco-Berber scripts'
   slug: written-in-stone
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:49:07.520000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:49:16.531000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Libyco-Berber: thematic, chapter 1'
     body: 'A remarkable feature of North African rock art is the existence of numerous
       engraved or painted inscriptions which can be found throughout the Sahara Desert.
@@ -37,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:43:10.618000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:32:20.694000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 5m9CnpjjOgEIeiaW6k6SYk
@@ -55,6 +58,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:49:54.544000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:33:58.483000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Libyco-Berber: thematic, chapter 2'
     body: Libyco-Berber characters were identified as written language as early as
       the 17th century, when some inscriptions in the language were documented in
@@ -71,6 +75,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:43:34.886000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:35:37.505000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 1i0U2eePgyWQKE8WgOEuug
@@ -88,6 +93,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:50:30.377000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:50:30.377000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libyco-Berber: thematic, chapter 3'
     body: A second, recent proposal has defended an indigenous (autochthonous) origin
       deriving from a stock of ancient signs –tribal tattoos, marks of ownership,
@@ -102,6 +108,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:44:09.415000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:37:11.219000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4kXC2w9xCwAASweyCgwg2O
@@ -119,7 +126,8 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:50:56.343000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:50:56.343000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 1
+    title: 
     title_internal: 'Libyco-Berber: thematic, chapter 4'
     body: 'How is the Libyco-Berber alphabet composed? In fact, we should talk about
       Libyco-Berber alphabets, as one of the main characteristics of these scripts
@@ -135,6 +143,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:44:51.935000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:37:41.169000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5rTkM78qGckOKu2q4AIUAI
@@ -151,6 +160,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:51:32.328000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:51:32.328000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libyco-Berber: thematic, chapter 5'
     body: 'The study of Libyco-Berber script faces some huge challenges. In addition
       to its aforementioned variability, it is necessary to differentiate the ancient
@@ -173,6 +183,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:46:00.776000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:39:20.711000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 373GOE3JagQYoyY2gySyMy
@@ -191,6 +202,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:51:51.719000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:51:51.719000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libyco-Berber: thematic, chapter 6'
     body: Considering all these problems, what do we know about Libyco-Berber scripts?
       First of all, they normally used only consonants, although due to the influence
@@ -210,6 +222,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:46:35.246000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:43:47.775000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 7x2yrpGfGEKaUQgyuiOYwk
@@ -226,6 +239,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:52:16.445000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:27:17.030000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Libyco-Berber: thematic, chapter 7'
     body: Of course, the Libyco-Berber scripts evolved through time, although discussion
       is still going on about the chronologies and rhythms of this process. After
@@ -244,6 +258,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:47:18.568000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:44:36.059000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2GLzuqBeIMgoUW0wqeiiKY
@@ -260,6 +275,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:52:52.167000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:52:52.167000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libyco-Berber: thematic, chapter 8'
     body: The many challenges that surround the study of Libyco-Berber scripts have
       led to a complex crossroads of terms, chronologies and theories which sometimes
@@ -275,6 +291,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:47:52.571000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 15:46:54.999000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: FGpTfysHqEay4OMO66YSE
@@ -291,6 +308,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:53:11.586000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 17:53:11.586000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libyco-Berber: thematic, chapter 9'
     body: Undoubtedly, the deciphering of forgotten languages captures the imagination
       and is one of the most exciting challenges in the study of ancient cultures.
@@ -311,6 +329,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:48:24.656000000 Z
       updated_at: !ruby/object:DateTime 2015-12-11 12:28:59.132000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: |
       Le Quellec, J.L. 2012. Rock Art, Scripts and proto-scripts in Africa: the Libyco-berber example. In: Delmas, A. and Penn, P. (eds.), *Written Culture in a Colonial Context: Africa and the Americas 1500 – 1900*.  Brill Academic Publishers, Boston, pp. 3-29.
 

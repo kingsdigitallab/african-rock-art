@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 12:42:41.014000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:41:48.166000000 Z
     content_type_id: country_information
+    revision: 3
   title: 'Morocco: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:43:14.313000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Morocco: country, chapter 1'
     body: 'Morocco is located at the north-western corner of Africa, in a unique area
@@ -27,6 +29,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:39:31.073000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4Jt8P55Z56SkEegOMO6euY
@@ -43,6 +46,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:39:56.904000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:32:33.859000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 46fV0mfFKMUYyywY0iUGYK
@@ -59,6 +63,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:44:00.368000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography and rock art distribution
     title_internal: 'Morocco: country, chapter 2'
     body: Morocco has a very variable geography, with the Atlas Mountains crossing
@@ -76,6 +81,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:40:26.929000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6AO1Pff4UowYQMsYU444qS
@@ -92,6 +98,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:44:21.467000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Morocco: country, chapter 3'
     body: The second main zone, an arid region where the majority of Moroccan rock
       art sites are situated, contains the oldest engravings in the country, some
@@ -105,6 +112,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:44:44.525000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Morocco: country, chapter 4'
     body: 'European audiences began studying the rock art in Morocco decades after
@@ -125,6 +133,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:45:02.929000000 Z
       content_type_id: chapter
+      revision: 1
     title: Themes
     title_internal: 'Morocco: country, chapter 5'
     body: 'As in most countries, mammals are the most frequent depictions, especially
@@ -140,13 +149,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:40:59.047000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:36:19.352000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2iKZIRebewsGGQiKiOgQq
         created_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:38:42.729000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:04:25.512000000 Z
       title: '2013,2034.5558'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3605427&partId=1&searchText=2013,2034.5558&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/2iKZIRebewsGGQiKiOgQq/7a6ea71bedef21c05b78d13fe9883716/2013_2034.5558.jpg"
     caption: 'Antelope engravings, Tazina style. 2013,2034.5558 © TARA/David Coulson '
     col_link: http://bit.ly/2jbUc4v
@@ -155,6 +165,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:45:24.616000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Morocco: country, chapter 6'
     body: A consensus has yet to be achieved about Moroccan rock art chronology between
@@ -173,6 +184,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:41:29.715000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2nR1MWquOoWQiikYooK22Q
@@ -189,6 +201,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:42:11.373000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |+
       Malhomme, J. 1959. *Corpus des gravures rupestres du Grand Atlas*, vol. 1. Marrakech, Publications du Service des Antiquités du Maroc 13
 
