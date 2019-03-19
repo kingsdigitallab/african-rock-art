@@ -2,7 +2,7 @@
 breadcrumbs:
 - label: Countries
   url: "../../"
-- label: 'Angola '
+- label: Angola
   url: "../"
 layout: featured_site
 contentful:
