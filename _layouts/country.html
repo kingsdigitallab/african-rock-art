@@ -52,9 +52,11 @@ layout: default
                         </a>
                     </div>
                 </div>
+                {% if image.description %}
                 <div class="card-content">
-                    <a href="" class="more">Read more about this image</a>
+                    <a href="{{ image.description }}" class="more">Read more about this image</a>
                 </div>
+                {% endif %}
             </div>
         </div>
         {% endfor %}
