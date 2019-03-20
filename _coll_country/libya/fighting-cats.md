@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 15:32:46.632000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:53:06.792000000 Z
     content_type_id: featured_site
+    revision: 3
   title: Fighting cats, Libya
   slug: fighting-cats
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:27:52.971000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libya: featured site, chapter 1'
     body: Running from the Red Sea to the Atlantic Ocean, the Sahara is by far the
       world's largest hot desert. It covers over 3,500,000 square miles (9,000,000
@@ -36,6 +38,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:24:17.896000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 14:44:36.006000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 23Sckf5aOU4E8WOkg8yoIG
@@ -52,6 +55,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:28:11.936000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libya: featured site, chapter 2'
     body: |-
       Little is known about the people who lived in the Sahara thousands of years ago; however, through rock art, we can discern who they may have been and what images were important to them. Throughout the desert, rock art engravings and paintings depict an earlier story of the Sahara: the wild animals that lived there; the cattle herds that provided food and labour; their daily activities and beliefs are all displayed in caves and cliffs, valleys or plateaus.
@@ -64,6 +68,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:25:04.359000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: xe9mLFNrG0Ga6yUIoQycG
@@ -80,6 +85,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:28:29.814000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libya: featured site, chapter 3'
     body: 'Deep in the Messak Settafet is a site that has intrigued researchers for
       decades: the image known as ‘Fighting Cats’. This iconic engraving shows two
@@ -93,6 +99,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:25:43.199000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3UCMJpOah2ayA8keMYsGkU
@@ -109,6 +116,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:28:48.305000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:29:09.496000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Libya: featured site, chapter 4'
     body: The technical quality of the engravings is exceptional, with deeply outlined
       and carefully polished bodies and carved cupules within their heads to depict
@@ -125,6 +133,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:26:11.459000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5WH8hIWyZOI0QWe0SyAkC8
@@ -141,7 +150,8 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:29:29.887000000 Z
       content_type_id: chapter
-    title: ''
+      revision: 1
+    title: 
     title_internal: 'Libya: featured site, chapter 5'
     body: Several other engravings are found throughout the wadi. In its lower part
       to the right, another cat-like or monkey figure has been depicted, although
@@ -154,6 +164,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:26:47.347000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1xfjGHyp6wMGQuKQikCeMo
@@ -170,6 +181,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:29:50.338000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libya: featured site, chapter 6'
     body: Besides its impressive position in the landscape, their expressivity and
       complex interpretation, the Fighting Cats keep a secret within. On the polished
@@ -184,6 +196,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:27:21.916000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1kO0IImYVGOk0oeQg6sqWm
@@ -200,6 +213,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 15:30:37.290000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Libya: featured site, chapter 7'
     body: |-
       Another example of fighting cats has been found nearby, although it is neither so carefully made nor in such a prominent place. The similarity is, however, astonishing, and we may wonder if this second pair of beings could be a copy of the first pair, thus reflecting its symbolic importance in the people’s collective imagination.

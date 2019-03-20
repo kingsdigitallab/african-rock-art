@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 11:46:22.368000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:30.802000000 Z
     content_type_id: country_information
+    revision: 3
   title: 'Algeria: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:37:15.701000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:37:15.701000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Algeria: country, chapter 1'
     body: Algeria is Africa’s largest country geographically and has long been noted
@@ -27,13 +29,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:30:21.587000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:40:49.293000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3bBZIG7wBWQe2s06S4w0gE
         created_at: !ruby/object:DateTime 2015-11-26 11:29:42.872000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 11:29:42.872000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:58:02.758000000 Z
       title: '2013,2034.4248'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3601516&partId=1&searchText=2013,2034.4248&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/3bBZIG7wBWQe2s06S4w0gE/503eeec9a0aa84ff849de9d81dcd091e/2013_2034.4248.jpg"
     caption: Painted rock art depicting five red figures, from Jabbaren, Tassili n’Ajjer,
       Algeria. 2013,2034.4248 © TARA/David Coulson
@@ -43,6 +46,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:37:45.377000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:37:45.377000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography
     title_internal: 'Algeria: country, chapter 2'
     body: Algeria is situated in the Maghreb region of North Africa, bordered on the
@@ -60,6 +64,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:30:59.823000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:30:59.823000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6T7rsl4ISssocM8K0O0g2U
@@ -76,6 +81,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:42:31.967000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:42:31.967000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Algeria: country, chapter 3'
     body: |-
@@ -87,13 +93,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:31:39.981000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:31:39.981000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6TFwgxGXtYy6OgA02aKUCC
         created_at: !ruby/object:DateTime 2015-11-26 11:29:47.274000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 11:29:47.274000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:58:43.476000000 Z
       title: '2013,2034.4098'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3595539&partId=1&searchText=2013,2034.4098&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/6TFwgxGXtYy6OgA02aKUCC/cf9adf1bdc99801fbf709fc87fd87acb/2013_2034.4098.jpg"
     caption: Experiment undertaken by Lhote with experimental varnishes. The dark
       rectangular patch is the remnant of this experiment. 2013,2034.4098  © TARA/David
@@ -104,6 +111,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:43:01.493000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:43:01.493000000 Z
       content_type_id: chapter
+      revision: 1
     title: Early rock art
     title_internal: 'Algeria: country, chapter 4'
     body: The earliest pieces of rock art are engraved images reflecting a past vibrant
@@ -118,6 +126,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:32:15.331000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:41:43.326000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: faUxnSK2ookUW6UWyoCOa
@@ -133,6 +142,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:43:56.920000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:44:04.420000000 Z
       content_type_id: chapter
+      revision: 2
     title: Round Head Period
     title_internal: 'Algeria: country, chapter 5'
     body: The area is especially famous for its Round Head paintings. Thought to be
@@ -151,6 +161,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:32:46.062000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:32:46.062000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 79I1hxTRDyYiqcMG02kgE8
@@ -167,6 +178,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:44:33.802000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:44:33.802000000 Z
       content_type_id: chapter
+      revision: 1
     title: Pastoral Period
     title_internal: 'Algeria: country, chapter 6'
     body: The subsequent Pastoral Period, from around 7,500-4,000 years ago, portrays
@@ -182,6 +194,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:33:24.713000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:33:24.713000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2E7xpiKWhe6YEOymWI4W2U
@@ -198,6 +211,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:44:57.711000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:44:57.711000000 Z
       content_type_id: chapter
+      revision: 1
     title: Horse Period
     title_internal: 'Algeria: country, chapter 7'
     body: |-
@@ -209,6 +223,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:34:00.220000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:34:00.220000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: czVoXzqkG4KUm2A4QcWUO
@@ -225,6 +240,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:45:24.076000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:45:24.076000000 Z
       content_type_id: chapter
+      revision: 1
     title: Camel Period
     title_internal: 'Algeria: country, chapter 8'
     body: The last defined period stylistically is characterised by the depiction
@@ -237,6 +253,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:34:35.045000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:34:35.045000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2F8RnTvFpKGUaYYcaY2YUS
@@ -253,6 +270,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:35:36.510000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 11:35:36.510000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Muzzolini, A. 2001. *Saharan Africa* in (ed) David S. Whitley, Handbook of Rock Art Research, pp 605-636. AltaMira Press, Walnut Creek
 

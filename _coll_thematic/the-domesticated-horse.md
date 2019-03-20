@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:11:30.861000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:51:34.879000000 Z
     content_type_id: thematic
+    revision: 4
   title: The domesticated horse in northern African rock art
   slug: the-domesticated-horse
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: horse, chapter 1'
     body: Throughout northern Africa, there is a wealth of rock art depicting the
       domestic horse and its various uses, providing valuable evidence for the uses
@@ -31,6 +33,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 16:39:29.412000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: n2MxgdjbMW2gm0IoOKkCU
@@ -47,6 +50,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 16:40:28.446000000 Z
       content_type_id: chapter
+      revision: 2
     title: Horses and chariots
     title_internal: 'Thematic: horse, chapter 2'
     body: The first introduction of the domestic horse to Ancient Egypt- and thereby
@@ -64,6 +68,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 16:40:52.214000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1AZD3AxiUwwoYUWSWY8MGW
@@ -80,6 +85,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: horse, chapter 3'
     body: 'Some of the most renowned images of horses in Saharan rock art are also
       those of chariot teams: in particular, those of the so-called ‘flying gallop’
@@ -101,6 +107,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 16:41:33.841000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6N6BF79qk8EUygwkIgwcce
@@ -118,6 +125,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
       content_type_id: chapter
+      revision: 1
     title: Horse Riding
     title_internal: 'Thematic: horse, chapter 4'
     body: As well as the unique iconography of rock art chariot depictions, there
@@ -135,6 +143,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
       updated_at: !ruby/object:DateTime 2018-05-15 16:41:52.743000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4NdhGNLc9yEck4My4uQwIo
@@ -152,6 +161,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:12:34.068000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1tpjS4kZZ6YoeiWeIi8I4C
@@ -168,6 +178,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:14:56.468000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: horse, chapter 5'
     body: Traditional chronologies for Saharan rock art areas tend to place depictions
       of ridden horses chronologically after those of horses and chariots, and in
@@ -190,6 +201,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:32:44.364000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 6quML2y0nuYgSaeG0GGYy4
@@ -206,6 +218,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
       content_type_id: chapter
+      revision: 1
     title: Berber Horses
     title_internal: 'Thematic: horse, chapter 6'
     body: As the more manoeuvrable rider rose in popularity against the chariot as
@@ -224,6 +237,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:16:52.557000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: uOFcng0Q0gU8WG8kI2kyy
@@ -242,6 +256,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: horse, chapter 7'
     body: 'Certainly, from the 14th century AD, horses became a key commodity in trans-Saharan
       trade routes and became items of great military value in West Africa following
@@ -255,6 +270,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:29:02.520000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5MaSKooQvYssI4us8G0MyO
@@ -271,6 +287,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:29:50.228000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: horse, chapter 8'
     body: 'Another intriguing possibility is that of gaining clues on the origins
       of modern horse breeds from rock art, in particular the ancient Barb breed native
@@ -292,6 +309,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:30:30.915000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6ZmNhZjLCoQSEIYKIYUUuk
@@ -309,6 +327,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
       updated_at: !ruby/object:DateTime 2018-05-16 11:33:55.443000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5mbJWrbZV6aQQOyamKMqIa
@@ -325,6 +344,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
       content_type_id: chapter
+      revision: 1
     title: The symbolism of the horse
     title_internal: 'Thematic: horse, chapter 9'
     body: However, caution must be taken in drawing such comparisons based on morphology
@@ -338,8 +358,9 @@ contentful:
   - sys:
       id: 1FRP1Z2hyQEWUSOoKqgic2
       created_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 15:41:39.821000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4EatwZfN72waIquQqWEeOs
@@ -348,14 +369,15 @@ contentful:
       title: '2013,2034.11147'
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
-    caption: Fig. 11. Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte,
-      Western Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
+    caption: Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte, Western
+      Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637713&partId=1&people=197356&museumno=2013,2034.11147+&page=1
   - sys:
       id: 45pI4ivRk4IM6gaG40gUU0
       created_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 15:41:59.784000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2FcYImmyd2YuqMKQMwAM0s
@@ -364,13 +386,14 @@ contentful:
       title: Fig. 12. Human figure
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/2FcYImmyd2YuqMKQMwAM0s/e48fda8e2a23b12e6afde5c560c3f164/Fig._12._Human_figure.jpg"
-    caption: Fig. 12. Human figure painted over by horse to appear mounted (digitally
-      enhanced image). © TARA/David Coulson
+    caption: Human figure painted over by horse to appear mounted (digitally enhanced
+      image). © TARA/David Coulson
   - sys:
       id: 54hoc6Htwck8eyewsa6kA8
       created_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Thematic: horse, chapter 10'
     body: The nature of the depictions in this sense speaks intriguingly of the apparent
       symbolism and implied value of the horse image in different cultural contexts.
@@ -384,8 +407,9 @@ contentful:
   - sys:
       id: 4XMm1Mdm7Y0QacMuy44EKa
       created_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 15:42:27.444000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 21xnJrk3dKwW6uSSkGumMS
@@ -394,14 +418,15 @@ contentful:
       title: '2013,2034.6297'
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/21xnJrk3dKwW6uSSkGumMS/698c254a9a10c5a9a56d69e0525bca83/2013_2034.6297.jpg"
-    caption: Fig. 13. Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297
-      © TARA/David Coulson
+    caption: Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297 © TARA/David
+      Coulson
     col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637529&partId=1&people=197356&museumno=2013,2034.6297&page=1
   - sys:
       id: 4rB9FCopjOCC4iA2wOG48w
       created_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 15:43:34.211000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3PfHuSbYGcqeo2U4AEKsmM
@@ -410,23 +435,25 @@ contentful:
       title: Fig. 14. Engraved horse
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/3PfHuSbYGcqeo2U4AEKsmM/33a068fa954954fd3b9b446c943e0791/Fig._14._Engraved_horse.jpg"
-    caption: Fig. 14. Engraved horse, Eastern Aïr Mountains. © TARA/David Coulson.
-      Image not yet catalogued.
+    caption: Engraved horse, Eastern Aïr Mountains. 2013,2034.9421 ©TARA/David Coulson.
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640574&partId=1&searchText=2013,2034.9421&page=1
   - sys:
       id: 6tFSQzFupywiK6aESCgCia
       created_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 15:47:26.838000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Thematic: horse, chapter 11'
     body: |-
-      In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (e.g. figs 5 &13), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
+      In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (see above), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
 
       Whatever the myriad circumstances and significances of the images, it is clear that following its introduction to the continent, the hardy and surefooted desert horse’s usefulness for draught, transport and fighting purposes transformed the societies which used it and gave it a powerful symbolic value.
   - sys:
       id: 2P6ERbclfOIcGEgI6e0IUq
       created_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 15:45:12.419000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 3UXc5NiGTYQcmu2yuU42g
@@ -435,14 +462,16 @@ contentful:
       title: Fig. 15. Painted horse, Terkei
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/3UXc5NiGTYQcmu2yuU42g/7586f05e83f708ca9d9fca693ae0cd83/Fig._15._Painted_horse__Terkei.jpg"
-    caption: Fig. 15. Painted horse, Terkei, Ennedi Plateau, Chad. © TARA/David Coulson.
-      Image not yet catalogued.
+    caption: Painted horse, Terkei, Ennedi Plateau, Chad. 2013,2034.6537 © TARA/David
+      Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640682&partId=1&searchText=2013,2034.6537&page=1
   citations:
   - sys:
       id: 32AXGC1EcoSi4KcogoY2qu
       created_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Blench, R.M. & MacDonald, K. C. 2000, *The Origins and Development
       of African Livestock:  archaeology, genetics, linguistics and ethnography*.
       London; New York, NY: UCL Press\n \nCurtis, C., Tallis, N., Johansen, A., 2012.

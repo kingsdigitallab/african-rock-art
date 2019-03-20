@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-09-12 11:55:26.290000000 Z
     updated_at: !ruby/object:DateTime 2016-09-13 13:33:48.421000000 Z
     content_type_id: featured_site
+    revision: 4
   title: Matobo Hills, Zimbabwe
   slug: matobo
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.731000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.731000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: featured site, chapter 1'
     body: 'The Matobo Hills (also spelled as Matopo or Matopos Hills) are located
       to the south-west of Zimbabwe, in Matabeleland, one of the two main rock art
@@ -37,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:56:26.939000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:56:26.939000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: Jy8edAwMCGiAywQIyi0KI
@@ -52,6 +55,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.437000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.437000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: featured site, chapter 2'
     body: 'The rock art of the Matobo Hills is as varied as that of the rest of Zimbabwe,
       mainly consisting of depictions of animals and human figures often grouped in
@@ -74,6 +78,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:56:47.135000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:56:47.135000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4JrH9kFufCQkEwgGqycIQG
@@ -90,6 +95,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.486000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.486000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: featured site, chapter 3'
     body: 'One of the characteristics of the Matobo Hills rock art is the incredible
       variety of colours used, which includes a wide range of reds, purples, oranges,
@@ -103,6 +109,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:56:54.742000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:56:54.742000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3ZbDDzdXZuKCEEWWm2WUoE
@@ -118,6 +125,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.426000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:33:12.839000000 Z
       content_type_id: chapter
+      revision: 5
     title_internal: 'Zimbabwe: featured site, chapter 4'
     body: "Many of the depictions in the Matobo Hills are associated with hunter-gatherers,
       providing a great amount of information about the social, economic and spiritual
@@ -144,6 +152,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:57:11.432000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:57:11.432000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1vZtYjldh2UmCICQEIC8UG
@@ -160,6 +169,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.570000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.570000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: featured site, chapter 5'
     body: 'Not all the paintings in the Matobo Hills can be ascribed to groups of
       hunter gatherers, though. Although fewer, there are some paintings that correspond
@@ -176,6 +186,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:57:35.126000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:57:35.126000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1iRymPGEvYW4YUwsWCuw66
@@ -190,6 +201,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.463000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:51.463000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: featured site, chapter 6'
     body: 'The Matobo Hills constitute a perfect example of how nature and human presence
       can become imbricated, to create a living landscape in which every hill is recognized
@@ -204,6 +216,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:57:43.734000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:57:43.734000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: AlCcF5GAcC44Q268AUsuq
@@ -219,6 +232,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
       updated_at: !ruby/object:DateTime 2016-09-13 13:33:44.736000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: Matobo Chapter 7
     body: "¹ San&#124;Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -231,6 +245,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:54:06.690000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.690000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Walker, N. (2012): The Rock Art of the Matobo Hills, Zimbabwe.
       Adoranten: 38-59\n\nParry, Elspeth (2012): Guide to the Rock Art of the Matopo
       Hills, Zimbabwe. Bulawayo, AmaBooks Publishers. \n"

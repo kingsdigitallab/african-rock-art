@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
     updated_at: !ruby/object:DateTime 2016-09-12 11:58:22.969000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'Zimbabwe: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.433000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction - Geography and rock art distribution
     title_internal: 'Zimbabwe: country, chapter 1'
     body: 'Zimbabwe is a landlocked country surrounded by Mozambique, Zambia, Botswana
@@ -28,8 +30,9 @@ contentful:
   - sys:
       id: 1vTYjbXbXuoWIu8Og2Ga6u
       created_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:58:16.773000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:40:06.610000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 40o6cuVD1mg0GcouA8Iaym
@@ -38,13 +41,14 @@ contentful:
       title: ZIMMSL0280001
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/40o6cuVD1mg0GcouA8Iaym/32da0eecea127afbf2c5f839534485da/ZIMMSL0280001.jpg"
-    caption: Rocky outcrop in Mashonaland, Zimbabwe (2013,2034.23240). ©TARA/David
-      Coulson
+    caption: Rocky outcrop in Mashonaland, Zimbabwe. 2013,2034.23240 ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775899&partId=1&searchText=2013,2034.23240&page=1
   - sys:
       id: 2P8CUhzioUcQ2WQUCmy4eK
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.382000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 18:50:57.591000000 Z
       content_type_id: chapter
+      revision: 2
     title: History of the research
     title_internal: 'Zimbabwe: country, chapter 2'
     body: 'Zimbabwean rock art was first reported by Europeans in 1927, when Miles
@@ -70,8 +74,9 @@ contentful:
   - sys:
       id: cUUCZ3TJ1mmO48egCGE2k
       created_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:58:33.564000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:41:14.221000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2fUMJJmhu0gAW4Kkoscw2i
@@ -80,13 +85,15 @@ contentful:
       title: ZIMMSL0070001
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/2fUMJJmhu0gAW4Kkoscw2i/6c0c5908e2526dae2378c771a641e1f0/ZIMMSL0070001.jpg"
-    caption: Yellow elephant calf painted on the roof of a shelter. Mashonaland, Zimbabwe
-      (2013,2034.22675). ©TARA/David Coulson
+    caption: Yellow elephant calf painted on the roof of a shelter. Mashonaland, Zimbabwe.
+      2013,2034.22675 ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775294&partId=1&searchText=2013,2034.22675&page=1
   - sys:
       id: 1GwWneVcV2OGekOmYsisAk
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.340000000 Z
       content_type_id: chapter
+      revision: 1
     title: Themes
     title_internal: 'Zimbabwe: country, chapter 3'
     body: The rock art of Zimbabwe is some of the richest in Africa both in variety
@@ -105,8 +112,9 @@ contentful:
   - sys:
       id: 7cZfHMXB84oouoceeswCUQ
       created_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:58:40.649000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:42:32.233000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 51wED0wl4cSWQAWcEqAKek
@@ -115,13 +123,15 @@ contentful:
       title: ZIMMSL0230014
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/51wED0wl4cSWQAWcEqAKek/7e367c5c29de4def2fd4fbc4f81b7dd1/ZIMMSL0230014.jpg"
-    caption: Complex scene of human figures and antelopes. Mashonaland, Zimbabwe (2013,2034.23055).
-      ©TARA/David Coulson
+    caption: Complex scene of human figures and antelopes. Mashonaland, Zimbabwe.
+      2013,2034.23055 ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775708&partId=1&searchText=2013,2034.23055&page=1
   - sys:
       id: 2JiGtVlFnOqOUEqWcOyCms
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.331000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: country, chapter 4'
     body: 'Along with human figures, animals are widely represented in Zimbabwean
       rock art, with kudu depictions dominating, but also with zebra, tsessebe and
@@ -139,8 +149,9 @@ contentful:
   - sys:
       id: 60AofQXYWsUsusmsKwaGyS
       created_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:58:54.647000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:43:25.464000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 37IO99TlpSsMKoCoOskwyO
@@ -150,12 +161,14 @@ contentful:
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/37IO99TlpSsMKoCoOskwyO/5156a40344d65934a2c8bdf86d3f78b9/ZIMMSL0210014.jpg"
     caption: Group of human figures and different types of animals including giraffes,
-      antelopes and warthogs (2013,2034.22962). ©TARA/David Coulson
+      antelopes and warthogs. 2013,2034.22962 ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775615&partId=1&searchText=2013,2034.22962&page=1
   - sys:
       id: 36YlRmgg8EIiueMgCamy6e
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:53:52.275000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Zimbabwe: country, chapter 5'
     body: 'Human figures and animals are accompanied by many geometric symbols, usually
       related to trance-like contexts and include dots, wavy lines or stripes. One
@@ -167,8 +180,9 @@ contentful:
   - sys:
       id: 5icNtVo3wWOg2EA62yK0gI
       created_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:59:08.602000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:44:25.781000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: nRXWoI9Gk8uy2go42GomE
@@ -177,13 +191,15 @@ contentful:
       title: ZIMMTB0060005
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/nRXWoI9Gk8uy2go42GomE/2bb4e21572df0610dfa429bb8b6f4bf2/ZIMMTB0060005.jpg"
-    caption: Depiction of a formling surrounding by animals. Matabeleland, Zimbabwe
-      (2013,2034.23465). ©TARA/David Coulson
+    caption: Depiction of a formling surrounding by animals. Matabeleland, Zimbabwe.
+      2013,2034.23465 ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3763606&partId=1&searchText=2013,2034.23465&page=1
   - sys:
       id: 5RnaGufDxeImKGM0msMOs6
       created_at: !ruby/object:DateTime 2016-09-12 11:53:52.292000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 22:03:55.089000000 Z
       content_type_id: chapter
+      revision: 6
     title_internal: 'Zimbabwe: country, chapter 6'
     body: |-
       Traditionally, the themes expressed in Zimbabwean rock art have been identified as the same as those of the San&#124;Bushmen¹ from South Africa and in many cases are undoubtedly related, and provide key hints for their interpretation. However, there are also differences, such as the emphasis given to different animals, the higher presence of trees and plants in Zimbabwe or the smaller presence of trance scenes in the north compared to that of the Drakensberg. Moreover, the lack of ethnographic information for Zimbabwean paintings and their older chronology make it difficult to establish the same type of associations as those made for other areas with more direct connections rock art to known cultures, as happens in South Africa. Although in a minority, rock art of a later chronology can be attributed to Iron Age farmers, characterized by more schematic figures, usually white and painted thickly with the finger or the hand. As is the case in other areas in Central Africa, some of these later depictions are related to rain making and initiation ceremonies.
@@ -192,8 +208,9 @@ contentful:
   - sys:
       id: 62IspwBATCWA6aAe2Ymya8
       created_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 11:59:32.651000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:45:17.976000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4sy93JCmHKCso2muMWoOc0
@@ -202,13 +219,15 @@ contentful:
       title: ZIMMSL0120052
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/4sy93JCmHKCso2muMWoOc0/ac69dd7a46cecd5c4ca9663931e915ed/ZIMMSL0120052.jpg"
-    caption: Iron Age painting depicting a zebra. Mashonaland, Zimbabwe (2013,2034.22780).
+    caption: Iron Age painting depicting a zebra. Mashonaland, Zimbabwe. 2013,2034.22780
       ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775418&partId=1&searchText=2013,2034.22780&page=1
   - sys:
       id: 1ovLRkQ1IMUeuGQMoEaymO
       created_at: !ruby/object:DateTime 2016-09-12 11:53:51.470000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 19:02:39.778000000 Z
       content_type_id: chapter
+      revision: 3
     title: Chronology
     title_internal: 'Zimbabwe: country, chapter 6'
     body: "As with much rock art, the dating of Zimbabwe paintings is a challenging
@@ -226,8 +245,9 @@ contentful:
   - sys:
       id: 6j6wS0WtRmsKI20YK80AKC
       created_at: !ruby/object:DateTime 2016-09-12 11:59:48.982000000 Z
-      updated_at: !ruby/object:DateTime 2016-09-12 12:00:17.005000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:46:14.971000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 6J08sWPtfOs88AmM20u02u
@@ -236,14 +256,16 @@ contentful:
       title: ZIMMSL0220013
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/6J08sWPtfOs88AmM20u02u/a3611f2b43b406427bd87003e5341612/ZIMMSL0220013.jpg"
-    caption: Sable antelope, crocodile or lizard and human figure. Mashonaland, Zimbabwe
-      (2013,2034.23028). ©TARA/David Coulson
+    caption: Sable antelope, crocodile or lizard and human figure. Mashonaland, Zimbabwe.
+      2013,2034.23028 ©TARA/David Coulson
+    col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3775685&partId=1&searchText=2013,2034.23028&page=1
   citations:
   - sys:
       id: MXZ2L6VLmU2KqsWqcqO2u
       created_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
       updated_at: !ruby/object:DateTime 2016-09-12 11:54:06.696000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Garlake, Peter S. (1995): The hunter's vision: the prehistoric
       art of Zimbabwe. British Museum Press, London.\n\nGarlake, Peter S. (1987):
       The painted caves: an introduction to the prehistoric art of Zimbabwe. Modus

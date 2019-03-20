@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-12-08 11:21:49.949000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 16:55:14.153000000 Z
     content_type_id: country
+    revision: 11
   name: 'Tanzania '
   slug: tanzania
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?searchText=Tanzania&people=197356
@@ -14,44 +15,44 @@ contentful:
   - sys:
       id: 3XdtbwVgRGI2SGkC8uS6cw
       created_at: !ruby/object:DateTime 2016-07-27 07:42:07.278000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:42:07.278000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:53:56.681000000 Z
     title: TANKON0110009
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3710252&partId=1&searchText=TANKON0110009&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3XdtbwVgRGI2SGkC8uS6cw/8e67319576714f34f7521ad753a9b527/TANKON0110009.jpg"
   - sys:
       id: 1RjX12dAti0ESuUCG82kEW
       created_at: !ruby/object:DateTime 2016-07-27 07:46:32.284000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:32.284000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:54:54.920000000 Z
     title: TANKON0080019
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3710459&partId=1&searchText=TANKON0080019&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/1RjX12dAti0ESuUCG82kEW/f7a29fec634955ae8342f913f28e5b3f/TANKON0080019.jpg"
   - sys:
       id: 3bvuMI9mP6yG26E0y4qSwa
       created_at: !ruby/object:DateTime 2016-07-27 07:46:32.191000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:32.191000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:55:28.289000000 Z
     title: TANKON0200004
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711145&partId=1&searchText=TANKON0200004&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3bvuMI9mP6yG26E0y4qSwa/dd9e04ac6f933f74f0388d0d24a373e0/TANKON0200004.jpg"
   - sys:
       id: 3iSBoZ2eLKcMmOmGQKsK44
       created_at: !ruby/object:DateTime 2016-07-27 07:46:33.052000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:33.052000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:56:01.910000000 Z
     title: TANKON0230015
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711246&partId=1&searchText=TANKON0230015&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3iSBoZ2eLKcMmOmGQKsK44/bb5707d637bebe6591d2b449ee06998e/TANKON0230015.jpg"
   - sys:
       id: ghoJUHQwggGi6uuKKggcA
       created_at: !ruby/object:DateTime 2016-07-27 07:46:33.061000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:33.061000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:56:49.589000000 Z
     title: TANLEY0020024
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3713196&partId=1&searchText=TANLEY0020024&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/ghoJUHQwggGi6uuKKggcA/65471af284c79e1b5548309b005cb2ac/TANLEY0020024.jpg"
   - sys:
       id: 420eZ8MlbOwq2G6iqy8Eq0
       created_at: !ruby/object:DateTime 2016-07-27 07:46:33.183000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:33.183000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:57:25.467000000 Z
     title: TANKON0220001
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711189&partId=1&searchText=TANKON0220001&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/420eZ8MlbOwq2G6iqy8Eq0/ce10c3ffdd92d3c13ba8f3054a7ae3f9/TANKON0220001.jpg"
   featured_site:
     sys:
@@ -59,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
       content_type_id: featured_site
+      revision: 1
     title: Kolo, Tanzania
     slug: kolo
     chapters:
@@ -67,6 +69,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.053000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:24:34.308000000 Z
         content_type_id: chapter
+        revision: 2
       title: ''
       title_internal: Kolo Chapter 1
       body: The Kondoa rock art sites are located on the eastern slopes of the Maasai
@@ -89,6 +92,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.871000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:57:32.216000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4qqgpg1KTmKwEA8kQsg8Qe
@@ -105,6 +109,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.050000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:22:52.499000000 Z
         content_type_id: chapter
+        revision: 2
       title: ''
       title_internal: 'Kolo Chapter 2 '
       body: "The sites at Kolo are the most famous of the Kondoa paintings. Kolo comprises
@@ -124,6 +129,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.850000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:58:56.845000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6hDS1W5bdSYICYEse20Wuw
@@ -141,6 +147,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.949000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:23:12.269000000 Z
         content_type_id: chapter
+        revision: 2
       title: ''
       title_internal: Kolo Chapter 3
       body: "__Art__\n\nAmong the animals depicted are elephants, giraffes, antelopes,
@@ -164,6 +171,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.861000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:05:45.603000000 Z
         content_type_id: chapter
+        revision: 5
       title_internal: Kolo chapter 4
       body: |+
         Ritual Practices
@@ -177,6 +185,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:14.737000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:06:33.160000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6HJM4veidyg8KAO6WsaOcc
@@ -193,6 +202,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.820000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 14:23:50.727000000 Z
         content_type_id: chapter
+        revision: 2
       title: ''
       title_internal: Kolo chapter 5
       body: |-
@@ -204,6 +214,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:07:01.378000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 27ttIF1VA4e8ekcAcea4G6
@@ -220,6 +231,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.796000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:51:08.628000000 Z
         content_type_id: chapter
+        revision: 3
       title: ''
       title_internal: Kolo Chapter 6
       body: |+
@@ -231,6 +243,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:07:17.252000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4eWYwHYojCu0EIYyoQGgMI
@@ -248,6 +261,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.097000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:56:15.212000000 Z
         content_type_id: citation
+        revision: 3
       citation_line: "Bwasiri, E.J 2008.  'The Management of Indigenous Heritage:
         A Case Study of Mongomi wa Kolo Rock Shelter, Central Tanzania'. MA Dissertation,
         University of the\nWitwatersrand \n\nLeakey, M. 1983. *Africa’s Vanishing
@@ -281,6 +295,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.756000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:48:46.210000000 Z
       content_type_id: country_key_facts
+      revision: 3
     title_internal: 'Tanzania: Key Facts'
     image_count: '1447'
     date_range: 10,000-3,000 years - a few hundred years ago
@@ -293,6 +308,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
       content_type_id: thematic
+      revision: 4
     title: Geometric motifs and cattle brands
     slug: geometric-motifs
     lead_image:
@@ -309,6 +325,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 1'
       body: |-
         The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
@@ -319,6 +336,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5yD7fOuAdU4cemkewCqCMO
@@ -335,7 +353,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Geometric motifs: thematic, chapter 2'
       body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
         symbols occur are associated with meat-feasting ceremonies. Meat-feasting
@@ -352,6 +371,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1lBqQePHxK2Iw8wW8S8Ygw
@@ -369,6 +389,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 3'
       body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a
         similar visible relationship. The southernmost site is well known for its
@@ -382,6 +403,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 19lqDiCw7UOomiMmYagQmq
@@ -399,6 +421,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 4'
       body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
         of animals signifies a sense of belonging rather than a mark of ownership
@@ -421,6 +444,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5yUlpG85GMuW2IiMeYCgyy
@@ -437,6 +461,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 5'
       body: "However, not all pastoralist geometric motifs can be associated with
         meat-feasting or livestock branding; they may have wider symbolism or be symbolic
@@ -463,6 +488,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
         content_type_id: citation
+        revision: 3
       citation_line: |-
         Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
 
@@ -499,6 +525,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       updated_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       content_type_id: thematic
+      revision: 1
     title: Introduction to rock art in central and eastern Africa
     slug: rock-art-in-central-and-east-africa
     lead_image:
@@ -515,6 +542,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:09:33.580000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:17:25.155000000 Z
         content_type_id: chapter
+        revision: 4
       title: Central and East Africa
       title_internal: 'East Africa: regional, chapter 1'
       body: |-
@@ -526,6 +554,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:57:48.121000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:05:00.916000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3esXNapo5GOWIKSImcY4QW
@@ -541,6 +570,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:23.723000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:18:19.325000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 2'
       body: This collection from Central and East Africa comprises rock art from Kenya,
         Uganda and Tanzania, as well as the Horn of Africa; although predominantly
@@ -550,6 +580,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:59.991000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:34:14.653000000 Z
         content_type_id: chapter
+        revision: 3
       title: History of research
       title_internal: 'East Africa: regional, chapter 3'
       body: |-
@@ -559,8 +590,9 @@ contentful:
     - sys:
         id: 35HMFoiKViegWSY044QY8K
         created_at: !ruby/object:DateTime 2015-11-25 18:59:25.796000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:07:03.973000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:25.789000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 6KOxC43Z9mYCuIuqcC8Qw0
@@ -571,14 +603,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/6KOxC43Z9mYCuIuqcC8Qw0/e25141d07f483d0100c4cf5604e3e525/2013_2034.17450.jpg"
       caption: This painting of a large antelope is possibly one of the earliest extant
         paintings. Emmanuel Anati believes similar paintings could be more than 28,000
-        years old. (2013,2034.17450) © TARA/David Coulson
+        years old. 2013,2034.17450 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3711689
     - sys:
         id: 1dSBI9UNs86G66UGSEOOkS
         created_at: !ruby/object:DateTime 2015-12-09 11:56:31.754000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:21:03.240000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:50:18.203000000 Z
         content_type_id: chapter
-      title: 'Categories: EAST AFRICA'
+        revision: 5
+      title: East African Rock Art
       title_internal: Intro to east africa, chapter 3.5
       body: "Rock art of East Africa consists mainly of paintings, most of which are
         found in central Tanzania, and are fewer in number in eastern Zambia and Malawi;
@@ -606,8 +639,9 @@ contentful:
     - sys:
         id: 7dIhjtbR5Y6u0yceG6y8c0
         created_at: !ruby/object:DateTime 2015-11-25 19:00:07.434000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:08:30.262000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:51.887000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1fy9DD4BWwugeqkakqWiUA
@@ -618,13 +652,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1fy9DD4BWwugeqkakqWiUA/9f8f1330c6c0bc0ff46d744488daa152/2013_2034.16849.jpg"
       caption: Three schematic figures formed by the use of multiple thin parallel
         lines. The shape and composition of the heads suggests either headdresses
-        or elaborate hairstyles. Kondoa, Tanzania.(2013,2034.16849)© TARA/David Coulson
+        or elaborate hairstyles. Kondoa, Tanzania. 2013,2034.16849 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709812
     - sys:
         id: 1W573pi2Paks0iA8uaiImy
         created_at: !ruby/object:DateTime 2015-11-25 19:12:00.544000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:21:09.647000000 Z
         content_type_id: chapter
+        revision: 8
       title_internal: 'East Africa: regional, chapter 4'
       body: "Zambian rock art does not share any similarities with Tanzanian rock
         art and can be divided into two categories; animals (with a few depictions
@@ -649,6 +684,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:41.789000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:10:04.890000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hoZEK3d2Oi8iiWqoWACo
@@ -665,6 +701,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:58.494000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:11:37.760000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3bqDVyvXlS0S6AeY2yEmS8
@@ -681,6 +718,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 5'
       body: |-
         *__Late White Paintings__*:
@@ -688,8 +726,9 @@ contentful:
     - sys:
         id: 35dNvNmIxaKoUwCMeSEO2Y
         created_at: !ruby/object:DateTime 2015-11-25 19:01:26.458000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:14:02.819000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:52:15.838000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 6RGZZQ13qMQwmGI86Ey8ei
@@ -699,14 +738,15 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/6RGZZQ13qMQwmGI86Ey8ei/6d37a5bed439caf7a1223aca27dc27f8/2013_2034.16786.jpg"
       caption: Under a long narrow granite overhang, Late White designs including
-        rectangular grids, concentric circles and various ‘square’ shapes. (2013,2034.16786)
+        rectangular grids, concentric circles and various ‘square’ shapes. 2013,2034.16786
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709608
     - sys:
         id: 2XW0X9BzFCa8u2qiKu6ckK
         created_at: !ruby/object:DateTime 2015-11-25 19:01:57.959000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:17:01.270000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:21.559000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 1UT4r6kWRiyiUIYSkGoACm
@@ -717,13 +757,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1UT4r6kWRiyiUIYSkGoACm/fe915c6869b6c195d55b5ef805df7671/2013_2034.16797.jpg"
       caption: A monuments guard stands next to Late White paintings attributed to
         Bantu speaking farmers in Tanzania, probably made during the last 700 years.
-        (2013,2034.16797) © TARA/David Coulson
+        2013,2034.16797 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709628
     - sys:
         id: 3z28O8A58AkgMUocSYEuWw
         created_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 6'
       body: |-
         *__Meat-feasting paintings__*:
@@ -733,6 +774,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:23.595000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:19:11.619000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: p4E0BRJzossaus6uUUkuG
@@ -749,6 +791,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:45.427000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:20:14.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1RLyVKKV8MA4KEk4M28wqw
@@ -763,9 +806,10 @@ contentful:
     - sys:
         id: 5UQc80DUBiqqm64akmCUYE
         created_at: !ruby/object:DateTime 2015-11-25 19:15:34.582000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:56:54.946000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:53.936000000 Z
         content_type_id: chapter
-      title: 'Categories: CENTRAL AFRICA'
+        revision: 4
+      title: Central African Rock Art
       title_internal: 'East Africa: regional, chapter 7'
       body: The rock art of central Africa is attributed to hunter-gatherers known
         as Batwa. This term is used widely in eastern central and southern Africa
@@ -783,8 +827,9 @@ contentful:
     - sys:
         id: 4m51rMBDX22msGmAcw8ESw
         created_at: !ruby/object:DateTime 2015-11-25 19:03:40.666000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:17:19.197000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:25.415000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 2MOrR79hMcO2i8G2oAm2ik
@@ -795,14 +840,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/2MOrR79hMcO2i8G2oAm2ik/86179e84233956e34103566035c14b76/2013_2034.15306.jpg"
       caption: Paintings in red and originally in-filled in white cover the underside
         of a rock shelter roof. The art is attributed to central African Batwa; the
-        age of the paintings is uncertain. Lake Victoria, Uganda (2013,2034.15306)  ©
-        TARA/David Coulson
+        age of the paintings is uncertain. Lake Victoria, Uganda. 2013,2034.15306
+        © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691242
     - sys:
         id: 5rNOG3568geMmIEkIwOIac
         created_at: !ruby/object:DateTime 2015-11-25 19:16:07.130000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:16:19.722000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 8'
       body: "*__Engravings__*:\nThere are a few engravings occurring on inland plateaus
         but these have elicited little scientific interest and are not well documented.
@@ -815,8 +861,9 @@ contentful:
     - sys:
         id: LrZuJZEH8OC2s402WQ0a6
         created_at: !ruby/object:DateTime 2015-11-25 19:03:59.496000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:19:05.545000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:51.576000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1uc9hASXXeCIoeMgoOuO4e
@@ -826,13 +873,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
       caption: Group of anthropomorphic stelae with carved faces. Tuto Fela, Southern
-        Ethiopia. © TARA/David Coulson 2013,2034.16206 (not yet uploaded)
+        Ethiopia. 2013,2034.16206 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3703754
     - sys:
         id: 7EBTx1IjKw6y2AUgYUkAcm
         created_at: !ruby/object:DateTime 2015-11-25 19:16:37.210000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:22:04.007000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 9'
       body: In the Sidamo region of Ethiopia, around 50 images of cattle are engraved
         in bas-relief on the wall of a gorge. All the engravings face right and the
@@ -844,6 +892,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:04:34.186000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:22:24.891000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: PlhtduNGSaOIOKU4iYu8A
@@ -861,6 +910,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:17:53.336000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:25:38.678000000 Z
         content_type_id: chapter
+        revision: 3
       title: Rock art in the Horn of Africa
       title_internal: 'East Africa: regional, chapter 10'
       body: "The Horn of Africa has historically been a crossroads area between the
@@ -889,8 +939,9 @@ contentful:
     - sys:
         id: 4XIIE3lDZYeqCG6CUOYsIG
         created_at: !ruby/object:DateTime 2015-11-25 19:04:53.913000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:23:29.512000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:55:12.472000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 3ylztNmm2cYU0GgQuW0yiM
@@ -900,13 +951,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3ylztNmm2cYU0GgQuW0yiM/3be240bf82adfb5affc0d653e353350b/2013_2034.15749.jpg"
       caption: Painted roof of rock shelter  showing decorated cows and human  figures.
-        Laas Geel, Somaliland. 2013,2034.15749. © TARA/David Coulson
+        Laas Geel, Somaliland. 2013,2034.15749 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691391
     - sys:
         id: 2IKYx0YIVOyMSwkU8mQQM
         created_at: !ruby/object:DateTime 2015-11-25 19:18:28.056000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:26:13.401000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 11'
       body: |-
         Rock art in the Horn of Africa faces several challenges. One of them is the lack of consolidated chronologies and absolute dating for the paintings and engravings. Another is the uneven knowledge of rock art throughout the region, with research often affected by political unrest. Therefore, distributions of rock art in the region are steadily growing as research is undertaken in one of the most interactive areas in East Africa.
@@ -918,6 +970,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:08:04.014000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:24:18.659000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: "Anati, E.  1996. ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa*. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14 September.\n\nČerviček, P. 1971.
@@ -968,6 +1021,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.856000000 Z
       content_type_id: country_information
+      revision: 1
     title: 'Tanzania: Country Introduction'
     chapters:
     - sys:
@@ -975,6 +1029,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.035000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 12:30:57.863000000 Z
         content_type_id: chapter
+        revision: 3
       title: Introduction
       title_internal: Tanzania Chapter 1
       body: Containing some of the densest concentrations of rock art in East Africa,
@@ -988,6 +1043,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.825000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:37:31.932000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6jqxlKBK8ggSwAyOIWC2w
@@ -1004,6 +1060,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.738000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:44:49.657000000 Z
         content_type_id: chapter
+        revision: 3
       title: Geography and Rock Art distribution
       title_internal: Tanzania Chapter 2
       body: |-
@@ -1018,6 +1075,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.912000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:38:18.560000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5XVIPjHq7K4MiWIm6i6qEk
@@ -1035,6 +1093,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:18.020000000 Z
         content_type_id: chapter
+        revision: 1
       title: History of rock art research in Tanzania
       title_internal: Tanzania Chapter 3
       body: 'The existence of painted rock art was first reported  to Europeans in
@@ -1059,6 +1118,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.806000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:41:21.774000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 28qJxjtSOoC6Aa2IgQk06q
@@ -1075,6 +1135,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.691000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 12:32:37.897000000 Z
         content_type_id: chapter
+        revision: 4
       title: Chronologies
       title_internal: Tanzania Chapter 4
       body: "Scholars have classified the rock art in Tanzania into three main stylistic
@@ -1104,6 +1165,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:11.089000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:41:54.311000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3fNBqZVcfK8k0Cgo4SsGs6
@@ -1120,6 +1182,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:17.860000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:45:13.087000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: Tanzania Chapter 5
       body: |2
 
@@ -1127,8 +1190,9 @@ contentful:
     - sys:
         id: QLuzPXhKqOmMSm0weqOGG
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.897000000 Z
-        updated_at: !ruby/object:DateTime 2017-01-24 15:46:57.641000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 00:37:50.613000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3zoMrANvf2SgUmuAu2Wa4W
@@ -1138,13 +1202,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3zoMrANvf2SgUmuAu2Wa4W/b759c5fe8747a6c19218f19bc693ab2e/TANKON0370007_jpeg.jpg"
       caption: Panel of Sandawe red, fine-line paintings showing elephants and slender
-        elongated figures. Kondoa, Tanzania. 2013,2034.17699 © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3712682&partId=1&searchText=2013,2034.17699&page=1
+        elongated figures. Kondoa, Tanzania. 2013,2034.17702 © TARA/David Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3712676&partId=1&searchText=2013,2034.17702&page=1
     - sys:
         id: 55d7OVNn5YEii4KSYwE0wE
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.859000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:47:21.921000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4eRcBkspfOS2Ky4GE08qyC
@@ -1161,6 +1226,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:16.827000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:45:27.688000000 Z
         content_type_id: chapter
+        revision: 4
       title: ''
       title_internal: Tanzania Chapter 6
       body: |
@@ -1172,6 +1238,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.760000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:47:47.628000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1BwSSd5li0MUw4c4QYyAKA
@@ -1189,6 +1256,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.874000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:45:36.649000000 Z
         content_type_id: chapter
+        revision: 3
       title: ''
       title_internal: Tanzania Chapter 7
       body: |
@@ -1200,6 +1268,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:10.886000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 15:49:16.769000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 2iqeQFLDE06A8MW0UcUm2k
@@ -1217,6 +1286,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:15.786000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 12:42:00.048000000 Z
         content_type_id: citation
+        revision: 6
       citation_line: "Anati . E. (1996) ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14* September 1996\n\nBwasiri, E.J
@@ -1257,9 +1327,9 @@ contentful:
   - sys:
       id: ghoJUHQwggGi6uuKKggcA
       created_at: !ruby/object:DateTime 2016-07-27 07:46:33.061000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:33.061000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 00:56:49.589000000 Z
     title: TANLEY0020024
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3713196&partId=1&searchText=TANLEY0020024&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/ghoJUHQwggGi6uuKKggcA/65471af284c79e1b5548309b005cb2ac/TANLEY0020024.jpg"
   region: Eastern and central Africa
 ---
