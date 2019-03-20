@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:45:12.791000000 Z
     content_type_id: featured_site
+    revision: 1
   title: Kolo, Tanzania
   slug: kolo
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:19.053000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:24:34.308000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: Kolo Chapter 1
     body: The Kondoa rock art sites are located on the eastern slopes of the Maasai
@@ -40,6 +42,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.871000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:57:32.216000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4qqgpg1KTmKwEA8kQsg8Qe
@@ -56,6 +59,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:19.050000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:22:52.499000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: 'Kolo Chapter 2 '
     body: "The sites at Kolo are the most famous of the Kondoa paintings. Kolo comprises
@@ -75,6 +79,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.850000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:58:56.845000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6hDS1W5bdSYICYEse20Wuw
@@ -92,6 +97,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.949000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:23:12.269000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: Kolo Chapter 3
     body: "__Art__\n\nAmong the animals depicted are elephants, giraffes, antelopes,
@@ -114,6 +120,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.861000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:05:45.603000000 Z
       content_type_id: chapter
+      revision: 5
     title_internal: Kolo chapter 4
     body: |+
       Ritual Practices
@@ -127,6 +134,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.737000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:06:33.160000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 6HJM4veidyg8KAO6WsaOcc
@@ -143,6 +151,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.820000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 14:23:50.727000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: Kolo chapter 5
     body: |-
@@ -154,6 +163,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:07:01.378000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 27ttIF1VA4e8ekcAcea4G6
@@ -170,6 +180,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.796000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:51:08.628000000 Z
       content_type_id: chapter
+      revision: 3
     title: ''
     title_internal: Kolo Chapter 6
     body: |+
@@ -181,6 +192,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.820000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:07:17.252000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4eWYwHYojCu0EIYyoQGgMI
@@ -198,6 +210,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:18.097000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:56:15.212000000 Z
       content_type_id: citation
+      revision: 3
     citation_line: "Bwasiri, E.J 2008.  'The Management of Indigenous Heritage: A
       Case Study of Mongomi wa Kolo Rock Shelter, Central Tanzania'. MA Dissertation,
       University of the\nWitwatersrand \n\nLeakey, M. 1983. *Africa’s Vanishing Art

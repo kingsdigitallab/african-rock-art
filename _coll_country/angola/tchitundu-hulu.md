@@ -2,7 +2,7 @@
 breadcrumbs:
 - label: Countries
   url: "../../"
-- label: 'Angola '
+- label: Angola
   url: "../"
 layout: featured_site
 contentful:
@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-07-27 07:45:12.121000000 Z
     updated_at: !ruby/object:DateTime 2017-11-29 19:47:47.835000000 Z
     content_type_id: featured_site
+    revision: 3
   title: Tchitundu-Hulu
   slug: tchitundu-hulu
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.927000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.927000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Angola: featured site, chapter 1'
     body: 'Tchitundu-Hulu is the generic name for a group of four rock art sites located
       in the Namibe province on the south-west corner of Angola, by the edge of the
@@ -37,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.741000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:15.741000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 7MqUsgyUhi8IIoM8sGKKAO
@@ -53,6 +56,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.877000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 16:30:01.864000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Angola: featured site, chapter 2'
     body: 'As forementioned, Tchitundu-Hulu comprises four rock art sites: Tchitundu-Hulu
       Mulume, Tchitundu-Hulu Mucai, Pedra das Zebras and Pedra da Lagoa.  The  first
@@ -68,6 +72,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.865000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 16:30:34.170000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Angola: featured site, chapter 3'
     body: 'Of the four sites, Tchitundu-Hulu Mulume is the largest , located at the
       top of the inselberg, 726m in height.  The slopes of the outcrop are covered
@@ -82,6 +87,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:15.726000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 16:42:06.863000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2KFJl6V2WsekUsMaq8M4Ga
@@ -98,6 +104,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.862000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:13.862000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Angola: featured site, chapter 4'
     body: 'In comparison, Tchitundu-Hulu Mucai is situated on the plain around 1,000
       m from the inselberg, in a rock outcrop containing engravings on the top and
@@ -114,6 +121,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.951000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 16:42:37.270000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 1HfdgOK6lC4aCke6we2UGW
@@ -130,6 +138,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.771000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:29:43.491000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: 'Angola: featured site, chapter 5'
     body: 'The chronology of the Tchitundu-Hulu rock art is difficult to establish,
@@ -149,6 +158,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:14.829000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:14.829000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6u3Ewi14cgUU28MWOQ0WMI
@@ -165,6 +175,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:13.737000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:30:49.386000000 Z
       content_type_id: chapter
+      revision: 2
     title: ''
     title_internal: 'Angola: featured site, chapter 6'
     body: The question of who made the engravings or paintings is another complex
@@ -182,6 +193,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:30.621000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 09:59:36.553000000 Z
       content_type_id: citation
+      revision: 3
     citation_line: "Caema Fernandes, J. B. (2014):  'As pinturas do abrigo do Tchitundu-Hulu
       Mucai. Um contributo para o conhecimento da arte rupestre da região.' Unpublished
       Masters dissertation \nInstituto Politécnico de Tomar – Universidade de Trás-os-Montes
@@ -190,9 +202,9 @@ contentful:
   - sys:
       id: 60WuYok9POoqaG2QuksOWI
       created_at: !ruby/object:DateTime 2016-07-27 07:46:34.096000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:34.096000000 Z
-    title: ANGTCH0010007
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 02:16:12.785000000 Z
+    title: '2013,2034.21210'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3744322&partId=1&searchText=ANGTCH0010007&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/60WuYok9POoqaG2QuksOWI/0786f5b209c940eb57e2fa98b10f6cfb/ANGTCH0010007.jpg"
   - sys:
       id: 40lIKwvi8gwo4ckmuKguYk

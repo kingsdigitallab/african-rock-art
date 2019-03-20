@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2016-07-27 07:44:27.867000000 Z
     updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.867000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'Malawi: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.966000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.966000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Malawi: country, chapter 1'
     body: "Malawi is a landlocked country in south-eastern Africa, located between
@@ -28,6 +30,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.937000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.937000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography and rock art distribution
     title_internal: 'Malawi: country, chapter 2'
     body: 'The geography of Malawi is conditioned by the Great Rift Valley, which
@@ -44,6 +47,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.761000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.761000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: pDDj71RyBUyqiqsouEeew
@@ -59,6 +63,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.150000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.150000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Malawi: country, chapter 3'
     body: 'Although rock art can be found in several areas in Malawi, the main concentration
       of sites is located in the Chongoni area, in the westernmost part of central
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.218000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.218000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3lEqMHYBwIse0EmgGkOygW
@@ -93,6 +99,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.145000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.145000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Malawi: country, chapter 4'
     body: 'Rock art in Malawi has been documented by Europeans since at least the
@@ -113,8 +120,9 @@ contentful:
   - sys:
       id: 1JMW93aEcQSEcwcG06gg6y
       created_at: !ruby/object:DateTime 2016-07-27 07:45:21.025000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.025000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-19 14:56:42.286000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2OXCOlKLfWO4yUYMc6YiOK
@@ -124,13 +132,14 @@ contentful:
       description: 
       url: "//images.ctfassets.net/xt8ne4gbbocd/2OXCOlKLfWO4yUYMc6YiOK/0446391cb8c39e21a2baeca5d2566522/MALDED0090006.jpg"
     caption: Rock Art panel with multitude of red geometric signs. Nthulu, Chongoni
-      Hills.  2013,2034.20005 © TARA/David Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3733693&partId=1
+      Hills.  2013,2034.20003 © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3733695&partId=1&searchText=2013,2034.20003&page=1
   - sys:
       id: 5lHiHzAofecm6YEEG8YGOu
       created_at: !ruby/object:DateTime 2016-07-27 07:45:20.950000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.950000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Malawi: country, chapter 5'
     body: 'Another important aspect of rock art research in Malawi has been to look
       at the maintenance of painting traditions until relatively recent times. These
@@ -144,6 +153,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:20.830000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.830000000 Z
       content_type_id: chapter
+      revision: 1
     title: 'Themes '
     title_internal: 'Malawi: country, chapter 6'
     body: 'Rock art in Malawi is clearly defined in two groups with different styles,
@@ -163,6 +173,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:20.783000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:55:24.416000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2D4MCayW9iK0Oi00QGWsIq
@@ -179,6 +190,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:20.069000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:56:52.968000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Malawi: country, chapter 7'
     body: 'The second and more modern rock art tradition found in Malawi is represented
       by white figures made with white clay daubed onto rock surfaces with the finger.
@@ -200,6 +212,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:20.051000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.051000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3jS61b3w2AMEwogGu2CoEI
@@ -217,6 +230,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:20.009000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.009000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Malawi: country, chapter 8'
     body: 'Although it is generally accepted that the red schematic paintings are
@@ -234,6 +248,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:19.940000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 16:28:33.674000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 2xzgTrXwqQKa0Wa0w6K06k
@@ -252,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:19.885000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 10:02:45.154000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: "Lindgren, N.E. & Schoffeleers, J.M. 1978. 'Rock art and nyau symbolism
       in Malawi'  *Malawi Government, Department of Antiquities 18.* Malawi, Montfort
       Press  \n\nSmith, B.W. 1995.  'Rock art in south-Central Africa: A study based

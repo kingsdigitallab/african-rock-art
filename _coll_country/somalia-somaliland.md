@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:45:07.680000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 17:08:34.246000000 Z
     content_type_id: country
+    revision: 14
   name: Somalia/Somaliland
   slug: somalia-somaliland
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=41067|27048|1665
@@ -14,23 +15,23 @@ contentful:
   - sys:
       id: 2B3KeNQ9LGYi4cIIKIwQKo
       created_at: !ruby/object:DateTime 2015-11-30 14:13:03.568000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 14:13:03.568000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-19 15:16:29.787000000 Z
     title: SOMGAB0090007
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711116&partId=1&searchText=Dhaga+Koure,+Somaliland&page=2
     url: "//images.ctfassets.net/xt8ne4gbbocd/2B3KeNQ9LGYi4cIIKIwQKo/56e8da3b0064e326038cdd962be05c3a/SOMGAB0090007.jpg"
   - sys:
       id: 49L0OyhjGU8EoqII8owGag
       created_at: !ruby/object:DateTime 2015-11-30 14:13:20.179000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 14:13:20.179000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-19 15:17:42.967000000 Z
     title: SOMGABNAS010032
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711662&partId=1&searchText=Dhaga+Koure,+Somaliland&page=2
     url: "//images.ctfassets.net/xt8ne4gbbocd/49L0OyhjGU8EoqII8owGag/2f4dfd1236e1a7d018656e300e835bd1/SOMGABNAS010032.jpg"
   - sys:
       id: 43FnN5HXGwASkcWo6I6Ms
       created_at: !ruby/object:DateTime 2015-11-30 14:13:12.689000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-30 14:13:12.689000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-19 15:18:47.949000000 Z
     title: SOMDHA0020008
-    description: 
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711457&partId=1&searchText=Dhaymoole,+Somaliland&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/43FnN5HXGwASkcWo6I6Ms/2fed53c5ac3b0365d453cd04ff021bff/SOMDHA0020008.jpg"
   featured_site:
     sys:
@@ -38,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 12:15:21.374000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:53:38.667000000 Z
       content_type_id: featured_site
+      revision: 5
     title: Laas Geel, Somaliland
     slug: laas-geel
     chapters:
@@ -46,6 +48,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:40:46.141000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:51:05.773000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Somaliland: featured site, chapter 1'
       body: Laas Geel, one of the most important rock art sites in the region, is
         located in the north-western part of the Horn of Africa, in Somaliland, in
@@ -63,6 +66,7 @@ contentful:
           created_at: !ruby/object:DateTime 2015-11-25 12:17:16.995000000 Z
           updated_at: !ruby/object:DateTime 2017-01-12 16:52:45.006000000 Z
           content_type_id: image
+          revision: 2
         image:
           sys:
             id: 31GgY4I8aIMi6wscCMaysq
@@ -79,6 +83,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:17:16.995000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:52:45.006000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 31GgY4I8aIMi6wscCMaysq
@@ -95,6 +100,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:41:31.266000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 12:41:31.266000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Somaliland: featured site, chapter 2'
       body: The site was discovered in 2002 by a French team led by Xavier Gutherz
         which studied the beginning of Pastoralism in the Horn of Africa. Along with
@@ -115,6 +121,7 @@ contentful:
           created_at: !ruby/object:DateTime 2015-11-25 12:38:47.035000000 Z
           updated_at: !ruby/object:DateTime 2017-01-12 16:54:21.792000000 Z
           content_type_id: image
+          revision: 2
         image:
           sys:
             id: 4oUCCQM2xiEaa0WIKyAoIm
@@ -131,6 +138,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:38:47.035000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:54:21.792000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4oUCCQM2xiEaa0WIKyAoIm
@@ -147,7 +155,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:42:09.252000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:16:01.889000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 2
+      title: 
       title_internal: 'Somaliland: featured site, chapter 3'
       body: 'Cows appear isolated or in groups of up to fifteen, although no clear
         representation of herds can be made out, and they are often associated with
@@ -167,6 +176,7 @@ contentful:
           created_at: !ruby/object:DateTime 2015-11-25 12:39:17.751000000 Z
           updated_at: !ruby/object:DateTime 2017-01-12 16:55:44.228000000 Z
           content_type_id: image
+          revision: 2
         image:
           sys:
             id: 4VTvKF1G52eSUicC2wuu8e
@@ -183,6 +193,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:39:17.751000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:55:44.228000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4VTvKF1G52eSUicC2wuu8e
@@ -199,6 +210,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:42:51.276000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:16:39.344000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Somaliland: featured site, chapter 4'
       body: Unlike many other rock art sites, Laas Geel has been dated quite precisely
         thanks to the excavations carried out in one of the shelters by the French
@@ -215,6 +227,7 @@ contentful:
           created_at: !ruby/object:DateTime 2015-11-25 12:39:41.223000000 Z
           updated_at: !ruby/object:DateTime 2017-01-12 16:58:47.282000000 Z
           content_type_id: image
+          revision: 2
         image:
           sys:
             id: 65ttuyQSS4C4CC62kSKeaQ
@@ -232,6 +245,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:39:41.223000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:58:47.282000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 65ttuyQSS4C4CC62kSKeaQ
@@ -249,6 +263,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:43:38.752000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 12:43:38.752000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Somaliland: featured site, chapter 5'
       body: When discovered, Laas Geel was considered a unique site, and although
         its general characteristics corresponded to the so-called Ethiopian-Arabic
@@ -263,6 +278,7 @@ contentful:
           created_at: !ruby/object:DateTime 2015-11-25 12:40:04.102000000 Z
           updated_at: !ruby/object:DateTime 2017-01-12 16:59:56.493000000 Z
           content_type_id: image
+          revision: 2
         image:
           sys:
             id: Le7MwhlqWA8omCGckqeC0
@@ -280,6 +296,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:40:04.102000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:59:56.493000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: Le7MwhlqWA8omCGckqeC0
@@ -297,6 +314,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:44:09.364000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:17:05.456000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Somaliland: featured site, chapter 6'
       body: 'Laas Geel is a marvellous example of the potential of African rock art
         still waiting to be discovered and studied. Not only the quality of the images
@@ -312,6 +330,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 12:44:40.978000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 12:44:40.978000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Gutherz, X., Cros, J.P. y Lesur, J. (2003b): The Discovery of New Rock Art Paintings in the Horn of Africa: The Rock Shelters of Laas Geel, Republic of Somaliland. *Journal of African Archaeology*, 1 (2): 227-236.
 
@@ -337,6 +356,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:33:48.354000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 18:33:48.354000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Somalia/Somaliland: key facts'
     image_count: 788 images
     date_range: Mostly 3,000 BC onwards
@@ -349,15 +369,17 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 16:25:56.681000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:15.151000000 Z
       content_type_id: thematic
+      revision: 5
     title: 'Sailors on sandy seas: camels in Saharan rock art'
     slug: camels-in-saharan-rock-art
     lead_image:
       sys:
         id: 46X3vtG1faouSYYws0Aywu
         created_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-      title: Fig. 1. Camel
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 02:30:35.572000000 Z
+      title: View of camel salt caravan crossing the Ténéré desert. Niger. ©David
+        Coulson/TARA
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652083&partId=1&searchText=2013,2034.10379&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
     chapters:
     - sys:
@@ -365,6 +387,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 1'
       body: 'If we were to choose a defining image for the Sahara Desert, it would
         probably depict an endless sea of yellow dunes under a blue sky and, off in
@@ -376,24 +399,27 @@ contentful:
     - sys:
         id: 4p7wUbC6FyiEYsm8ukI0ES
         created_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
-        updated_at: !ruby/object:DateTime 2018-05-17 14:19:18.059000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 02:30:19.986000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 46X3vtG1faouSYYws0Aywu
           created_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-        title: Fig. 1. Camel
-        description: 
+          updated_at: !ruby/object:DateTime 2019-02-12 02:30:35.572000000 Z
+        title: View of camel salt caravan crossing the Ténéré desert. Niger. ©David
+          Coulson/TARA
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652083&partId=1&searchText=2013,2034.10379&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
       caption: Camel salt caravan crossing the Ténéré desert in Niger. 2013,2034.10487
-        © David Coulson/TARA
+        ©David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652360&partId=1&searchText=2013,2034.10487&page=1
     - sys:
         id: 1LsXHHPAZaIoUksC2US08G
         created_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 2'
       body: Yet, surprising as it seems, the camel is a relative newcomer to the Sahara
         – at least when compared to other domestic animals such as cattle, sheep,
@@ -413,6 +439,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:21:07.255000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6afrRs4VLUS4iEG0iwEoua
@@ -429,6 +456,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 3'
       body: 'What is it that makes camels so suited to deserts? It is not only their
         ability to transform the fat stored in their hump into water and energy, or
@@ -449,6 +477,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:39:34.523000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6iaMmNK91YOU00S4gcgi6W
@@ -465,6 +494,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:45:29.810000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4jTR7LKYv6IiY8wkc2CIum
@@ -481,6 +511,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 4'
       body: As mentioned previously, camels came from the Arabian Peninsula through
         Egypt, where bone remains have been dated to the early 1st millennium BC.
@@ -502,6 +533,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:46:15.751000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5aJ9wYpcHe6SImauCSGoM8
@@ -519,6 +551,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 5'
       body: Rock art can be extremely helpful in learning about the different ways
         in which camels were used in the first millennium AD. Images of camels are
@@ -534,6 +567,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:11:49.775000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3mY7XFQW6QY6KekSQm6SIu
@@ -551,6 +585,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:12:22.249000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2xR2nZml7mQAse8CgckCa
@@ -567,6 +602,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:31:09.339000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1ecCbVeHUGa2CsYoYSQ4Sm
@@ -583,6 +619,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 6'
       body: |-
         That camels were used to transport goods is obvious, and depictions of long lines of animals are common, sometimes with saddles on which to place the packs and ropes to tie the animals together. However, if rock art depictions are some indication of camel use, it seems that until the Muslim conquest the main function of one-humped camels was as mounts, often linked to war. The Sahara desert contains dozens of astonishingly detailed images of warriors riding camels, armed with spears, long swords and shields, sometimes accompanied by infantry soldiers and horsemen. Although camels are not as good as horses for use as war mounts (they are too tall and make insecure platforms for shooting arrows), they were undoubtedly very useful in raids – the most common type of war activity in the desert – as well as being a symbol of prestige, wealth and authority among the desert warriors, much as they still are today.
@@ -593,6 +630,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:31:33.078000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5qXuQrcnUQKm0qCqoCkuGI
@@ -610,6 +648,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 7'
       body: 'Although North Arabian saddles are found throughout North Africa and
         are often depicted in rock art paintings, at some point a new kind of saddle
@@ -629,6 +668,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:33:25.754000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 40zIycUaTuIG06mgyaE20K
@@ -646,6 +686,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:36:07.603000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6EvwTsiMO4qoiIY4gGCgIK
@@ -661,8 +702,9 @@ contentful:
     - sys:
         id: 57goC8PzUs6G4UqeG0AgmW
         created_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
-        updated_at: !ruby/object:DateTime 2018-05-17 15:40:21.199000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 02:33:53.275000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 5JDO7LrdKMcSEOMEG8qsS8
@@ -672,7 +714,7 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/5JDO7LrdKMcSEOMEG8qsS8/76cbecd637724d549db8a7a101553280/Fig._12._Tuaregs.jpg"
       caption: Tuaregs at Cura Salee, an annual meeting of desert peoples. Note the
-        saddles in front of the hump and the camels' harnesses,  similar to the rock
+        saddles in front of the hump and the camels' harnesses, similar to the rock
         paintings above such as the image from Terkei. Ingal, Northern Niger. 2013,2034.10523
         © David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652377&partId=1&searchText=2013,2034.10523&page=1
@@ -681,6 +723,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 8'
       body: Since their introduction to the Sahara during the first centuries of the
         Christian era, camels have become indispensable for desert communities, providing
@@ -698,6 +741,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 16:01:13.379000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3idPZkkIKAOWCiKouQ8c8i
@@ -714,6 +758,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 16:02:41.679000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4Y85f5QkVGQiuYEaA2OSUC
@@ -745,6 +790,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 17:07:20.920000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:54.244000000 Z
       content_type_id: thematic
+      revision: 4
     title: Geometric motifs and cattle brands
     slug: geometric-motifs
     lead_image:
@@ -761,6 +807,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:02:35.234000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:05:34.964000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 1'
       body: |-
         The rock art of eastern Africa is characterised by a wide range of non-figurative images, broadly defined as geometric. Occurring in a number of different patterns or designs, they are thought to have been in existence in this region for thousands of years, although often it is difficult to attribute the art to particular cultural groups. Geometric rock art is difficult to interpret, and designs have been variously associated with sympathetic magic, symbols of climate or fertility and altered states of consciousness (Coulson and Campbell, 2010:220). However, in some cases the motifs painted or engraved on the rock face resemble the same designs used for branding livestock and are intimately related to people’s lives and world views in this region.
@@ -771,6 +818,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:57:39.559000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:06:07.592000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5yD7fOuAdU4cemkewCqCMO
@@ -787,7 +835,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 17:03:05.920000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'Geometric motifs: thematic, chapter 2'
       body: In the case of Lukenya Hill, the rock shelters on whose walls these geometric
         symbols occur are associated with meat-feasting ceremonies. Meat-feasting
@@ -804,6 +853,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:58:35.447000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:07:35.181000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1lBqQePHxK2Iw8wW8S8Ygw
@@ -821,6 +871,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:28.158000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:38.155000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 3'
       body: The sites of Namoratung’a near Lake Turkana in northern Kenya showed a
         similar visible relationship. The southernmost site is well known for its
@@ -834,6 +885,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:05.484000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:08:12.169000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 19lqDiCw7UOomiMmYagQmq
@@ -851,6 +903,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:03:56.190000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:35:15.319000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Geometric motifs: thematic, chapter 4'
       body: Recent research (Russell, 2013) has shown that at Namoratung’a the branding
         of animals signifies a sense of belonging rather than a mark of ownership
@@ -873,6 +926,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:59:47.649000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5yUlpG85GMuW2IiMeYCgyy
@@ -889,6 +943,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:04:38.446000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:34:17.646000000 Z
         content_type_id: chapter
+        revision: 3
       title_internal: 'Geometric motifs: thematic, chapter 5'
       body: "However, not all pastoralist geometric motifs can be associated with
         meat-feasting or livestock branding; they may have wider symbolism or be symbolic
@@ -915,6 +970,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 17:01:10.748000000 Z
         updated_at: !ruby/object:DateTime 2016-05-19 07:33:26.748000000 Z
         content_type_id: citation
+        revision: 3
       citation_line: |-
         Bell G. 1936. ‘Nuba fertility stones’, in *Sudan Notes and Records* 19(2), pp.313–314.
 
@@ -951,6 +1007,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       updated_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       content_type_id: thematic
+      revision: 1
     title: Introduction to rock art in central and eastern Africa
     slug: rock-art-in-central-and-east-africa
     lead_image:
@@ -967,6 +1024,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:09:33.580000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:17:25.155000000 Z
         content_type_id: chapter
+        revision: 4
       title: Central and East Africa
       title_internal: 'East Africa: regional, chapter 1'
       body: |-
@@ -978,6 +1036,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:57:48.121000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:05:00.916000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3esXNapo5GOWIKSImcY4QW
@@ -993,6 +1052,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:23.723000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:18:19.325000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 2'
       body: This collection from Central and East Africa comprises rock art from Kenya,
         Uganda and Tanzania, as well as the Horn of Africa; although predominantly
@@ -1002,6 +1062,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:59.991000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:34:14.653000000 Z
         content_type_id: chapter
+        revision: 3
       title: History of research
       title_internal: 'East Africa: regional, chapter 3'
       body: |-
@@ -1011,8 +1072,9 @@ contentful:
     - sys:
         id: 35HMFoiKViegWSY044QY8K
         created_at: !ruby/object:DateTime 2015-11-25 18:59:25.796000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:07:03.973000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:25.789000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 6KOxC43Z9mYCuIuqcC8Qw0
@@ -1023,14 +1085,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/6KOxC43Z9mYCuIuqcC8Qw0/e25141d07f483d0100c4cf5604e3e525/2013_2034.17450.jpg"
       caption: This painting of a large antelope is possibly one of the earliest extant
         paintings. Emmanuel Anati believes similar paintings could be more than 28,000
-        years old. (2013,2034.17450) © TARA/David Coulson
+        years old. 2013,2034.17450 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3711689
     - sys:
         id: 1dSBI9UNs86G66UGSEOOkS
         created_at: !ruby/object:DateTime 2015-12-09 11:56:31.754000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:21:03.240000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:50:18.203000000 Z
         content_type_id: chapter
-      title: 'Categories: EAST AFRICA'
+        revision: 5
+      title: East African Rock Art
       title_internal: Intro to east africa, chapter 3.5
       body: "Rock art of East Africa consists mainly of paintings, most of which are
         found in central Tanzania, and are fewer in number in eastern Zambia and Malawi;
@@ -1058,8 +1121,9 @@ contentful:
     - sys:
         id: 7dIhjtbR5Y6u0yceG6y8c0
         created_at: !ruby/object:DateTime 2015-11-25 19:00:07.434000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:08:30.262000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:51.887000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1fy9DD4BWwugeqkakqWiUA
@@ -1070,13 +1134,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1fy9DD4BWwugeqkakqWiUA/9f8f1330c6c0bc0ff46d744488daa152/2013_2034.16849.jpg"
       caption: Three schematic figures formed by the use of multiple thin parallel
         lines. The shape and composition of the heads suggests either headdresses
-        or elaborate hairstyles. Kondoa, Tanzania.(2013,2034.16849)© TARA/David Coulson
+        or elaborate hairstyles. Kondoa, Tanzania. 2013,2034.16849 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709812
     - sys:
         id: 1W573pi2Paks0iA8uaiImy
         created_at: !ruby/object:DateTime 2015-11-25 19:12:00.544000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:21:09.647000000 Z
         content_type_id: chapter
+        revision: 8
       title_internal: 'East Africa: regional, chapter 4'
       body: "Zambian rock art does not share any similarities with Tanzanian rock
         art and can be divided into two categories; animals (with a few depictions
@@ -1101,6 +1166,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:41.789000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:10:04.890000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hoZEK3d2Oi8iiWqoWACo
@@ -1117,6 +1183,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:58.494000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:11:37.760000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3bqDVyvXlS0S6AeY2yEmS8
@@ -1133,6 +1200,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 5'
       body: |-
         *__Late White Paintings__*:
@@ -1140,8 +1208,9 @@ contentful:
     - sys:
         id: 35dNvNmIxaKoUwCMeSEO2Y
         created_at: !ruby/object:DateTime 2015-11-25 19:01:26.458000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:14:02.819000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:52:15.838000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 6RGZZQ13qMQwmGI86Ey8ei
@@ -1151,14 +1220,15 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/6RGZZQ13qMQwmGI86Ey8ei/6d37a5bed439caf7a1223aca27dc27f8/2013_2034.16786.jpg"
       caption: Under a long narrow granite overhang, Late White designs including
-        rectangular grids, concentric circles and various ‘square’ shapes. (2013,2034.16786)
+        rectangular grids, concentric circles and various ‘square’ shapes. 2013,2034.16786
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709608
     - sys:
         id: 2XW0X9BzFCa8u2qiKu6ckK
         created_at: !ruby/object:DateTime 2015-11-25 19:01:57.959000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:17:01.270000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:21.559000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 1UT4r6kWRiyiUIYSkGoACm
@@ -1169,13 +1239,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1UT4r6kWRiyiUIYSkGoACm/fe915c6869b6c195d55b5ef805df7671/2013_2034.16797.jpg"
       caption: A monuments guard stands next to Late White paintings attributed to
         Bantu speaking farmers in Tanzania, probably made during the last 700 years.
-        (2013,2034.16797) © TARA/David Coulson
+        2013,2034.16797 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709628
     - sys:
         id: 3z28O8A58AkgMUocSYEuWw
         created_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 6'
       body: |-
         *__Meat-feasting paintings__*:
@@ -1185,6 +1256,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:23.595000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:19:11.619000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: p4E0BRJzossaus6uUUkuG
@@ -1201,6 +1273,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:45.427000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:20:14.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1RLyVKKV8MA4KEk4M28wqw
@@ -1215,9 +1288,10 @@ contentful:
     - sys:
         id: 5UQc80DUBiqqm64akmCUYE
         created_at: !ruby/object:DateTime 2015-11-25 19:15:34.582000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:56:54.946000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:53.936000000 Z
         content_type_id: chapter
-      title: 'Categories: CENTRAL AFRICA'
+        revision: 4
+      title: Central African Rock Art
       title_internal: 'East Africa: regional, chapter 7'
       body: The rock art of central Africa is attributed to hunter-gatherers known
         as Batwa. This term is used widely in eastern central and southern Africa
@@ -1235,8 +1309,9 @@ contentful:
     - sys:
         id: 4m51rMBDX22msGmAcw8ESw
         created_at: !ruby/object:DateTime 2015-11-25 19:03:40.666000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:17:19.197000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:25.415000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 2MOrR79hMcO2i8G2oAm2ik
@@ -1247,14 +1322,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/2MOrR79hMcO2i8G2oAm2ik/86179e84233956e34103566035c14b76/2013_2034.15306.jpg"
       caption: Paintings in red and originally in-filled in white cover the underside
         of a rock shelter roof. The art is attributed to central African Batwa; the
-        age of the paintings is uncertain. Lake Victoria, Uganda (2013,2034.15306)  ©
-        TARA/David Coulson
+        age of the paintings is uncertain. Lake Victoria, Uganda. 2013,2034.15306
+        © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691242
     - sys:
         id: 5rNOG3568geMmIEkIwOIac
         created_at: !ruby/object:DateTime 2015-11-25 19:16:07.130000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:16:19.722000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 8'
       body: "*__Engravings__*:\nThere are a few engravings occurring on inland plateaus
         but these have elicited little scientific interest and are not well documented.
@@ -1267,8 +1343,9 @@ contentful:
     - sys:
         id: LrZuJZEH8OC2s402WQ0a6
         created_at: !ruby/object:DateTime 2015-11-25 19:03:59.496000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:19:05.545000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:51.576000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1uc9hASXXeCIoeMgoOuO4e
@@ -1278,13 +1355,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
       caption: Group of anthropomorphic stelae with carved faces. Tuto Fela, Southern
-        Ethiopia. © TARA/David Coulson 2013,2034.16206 (not yet uploaded)
+        Ethiopia. 2013,2034.16206 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3703754
     - sys:
         id: 7EBTx1IjKw6y2AUgYUkAcm
         created_at: !ruby/object:DateTime 2015-11-25 19:16:37.210000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:22:04.007000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 9'
       body: In the Sidamo region of Ethiopia, around 50 images of cattle are engraved
         in bas-relief on the wall of a gorge. All the engravings face right and the
@@ -1296,6 +1374,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:04:34.186000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:22:24.891000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: PlhtduNGSaOIOKU4iYu8A
@@ -1313,6 +1392,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:17:53.336000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:25:38.678000000 Z
         content_type_id: chapter
+        revision: 3
       title: Rock art in the Horn of Africa
       title_internal: 'East Africa: regional, chapter 10'
       body: "The Horn of Africa has historically been a crossroads area between the
@@ -1341,8 +1421,9 @@ contentful:
     - sys:
         id: 4XIIE3lDZYeqCG6CUOYsIG
         created_at: !ruby/object:DateTime 2015-11-25 19:04:53.913000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:23:29.512000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:55:12.472000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 3ylztNmm2cYU0GgQuW0yiM
@@ -1352,13 +1433,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3ylztNmm2cYU0GgQuW0yiM/3be240bf82adfb5affc0d653e353350b/2013_2034.15749.jpg"
       caption: Painted roof of rock shelter  showing decorated cows and human  figures.
-        Laas Geel, Somaliland. 2013,2034.15749. © TARA/David Coulson
+        Laas Geel, Somaliland. 2013,2034.15749 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691391
     - sys:
         id: 2IKYx0YIVOyMSwkU8mQQM
         created_at: !ruby/object:DateTime 2015-11-25 19:18:28.056000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:26:13.401000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 11'
       body: |-
         Rock art in the Horn of Africa faces several challenges. One of them is the lack of consolidated chronologies and absolute dating for the paintings and engravings. Another is the uneven knowledge of rock art throughout the region, with research often affected by political unrest. Therefore, distributions of rock art in the region are steadily growing as research is undertaken in one of the most interactive areas in East Africa.
@@ -1370,6 +1452,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:08:04.014000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:24:18.659000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: "Anati, E.  1996. ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa*. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14 September.\n\nČerviček, P. 1971.
@@ -1417,9 +1500,10 @@ contentful:
   - sys:
       id: 2KyCxSpMowae0oksYsmawq
       created_at: !ruby/object:DateTime 2015-11-25 18:32:33.269000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-07 20:51:19.192000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 14:57:42.412000000 Z
       content_type_id: thematic
-    title: 'The country of the standing stones: stela in Southern Ethiopia'
+      revision: 5
+    title: 'The Country of the Standing Stones: Stela in Southern Ethiopia'
     slug: country-of-standing-stones
     lead_image:
       sys:
@@ -1435,6 +1519,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:28:36.149000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:48:54.764000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Stela: thematic, chapter 1'
       body: Ethiopia is home to some of the most impressive archaeological remains
         in Africa, such as the rock-hewn churches of Lalibela, the Axumite kingdom
@@ -1450,6 +1535,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:03:36.680000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:51:45.367000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3lhKPWDnSwEIKmoGaySEIy
@@ -1467,6 +1553,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:28:55.931000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:52:16.164000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Stela: thematic, chapter 2'
       body: Although some of the most impressive stelae are located to the north-east
         of Ethiopia, in the region where the Axumite Kingdom flourished between the
@@ -1483,6 +1570,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:24:59.375000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:53:36.787000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3HHuQorm12WGUu0kC0Uce
@@ -1500,6 +1588,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:29:16.601000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 15:58:41.825000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Stela: thematic, chapter 3'
       body: 'Ethiopian stelae have been known to western scholars since the end of
         the 19th century, with the first examples documented in 1885 to the north
@@ -1525,6 +1614,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:25:18.604000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:00:14.418000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5Zt1z4iJ44c2MWmWcGy4Ey
@@ -1542,6 +1632,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:25:38.253000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:01:28.688000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5N30tsfHVuW0AmIgeQo8Kk
@@ -1558,6 +1649,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:29:40.626000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 18:29:40.626000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Stela: thematic, chapter 4'
       body: 'The Ethiopian stelae show a great variability in shapes and decorations,
         but at least three main groups could be defined. The first corresponds to
@@ -1584,6 +1676,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:26:18.279000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:04:13.365000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 5Bpxor1k1GMmUOoEWWqK2k
@@ -1600,6 +1693,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:27:02.886000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:06:02.999000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6WDEsfzmqQGkyyGImgYmcU
@@ -1616,6 +1710,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:29:58.521000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 18:29:58.521000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Stela: thematic, chapter 5'
       body: 'Regardless of their chronology and shape, most of the stela seem to have
         a funerary function, marking the tombs of deceased which were buried in cemeteries
@@ -1638,6 +1733,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:27:29.739000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:07:15.282000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5zepzVfNDiOQy8gOyAkGig
@@ -1654,6 +1750,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:28:00.511000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 18:28:00.511000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |
         Roger Joussaume (dir.) (1995): *Tiya, l'Éthiopie des Mégalithes, du Biface a l'Art Rupestre dans la Corne d'Afrique*. Paris, UNESCO/CNS.
 
@@ -1681,6 +1778,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:31:41.871000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:43:18.317000000 Z
       content_type_id: country_information
+      revision: 3
     title: 'Somalia/ Somaliland: country introduction'
     chapters:
     - sys:
@@ -1688,6 +1786,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:26:17.254000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:26:17.254000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Somalia: country, chapter 1'
       body: Somalia is a country located at the corner of the Horn of Africa, bordered
@@ -1706,6 +1805,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:23:03.983000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 16:37:53.141000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4n4aYQQ3ws86seSuSQC2Q0
@@ -1722,6 +1822,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:26:58.643000000 Z
         updated_at: !ruby/object:DateTime 2017-01-11 14:18:51.197000000 Z
         content_type_id: chapter
+        revision: 2
       title: Geography and rock art distribution
       title_internal: 'Somalia: country, chapter 2'
       body: 'The geography of Somaliland is characterized by a coastal semi-desert
@@ -1745,6 +1846,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:23:30.937000000 Z
         updated_at: !ruby/object:DateTime 2017-01-11 14:21:01.481000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2mLUneHM24eEYEQ8W4EKsq
@@ -1761,6 +1863,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:27:28.491000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:27:28.491000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Somalia: country, chapter 3'
       body: A reconstruction of rock art research history is challenging due to its
@@ -1786,6 +1889,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:24:00.701000000 Z
         updated_at: !ruby/object:DateTime 2017-01-11 14:22:27.659000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3mWyGCLGFacW2aOUYmGQWs
@@ -1802,6 +1906,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:27:53.242000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:27:53.242000000 Z
         content_type_id: chapter
+        revision: 1
       title: Themes
       title_internal: 'Somalia: country, chapter 4'
       body: The rock art has traditionally been ascribed to the so-called Ethiopian-Arabican
@@ -1821,6 +1926,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:24:22.355000000 Z
         updated_at: !ruby/object:DateTime 2017-01-11 14:26:37.550000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 10vxtVrFIcuoaww8gEKCSY
@@ -1837,6 +1943,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:28:12.916000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:28:12.916000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Somalia: country, chapter 5'
       body: Along with cattle, other animals were represented (humped cows or zebus,
         dogs, sheep, dromedaries), although to a much lesser extent. Wild animals
@@ -1852,6 +1959,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:24:47.061000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:00:51.600000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 20zCz4hAbmiSm0MuGIkGQk
@@ -1869,6 +1977,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:28:43.949000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:13:57.212000000 Z
         content_type_id: chapter
+        revision: 2
       title: Chronology
       title_internal: 'Somalia: country, chapter 6'
       body: As in many other places, the establishment of accurate chronologies for
@@ -1891,6 +2000,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:25:07.168000000 Z
         updated_at: !ruby/object:DateTime 2017-01-12 16:24:38.017000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 22wpEosKyYwyycaMgSmQMU
@@ -1907,6 +2017,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:29:03.262000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:29:03.262000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Somalia: country, chapter 7'
       body: Since the 1st millennium BC human figures armed with lances, bows and
         shields start to appear alongside the cattle, in some cases distributed in
@@ -1917,8 +2028,9 @@ contentful:
     - sys:
         id: PLXVZ70YMuKQuMOOecEIi
         created_at: !ruby/object:DateTime 2015-11-26 18:25:31.222000000 Z
-        updated_at: !ruby/object:DateTime 2017-01-12 16:41:52.403000000 Z
+        updated_at: !ruby/object:DateTime 2018-09-19 15:23:32.358000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 4njSKDcdtuaCGiSKGKmGEa
@@ -1928,15 +2040,16 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/4njSKDcdtuaCGiSKGKmGEa/04b2b2ab0529ebec8831b47816d7f5f2/SOMGAB0090007.jpg"
       caption: 'Detail of painted rock art depicting two human figures and a humped
-        cow, infilled in red and yellow. Dhaga Khoure, Somaliland. 2013,2034.15617
+        cow, infilled in red and yellow. Dhaga Khoure, Somaliland. 2013,2034.15616
         © TARA/David Coulson '
-      col_link: http://bit.ly/2jbK1k4
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3711116&partId=1&searchText=2013,2034.15616+&page=1
     citations:
     - sys:
         id: 62GO9AUWhq0GgwQC6keQAU
         created_at: !ruby/object:DateTime 2015-11-26 18:32:25.937000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 12:13:02.046000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: |
         Bachechi, L. (1998): Contributo alla conoscenza dell’arte rupestre somala. *Rivista di Scienze Prehistoriche*, 49 (225-246).
 

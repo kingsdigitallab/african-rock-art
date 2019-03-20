@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2017-12-12 00:55:17.028000000 Z
     updated_at: !ruby/object:DateTime 2017-12-12 00:55:17.028000000 Z
     content_type_id: country_information
+    revision: 1
   title: 'Nigeria: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-16 17:47:22.283000000 Z
       updated_at: !ruby/object:DateTime 2017-11-17 17:49:16.694000000 Z
       content_type_id: chapter
+      revision: 2
     title: Introduction
     title_internal: 'Nigeria: country, chapter 1'
     body: In general, West Africa is not well known for its painted or engraved rock
@@ -29,6 +31,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-17 17:51:57.172000000 Z
       updated_at: !ruby/object:DateTime 2017-11-17 17:51:57.172000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography and rock art distribution
     title_internal: 'Nigeria: country, chapter 2'
     body: Located in West Africa, the Federal Republic of Nigeria shares land borders
@@ -41,6 +44,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-22 15:44:24.402000000 Z
       updated_at: !ruby/object:DateTime 2017-11-22 15:44:24.402000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 1wpXiaFLE8kImw6a4O0yO8
@@ -56,6 +60,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-22 15:56:27.091000000 Z
       updated_at: !ruby/object:DateTime 2017-11-22 16:05:16.491000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Nigeria: country, chapter 3'
     body: 'Nigeria boasts a variety of landscapes -  mangrove forests and swamps border
       the southern coastline; plains rise to the north of the valleys; rugged highlands
@@ -70,6 +75,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-22 16:23:30.974000000 Z
       updated_at: !ruby/object:DateTime 2017-11-22 16:23:30.974000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6EygE2u9DUWkOAmoMayOQQ
@@ -86,6 +92,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-22 16:56:06.115000000 Z
       updated_at: !ruby/object:DateTime 2017-11-22 16:56:06.115000000 Z
       content_type_id: chapter
+      revision: 1
     title: History of the research
     title_internal: 'Nigeria: country, chapter 4'
     body: |
@@ -97,6 +104,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 00:29:36.099000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 00:29:36.099000000 Z
       content_type_id: chapter
+      revision: 1
     title: Themes
     title_internal: 'Nigeria: country, chapter 5'
     body: "Painted rock art sites in northern Nigeria are often located adjacent to
@@ -123,6 +131,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 00:47:57.513000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 00:47:57.513000000 Z
       content_type_id: chapter
+      revision: 1
     title: Meaning
     title_internal: 'Nigeria: country, chapter 6'
     body: |
@@ -134,6 +143,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 00:49:31.706000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 00:49:31.706000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Nigeria: country, chapter 7'
     body: Based on the depictions of both long and short-horned humpless cattle at
@@ -149,6 +159,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: "Akpang, C. E. 2014. ‘Beyond Anthropological and Associational
       discourse- interrogating the minimalism of Ikom Monoliths as concept and found
       object art’, in \n*Global Journal of Arts Humanities and Social Sciences*, Vol.2,

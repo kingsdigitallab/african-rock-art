@@ -3,27 +3,28 @@ contentful:
   sys:
     id: 3KmS7DebO0e2skQsiuGOGo
     created_at: !ruby/object:DateTime 2017-11-21 09:03:26.866000000 Z
-    updated_at: !ruby/object:DateTime 2018-05-17 16:43:42.661000000 Z
+    updated_at: !ruby/object:DateTime 2019-02-12 02:08:00.867000000 Z
     content_type_id: country
+    revision: 7
   name: Nigeria
   slug: nigeria
-  col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=37854
+  col_url: https://africanrockart.britishmuseum.org/country/nigeria/images/
   map_progress: true
   intro_progress: true
   image_carousel:
   - sys:
       id: 5ofSFGPY6k6EmOK6OgAwAE
       created_at: !ruby/object:DateTime 2017-11-16 17:24:25.549000000 Z
-      updated_at: !ruby/object:DateTime 2017-11-16 17:24:25.549000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 02:07:38.901000000 Z
     title: NIGCRM0070019
-    description: 
+    description: https://africanrockart.britishmuseum.org/country/nigeria/images/
     url: "//images.ctfassets.net/xt8ne4gbbocd/5ofSFGPY6k6EmOK6OgAwAE/6b88478824aadcf00d4bf77f8ea3fa4c/NIGCRM0070019.jpg"
   - sys:
       id: 7kRiKib4PYC2EE6wcuUE4g
       created_at: !ruby/object:DateTime 2017-11-16 17:24:04.187000000 Z
-      updated_at: !ruby/object:DateTime 2017-11-16 17:24:04.187000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 02:07:47.263000000 Z
     title: NIGCRM0090004
-    description: 
+    description: https://africanrockart.britishmuseum.org/country/nigeria/images/
     url: "//images.ctfassets.net/xt8ne4gbbocd/7kRiKib4PYC2EE6wcuUE4g/f67eaf202892a271af516fa95ecfbf38/NIGCRM0090004.jpg"
   featured_site:
     sys:
@@ -31,6 +32,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 03:41:45.814000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 03:41:45.814000000 Z
       content_type_id: featured_site
+      revision: 1
     title: Ikom Monoliths, Cross River State, Nigeria
     slug: 'ikom-monoliths '
     chapters:
@@ -39,6 +41,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:00:49.285000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:00:49.285000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Nigeria: featured site, chapter 1'
       body: The Ikom Monoliths, originally consisting of around 400-450 engraved standing
         stones and distributed around thirty communities in the Ikom area of Cross
@@ -50,6 +53,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:03:19.623000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:03:19.623000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6ndlBNzj4kC4IyysaSk20Y
@@ -65,6 +69,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:13:13.390000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:13:13.390000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Nigeria: featured site, chapter 2'
       body: 'The majority of the stones are skilfully carved in hard, medium-textured
         basaltic rock, with a few carved in sandstone and shelly limestone. Varying
@@ -82,6 +87,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:46:21.095000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:46:21.095000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3EPsiq8TFKE0omSUGy2OiW
@@ -96,6 +102,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:50:43.447000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:50:43.447000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1FTDyPet3WiyQYiq2UYEeu
@@ -110,6 +117,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:51:41.445000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:51:41.445000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Nigeria: featured site, chapter 3'
       body: The effects of weathering has resulted in erosion and deterioration, and
         as such in 2007 were added to the World Monuments Fund’s list of sites in
@@ -122,6 +130,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:54:04.301000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:54:04.301000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1wBaFXQ6iY2igSUc0Qwm02
@@ -137,6 +146,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 01:55:42.020000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 01:55:42.020000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4GxwIaZP680CyIGeQ4YesO
@@ -152,6 +162,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 02:03:17.080000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 02:03:17.080000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Nigeria: featured site, chapter 4'
       body: Known as Akwasnshi or Atal among the local Ejagham people of Cross River,
         the monoliths can be found in the centre of the village or in the central
@@ -164,6 +175,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 02:04:55.030000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 02:04:55.030000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4Rzr1W9YZ2yecY6MGkQ8Y8
@@ -179,6 +191,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 02:05:49.581000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 02:05:49.581000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Nigeria: featured site, chapter 5'
       body: Whilst the stones seem to share common features, each monolith is unique
         in its design and execution, and are thought to “bear a complex codified iconography
@@ -189,6 +202,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 03:35:55.321000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 03:35:55.321000000 Z
         content_type_id: chapter
+        revision: 1
       title: Interpretation
       title_internal: 'Nigeria: featured site, chapter 6'
       body: |
@@ -200,6 +214,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 03:39:23.421000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 03:39:23.421000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: rOeKzKuGw8EMG08MyM02Q
@@ -216,6 +231,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 03:40:23.912000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 03:40:23.912000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Nigeria: featured site, chapter 7'
       body: 'Recent criticism has focused on ways in which scholars have situated
         these sculptural forms within Western/European anthropological and archaeological
@@ -227,6 +243,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Akpang, C. E. 2014. ‘Beyond Anthropological and Associational
         discourse- interrogating the minimalism of Ikom Monoliths as concept and found
         object art’, in \n*Global Journal of Arts Humanities and Social Sciences*,
@@ -264,6 +281,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-17 17:44:51.477000000 Z
       updated_at: !ruby/object:DateTime 2017-11-28 17:31:13.877000000 Z
       content_type_id: country_key_facts
+      revision: 2
     title_internal: 'Nigeria: key facts'
     image_count: 439 images
     date_range: 1500 BC -1500 AD
@@ -276,6 +294,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       updated_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       content_type_id: thematic
+      revision: 1
     title: Introduction to rock art in central and eastern Africa
     slug: rock-art-in-central-and-east-africa
     lead_image:
@@ -292,6 +311,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:09:33.580000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:17:25.155000000 Z
         content_type_id: chapter
+        revision: 4
       title: Central and East Africa
       title_internal: 'East Africa: regional, chapter 1'
       body: |-
@@ -303,6 +323,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:57:48.121000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:05:00.916000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3esXNapo5GOWIKSImcY4QW
@@ -318,6 +339,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:23.723000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:18:19.325000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 2'
       body: This collection from Central and East Africa comprises rock art from Kenya,
         Uganda and Tanzania, as well as the Horn of Africa; although predominantly
@@ -327,6 +349,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:59.991000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:34:14.653000000 Z
         content_type_id: chapter
+        revision: 3
       title: History of research
       title_internal: 'East Africa: regional, chapter 3'
       body: |-
@@ -336,8 +359,9 @@ contentful:
     - sys:
         id: 35HMFoiKViegWSY044QY8K
         created_at: !ruby/object:DateTime 2015-11-25 18:59:25.796000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:07:03.973000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:25.789000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 6KOxC43Z9mYCuIuqcC8Qw0
@@ -348,14 +372,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/6KOxC43Z9mYCuIuqcC8Qw0/e25141d07f483d0100c4cf5604e3e525/2013_2034.17450.jpg"
       caption: This painting of a large antelope is possibly one of the earliest extant
         paintings. Emmanuel Anati believes similar paintings could be more than 28,000
-        years old. (2013,2034.17450) © TARA/David Coulson
+        years old. 2013,2034.17450 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3711689
     - sys:
         id: 1dSBI9UNs86G66UGSEOOkS
         created_at: !ruby/object:DateTime 2015-12-09 11:56:31.754000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:21:03.240000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:50:18.203000000 Z
         content_type_id: chapter
-      title: 'Categories: EAST AFRICA'
+        revision: 5
+      title: East African Rock Art
       title_internal: Intro to east africa, chapter 3.5
       body: "Rock art of East Africa consists mainly of paintings, most of which are
         found in central Tanzania, and are fewer in number in eastern Zambia and Malawi;
@@ -383,8 +408,9 @@ contentful:
     - sys:
         id: 7dIhjtbR5Y6u0yceG6y8c0
         created_at: !ruby/object:DateTime 2015-11-25 19:00:07.434000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:08:30.262000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:51.887000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1fy9DD4BWwugeqkakqWiUA
@@ -395,13 +421,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1fy9DD4BWwugeqkakqWiUA/9f8f1330c6c0bc0ff46d744488daa152/2013_2034.16849.jpg"
       caption: Three schematic figures formed by the use of multiple thin parallel
         lines. The shape and composition of the heads suggests either headdresses
-        or elaborate hairstyles. Kondoa, Tanzania.(2013,2034.16849)© TARA/David Coulson
+        or elaborate hairstyles. Kondoa, Tanzania. 2013,2034.16849 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709812
     - sys:
         id: 1W573pi2Paks0iA8uaiImy
         created_at: !ruby/object:DateTime 2015-11-25 19:12:00.544000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:21:09.647000000 Z
         content_type_id: chapter
+        revision: 8
       title_internal: 'East Africa: regional, chapter 4'
       body: "Zambian rock art does not share any similarities with Tanzanian rock
         art and can be divided into two categories; animals (with a few depictions
@@ -426,6 +453,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:41.789000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:10:04.890000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hoZEK3d2Oi8iiWqoWACo
@@ -442,6 +470,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:58.494000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:11:37.760000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3bqDVyvXlS0S6AeY2yEmS8
@@ -458,6 +487,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 5'
       body: |-
         *__Late White Paintings__*:
@@ -465,8 +495,9 @@ contentful:
     - sys:
         id: 35dNvNmIxaKoUwCMeSEO2Y
         created_at: !ruby/object:DateTime 2015-11-25 19:01:26.458000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:14:02.819000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:52:15.838000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 6RGZZQ13qMQwmGI86Ey8ei
@@ -476,14 +507,15 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/6RGZZQ13qMQwmGI86Ey8ei/6d37a5bed439caf7a1223aca27dc27f8/2013_2034.16786.jpg"
       caption: Under a long narrow granite overhang, Late White designs including
-        rectangular grids, concentric circles and various ‘square’ shapes. (2013,2034.16786)
+        rectangular grids, concentric circles and various ‘square’ shapes. 2013,2034.16786
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709608
     - sys:
         id: 2XW0X9BzFCa8u2qiKu6ckK
         created_at: !ruby/object:DateTime 2015-11-25 19:01:57.959000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:17:01.270000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:21.559000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 1UT4r6kWRiyiUIYSkGoACm
@@ -494,13 +526,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1UT4r6kWRiyiUIYSkGoACm/fe915c6869b6c195d55b5ef805df7671/2013_2034.16797.jpg"
       caption: A monuments guard stands next to Late White paintings attributed to
         Bantu speaking farmers in Tanzania, probably made during the last 700 years.
-        (2013,2034.16797) © TARA/David Coulson
+        2013,2034.16797 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709628
     - sys:
         id: 3z28O8A58AkgMUocSYEuWw
         created_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 6'
       body: |-
         *__Meat-feasting paintings__*:
@@ -510,6 +543,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:23.595000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:19:11.619000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: p4E0BRJzossaus6uUUkuG
@@ -526,6 +560,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:45.427000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:20:14.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1RLyVKKV8MA4KEk4M28wqw
@@ -540,9 +575,10 @@ contentful:
     - sys:
         id: 5UQc80DUBiqqm64akmCUYE
         created_at: !ruby/object:DateTime 2015-11-25 19:15:34.582000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:56:54.946000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:53.936000000 Z
         content_type_id: chapter
-      title: 'Categories: CENTRAL AFRICA'
+        revision: 4
+      title: Central African Rock Art
       title_internal: 'East Africa: regional, chapter 7'
       body: The rock art of central Africa is attributed to hunter-gatherers known
         as Batwa. This term is used widely in eastern central and southern Africa
@@ -560,8 +596,9 @@ contentful:
     - sys:
         id: 4m51rMBDX22msGmAcw8ESw
         created_at: !ruby/object:DateTime 2015-11-25 19:03:40.666000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:17:19.197000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:25.415000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 2MOrR79hMcO2i8G2oAm2ik
@@ -572,14 +609,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/2MOrR79hMcO2i8G2oAm2ik/86179e84233956e34103566035c14b76/2013_2034.15306.jpg"
       caption: Paintings in red and originally in-filled in white cover the underside
         of a rock shelter roof. The art is attributed to central African Batwa; the
-        age of the paintings is uncertain. Lake Victoria, Uganda (2013,2034.15306)  ©
-        TARA/David Coulson
+        age of the paintings is uncertain. Lake Victoria, Uganda. 2013,2034.15306
+        © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691242
     - sys:
         id: 5rNOG3568geMmIEkIwOIac
         created_at: !ruby/object:DateTime 2015-11-25 19:16:07.130000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:16:19.722000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 8'
       body: "*__Engravings__*:\nThere are a few engravings occurring on inland plateaus
         but these have elicited little scientific interest and are not well documented.
@@ -592,8 +630,9 @@ contentful:
     - sys:
         id: LrZuJZEH8OC2s402WQ0a6
         created_at: !ruby/object:DateTime 2015-11-25 19:03:59.496000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:19:05.545000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:51.576000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1uc9hASXXeCIoeMgoOuO4e
@@ -603,13 +642,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
       caption: Group of anthropomorphic stelae with carved faces. Tuto Fela, Southern
-        Ethiopia. © TARA/David Coulson 2013,2034.16206 (not yet uploaded)
+        Ethiopia. 2013,2034.16206 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3703754
     - sys:
         id: 7EBTx1IjKw6y2AUgYUkAcm
         created_at: !ruby/object:DateTime 2015-11-25 19:16:37.210000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:22:04.007000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 9'
       body: In the Sidamo region of Ethiopia, around 50 images of cattle are engraved
         in bas-relief on the wall of a gorge. All the engravings face right and the
@@ -621,6 +661,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:04:34.186000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:22:24.891000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: PlhtduNGSaOIOKU4iYu8A
@@ -638,6 +679,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:17:53.336000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:25:38.678000000 Z
         content_type_id: chapter
+        revision: 3
       title: Rock art in the Horn of Africa
       title_internal: 'East Africa: regional, chapter 10'
       body: "The Horn of Africa has historically been a crossroads area between the
@@ -666,8 +708,9 @@ contentful:
     - sys:
         id: 4XIIE3lDZYeqCG6CUOYsIG
         created_at: !ruby/object:DateTime 2015-11-25 19:04:53.913000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:23:29.512000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:55:12.472000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 3ylztNmm2cYU0GgQuW0yiM
@@ -677,13 +720,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3ylztNmm2cYU0GgQuW0yiM/3be240bf82adfb5affc0d653e353350b/2013_2034.15749.jpg"
       caption: Painted roof of rock shelter  showing decorated cows and human  figures.
-        Laas Geel, Somaliland. 2013,2034.15749. © TARA/David Coulson
+        Laas Geel, Somaliland. 2013,2034.15749 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691391
     - sys:
         id: 2IKYx0YIVOyMSwkU8mQQM
         created_at: !ruby/object:DateTime 2015-11-25 19:18:28.056000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:26:13.401000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 11'
       body: |-
         Rock art in the Horn of Africa faces several challenges. One of them is the lack of consolidated chronologies and absolute dating for the paintings and engravings. Another is the uneven knowledge of rock art throughout the region, with research often affected by political unrest. Therefore, distributions of rock art in the region are steadily growing as research is undertaken in one of the most interactive areas in East Africa.
@@ -695,6 +739,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:08:04.014000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:24:18.659000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: "Anati, E.  1996. ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa*. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14 September.\n\nČerviček, P. 1971.
@@ -742,9 +787,10 @@ contentful:
   - sys:
       id: 2KyCxSpMowae0oksYsmawq
       created_at: !ruby/object:DateTime 2015-11-25 18:32:33.269000000 Z
-      updated_at: !ruby/object:DateTime 2015-12-07 20:51:19.192000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-21 14:57:42.412000000 Z
       content_type_id: thematic
-    title: 'The country of the standing stones: stela in Southern Ethiopia'
+      revision: 5
+    title: 'The Country of the Standing Stones: Stela in Southern Ethiopia'
     slug: country-of-standing-stones
     lead_image:
       sys:
@@ -803,6 +849,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-12 00:55:17.028000000 Z
       updated_at: !ruby/object:DateTime 2017-12-12 00:55:17.028000000 Z
       content_type_id: country_information
+      revision: 1
     title: 'Nigeria: country introduction'
     chapters:
     - sys:
@@ -810,6 +857,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-11-16 17:47:22.283000000 Z
         updated_at: !ruby/object:DateTime 2017-11-17 17:49:16.694000000 Z
         content_type_id: chapter
+        revision: 2
       title: Introduction
       title_internal: 'Nigeria: country, chapter 1'
       body: In general, West Africa is not well known for its painted or engraved
@@ -827,6 +875,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-11-17 17:51:57.172000000 Z
         updated_at: !ruby/object:DateTime 2017-11-17 17:51:57.172000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography and rock art distribution
       title_internal: 'Nigeria: country, chapter 2'
       body: Located in West Africa, the Federal Republic of Nigeria shares land borders
@@ -839,6 +888,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-11-22 15:44:24.402000000 Z
         updated_at: !ruby/object:DateTime 2017-11-22 15:44:24.402000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1wpXiaFLE8kImw6a4O0yO8
@@ -854,6 +904,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-11-22 15:56:27.091000000 Z
         updated_at: !ruby/object:DateTime 2017-11-22 16:05:16.491000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Nigeria: country, chapter 3'
       body: 'Nigeria boasts a variety of landscapes -  mangrove forests and swamps
         border the southern coastline; plains rise to the north of the valleys; rugged
@@ -868,6 +919,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-11-22 16:23:30.974000000 Z
         updated_at: !ruby/object:DateTime 2017-11-22 16:23:30.974000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6EygE2u9DUWkOAmoMayOQQ
@@ -884,6 +936,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-11-22 16:56:06.115000000 Z
         updated_at: !ruby/object:DateTime 2017-11-22 16:56:06.115000000 Z
         content_type_id: chapter
+        revision: 1
       title: History of the research
       title_internal: 'Nigeria: country, chapter 4'
       body: |
@@ -895,6 +948,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 00:29:36.099000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 00:29:36.099000000 Z
         content_type_id: chapter
+        revision: 1
       title: Themes
       title_internal: 'Nigeria: country, chapter 5'
       body: "Painted rock art sites in northern Nigeria are often located adjacent
@@ -921,6 +975,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 00:47:57.513000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 00:47:57.513000000 Z
         content_type_id: chapter
+        revision: 1
       title: Meaning
       title_internal: 'Nigeria: country, chapter 6'
       body: |
@@ -932,6 +987,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 00:49:31.706000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 00:49:31.706000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology
       title_internal: 'Nigeria: country, chapter 7'
       body: Based on the depictions of both long and short-horned humpless cattle
@@ -947,6 +1003,7 @@ contentful:
         created_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
         updated_at: !ruby/object:DateTime 2017-12-12 00:54:17.136000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Akpang, C. E. 2014. ‘Beyond Anthropological and Associational
         discourse- interrogating the minimalism of Ikom Monoliths as concept and found
         object art’, in \n*Global Journal of Arts Humanities and Social Sciences*,

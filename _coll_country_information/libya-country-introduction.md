@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 12:35:54.777000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:42:46.961000000 Z
     content_type_id: country_information
+    revision: 2
   title: 'Libya: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:29:44.896000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:29:44.896000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Libya: country, chapter 1'
     body: 'Rock art occurs in two main areas in Libya: the Tadrart Acacus and the
@@ -30,6 +32,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:26:30.631000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:26:30.631000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 16a6qAimaaWYqcwqUqMKIm
@@ -46,6 +49,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:30:08.049000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:30:08.049000000 Z
       content_type_id: chapter
+      revision: 1
     title: Geography
     title_internal: 'Libya: country, chapter 2'
     body: The fourth largest country in Africa, Libya is located in the Maghreb region
@@ -62,6 +66,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:27:03.984000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:27:03.984000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: YbgSaS84Eu0gE8yKEcI48
@@ -77,6 +82,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:30:46.023000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:30:46.023000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Libya: country, chapter 3'
     body: The Messak rock art has been known to Europeans since Heinrich Barth’s expedition
@@ -93,6 +99,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:31:13.353000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:31:13.353000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology and early rock art
     title_internal: 'Libya: country, chapter 4'
     body: |-
@@ -104,6 +111,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:27:31.261000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:27:31.261000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4eOnyF3wVymkGMgOkmQsYm
@@ -120,6 +128,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:31:36.221000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:31:36.221000000 Z
       content_type_id: chapter
+      revision: 1
     title: Round Head Period
     title_internal: 'Libya: country, chapter 5'
     body: From around 9,000 years ago, the archaeological record in the Acacus changes;
@@ -138,6 +147,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:28:01.442000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:28:01.442000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 2diYKwS63u0MYs8eC4aesU
@@ -154,6 +164,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:32:06.214000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:32:06.214000000 Z
       content_type_id: chapter
+      revision: 1
     title: Pastoral Period
     title_internal: 'Libya: country, chapter 6'
     body: The introduction of domesticates into the region has been identified archaeologically
@@ -167,6 +178,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:28:36.906000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:28:36.906000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 3EDRZDxlckISY0Gc0c44QK
@@ -183,6 +195,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:32:47.033000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 14:42:33.634000000 Z
       content_type_id: chapter
+      revision: 2
     title: Horse and Camel Periods
     title_internal: 'Libya: country, chapter 7'
     body: |-
@@ -194,6 +207,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:29:09.712000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:29:09.712000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4ShhlHTP4A08k6Ck0WmCme
@@ -211,6 +225,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:25:53.864000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:25:53.864000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Brooks, N., I. Chiapello, S. di Lernia, N. Drake, M.Legrand, C. Moulin and J. Pospero. 2005. *The Climate-Environment-Society Nexus in the Sahara from Prehistoric Times to the Present Day*. The Journal of North African Studies, Vol. 10, No 3-4, pp. 253-292
 
