@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 14:54:23.245000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:53:29.640000000 Z
     content_type_id: featured_site
+    revision: 3
   title: Crying cows, Algeria
   slug: crying-cows
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:52:16.750000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:52:16.750000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Algeria: featured site, chapter 1'
     body: At the base of an inselberg at Tegharghart, south of Djanet, is a site that
       has come to be known as ‘Crying Cows’, because of the way teardrops appear to
@@ -28,6 +30,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:50:47.548000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:42:29.513000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6eeWLekeOI6MC2OO8SkAEk
@@ -44,6 +47,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:52:40.114000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:52:40.115000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Algeria: featured site, chapter 2'
     body: |-
       These skilfully engraved images depict long-horned cattle with their heads bowed. Thought to date between 7,000 and 8,000 years ago, today these images stand alone in a vast wilderness of sand and rock. However, this environment was once wetter and more fertile, and this site may have been close to a local watering hole where animals regularly drank and bathed. Indeed, even today during the rains, the depression in the sand at the base of the inselberg fills up with water, which gives the appearance that the cows are bending their heads to drink.
@@ -54,6 +58,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:51:44.418000000 Z
       updated_at: !ruby/object:DateTime 2017-01-06 15:43:21.104000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 4BNQt2lt84WMoouGQgc6G0
@@ -69,6 +74,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:53:00.226000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:53:00.226000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Algeria: featured site, chapter 3'
     body: In artistic terms, the execution of this panel of engraved cows is extremely
       accomplished and testifies to someone who was not only a skilful carver but

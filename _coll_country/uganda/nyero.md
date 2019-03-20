@@ -11,6 +11,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-25 14:47:12.403000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 20:52:00.749000000 Z
     content_type_id: featured_site
+    revision: 3
   title: Nyero, Uganda
   slug: nyero
   chapters:
@@ -19,6 +20,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:38:38.847000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:16:47.887000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Uganda: featured site, chapter 1'
     body: |-
       First documented in 1913 (in the Teso Report&dagger;), the geometric paintings at Nyero are among the most important and well documented rock art sites in Uganda, and are on the Tentative list of UNESCO World Heritage sites&Dagger;.
@@ -31,6 +33,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:28:33.065000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:18:23.508000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 1UsysL5u3ioSim8YKyQ4mS
@@ -46,6 +49,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:39:27.080000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:39:27.080000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Uganda: featured site, chapter 2'
     body: |-
       More recent studies have proposed that the rock art was the work of settled human groups and not early hunter-gatherers. It has been proposed that rock shelters were used by semi-nomadic peoples devoted to animal herding, and used as reference points in the landscape. Generally positioned away from flat land, they may have served to direct herders of cattle and/or goats towards paths and water. The unknown identity of the rock artists makes dating problematic, but some of the paintings may be up to 12,000 years old.
@@ -55,6 +59,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:29:09.297000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:19:01.643000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 4TmZuqmyM8UukoEmU6kUcY
@@ -71,6 +76,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:39:54.020000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:20:18.146000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Uganda: featured site, chapter 3'
     body: |
       __Nyero Rock Art sites:__
@@ -85,6 +91,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:30:29.951000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:20:45.228000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 55q7QQMYVacGSCOEqOMq2q
@@ -100,6 +107,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:31:19.584000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:21:14.609000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 7yIW3zRgn6SEKuyWSW4ao0
@@ -116,6 +124,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:40:37.018000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:40:37.018000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Uganda: featured site, chapter 4'
     body: |
       The paintings are protected from direct rain by the overhang and rocks to the front and sides protect the paintings from the sun, which is likely to have contributed to their preservation. Early users of the shelter placed ritual gifts on its south-eastern side; the tradition of using this space to place money either before or after receiving help from ancestral spirits is continued by the local community.
@@ -128,6 +137,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:36:03.085000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:21:39.949000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: qpeXjLAjUOK6GGOeE8iQK
@@ -143,6 +153,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:41:05.035000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:41:05.035000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Uganda: featured site, chapter 5'
     body: |
       __Nyero 4__
@@ -155,6 +166,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:36:38.229000000 Z
       updated_at: !ruby/object:DateTime 2017-01-24 15:22:17.715000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 66GiQKzNokmUKWM6IKSOeC
@@ -171,6 +183,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:41:27.841000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:41:27.841000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Uganda: featured site, chapter 6'
     body: |
       __Nyero 6__
@@ -183,6 +196,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 14:37:22.101000000 Z
       updated_at: !ruby/object:DateTime 2015-11-25 14:44:11.347000000 Z
       content_type_id: citation
+      revision: 4
     citation_line: |+
       Namono, Catherine. 2010. *Surrogate Surfaces: A contextual interpretive approach to the rock art of Uganda*. Unpublished PhD Thesis. Johannesburg: University of Witwatersrand
 

@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-12-08 11:21:35.564000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 16:56:05.842000000 Z
     content_type_id: country
+    revision: 12
   name: 'Malawi '
   slug: malawi
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=107993%7C107992%7C108205%7C107988%7C107990%7C107989%7C107991%7C107982%7C27049
@@ -14,23 +15,23 @@ contentful:
   - sys:
       id: 3cyuIf03T2A0AsgWwoWcgm
       created_at: !ruby/object:DateTime 2016-07-27 07:46:34.288000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:34.288000000 Z
-    title: MALMPH0070006
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:49:55.624000000 Z
+    title: '2013,2034.20243'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3739870&partId=1&searchText=MALMPH0070006&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/3cyuIf03T2A0AsgWwoWcgm/854c599e052c9ed2e5458ff22437bc17/MALMPH0070006.jpg"
   - sys:
       id: 64o0AnaZnGAiWmaMIImUA8
       created_at: !ruby/object:DateTime 2016-07-27 07:46:34.232000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:34.232000000 Z
-    title: MALTWA0010013
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:50:40.402000000 Z
+    title: '2013,2034.20144'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3738287&partId=1&searchText=MALTWA0010013&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/64o0AnaZnGAiWmaMIImUA8/74fb87e6d78416403b25cc95fe0929ba/MALTWA0010013.jpg"
   - sys:
       id: 5Et44XU3HUQiOeSAY0yIMY
       created_at: !ruby/object:DateTime 2016-07-27 07:46:34.082000000 Z
-      updated_at: !ruby/object:DateTime 2016-07-27 07:46:34.082000000 Z
-    title: MALPHA0010017
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:51:20.705000000 Z
+    title: '2013,2034.20354'
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3733432&partId=1&searchText=MALPHA0010017&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/5Et44XU3HUQiOeSAY0yIMY/0e7c2c118b52323fe13dea781164c232/MALPHA0010017.jpg"
   featured_site:
     sys:
@@ -38,6 +39,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:11.921000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 08:51:26.975000000 Z
       content_type_id: featured_site
+      revision: 5
     title: 'Namzeze, Malawi '
     slug: namzeze
     chapters:
@@ -46,6 +48,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:24.101000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:32:20.393000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Malawi: featured site, chapter 1'
       body: 'Namzeze, one of the most emblematic sites in the Chongoni rock art area,
         is currently one of the three that can be visited and is open to the public.  Unlike
@@ -61,6 +64,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:24.019000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:33:30.093000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1IFNGAi4IkScieYwOmGiMA
@@ -78,6 +82,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.819000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:34:17.661000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3mGBPrPBdYqWW4MUUissms
@@ -94,6 +99,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.189000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:23.189000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Malawi: featured site, chapter 2'
       body: "The superimpositions in the panel above show that the red, schematic
         paintings covering most of the rock face are undoubtedly older than those
@@ -116,6 +122,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.173000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:34:50.814000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 26hf0yyVDWY6MAGWQeiaMY
@@ -132,6 +139,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:23.031000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:23.031000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Malawi: featured site, chapter 3'
       body: The second type of painting found in Namzeze is radically different and
         depicts mainly quadrupeds and birds, as well as some geometric symbols and
@@ -150,6 +158,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.972000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.972000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 1AdufAw4d6U6ioCOEiQyye
@@ -166,6 +175,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.920000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.920000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Malawi: featured site, chapter 4'
       body: 'Regarding the interpretation of the paintings, they are directly related
         to the *nyau*, a secret society of the Chewa and other neighbouring groups
@@ -182,6 +192,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.859000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.859000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 7iE4ypc2QwGUOmSAscwqC8
@@ -198,6 +209,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.733000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 09:05:31.732000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Malawi: featured site, chapter 5'
       body: "In fact, some of the more than 100 types of masks can be easily identified
         in the rock shelters.  The most common is the *kasiyamaliro*, a big structure
@@ -217,6 +229,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.151000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.151000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3oM6s0shy0UgQe8MAgy0GK
@@ -234,6 +247,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.173000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.173000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 2hJ1GBmp4cgOsaYWaCU684
@@ -249,6 +263,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.059000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:22.059000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Malawi: featured site, chapter 6'
       body: "Paintings associated to the *nyau* secret society were used during a
         very specific period of time (before that other styles of white paintings
@@ -269,6 +284,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:22.058000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 10:01:31.562000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: 'Smith, B. 2001. ''Forbidden Images: Rock Paintings and the Nyau
         Secret Society of Central Malawi and Eastern Zambia''. *African Archaeological
         Review, 18 (4)* pp. 187-212'
@@ -293,6 +309,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:45:24.278000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:45:24.278000000 Z
       content_type_id: country_key_facts
+      revision: 1
     title_internal: 'Malawi: Key Facts'
     image_count: '759'
     date_range: 1,000 BC onwards
@@ -305,6 +322,7 @@ contentful:
       created_at: !ruby/object:DateTime 2018-05-09 15:26:39.131000000 Z
       updated_at: !ruby/object:DateTime 2018-05-09 15:28:31.662000000 Z
       content_type_id: thematic
+      revision: 2
     title: Landscapes of Rock Art
     slug: landscapes-of-rock-art
     lead_image:
@@ -383,6 +401,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       updated_at: !ruby/object:DateTime 2017-12-19 12:27:08.508000000 Z
       content_type_id: thematic
+      revision: 1
     title: Introduction to rock art in central and eastern Africa
     slug: rock-art-in-central-and-east-africa
     lead_image:
@@ -399,6 +418,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:09:33.580000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:17:25.155000000 Z
         content_type_id: chapter
+        revision: 4
       title: Central and East Africa
       title_internal: 'East Africa: regional, chapter 1'
       body: |-
@@ -410,6 +430,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 18:57:48.121000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:05:00.916000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3esXNapo5GOWIKSImcY4QW
@@ -425,6 +446,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:23.723000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:18:19.325000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 2'
       body: This collection from Central and East Africa comprises rock art from Kenya,
         Uganda and Tanzania, as well as the Horn of Africa; although predominantly
@@ -434,6 +456,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:10:59.991000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:34:14.653000000 Z
         content_type_id: chapter
+        revision: 3
       title: History of research
       title_internal: 'East Africa: regional, chapter 3'
       body: |-
@@ -443,8 +466,9 @@ contentful:
     - sys:
         id: 35HMFoiKViegWSY044QY8K
         created_at: !ruby/object:DateTime 2015-11-25 18:59:25.796000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:07:03.973000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:25.789000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 6KOxC43Z9mYCuIuqcC8Qw0
@@ -455,14 +479,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/6KOxC43Z9mYCuIuqcC8Qw0/e25141d07f483d0100c4cf5604e3e525/2013_2034.17450.jpg"
       caption: This painting of a large antelope is possibly one of the earliest extant
         paintings. Emmanuel Anati believes similar paintings could be more than 28,000
-        years old. (2013,2034.17450) © TARA/David Coulson
+        years old. 2013,2034.17450 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3711689
     - sys:
         id: 1dSBI9UNs86G66UGSEOOkS
         created_at: !ruby/object:DateTime 2015-12-09 11:56:31.754000000 Z
-        updated_at: !ruby/object:DateTime 2015-12-11 11:21:03.240000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:50:18.203000000 Z
         content_type_id: chapter
-      title: 'Categories: EAST AFRICA'
+        revision: 5
+      title: East African Rock Art
       title_internal: Intro to east africa, chapter 3.5
       body: "Rock art of East Africa consists mainly of paintings, most of which are
         found in central Tanzania, and are fewer in number in eastern Zambia and Malawi;
@@ -490,8 +515,9 @@ contentful:
     - sys:
         id: 7dIhjtbR5Y6u0yceG6y8c0
         created_at: !ruby/object:DateTime 2015-11-25 19:00:07.434000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:08:30.262000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:51:51.887000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1fy9DD4BWwugeqkakqWiUA
@@ -502,13 +528,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1fy9DD4BWwugeqkakqWiUA/9f8f1330c6c0bc0ff46d744488daa152/2013_2034.16849.jpg"
       caption: Three schematic figures formed by the use of multiple thin parallel
         lines. The shape and composition of the heads suggests either headdresses
-        or elaborate hairstyles. Kondoa, Tanzania.(2013,2034.16849)© TARA/David Coulson
+        or elaborate hairstyles. Kondoa, Tanzania. 2013,2034.16849 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709812
     - sys:
         id: 1W573pi2Paks0iA8uaiImy
         created_at: !ruby/object:DateTime 2015-11-25 19:12:00.544000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:21:09.647000000 Z
         content_type_id: chapter
+        revision: 8
       title_internal: 'East Africa: regional, chapter 4'
       body: "Zambian rock art does not share any similarities with Tanzanian rock
         art and can be divided into two categories; animals (with a few depictions
@@ -533,6 +560,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:41.789000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:10:04.890000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1hoZEK3d2Oi8iiWqoWACo
@@ -549,6 +577,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:00:58.494000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:11:37.760000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 3bqDVyvXlS0S6AeY2yEmS8
@@ -565,6 +594,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:14:33.823000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 5'
       body: |-
         *__Late White Paintings__*:
@@ -572,8 +602,9 @@ contentful:
     - sys:
         id: 35dNvNmIxaKoUwCMeSEO2Y
         created_at: !ruby/object:DateTime 2015-11-25 19:01:26.458000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:14:02.819000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:52:15.838000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 6RGZZQ13qMQwmGI86Ey8ei
@@ -583,14 +614,15 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/6RGZZQ13qMQwmGI86Ey8ei/6d37a5bed439caf7a1223aca27dc27f8/2013_2034.16786.jpg"
       caption: Under a long narrow granite overhang, Late White designs including
-        rectangular grids, concentric circles and various ‘square’ shapes. (2013,2034.16786)
+        rectangular grids, concentric circles and various ‘square’ shapes. 2013,2034.16786
         © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709608
     - sys:
         id: 2XW0X9BzFCa8u2qiKu6ckK
         created_at: !ruby/object:DateTime 2015-11-25 19:01:57.959000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-15 17:17:01.270000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:21.559000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 1UT4r6kWRiyiUIYSkGoACm
@@ -601,13 +633,14 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/1UT4r6kWRiyiUIYSkGoACm/fe915c6869b6c195d55b5ef805df7671/2013_2034.16797.jpg"
       caption: A monuments guard stands next to Late White paintings attributed to
         Bantu speaking farmers in Tanzania, probably made during the last 700 years.
-        (2013,2034.16797) © TARA/David Coulson
+        2013,2034.16797 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3709628
     - sys:
         id: 3z28O8A58AkgMUocSYEuWw
         created_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:15:04.047000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'East Africa: regional, chapter 6'
       body: |-
         *__Meat-feasting paintings__*:
@@ -617,6 +650,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:23.595000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:19:11.619000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: p4E0BRJzossaus6uUUkuG
@@ -633,6 +667,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:02:45.427000000 Z
         updated_at: !ruby/object:DateTime 2017-12-15 17:20:14.877000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 1RLyVKKV8MA4KEk4M28wqw
@@ -647,9 +682,10 @@ contentful:
     - sys:
         id: 5UQc80DUBiqqm64akmCUYE
         created_at: !ruby/object:DateTime 2015-11-25 19:15:34.582000000 Z
-        updated_at: !ruby/object:DateTime 2016-12-19 17:56:54.946000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:53:53.936000000 Z
         content_type_id: chapter
-      title: 'Categories: CENTRAL AFRICA'
+        revision: 4
+      title: Central African Rock Art
       title_internal: 'East Africa: regional, chapter 7'
       body: The rock art of central Africa is attributed to hunter-gatherers known
         as Batwa. This term is used widely in eastern central and southern Africa
@@ -667,8 +703,9 @@ contentful:
     - sys:
         id: 4m51rMBDX22msGmAcw8ESw
         created_at: !ruby/object:DateTime 2015-11-25 19:03:40.666000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:17:19.197000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:25.415000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 2MOrR79hMcO2i8G2oAm2ik
@@ -679,14 +716,15 @@ contentful:
         url: "//images.ctfassets.net/xt8ne4gbbocd/2MOrR79hMcO2i8G2oAm2ik/86179e84233956e34103566035c14b76/2013_2034.15306.jpg"
       caption: Paintings in red and originally in-filled in white cover the underside
         of a rock shelter roof. The art is attributed to central African Batwa; the
-        age of the paintings is uncertain. Lake Victoria, Uganda (2013,2034.15306)  ©
-        TARA/David Coulson
+        age of the paintings is uncertain. Lake Victoria, Uganda. 2013,2034.15306
+        © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691242
     - sys:
         id: 5rNOG3568geMmIEkIwOIac
         created_at: !ruby/object:DateTime 2015-11-25 19:16:07.130000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 19:16:19.722000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 8'
       body: "*__Engravings__*:\nThere are a few engravings occurring on inland plateaus
         but these have elicited little scientific interest and are not well documented.
@@ -699,8 +737,9 @@ contentful:
     - sys:
         id: LrZuJZEH8OC2s402WQ0a6
         created_at: !ruby/object:DateTime 2015-11-25 19:03:59.496000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:19:05.545000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:54:51.576000000 Z
         content_type_id: image
+        revision: 5
       image:
         sys:
           id: 1uc9hASXXeCIoeMgoOuO4e
@@ -710,13 +749,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1uc9hASXXeCIoeMgoOuO4e/09a7504449897509778f3b9455a42f8d/2013_2034.16206.jpg"
       caption: Group of anthropomorphic stelae with carved faces. Tuto Fela, Southern
-        Ethiopia. © TARA/David Coulson 2013,2034.16206 (not yet uploaded)
+        Ethiopia. 2013,2034.16206 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3703754
     - sys:
         id: 7EBTx1IjKw6y2AUgYUkAcm
         created_at: !ruby/object:DateTime 2015-11-25 19:16:37.210000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:22:04.007000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 9'
       body: In the Sidamo region of Ethiopia, around 50 images of cattle are engraved
         in bas-relief on the wall of a gorge. All the engravings face right and the
@@ -728,6 +768,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:04:34.186000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:22:24.891000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: PlhtduNGSaOIOKU4iYu8A
@@ -745,6 +786,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:17:53.336000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:25:38.678000000 Z
         content_type_id: chapter
+        revision: 3
       title: Rock art in the Horn of Africa
       title_internal: 'East Africa: regional, chapter 10'
       body: "The Horn of Africa has historically been a crossroads area between the
@@ -773,8 +815,9 @@ contentful:
     - sys:
         id: 4XIIE3lDZYeqCG6CUOYsIG
         created_at: !ruby/object:DateTime 2015-11-25 19:04:53.913000000 Z
-        updated_at: !ruby/object:DateTime 2017-12-19 12:23:29.512000000 Z
+        updated_at: !ruby/object:DateTime 2019-03-19 14:55:12.472000000 Z
         content_type_id: image
+        revision: 4
       image:
         sys:
           id: 3ylztNmm2cYU0GgQuW0yiM
@@ -784,13 +827,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3ylztNmm2cYU0GgQuW0yiM/3be240bf82adfb5affc0d653e353350b/2013_2034.15749.jpg"
       caption: Painted roof of rock shelter  showing decorated cows and human  figures.
-        Laas Geel, Somaliland. 2013,2034.15749. © TARA/David Coulson
+        Laas Geel, Somaliland. 2013,2034.15749 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=3691391
     - sys:
         id: 2IKYx0YIVOyMSwkU8mQQM
         created_at: !ruby/object:DateTime 2015-11-25 19:18:28.056000000 Z
         updated_at: !ruby/object:DateTime 2015-12-11 11:26:13.401000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'East Africa: regional, chapter 11'
       body: |-
         Rock art in the Horn of Africa faces several challenges. One of them is the lack of consolidated chronologies and absolute dating for the paintings and engravings. Another is the uneven knowledge of rock art throughout the region, with research often affected by political unrest. Therefore, distributions of rock art in the region are steadily growing as research is undertaken in one of the most interactive areas in East Africa.
@@ -802,6 +846,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 19:08:04.014000000 Z
         updated_at: !ruby/object:DateTime 2017-12-19 12:24:18.659000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: "Anati, E.  1996. ‘Cultural Patterns in the Rock Art of Central
         Tanzania.’ in *The Prehistory of Africa*. XIII International Congress of Prehistoric
         and Protohistoric Sciences Forli-Italia-8/14 September.\n\nČerviček, P. 1971.
@@ -852,6 +897,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-07-27 07:44:27.867000000 Z
       updated_at: !ruby/object:DateTime 2016-07-27 07:44:27.867000000 Z
       content_type_id: country_information
+      revision: 1
     title: 'Malawi: country introduction'
     chapters:
     - sys:
@@ -859,6 +905,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.966000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.966000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Malawi: country, chapter 1'
       body: "Malawi is a landlocked country in south-eastern Africa, located between
@@ -876,6 +923,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.937000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.937000000 Z
         content_type_id: chapter
+        revision: 1
       title: Geography and rock art distribution
       title_internal: 'Malawi: country, chapter 2'
       body: 'The geography of Malawi is conditioned by the Great Rift Valley, which
@@ -893,6 +941,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.761000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.761000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: pDDj71RyBUyqiqsouEeew
@@ -908,6 +957,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.150000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.150000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Malawi: country, chapter 3'
       body: 'Although rock art can be found in several areas in Malawi, the main concentration
         of sites is located in the Chongoni area, in the westernmost part of central
@@ -927,6 +977,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.218000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.218000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3lEqMHYBwIse0EmgGkOygW
@@ -943,6 +994,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.145000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.145000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Malawi: country, chapter 4'
       body: 'Rock art in Malawi has been documented by Europeans since at least the
@@ -964,8 +1016,9 @@ contentful:
     - sys:
         id: 1JMW93aEcQSEcwcG06gg6y
         created_at: !ruby/object:DateTime 2016-07-27 07:45:21.025000000 Z
-        updated_at: !ruby/object:DateTime 2016-07-27 07:45:21.025000000 Z
+        updated_at: !ruby/object:DateTime 2018-09-19 14:56:42.286000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2OXCOlKLfWO4yUYMc6YiOK
@@ -975,13 +1028,14 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/2OXCOlKLfWO4yUYMc6YiOK/0446391cb8c39e21a2baeca5d2566522/MALDED0090006.jpg"
       caption: Rock Art panel with multitude of red geometric signs. Nthulu, Chongoni
-        Hills.  2013,2034.20005 © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3733693&partId=1
+        Hills.  2013,2034.20003 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3733695&partId=1&searchText=2013,2034.20003&page=1
     - sys:
         id: 5lHiHzAofecm6YEEG8YGOu
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.950000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.950000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Malawi: country, chapter 5'
       body: 'Another important aspect of rock art research in Malawi has been to look
         at the maintenance of painting traditions until relatively recent times. These
@@ -996,6 +1050,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.830000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.830000000 Z
         content_type_id: chapter
+        revision: 1
       title: 'Themes '
       title_internal: 'Malawi: country, chapter 6'
       body: 'Rock art in Malawi is clearly defined in two groups with different styles,
@@ -1015,6 +1070,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.783000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:55:24.416000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2D4MCayW9iK0Oi00QGWsIq
@@ -1031,6 +1087,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.069000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 08:56:52.968000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Malawi: country, chapter 7'
       body: 'The second and more modern rock art tradition found in Malawi is represented
         by white figures made with white clay daubed onto rock surfaces with the finger.
@@ -1053,6 +1110,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.051000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.051000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 3jS61b3w2AMEwogGu2CoEI
@@ -1070,6 +1128,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:20.009000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 07:45:20.009000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology
       title_internal: 'Malawi: country, chapter 8'
       body: 'Although it is generally accepted that the red schematic paintings are
@@ -1087,6 +1146,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.940000000 Z
         updated_at: !ruby/object:DateTime 2017-01-24 16:28:33.674000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2xzgTrXwqQKa0Wa0w6K06k
@@ -1105,6 +1165,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-07-27 07:45:19.885000000 Z
         updated_at: !ruby/object:DateTime 2016-07-27 10:02:45.154000000 Z
         content_type_id: citation
+        revision: 2
       citation_line: "Lindgren, N.E. & Schoffeleers, J.M. 1978. 'Rock art and nyau
         symbolism in Malawi'  *Malawi Government, Department of Antiquities 18.* Malawi,
         Montfort Press  \n\nSmith, B.W. 1995.  'Rock art in south-Central Africa:

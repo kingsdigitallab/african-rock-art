@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2018-05-10 14:12:25.736000000 Z
     updated_at: !ruby/object:DateTime 2018-05-10 14:42:15.905000000 Z
     content_type_id: thematic
+    revision: 2
   title: Introduction to rock art in southern Africa
   slug: rock-art-in-southern-africa
   lead_image:
@@ -21,6 +22,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:01:39.329000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:09:20.849000000 Z
       content_type_id: chapter
+      revision: 6
     title_internal: 'Southern Africa: regional, chapter 1'
     body: |+
       The southern African countries of Zimbabwe, South Africa, Lesotho, Swaziland, Mozambique, Botswana and Namibia contain thousands of rock art sites and southern African rock art has been studied extensively.  Due to perceived similarities in subject matter, even across great distances, much southern African rock art has been ascribed to hunter-gatherer painters and engravers who appear to have had a shared set of cultural references.  These have been linked with beliefs and practices which remain common to modern San&#124;Bushman¹ people, a number of traditional hunter-gatherer groups who continue to live in Southern Africa, principally in Namibia, Botswana and South Africa.  There are, however, differences in style and technique between regions, and various rock art traditions are attributed to other cultural groups and their ancestors.  As is often the case with rock art, the accurate attribution of authorship, date and motivation is difficult to establish, but the rock art of this region continues to be studied and the richness of the material in terms of subject matter, as well as in the context of the archaeological record, has much to tell us, both about its own provenance and the lives of the people who produced it.
@@ -31,6 +33,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:02:04.241000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:09:49.095000000 Z
       content_type_id: chapter
+      revision: 2
     title: Geography and distribution
     title_internal: 'Southern Africa: regional, chapter 2'
   - sys:
@@ -38,6 +41,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:02:27.584000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:10:55.925000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 4RBHhRPKHC2s6yWcEeWs0c
@@ -54,6 +58,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:02:41.530000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:11:21.260000000 Z
       content_type_id: chapter
+      revision: 3
     title_internal: 'Southern Africa: regional, chapter 3'
     body: 'There is wide variation in the physical environments of southern Africa,
       ranging from the rainforests of Mozambique to the arid Namib Desert of western
@@ -74,6 +79,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:03:04.486000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:11:57.877000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 1hXbvhDSf2CmOss6ec0CsS
@@ -90,6 +96,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:03:14.736000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:12:17.831000000 Z
       content_type_id: chapter
+      revision: 5
     title: Types of rock art
     title_internal: 'Southern Africa: regional, chapter 4'
     body: "Rock art of the type associated with hunter-gatherers is perhaps the most
@@ -119,6 +126,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:22:13.102000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:12:40.860000000 Z
       content_type_id: image
+      revision: 4
     image:
       sys:
         id: 20oHYa0oEcSEMOyM8IcCcO
@@ -136,6 +144,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:03:40.877000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:13:26.231000000 Z
       content_type_id: chapter
+      revision: 9
     title_internal: 'Southern Africa: regional, chapter 5'
     body: "Hunter-gatherer rock paintings are found in particular concentrations in
       the Drakensberg-Maloti and Cape Fold Mountains in South Africa and Lesotho,
@@ -165,6 +174,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:03:57.014000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:13:43.550000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6QHTRqNGXmWic6K2cQU8EA
@@ -181,6 +191,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:24:14.217000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:17:20.511000000 Z
       content_type_id: chapter
+      revision: 5
     title_internal: 'Southern Africa: regional, chapter 6'
     body: "This kind of imagery is found in a variety of styles, and some of those
       producing ‘contact’ images in the Cape may have been people of Khoekhoen heritage.
@@ -195,6 +206,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:04:05.564000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:17:47.538000000 Z
       content_type_id: chapter
+      revision: 6
     title: History of research
     title_internal: 'Southern Africa: regional, chapter 7'
     body: 'The first known reports of African rock art outside of the continent appear
@@ -219,6 +231,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:04:30.652000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:18:07.313000000 Z
       content_type_id: image
+      revision: 3
     image:
       sys:
         id: 3BLPJ6SPMcccCE2qIG4eQG
@@ -235,6 +248,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:04:37.305000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:18:34.546000000 Z
       content_type_id: chapter
+      revision: 4
     title: Interpretation
     title_internal: 'Southern Africa: regional, chapter 8'
     body: Rather than showing scenes from daily life, as was once assumed, it is now
@@ -253,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:04:53.447000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:19:08.779000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5Zk1QhSjEAOy8U6kK4yS4c
@@ -271,6 +286,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:05:00.899000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:19:37.565000000 Z
       content_type_id: chapter
+      revision: 4
     title_internal: 'Southern Africa: regional, chapter 9'
     body: "The rock art attributed to ancestral San&#124;Bushman hunter-gatherers
       has many varied motifs, some of which may also relate to specific themes such
@@ -306,6 +322,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:05:15.123000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:21:01.026000000 Z
       content_type_id: image
+      revision: 5
     image:
       sys:
         id: ETDpJFg6beKyyOmQGCsKI
@@ -323,6 +340,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:05:22.665000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:21:16.059000000 Z
       content_type_id: chapter
+      revision: 6
     title: Dating
     title_internal: 'Southern Africa: regional, chapter 10'
     body: "Although dating rock art is always difficult, the study of rock art sites
@@ -356,6 +374,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:05:38.418000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:25:17.372000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 58V5qef3pmMGu2aUW4mSQU
@@ -372,6 +391,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-09-13 13:28:16.189000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:25:44.294000000 Z
       content_type_id: chapter
+      revision: 2
     title_internal: 'Southern Africa: regional, chapter 11'
     body: "¹ San&#124;Bushmen is a collective term used to describe the many different
       hunter-gatherer-fisher groups living in southern Africa who have related languages
@@ -384,6 +404,7 @@ contentful:
       created_at: !ruby/object:DateTime 2016-10-17 10:45:36.418000000 Z
       updated_at: !ruby/object:DateTime 2018-05-10 14:39:37.963000000 Z
       content_type_id: citation
+      revision: 2
     citation_line: |+
       Campbell, A., Robbins, L. and Taylor, M. 2010. Tsodilo Hills: Copper Bracelet of the Kalahari. East Lansing: Michigan State University Press.
 

@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 18:54:03.919000000 Z
     updated_at: !ruby/object:DateTime 2018-05-17 17:03:29.064000000 Z
     content_type_id: country
+    revision: 9
   name: Mauritania
   slug: mauritania
   col_url: http://www.britishmuseum.org/research/collection_online/search.aspx?people=197356&place=17542
@@ -14,30 +15,30 @@ contentful:
   - sys:
       id: 6a9PIc2PD2GoSys6umKim
       created_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:15:13.181000000 Z
     title: '2013,2034.12277'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645968&partId=1&searchText=2013,2034.12277&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/6a9PIc2PD2GoSys6umKim/df4fd71d342462545f28c306a798de62/2013_2034.12277.jpg"
   - sys:
       id: 5u1VecbrbOq4cCICyqiOAw
       created_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
-    title: '2013,2034.12421'
-    description: 
+      updated_at: !ruby/object:DateTime 2019-02-12 01:20:04.418000000 Z
+    title: '2013,2034.12427'
+    description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646352&partId=1&searchText=2013,2034.12427&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/5u1VecbrbOq4cCICyqiOAw/c4223338beae42378b3c34f8ab1b5a8e/2013_2034.12421.jpg"
   - sys:
       id: W4EibqP766CYAamWyqkQK
       created_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:21:05.070000000 Z
     title: '2013,2034.12332'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646132&partId=1&searchText=2013,2034.12332&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/W4EibqP766CYAamWyqkQK/523fee62695a3de60ff7940899dfaaf1/2013_2034.12332.jpg"
   - sys:
       id: 4zNeoXAAesUaCGoaSic6qO
       created_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
+      updated_at: !ruby/object:DateTime 2019-02-12 01:21:40.547000000 Z
     title: '2013,2034.12285'
-    description: 
+    description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645983&partId=1&searchText=2013,2034.12285&page=1
     url: "//images.ctfassets.net/xt8ne4gbbocd/4zNeoXAAesUaCGoaSic6qO/97398e8ebe5bd8be1adf57f450a72e08/2013_2034.12285.jpg"
   featured_site:
     sys:
@@ -45,6 +46,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-25 16:34:24.351000000 Z
       updated_at: !ruby/object:DateTime 2015-12-08 14:43:50.662000000 Z
       content_type_id: featured_site
+      revision: 4
     title: Guilemsi, Mauritania
     slug: guilemsi
     chapters:
@@ -53,6 +55,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:28:56.057000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:28:56.057000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 1'
       body: A significant concentration of rock art in Mauritania is in the region
         of Guilemsi, an 11-km long ridge, about 70 m high at its highest point. Guilemsi
@@ -66,8 +69,9 @@ contentful:
     - sys:
         id: 68H1B3nwreqsiWmGqa488G
         created_at: !ruby/object:DateTime 2015-11-25 16:21:40.277000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:21:40.277000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 14:31:27.636000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1uRo8OtMas0sE0uiOUSIok
@@ -76,14 +80,15 @@ contentful:
         title: '2013,2034.12416'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1uRo8OtMas0sE0uiOUSIok/71ebc908be14899de348803b21cddc31/2013_2034.12416.jpg"
-      caption: Fig. 1. Painted human figure on horseback, from Fig. 10. Guilemsi,
-        Tadrart, Mauritania, 2013,2034.12416 © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646314&partId=1&searchText=2013,2034.12416&page=1
+      caption: Painted human figure on horseback. Guilemsi, Tadrart, Mauritania, 2013,2034.12418
+        © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646307&partId=1&searchText=2013,2034.12418&page=1
     - sys:
         id: 6MRt7S2BckWkaGcGW4iEMY
         created_at: !ruby/object:DateTime 2015-11-25 16:29:11.911000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:29:11.911000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 2'
       body: There are many stone constructions at Guilemsi that have been known to
         archaeologists for decades, although they have not received the academic attention
@@ -99,8 +104,9 @@ contentful:
     - sys:
         id: 2uYbn8i2oQQEcu4gMYyKCQ
         created_at: !ruby/object:DateTime 2015-11-25 16:22:17.768000000 Z
-        updated_at: !ruby/object:DateTime 2017-01-09 16:46:44.250000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 14:32:15.715000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 5MkqJUXrj2o4e8SmweeoW2
@@ -109,14 +115,15 @@ contentful:
         title: '2013,2034.12357'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/5MkqJUXrj2o4e8SmweeoW2/92eeb35eb7e827596e213cd06cf9fe4a/2013_2034.12357.jpg"
-      caption: Fig. 2. View looking South from the West summit on the sandstone ridge
-        of Guilemsi, Tagant, Mauritania. 2013,2034.12357 © TARA/David Coulson
+      caption: View looking South from the West summit on the sandstone ridge of Guilemsi,
+        Tagant, Mauritania. 2013,2034.12357 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646542&partId=1&searchText=2013,2034.12357&page=1
     - sys:
         id: 1CiJq8i5liqkImaM4mEWe
         created_at: !ruby/object:DateTime 2015-11-25 16:29:28.225000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:29:28.226000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 3'
       body: The Tichitt Tradition is characterised by dry stonewall remains, and these
         are found at Guilemsi, although the extent of the connection with the Tichitt
@@ -128,8 +135,9 @@ contentful:
     - sys:
         id: 1blgrBPnEoSKqeCASmUgGI
         created_at: !ruby/object:DateTime 2015-11-25 16:22:58.090000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:22:58.090000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 14:32:49.841000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 7yy2sbn6PCoeuqyQOAgcA8
@@ -138,14 +146,15 @@ contentful:
         title: '2013,2034.12494'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/7yy2sbn6PCoeuqyQOAgcA8/0914de8f403684d18accff0284017210/2013_2034.12494.jpg"
-      caption: Fig. 3. Stonewall remains, Guilemsi, Tagant, Mauritania. 2013,2034.
-        12494 © David Coulson/TARA
+      caption: Stonewall remains, Guilemsi, Tagant, Mauritania. 2013,2034. 12494 ©
+        David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646554&partId=1&searchText=2013,2034.12494&page=1
     - sys:
         id: 2d8TB564qE4E6yw6I0MG2A
         created_at: !ruby/object:DateTime 2015-11-25 16:29:44.594000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:29:44.594000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 4'
       body: The rock art at Guilemsi appears to be all painted, which marks a contrast
         to Tichitt sites which more often feature engraved rock art. The only non-painted
@@ -158,8 +167,9 @@ contentful:
     - sys:
         id: 1pP6kJroQ4C2CYAim6KGQy
         created_at: !ruby/object:DateTime 2015-11-25 16:23:33.025000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:23:33.025000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 14:33:17.453000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6uIYZ0iOROas4Uqo4u4UyW
@@ -168,14 +178,15 @@ contentful:
         title: '2013,2034.12382'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/6uIYZ0iOROas4Uqo4u4UyW/3215c1e93f536598e0a14be6fcecfa82/2013_2034.12382.jpg"
-      caption: Fig .4. Paint handprints on rock shelter wall, Guilemsi, Tagant, Mauritania.
+      caption: Paint handprints on rock shelter wall, Guilemsi, Tagant, Mauritania.
         2013,2034.12382 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646167&partId=1&searchText=2013,2034.12382&page=1
     - sys:
         id: 3exPT8hfMAQ2SUIeGqKgSU
         created_at: !ruby/object:DateTime 2015-11-25 16:24:09.355000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:24:09.355000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 14:34:51.120000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2QrzxNR1jq4w8EO2KEUUoE
@@ -184,13 +195,15 @@ contentful:
         title: '2013,2034.12421'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/2QrzxNR1jq4w8EO2KEUUoE/10c62c938cb1ed9f9b6d25edf4d17205/2013_2034.12421.jpg"
-      caption: Fig. 5. Painted heads of seven antelope (oryx?), rock shelter wall,
-        Guilemsi, Tagant, Mauritania. 2013,2034.12421 © TARA/David Coulson
+      caption: Painted heads of seven antelope (oryx?), rock shelter wall, Guilemsi,
+        Tagant, Mauritania. 2013,2034.12427 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646352&partId=1&searchText=Painted+heads+of+seven+antelope+&page=1
     - sys:
         id: 3Q3fT8FApyQooa8cikOkiU
         created_at: !ruby/object:DateTime 2015-11-25 16:30:05.118000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:30:05.118000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 5'
       body: 'Cattle, perhaps the most common animal subject in Mauritanian rock art,
         are also depicted here, notably in another singular scene: one of an otherwise
@@ -205,8 +218,9 @@ contentful:
     - sys:
         id: 2WJOpXkkG4C4sce8wkcE4U
         created_at: !ruby/object:DateTime 2015-11-25 16:24:46.144000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:24:46.144000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 15:03:22.300000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 32ojd6nNewwy8qSU0kuYYk
@@ -215,14 +229,15 @@ contentful:
         title: '2013,2034.12381'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/32ojd6nNewwy8qSU0kuYYk/3328ca79a097f10fe9b125c43352c0a8/2013_2034.12381.jpg"
-      caption: Fig. 6. Painted bichrome cow, cave wall, Guilemsi, Tagant, Mauritania.
-        2013,2034.12381 © TARA/David Coulson
+      caption: Painted bichrome cow, cave wall, Guilemsi, Tagant, Mauritania. 2013,2034.12381
+        © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646170&partId=1&searchText=2013,2034.12381+&page=1
     - sys:
         id: Z2iJHm63qoW8e8wsAqCAK
         created_at: !ruby/object:DateTime 2015-11-25 16:25:17.499000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:25:17.499000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 15:04:00.340000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3Z70aGhdUsOCKyWyK6u8eE
@@ -231,14 +246,15 @@ contentful:
         title: '2013,2034.12449'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3Z70aGhdUsOCKyWyK6u8eE/c818ef2eba7505c159c231e4aa35ad4a/2013_2034.12449.jpg"
-      caption: Fig. 7. Two schematic painted cattle, Guilemsi, Tagant, Mauritania.
-        2013,2034.12449 © TARA/David Coulson
+      caption: Two schematic painted cattle, Guilemsi, Tagant, Mauritania. 2013,2034.12449
+        © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3647071&partId=1&searchText=2013,2034.12449&page=1
     - sys:
         id: 56Ia1KTWDKwuw0ekagww6K
         created_at: !ruby/object:DateTime 2015-11-25 16:30:23.129000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:30:23.129000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 6'
       body: 'Two of the most impressive panels of paintings from Guilemsi involve
         not cattle but another important domesticate: ridden horses. There is evidence
@@ -258,8 +274,9 @@ contentful:
     - sys:
         id: 6mPD0Om12wAcaOmOiaumYk
         created_at: !ruby/object:DateTime 2015-11-25 16:25:53.929000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:25:53.929000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 15:04:24.323000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2CFj8amCm8aMkkmQ0emk0o
@@ -268,14 +285,15 @@ contentful:
         title: '2013,2034.12474'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/2CFj8amCm8aMkkmQ0emk0o/c4ea95ada7f53b9ffb0c43bb6f412b8f/2013_2034.12474.jpg"
-      caption: Fig. 8. Painted figures of contorted cow and human figure, and regularly-proportioned
+      caption: Painted figures of contorted cow and human figure, and regularly-proportioned
         cow, Guilemsi, Tagant, Mauritania. 2013,2034.12474 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646484&partId=1&searchText=2013,2034.12474+&page=1
     - sys:
         id: 2da6EUC7TC6wSWGAOwQaAO
         created_at: !ruby/object:DateTime 2015-11-25 16:26:22.515000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:26:22.515000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 15:04:47.280000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 58CHInxW4wagKgwCAsWcqY
@@ -284,14 +302,15 @@ contentful:
         title: '2013,2034.12411'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/58CHInxW4wagKgwCAsWcqY/f1370f3f0700aaae60918abb3821cb22/2013_2034.12411.jpg"
-      caption: Fig. 9. Painted figures of mounted horses on cave wall, Guilemsi, Tagant,
-        Mauritania. 2013,2034.12411 © TARA/David Coulson
+      caption: Painted figures of mounted horses on cave wall, Guilemsi, Tagant, Mauritania.
+        2013,2034.12411 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646326&partId=1&searchText=2013,2034.12411+&page=1
     - sys:
         id: 4UfKI7DmWA4A4eqocC0iMG
         created_at: !ruby/object:DateTime 2015-11-25 16:26:54.429000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:26:54.429000000 Z
+        updated_at: !ruby/object:DateTime 2018-08-23 15:05:23.813000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3nZtTK8uIEc2MqGAqQC8c6
@@ -300,15 +319,16 @@ contentful:
         title: '2013,2034.12454'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3nZtTK8uIEc2MqGAqQC8c6/c36ab38978b6ccdc3ff693edeeb20091/2013_2034.12454.jpg"
-      caption: Fig. 10. Three painted “bi-triangular” schematic horses and riders,
-        with white geometric shape and several unidentified figures. Guilemsi, Tagant,
-        Mauritania. 2013,2034.12454 © TARA/David Coulson
+      caption: Three painted “bi-triangular” schematic horses and riders, with white
+        geometric shape and several unidentified figures. Guilemsi, Tagant, Mauritania.
+        2013,2034.12454 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3648285&partId=1&searchText=2013,2034.12454&page=1
     - sys:
         id: 16gHbuP8Hqo4KwCQK0sWeI
         created_at: !ruby/object:DateTime 2015-11-25 16:30:45.101000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:30:45.101000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 7'
       body: Another very interesting tableau is that in Fig. 11, which is to the right
         of the panel in Fig. 9, but in executed in a very different style. It appears
@@ -321,8 +341,9 @@ contentful:
     - sys:
         id: 60nybfnB4cmoOaIQq8sWkC
         created_at: !ruby/object:DateTime 2015-11-25 16:27:25.377000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-25 16:27:25.377000000 Z
+        updated_at: !ruby/object:DateTime 2018-09-17 17:56:58.326000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1EGPJpRMnmuk6Y6c0Qigos
@@ -331,15 +352,16 @@ contentful:
         title: '2013,20134.12436'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/1EGPJpRMnmuk6Y6c0Qigos/332e9d6c97776b73a42854cff4ea81b4/2013_20134.12436.jpg"
-      caption: Fig. 11. Painted figures of mounted horses with armed riders, two armed
-        human figures on foot, several prone human figures, with possible mounted
-        cow at lower right. Guilemsi, Tagant, Mauritania. 2013,20134.12436 © TARA/David
-        Coulson
+      caption: Painted figures of mounted horses with armed riders, two armed human
+        figures on foot, several prone human figures, with possible mounted cow at
+        lower right. Guilemsi, Tagant, Mauritania. 2013,20134.12424 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646333&partId=1&searchText=Guilemsi,+Tagant&&page=2
     - sys:
         id: 41eYfH850QI2GswScg6uE8
         created_at: !ruby/object:DateTime 2015-11-25 16:31:05.524000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:31:05.524000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: featured site, chapter 8'
       body: |-
         It has been suggested that the painting of the horse scenes, in line with similar images from other rock art traditions, may be a cathartic spiritual exercise made, possibly by victims of raids, in response to violent intercultural contact. However as with the other images, without an accurate way of scientifically dating such paintings, it is hard to know exactly when they were painted and therefore difficult to propose of or by whom, much less ascribe motivations. Stone tools and the remains of iron smelting activity at Guilemsi suggest successive occupations, possibly over a long period.
@@ -351,6 +373,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-25 16:28:18.975000000 Z
         updated_at: !ruby/object:DateTime 2015-11-25 16:28:18.975000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Challis, W., Campbell, A., Coulson, D., & Keenan, J., *Funerary Monuments and Horse Paintings: A Preliminary Report on the Archaeology of a Site in the Tagant Region of South East Mauritania- Near Dhar Tichitt*. The journal of North African Studies, Vol. 10, No. 3-4, pp. 459-470
 
@@ -376,6 +399,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 11:26:24.685000000 Z
       updated_at: !ruby/object:DateTime 2017-11-17 17:32:32.000000000 Z
       content_type_id: country_key_facts
+      revision: 2
     title_internal: 'Mauritania: key facts'
     image_count: '208 images '
     date_range: Mostly 3,000 BC onwards
@@ -388,6 +412,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 18:11:30.861000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:51:34.879000000 Z
       content_type_id: thematic
+      revision: 4
     title: The domesticated horse in northern African rock art
     slug: the-domesticated-horse
     lead_image:
@@ -404,6 +429,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:00:19.777000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 1'
       body: Throughout northern Africa, there is a wealth of rock art depicting the
         domestic horse and its various uses, providing valuable evidence for the uses
@@ -414,6 +440,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:52:26.605000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:39:29.412000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: n2MxgdjbMW2gm0IoOKkCU
@@ -430,6 +457,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:00:49.116000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:40:28.446000000 Z
         content_type_id: chapter
+        revision: 2
       title: Horses and chariots
       title_internal: 'Thematic: horse, chapter 2'
       body: The first introduction of the domestic horse to Ancient Egypt- and thereby
@@ -448,6 +476,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:52:52.323000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:40:52.214000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1AZD3AxiUwwoYUWSWY8MGW
@@ -464,6 +493,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:01:15.173000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 3'
       body: 'Some of the most renowned images of horses in Saharan rock art are also
         those of chariot teams: in particular, those of the so-called ‘flying gallop’
@@ -485,6 +515,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:53:42.845000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:41:33.841000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6N6BF79qk8EUygwkIgwcce
@@ -502,6 +533,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:01:48.835000000 Z
         content_type_id: chapter
+        revision: 1
       title: Horse Riding
       title_internal: 'Thematic: horse, chapter 4'
       body: As well as the unique iconography of rock art chariot depictions, there
@@ -519,6 +551,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:54:23.846000000 Z
         updated_at: !ruby/object:DateTime 2018-05-15 16:41:52.743000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4NdhGNLc9yEck4My4uQwIo
@@ -536,6 +569,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:54:43.227000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:12:34.068000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1tpjS4kZZ6YoeiWeIi8I4C
@@ -552,6 +586,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:02:13.433000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:14:56.468000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: horse, chapter 5'
       body: Traditional chronologies for Saharan rock art areas tend to place depictions
         of ridden horses chronologically after those of horses and chariots, and in
@@ -576,6 +611,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:55:29.704000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:32:44.364000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 6quML2y0nuYgSaeG0GGYy4
@@ -592,6 +628,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:02:41.576000000 Z
         content_type_id: chapter
+        revision: 1
       title: Berber Horses
       title_internal: 'Thematic: horse, chapter 6'
       body: As the more manoeuvrable rider rose in popularity against the chariot
@@ -610,6 +647,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:56:24.617000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:16:52.557000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: uOFcng0Q0gU8WG8kI2kyy
@@ -628,6 +666,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:03:14.279000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 7'
       body: 'Certainly, from the 14th century AD, horses became a key commodity in
         trans-Saharan trade routes and became items of great military value in West
@@ -642,6 +681,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:56:57.851000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:29:02.520000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5MaSKooQvYssI4us8G0MyO
@@ -659,6 +699,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:03:32.195000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:29:50.228000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: horse, chapter 8'
       body: 'Another intriguing possibility is that of gaining clues on the origins
         of modern horse breeds from rock art, in particular the ancient Barb breed
@@ -680,6 +721,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:57:25.145000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:30:30.915000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6ZmNhZjLCoQSEIYKIYUUuk
@@ -697,6 +739,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 17:57:49.497000000 Z
         updated_at: !ruby/object:DateTime 2018-05-16 11:33:55.443000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5mbJWrbZV6aQQOyamKMqIa
@@ -713,6 +756,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:04:02.770000000 Z
         content_type_id: chapter
+        revision: 1
       title: The symbolism of the horse
       title_internal: 'Thematic: horse, chapter 9'
       body: However, caution must be taken in drawing such comparisons based on morphology
@@ -726,8 +770,9 @@ contentful:
     - sys:
         id: 1FRP1Z2hyQEWUSOoKqgic2
         created_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:58:21.234000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:41:39.821000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4EatwZfN72waIquQqWEeOs
@@ -736,14 +781,15 @@ contentful:
         title: '2013,2034.11147'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/4EatwZfN72waIquQqWEeOs/d793f6266f2ff486e0e99256c2c0ca39/2013_2034.11147.jpg"
-      caption: Fig. 11. Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte,
-        Western Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
+      caption: Engraved ‘Libyan Warrior-style’ figure with horse. Indakatte, Western
+        Aïr Mountains, Niger. 2013,2034.11147 © TARA/David Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637713&partId=1&people=197356&museumno=2013,2034.11147+&page=1
     - sys:
         id: 45pI4ivRk4IM6gaG40gUU0
         created_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:58:41.308000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:41:59.784000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2FcYImmyd2YuqMKQMwAM0s
@@ -752,13 +798,14 @@ contentful:
         title: Fig. 12. Human figure
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/2FcYImmyd2YuqMKQMwAM0s/e48fda8e2a23b12e6afde5c560c3f164/Fig._12._Human_figure.jpg"
-      caption: Fig. 12. Human figure painted over by horse to appear mounted (digitally
-        enhanced image). © TARA/David Coulson
+      caption: Human figure painted over by horse to appear mounted (digitally enhanced
+        image). © TARA/David Coulson
     - sys:
         id: 54hoc6Htwck8eyewsa6kA8
         created_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 18:04:26.929000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Thematic: horse, chapter 10'
       body: The nature of the depictions in this sense speaks intriguingly of the
         apparent symbolism and implied value of the horse image in different cultural
@@ -772,8 +819,9 @@ contentful:
     - sys:
         id: 4XMm1Mdm7Y0QacMuy44EKa
         created_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:59:06.184000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:42:27.444000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 21xnJrk3dKwW6uSSkGumMS
@@ -782,14 +830,15 @@ contentful:
         title: '2013,2034.6297'
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/21xnJrk3dKwW6uSSkGumMS/698c254a9a10c5a9a56d69e0525bca83/2013_2034.6297.jpg"
-      caption: Fig. 13. Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297
-        © TARA/David Coulson
+      caption: Engraved horse, Niola Doa, Ennedi Plateau, Chad. 2013,2034.6297 © TARA/David
+        Coulson
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3637529&partId=1&people=197356&museumno=2013,2034.6297&page=1
     - sys:
         id: 4rB9FCopjOCC4iA2wOG48w
         created_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:59:26.549000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:43:34.211000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3PfHuSbYGcqeo2U4AEKsmM
@@ -798,23 +847,25 @@ contentful:
         title: Fig. 14. Engraved horse
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3PfHuSbYGcqeo2U4AEKsmM/33a068fa954954fd3b9b446c943e0791/Fig._14._Engraved_horse.jpg"
-      caption: Fig. 14. Engraved horse, Eastern Aïr Mountains. © TARA/David Coulson.
-        Image not yet catalogued.
+      caption: Engraved horse, Eastern Aïr Mountains. 2013,2034.9421 ©TARA/David Coulson.
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640574&partId=1&searchText=2013,2034.9421&page=1
     - sys:
         id: 6tFSQzFupywiK6aESCgCia
         created_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 18:04:56.612000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:47:26.838000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'Thematic: horse, chapter 11'
       body: |-
-        In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (e.g. figs 5 &13), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
+        In each of these cases, the original symbolic intent of the artists have been lost to time, but with these horse depictions, as with so much African rock art imagery, there is great scope for further future analysis. Particularly intriguing, for example, are the striking stylistic similarities in horse depictions across great distances, such the horse depictions with bi-triangular bodies (see above), or with fishbone-style tails which may be found almost two thousand miles apart in Chad and Mauritania.
 
         Whatever the myriad circumstances and significances of the images, it is clear that following its introduction to the continent, the hardy and surefooted desert horse’s usefulness for draught, transport and fighting purposes transformed the societies which used it and gave it a powerful symbolic value.
     - sys:
         id: 2P6ERbclfOIcGEgI6e0IUq
         created_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 17:59:46.042000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-21 15:45:12.419000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3UXc5NiGTYQcmu2yuU42g
@@ -823,14 +874,16 @@ contentful:
         title: Fig. 15. Painted horse, Terkei
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/3UXc5NiGTYQcmu2yuU42g/7586f05e83f708ca9d9fca693ae0cd83/Fig._15._Painted_horse__Terkei.jpg"
-      caption: Fig. 15. Painted horse, Terkei, Ennedi Plateau, Chad. © TARA/David
-        Coulson. Image not yet catalogued.
+      caption: Painted horse, Terkei, Ennedi Plateau, Chad. 2013,2034.6537 © TARA/David
+        Coulson
+      col_link: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3640682&partId=1&searchText=2013,2034.6537&page=1
     citations:
     - sys:
         id: 32AXGC1EcoSi4KcogoY2qu
         created_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 17:51:20.602000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: "Blench, R.M. & MacDonald, K. C. 2000, *The Origins and Development
         of African Livestock:  archaeology, genetics, linguistics and ethnography*.
         London; New York, NY: UCL Press\n \nCurtis, C., Tallis, N., Johansen, A.,
@@ -862,15 +915,17 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 16:25:56.681000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 20:49:15.151000000 Z
       content_type_id: thematic
+      revision: 5
     title: 'Sailors on sandy seas: camels in Saharan rock art'
     slug: camels-in-saharan-rock-art
     lead_image:
       sys:
         id: 46X3vtG1faouSYYws0Aywu
         created_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-      title: Fig. 1. Camel
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 02:30:35.572000000 Z
+      title: View of camel salt caravan crossing the Ténéré desert. Niger. ©David
+        Coulson/TARA
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652083&partId=1&searchText=2013,2034.10379&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
     chapters:
     - sys:
@@ -878,6 +933,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:19:29.618000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 1'
       body: 'If we were to choose a defining image for the Sahara Desert, it would
         probably depict an endless sea of yellow dunes under a blue sky and, off in
@@ -889,24 +945,27 @@ contentful:
     - sys:
         id: 4p7wUbC6FyiEYsm8ukI0ES
         created_at: !ruby/object:DateTime 2015-11-26 16:09:23.136000000 Z
-        updated_at: !ruby/object:DateTime 2018-05-17 14:19:18.059000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 02:30:19.986000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 46X3vtG1faouSYYws0Aywu
           created_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 16:07:51.521000000 Z
-        title: Fig. 1. Camel
-        description: 
+          updated_at: !ruby/object:DateTime 2019-02-12 02:30:35.572000000 Z
+        title: View of camel salt caravan crossing the Ténéré desert. Niger. ©David
+          Coulson/TARA
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652083&partId=1&searchText=2013,2034.10379&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/46X3vtG1faouSYYws0Aywu/6ff8cc3f26c918c81157746e1b2b3131/Fig._1._Camel.jpg"
       caption: Camel salt caravan crossing the Ténéré desert in Niger. 2013,2034.10487
-        © David Coulson/TARA
+        ©David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652360&partId=1&searchText=2013,2034.10487&page=1
     - sys:
         id: 1LsXHHPAZaIoUksC2US08G
         created_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:19:46.820000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 2'
       body: Yet, surprising as it seems, the camel is a relative newcomer to the Sahara
         – at least when compared to other domestic animals such as cattle, sheep,
@@ -926,6 +985,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:10:00.029000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:21:07.255000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6afrRs4VLUS4iEG0iwEoua
@@ -942,6 +1002,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:20:03.948000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 3'
       body: 'What is it that makes camels so suited to deserts? It is not only their
         ability to transform the fat stored in their hump into water and energy, or
@@ -962,6 +1023,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:10:36.039000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:39:34.523000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6iaMmNK91YOU00S4gcgi6W
@@ -978,6 +1040,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:11:00.578000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:45:29.810000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4jTR7LKYv6IiY8wkc2CIum
@@ -994,6 +1057,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:20:29.219000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 4'
       body: As mentioned previously, camels came from the Arabian Peninsula through
         Egypt, where bone remains have been dated to the early 1st millennium BC.
@@ -1015,6 +1079,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:11:46.395000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 14:46:15.751000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5aJ9wYpcHe6SImauCSGoM8
@@ -1032,6 +1097,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:20:45.582000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 5'
       body: Rock art can be extremely helpful in learning about the different ways
         in which camels were used in the first millennium AD. Images of camels are
@@ -1047,6 +1113,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:12:17.552000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:11:49.775000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3mY7XFQW6QY6KekSQm6SIu
@@ -1064,6 +1131,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:12:48.147000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:12:22.249000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2xR2nZml7mQAse8CgckCa
@@ -1080,6 +1148,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:13:13.897000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:31:09.339000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1ecCbVeHUGa2CsYoYSQ4Sm
@@ -1096,6 +1165,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:21:08.068000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 6'
       body: |-
         That camels were used to transport goods is obvious, and depictions of long lines of animals are common, sometimes with saddles on which to place the packs and ropes to tie the animals together. However, if rock art depictions are some indication of camel use, it seems that until the Muslim conquest the main function of one-humped camels was as mounts, often linked to war. The Sahara desert contains dozens of astonishingly detailed images of warriors riding camels, armed with spears, long swords and shields, sometimes accompanied by infantry soldiers and horsemen. Although camels are not as good as horses for use as war mounts (they are too tall and make insecure platforms for shooting arrows), they were undoubtedly very useful in raids – the most common type of war activity in the desert – as well as being a symbol of prestige, wealth and authority among the desert warriors, much as they still are today.
@@ -1106,6 +1176,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:14:25.900000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:31:33.078000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5qXuQrcnUQKm0qCqoCkuGI
@@ -1123,6 +1194,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:21:27.156000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 7'
       body: 'Although North Arabian saddles are found throughout North Africa and
         are often depicted in rock art paintings, at some point a new kind of saddle
@@ -1142,6 +1214,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:14:46.560000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:33:25.754000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 40zIycUaTuIG06mgyaE20K
@@ -1159,6 +1232,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:15:13.926000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 15:36:07.603000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6EvwTsiMO4qoiIY4gGCgIK
@@ -1174,8 +1248,9 @@ contentful:
     - sys:
         id: 57goC8PzUs6G4UqeG0AgmW
         created_at: !ruby/object:DateTime 2015-11-26 16:16:51.920000000 Z
-        updated_at: !ruby/object:DateTime 2018-05-17 15:40:21.199000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 02:33:53.275000000 Z
         content_type_id: image
+        revision: 3
       image:
         sys:
           id: 5JDO7LrdKMcSEOMEG8qsS8
@@ -1185,7 +1260,7 @@ contentful:
         description: 
         url: "//images.ctfassets.net/xt8ne4gbbocd/5JDO7LrdKMcSEOMEG8qsS8/76cbecd637724d549db8a7a101553280/Fig._12._Tuaregs.jpg"
       caption: Tuaregs at Cura Salee, an annual meeting of desert peoples. Note the
-        saddles in front of the hump and the camels' harnesses,  similar to the rock
+        saddles in front of the hump and the camels' harnesses, similar to the rock
         paintings above such as the image from Terkei. Ingal, Northern Niger. 2013,2034.10523
         © David Coulson/TARA
       col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3652377&partId=1&searchText=2013,2034.10523&page=1
@@ -1194,6 +1269,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 16:21:50.767000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Camels: thematic, chapter 8'
       body: Since their introduction to the Sahara during the first centuries of the
         Christian era, camels have become indispensable for desert communities, providing
@@ -1211,6 +1287,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:17:13.884000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 16:01:13.379000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 3idPZkkIKAOWCiKouQ8c8i
@@ -1227,6 +1304,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:17:32.501000000 Z
         updated_at: !ruby/object:DateTime 2018-05-17 16:02:41.679000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 4Y85f5QkVGQiuYEaA2OSUC
@@ -1258,6 +1336,7 @@ contentful:
       created_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       updated_at: !ruby/object:DateTime 2017-11-23 11:49:41.362000000 Z
       content_type_id: thematic
+      revision: 1
     title: 'Introduction to rock art in northern Africa '
     slug: rock-art-in-northern-africa
     lead_image:
@@ -1274,7 +1353,8 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:58:10.885000000 Z
         content_type_id: chapter
-      title: ''
+        revision: 1
+      title: 
       title_internal: 'North Africa: regional, chapter 1'
       body: 'The Sahara is the largest non-polar desert in the world, covering almost
         8,600,000 km² and comprising most of northern Africa, from the Red Sea to
@@ -1293,6 +1373,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:54:19.234000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:12:21.657000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1fzfpavYuGaOKaAM2ko6es
@@ -1309,6 +1390,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:31.891000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:40:03.509000000 Z
         content_type_id: chapter
+        revision: 3
       title: Types of rock art and distribution
       title_internal: 'North Africa: regional, chapter 2'
       body: |+
@@ -1321,6 +1403,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:41:30.844000000 Z
         content_type_id: chapter
+        revision: 1
       title: History of research
       title_internal: 'North Africa: regional chapter 2.5'
       body: Although the existence of rock art throughout the Sahara was known to
@@ -1336,6 +1419,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:54:54.847000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:13:53.921000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 2N4uhoeNLOceqqIsEM6iCC
@@ -1352,6 +1436,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:58:52.432000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 13:45:37.885000000 Z
         content_type_id: chapter
+        revision: 4
       title: Attribution and dating
       title_internal: 'North Africa: regional, chapter 3'
       body: 'The investigations of these researchers and those who have followed them
@@ -1373,6 +1458,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:55:22.104000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:16:53.318000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5A1AwRfu9yM8mQ8EeOeI2I
@@ -1389,6 +1475,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:59:26.852000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:18:29.234000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'North Africa: regional, chapter 4'
       body: |-
         Occasionally, association with writing in the form of, for example, Libyan-Berber or Arabic graffiti can give a known dating margin, but in general, lack of contemporary writing and written sources (Herodotus wrote about the Garamantes) leaves much open to conjecture.
@@ -1399,6 +1486,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:55:58.985000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:19:11.991000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 1YAVmJPnZ2QQiguCQsgOUi
@@ -1415,6 +1503,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 15:59:47.880000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'North Africa: regional, chapter 5'
       body: A possibly concurrent phase is known as the Round Head Period (about 10,000
         to 8,000 years ago) due to the large discoid heads of the painted human figures.
@@ -1430,6 +1519,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 15:56:25.598000000 Z
         updated_at: !ruby/object:DateTime 2016-12-22 10:39:22.861000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6MOI9r5tV6Gkae0CEiQ2oQ
@@ -1446,6 +1536,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 16:00:04.267000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:30:04.896000000 Z
         content_type_id: chapter
+        revision: 2
       title_internal: 'North Africa: regional, chapter 6'
       body: "While this chronology serves as a useful framework, it must be remembered
         that the area – and the time period in which rock art was produced – is extensive
@@ -1468,6 +1559,7 @@ contentful:
         created_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         updated_at: !ruby/object:DateTime 2016-10-17 15:15:38.284000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |
         Le Quellec, J. 1998. Art rupestre et préhistoire du Sahara: le Messak Libyen. Paris: Payot & Rivages
 
@@ -1503,6 +1595,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:13:33.481000000 Z
       updated_at: !ruby/object:DateTime 2015-12-07 13:40:48.819000000 Z
       content_type_id: country_information
+      revision: 2
     title: 'Mauritania: country introduction'
     chapters:
     - sys:
@@ -1510,6 +1603,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:03:29.927000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:03:29.927000000 Z
         content_type_id: chapter
+        revision: 1
       title: Introduction
       title_internal: 'Mauritania: country, chapter 1'
       body: Mauritania is one of Africa’s westernmost countries, stretching over 1,000
@@ -1521,13 +1615,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:53:11.539000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:41:03.423000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 6a9PIc2PD2GoSys6umKim
           created_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:15:13.181000000 Z
         title: '2013,2034.12277'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645968&partId=1&searchText=2013,2034.12277&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/6a9PIc2PD2GoSys6umKim/df4fd71d342462545f28c306a798de62/2013_2034.12277.jpg"
       caption: Painted horses, riders and standing human figure. Oued Jrid, Hodh el
         Garbi, Mauritania. 2013,2034.12277 © TARA/David Coulson
@@ -1537,6 +1632,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:04:41.054000000 Z
         updated_at: !ruby/object:DateTime 2017-01-09 16:41:57.874000000 Z
         content_type_id: chapter
+        revision: 2
       title: Geography and rock art distribution
       title_internal: 'Mauritania: country, chapter 2'
       body: |-
@@ -1556,6 +1652,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:05:22.127000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:05:22.127000000 Z
         content_type_id: chapter
+        revision: 1
       title: Research history
       title_internal: 'Mauritania: country, chapter 3'
       body: |-
@@ -1567,6 +1664,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:53:57.337000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:53:57.337000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4lA1J5Jly0MSImIsQ2GwUo
@@ -1583,6 +1681,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:05:45.305000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:05:45.305000000 Z
         content_type_id: chapter
+        revision: 1
       title: Themes
       title_internal: 'Mauritania: country, chapter 4'
       body: |-
@@ -1592,24 +1691,26 @@ contentful:
     - sys:
         id: AHzKqrsBricmEQwCmOYyQ
         created_at: !ruby/object:DateTime 2015-11-26 12:54:38.583000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:54:38.583000000 Z
+        updated_at: !ruby/object:DateTime 2018-09-17 18:03:32.564000000 Z
         content_type_id: image
+        revision: 2
       image:
         sys:
           id: 5u1VecbrbOq4cCICyqiOAw
           created_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
-        title: '2013,2034.12421'
-        description: 
+          updated_at: !ruby/object:DateTime 2019-02-12 01:20:04.418000000 Z
+        title: '2013,2034.12427'
+        description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646352&partId=1&searchText=2013,2034.12427&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/5u1VecbrbOq4cCICyqiOAw/c4223338beae42378b3c34f8ab1b5a8e/2013_2034.12421.jpg"
       caption: Painted heads of antelope facing left, Guilemsi, Tadrart, Mauritania.
-        2013,2034.12421 © TARA/David Coulson
-      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646345&partId=1&searchText=2013,2034.12421&page=1
+        2013,2034.12427 © TARA/David Coulson
+      col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646352&partId=1&searchText=2013,2034.12427&page=1
     - sys:
         id: 4itpl0jzpKAqkcCa6yKqa6
         created_at: !ruby/object:DateTime 2015-11-26 13:06:05.325000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:06:05.325000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: country, chapter 5'
       body: |-
         Mauritanian rock art consists most commonly of similar-looking scenes of cattle, hunting tableaux, or camel depictions, but there are some exceptions of interest, for example: the monumental bull engraving from Akhrejit in the Dhar Tichitt, which is nearly 5 metres long; the unusually naturalistic paintings of cattle at Amogjar and Tenses in the Adrar; and the curiously shaped painted horses at Guilemsi in the Tagant-Titchitt region.
@@ -1620,6 +1721,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:55:35.339000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:55:35.339000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 5LOsfjF8UEYmIUaQ00cA8i
@@ -1636,6 +1738,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:56:29.522000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:56:29.522000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6Cccz71bd66Es0EcmMqICa
@@ -1652,6 +1755,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:06:27.333000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:06:27.333000000 Z
         content_type_id: chapter
+        revision: 1
       title: Chronology
       title_internal: 'Mauritania: country, chapter 6'
       body: 'As is the case with all Saharan rock art, sites found in Mauritania are
@@ -1673,13 +1777,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:57:03.931000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:57:03.931000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: W4EibqP766CYAamWyqkQK
           created_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:21:05.070000000 Z
         title: '2013,2034.12332'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646132&partId=1&searchText=2013,2034.12332&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/W4EibqP766CYAamWyqkQK/523fee62695a3de60ff7940899dfaaf1/2013_2034.12332.jpg"
       caption: Engraved geometric shapes, M’Treoka, Hodh el Garbi, Mauritania. 2013,2034.12332
         © TARA/David Coulson
@@ -1689,6 +1794,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:06:44.804000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:06:44.804000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: country, chapter 7'
       body: Mauny later proposed a more nuanced chronology, based also on style and
         technique, along the same lines as Monod’s. Mauny’s proposed divisions include
@@ -1704,6 +1810,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:07:10.157000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:07:10.157000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: country, chapter 8'
       body: 'Further evidence from the archaeological record and historical knowledge
         is helpful in ascribing dates and authorship to some of the rock art. The
@@ -1719,6 +1826,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:58:12.334000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:58:12.334000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6gZ1qhryX6EM26sQo4MWYQ
@@ -1735,6 +1843,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:07:28.228000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:07:28.228000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: country, chapter 9'
       body: The first solid archaeological evidence for horses this far west is from
         about 600 AD. However, horses and chariots could have been introduced over
@@ -1748,6 +1857,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:07:55.785000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:07:55.785000000 Z
         content_type_id: chapter
+        revision: 1
       title: Interpretation
       title_internal: 'Mauritania: country, chapter 10'
       body: 'Generally, the study of Mauritanian rock art traditions has focused more
@@ -1772,13 +1882,14 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:58:46.100000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:58:46.100000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 4zNeoXAAesUaCGoaSic6qO
           created_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
-          updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
+          updated_at: !ruby/object:DateTime 2019-02-12 01:21:40.547000000 Z
         title: '2013,2034.12285'
-        description: 
+        description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645983&partId=1&searchText=2013,2034.12285&page=1
         url: "//images.ctfassets.net/xt8ne4gbbocd/4zNeoXAAesUaCGoaSic6qO/97398e8ebe5bd8be1adf57f450a72e08/2013_2034.12285.jpg"
       caption: Painted ‘bitriangular’ horse and rider with saddle, Guilemsi, Mauritania.
         2013,2034.12285 © TARA/David Coulson
@@ -1788,6 +1899,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:08:21.025000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:08:21.025000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: country, chapter 11'
       body: It is possible to make some more specific inferences based on style. Some
         of the more naturalistic cattle paintings from the Adrar have been compared
@@ -1805,6 +1917,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:59:21.672000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:59:21.672000000 Z
         content_type_id: image
+        revision: 1
       image:
         sys:
           id: 6NlmQWPzJSiCWEIek2ySa8
@@ -1821,6 +1934,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 13:08:35.046000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 13:08:35.046000000 Z
         content_type_id: chapter
+        revision: 1
       title_internal: 'Mauritania: country, chapter 12'
       body: At this point, however, such inferences are fragmentary and speculative,
         and it is clear that more comprehensive study of rock art in context in the
@@ -1835,6 +1949,7 @@ contentful:
         created_at: !ruby/object:DateTime 2015-11-26 12:51:23.581000000 Z
         updated_at: !ruby/object:DateTime 2015-11-26 12:51:23.581000000 Z
         content_type_id: citation
+        revision: 1
       citation_line: |-
         Abd-El-Moniem, H. A., 2010. *Mauritanian Rock Art: A New Recording*. Biblioteca Alexandrina, Alexandria
 

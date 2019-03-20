@@ -5,6 +5,7 @@ contentful:
     created_at: !ruby/object:DateTime 2015-11-26 13:13:33.481000000 Z
     updated_at: !ruby/object:DateTime 2015-12-07 13:40:48.819000000 Z
     content_type_id: country_information
+    revision: 2
   title: 'Mauritania: country introduction'
   chapters:
   - sys:
@@ -12,6 +13,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:03:29.927000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:03:29.927000000 Z
       content_type_id: chapter
+      revision: 1
     title: Introduction
     title_internal: 'Mauritania: country, chapter 1'
     body: Mauritania is one of Africa’s westernmost countries, stretching over 1,000
@@ -23,13 +25,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:53:11.539000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:41:03.423000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 6a9PIc2PD2GoSys6umKim
         created_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.597000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:15:13.181000000 Z
       title: '2013,2034.12277'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645968&partId=1&searchText=2013,2034.12277&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/6a9PIc2PD2GoSys6umKim/df4fd71d342462545f28c306a798de62/2013_2034.12277.jpg"
     caption: Painted horses, riders and standing human figure. Oued Jrid, Hodh el
       Garbi, Mauritania. 2013,2034.12277 © TARA/David Coulson
@@ -39,6 +42,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:04:41.054000000 Z
       updated_at: !ruby/object:DateTime 2017-01-09 16:41:57.874000000 Z
       content_type_id: chapter
+      revision: 2
     title: Geography and rock art distribution
     title_internal: 'Mauritania: country, chapter 2'
     body: |-
@@ -58,6 +62,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:05:22.127000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:05:22.127000000 Z
       content_type_id: chapter
+      revision: 1
     title: Research history
     title_internal: 'Mauritania: country, chapter 3'
     body: |-
@@ -69,6 +74,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:53:57.337000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:53:57.337000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4lA1J5Jly0MSImIsQ2GwUo
@@ -85,6 +91,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:05:45.305000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:05:45.305000000 Z
       content_type_id: chapter
+      revision: 1
     title: Themes
     title_internal: 'Mauritania: country, chapter 4'
     body: |-
@@ -94,24 +101,26 @@ contentful:
   - sys:
       id: AHzKqrsBricmEQwCmOYyQ
       created_at: !ruby/object:DateTime 2015-11-26 12:54:38.583000000 Z
-      updated_at: !ruby/object:DateTime 2015-11-26 12:54:38.583000000 Z
+      updated_at: !ruby/object:DateTime 2018-09-17 18:03:32.564000000 Z
       content_type_id: image
+      revision: 2
     image:
       sys:
         id: 5u1VecbrbOq4cCICyqiOAw
         created_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.656000000 Z
-      title: '2013,2034.12421'
-      description: 
+        updated_at: !ruby/object:DateTime 2019-02-12 01:20:04.418000000 Z
+      title: '2013,2034.12427'
+      description: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646352&partId=1&searchText=2013,2034.12427&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/5u1VecbrbOq4cCICyqiOAw/c4223338beae42378b3c34f8ab1b5a8e/2013_2034.12421.jpg"
     caption: Painted heads of antelope facing left, Guilemsi, Tadrart, Mauritania.
-      2013,2034.12421 © TARA/David Coulson
-    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646345&partId=1&searchText=2013,2034.12421&page=1
+      2013,2034.12427 © TARA/David Coulson
+    col_link: http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646352&partId=1&searchText=2013,2034.12427&page=1
   - sys:
       id: 4itpl0jzpKAqkcCa6yKqa6
       created_at: !ruby/object:DateTime 2015-11-26 13:06:05.325000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:06:05.325000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Mauritania: country, chapter 5'
     body: |-
       Mauritanian rock art consists most commonly of similar-looking scenes of cattle, hunting tableaux, or camel depictions, but there are some exceptions of interest, for example: the monumental bull engraving from Akhrejit in the Dhar Tichitt, which is nearly 5 metres long; the unusually naturalistic paintings of cattle at Amogjar and Tenses in the Adrar; and the curiously shaped painted horses at Guilemsi in the Tagant-Titchitt region.
@@ -122,6 +131,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:55:35.339000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:55:35.339000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 5LOsfjF8UEYmIUaQ00cA8i
@@ -138,6 +148,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:56:29.522000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:56:29.522000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6Cccz71bd66Es0EcmMqICa
@@ -154,6 +165,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:06:27.333000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:06:27.333000000 Z
       content_type_id: chapter
+      revision: 1
     title: Chronology
     title_internal: 'Mauritania: country, chapter 6'
     body: 'As is the case with all Saharan rock art, sites found in Mauritania are
@@ -175,13 +187,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:57:03.931000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:57:03.931000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: W4EibqP766CYAamWyqkQK
         created_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.952000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:21:05.070000000 Z
       title: '2013,2034.12332'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3646132&partId=1&searchText=2013,2034.12332&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/W4EibqP766CYAamWyqkQK/523fee62695a3de60ff7940899dfaaf1/2013_2034.12332.jpg"
     caption: Engraved geometric shapes, M’Treoka, Hodh el Garbi, Mauritania. 2013,2034.12332
       © TARA/David Coulson
@@ -191,6 +204,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:06:44.804000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:06:44.804000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Mauritania: country, chapter 7'
     body: Mauny later proposed a more nuanced chronology, based also on style and
       technique, along the same lines as Monod’s. Mauny’s proposed divisions include
@@ -206,6 +220,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:07:10.157000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:07:10.157000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Mauritania: country, chapter 8'
     body: 'Further evidence from the archaeological record and historical knowledge
       is helpful in ascribing dates and authorship to some of the rock art. The time
@@ -221,6 +236,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:58:12.334000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:58:12.334000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6gZ1qhryX6EM26sQo4MWYQ
@@ -237,6 +253,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:07:28.228000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:07:28.228000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Mauritania: country, chapter 9'
     body: The first solid archaeological evidence for horses this far west is from
       about 600 AD. However, horses and chariots could have been introduced over a
@@ -250,6 +267,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:07:55.785000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:07:55.785000000 Z
       content_type_id: chapter
+      revision: 1
     title: Interpretation
     title_internal: 'Mauritania: country, chapter 10'
     body: 'Generally, the study of Mauritanian rock art traditions has focused more
@@ -274,13 +292,14 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:58:46.100000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:58:46.100000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 4zNeoXAAesUaCGoaSic6qO
         created_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
-        updated_at: !ruby/object:DateTime 2015-11-26 12:50:25.588000000 Z
+        updated_at: !ruby/object:DateTime 2019-02-12 01:21:40.547000000 Z
       title: '2013,2034.12285'
-      description: 
+      description: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3645983&partId=1&searchText=2013,2034.12285&page=1
       url: "//images.ctfassets.net/xt8ne4gbbocd/4zNeoXAAesUaCGoaSic6qO/97398e8ebe5bd8be1adf57f450a72e08/2013_2034.12285.jpg"
     caption: Painted ‘bitriangular’ horse and rider with saddle, Guilemsi, Mauritania.
       2013,2034.12285 © TARA/David Coulson
@@ -290,6 +309,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:08:21.025000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:08:21.025000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Mauritania: country, chapter 11'
     body: It is possible to make some more specific inferences based on style. Some
       of the more naturalistic cattle paintings from the Adrar have been compared
@@ -307,6 +327,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:59:21.672000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:59:21.672000000 Z
       content_type_id: image
+      revision: 1
     image:
       sys:
         id: 6NlmQWPzJSiCWEIek2ySa8
@@ -323,6 +344,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 13:08:35.046000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 13:08:35.046000000 Z
       content_type_id: chapter
+      revision: 1
     title_internal: 'Mauritania: country, chapter 12'
     body: At this point, however, such inferences are fragmentary and speculative,
       and it is clear that more comprehensive study of rock art in context in the
@@ -336,6 +358,7 @@ contentful:
       created_at: !ruby/object:DateTime 2015-11-26 12:51:23.581000000 Z
       updated_at: !ruby/object:DateTime 2015-11-26 12:51:23.581000000 Z
       content_type_id: citation
+      revision: 1
     citation_line: |-
       Abd-El-Moniem, H. A., 2010. *Mauritanian Rock Art: A New Recording*. Biblioteca Alexandrina, Alexandria
 
