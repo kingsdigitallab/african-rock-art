@@ -1,0 +1,204 @@
+---
+layout: default
+---
+
+<section class="hero">
+    <div class="container super-wrap">
+        {% assign project_page = site.data.ara.project_page[0] %}
+        <div class="column-half">
+            <h1 class="page-heading">
+                {{ site.data.home.main.title }}<br>
+                <span class="white">{{ site.data.home.main.subtitle }}</span>
+            </h1>
+            <p>{{ project_page.general_intro | markdownify }}</p>
+            <a href="{{ site.data.home.main.link.url }}" class="button orange more">{{ site.data.home.main.link.label }}</a>
+        </div>
+        <div class="column-half">
+            <h3>{{ site.data.home.about.title }}<br>
+            {{ site.data.home.about.subtitle }}</h3>
+
+            {% for item in site.data.home.about.description %}
+            <p>
+                {{ item | markdownify }}
+            </p>
+            {% endfor %}
+
+            <div class="container">
+                <div class="column-half">
+                    <h4>Project lead</h4>
+                    <p>{{ site.data.team.project_lead }}</p>
+                </div>
+                <div class="column-half">
+
+                    <h4>Project team</h4>
+                    <p>
+                        {% for item in site.data.team.project_team %}
+                        {{ item }}
+                        <br>
+                        {% endfor %}
+                    </p>
+                </div>
+            </div>
+
+            <p>
+                <a href="{{ site.data.home.funder.url }}">
+                    <img src="{{ site.data.static.logos | relative_url }}/{{ site.data.home.funder.logo }}" alt="{{ site.data.home.funder.name }}">
+                </a>
+            </p>
+
+            <p>Project Partner: <a href="{{ site.data.home.partner.url }}">{{ site.data.home.partner.name }}</a></p>
+        </div>
+    </div>
+</section>
+
+<section class="intro super-wrap">
+    <div class="container">
+        <h2 class="section-title">Introduction</h2>
+
+        {% for introduction in project_page.introduction_articles %}
+        <div class="column-one-third">
+            <div class="card">
+                {% assign url = "/introduction/" | append: introduction.slug | append: "/" | relative_url %}
+
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% assign image = introduction.lead_image[0] %}
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <h3>
+                        <a href="{{ url }}">{{ introduction.title }}</a>
+                    </h3>
+                    <a href="{{ url }}" class="more hr">Find out more</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="countries super-wrap">
+    <div class="container">
+        <div class="column-one-third collapse">
+            <h2 class="section-title">Explore countries</h2>
+        </div>
+        <div class="column-two-thirds collapse">
+            <p class="heading-sibling"><a href="{{ '/country/' | relative_url }}">View list of countries</a></p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="desktop map">
+            {% include map.svg %}
+        </div>
+
+        <div class="mobile">
+            {% for country in project_page.countries limit:3 %}
+            <div class="column-one-third">
+                <div class="card">
+                    {% assign url = "/country/" | append: country.slug | append: "/" | relative_url %}
+
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% assign image = country.image_carousel[0] %}
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
+                    <div class="card-content">
+                        <h3>{{ country.name }}</h3>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+            <p><a href="{{ '/country/' | relative_url }}" class="padding">View all countries</a></p>
+        </div>
+    </div>
+</section>
+
+<section class="regions super-wrap">
+    <div class="container">
+        <h2 class="section-title">Explore regions</h2>
+        {% for region in project_page.regional_articles %}
+        <div class="column-one-third">
+            <div class="card">
+                {% assign url = "/regional_introduction/" | append: region.slug | append: "/" | relative_url %}
+
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% assign image = region.lead_image[0] %}
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <h3>
+                        <a href="{{ url }}">{{ region.title }}</a>
+                    </h3>
+                    <a href="{{ url }}" class="more hr">Find out more</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="themes super-wrap">
+    <div class="container">
+        <div class="column-one-quarter">
+            <h2 class="section-title">Explore themes</h2>
+        </div>
+        <div class="column-three-quarters">
+            {% for theme in project_page.thematic_articles limit:3 %}
+            <div class="card">
+                <div class="container">
+                    {% assign url = "/thematic/" | append: theme.slug | append: "/" | relative_url %}
+
+                    <div class="column-three-quarters card-content">
+                        <h3>
+                            <a href="{{ url }}">{{ theme.title }}</a>
+                        </h3>
+                    </div>
+                    <div class="column-one-quarter">
+                        <div class="square-thumbnail">
+                            <a href="{{ url }}">
+                                {% assign image = theme.lead_image %}
+                                {% include image.html image=image %}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+
+            <p class="align-right"><a href="{{ '/thematic/' | relative_url }}" class="padding">View all themes</a></p>
+        </div>
+    </div>
+</section>
+
+<section class="multimedia super-wrap">
+    <div class="container">
+        <h2 class="section-title">Explore multimedia</h2>
+        {% for item in site.data.multimedia.multimedia_links %}
+        <div class="column-one-quarter">
+            <div class="overlap">
+                <div class="card">
+                    <div class="five-three">
+                        <div class="card-image">
+                            <img alt="{{ item.label }}" class="lazyload" data-src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}" src="{{ site.data.static.multimedia | relative_url }}/{{ item.image }}">
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <a href="{{ item.url }}" target="_blank">
+                            <h3>{{ item.label }}</h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>

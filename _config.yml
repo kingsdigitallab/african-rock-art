@@ -1,0 +1,50 @@
+baseurl: /african-rock-art
+collections:
+  coll_country: {has_index: true, output: true, permalink: '/country/:path/',
+    title: Countries}
+  coll_country_information: {output: true, permalink: '/country_information/:name/',
+    title: Country information}
+  coll_gallery: {has_index: true, output: true, permalink: '/gallery/:name/',
+    title: Gallery}
+  coll_introduction: {output: true, permalink: '/introduction/:name/', title: Introduction}
+  coll_regional_introduction: {output: true, permalink: '/regional_introduction/:name/',
+    title: Regional introduction}
+  coll_thematic: {output: true, permalink: '/thematic/:name/', title: Themes}
+contentful:
+  spaces:
+  - ara: {access_token: ENV_CONTENTFUL_ACCESS_TOKEN, all_entries: true, destination: '',
+      space: ENV_CONTENTFUL_SPACE_ID}
+defaults:
+- scope: {type: coll_country}
+  values:
+    breadcrumbs:
+    - {label: Countries, url: '../'}
+    layout: country
+- scope: {type: coll_country_information}
+  values: {layout: country_information}
+- scope: {type: coll_introduction}
+  values: {layout: introduction}
+- scope: {type: coll_gallery}
+  values: {layout: gallery}
+- scope: {type: coll_regional_introduction}
+  values: {layout: regional_introduction}
+- scope: {type: coll_thematic}
+  values:
+    breadcrumbs:
+    - {label: Themes, url: index.html}
+    layout: thematic
+description: African Rock Art Follow our digital journey across Africa. Discover 30,000
+  years of rock art.
+email: info@britishmuseum.org
+exclude: ['*.log', bower.json, env.sh*, Gemfile*, Rakefile, README.md, script, vendor]
+github_username: kingsdigitallab
+google_analytics: UA-1005261-36
+include: [_pages]
+jekyll-minifier: {exclude: humans.txt}
+kramdown: {hard_wrap: true}
+markdown: kramdown
+plugins: [jekyll-minifier]
+theme: minima
+title: African Rock Art
+twitter_username: britishmuseum
+url: https://kingsdigitallab.github.io

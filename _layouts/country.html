@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<article class="country">
+    {% assign self = page.contentful %}
+    {% assign chapters = self.country_introduction.chapters %}
+    {% assign introduction = chapters[0] %}
+    {% assign introduction_image = chapters | where: "sys.content_type_id", "image" | first  %}
+
+    <header class="container">
+        <h1 class="page-heading">{{ self.name | escape }}</h1>
+    </header>
+
+    <div class="container featured-chapter">
+        <div class="column-five-twelveth">
+            <p>{{ introduction.body | markdownify }}</p>
+
+            {% if self.featured_site %}
+            <a class="button orange more" href="{{ self.featured_site.slug }}/">View featured rock art site</a>
+            {% endif %}
+        </div>
+
+        <div class="column-seven-twelveth">
+            {% include image.html image=introduction_image.image caption=introduction_image.caption link=introduction_image.col_link class="full-width" %}
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="column-one-third">
+            <h2 class="baskerville">Highlight images</h2>
+        </div>
+        <div class="column-one-third">
+            <p class="heading-sibling">
+                {% if self.slug == 'nigeria' %}
+                <a href="images/">Explore rock art</a>
+                {% else %}
+                <a href="{{ self.col_url }}" target="_blank">Explore rock art</a>
+                {% endif %}
+            </p>
+        </div>
+    </div>
+
+    <div class="container">
+        {% for image in self.image_carousel limit:3 %}
+        <div class="column-one-third">
+            <div class="card">
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="">
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
+                </div>
+                {% if image.description %}
+                <div class="card-content">
+                    <a href="{{ image.description }}" class="more">Read more about this image</a>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="container chapter">
+        <div class="column-three-quarters">
+            <h2 class="chapter-title">Country overview</h2>
+            {% for field in self.key_facts offset: 2 %}
+            <h3>{{ field[0] | split: "_" | join: " " | capitalize }}</h3>
+            <p>{{ field[1] }}</p>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="container chapter accordion">
+        <div class="column-three-quarters">
+            {% include chapters.html chapters=chapters %}
+        </div>
+    </div>
+
+    {% if self.thematic_articles %}
+    <div class="container">
+        <h2>Related content</h2>
+        {% for related in self.thematic_articles limit:3 %}
+        <div class="column-one-third">
+            <div class="card">
+                {% assign url = "/thematic/" | append: related.slug | append: "/" | relative_url %}
+
+                <div class="five-three">
+                    <div class="card-image">
+                        <a href="{{ url }}">
+                            {% include image.html image=related.lead_image %}
+                        </a>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <h3><a href="{{ url }}">{{ related.title }}</a></h3>
+                    <a href="{{ url }}" class="more hr">Find out more</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>

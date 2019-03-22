@@ -1,0 +1,81 @@
+<footer class="footer">
+  <div class="container">
+    <div class="column-one-quarter social">
+      <ul>
+        {% for item in site.data.footer.social_links %}
+        <li>
+          <div>
+            <a href="{{ item.url }}" target="_blank">
+              <img alt="{{ item.alt }}" class="svg icon" src="{{ site.data.static.icons | relative_url }}/{{ item.socialIcon }}.svg">
+            </a>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="column-three-quarters">
+      <form class="margin16pxB alpha omega clear" id="adestra_footer_form" action="{{ site.data.footer.newsletter.form_action }}" method="POST">
+        <input type="hidden" name="_account_id" value="1552">
+        <input type="hidden" name="_table_id" value="8">
+        <input type="hidden" name="_list_id" value="126">
+        <input type="hidden" name="_dedupe" value="1">
+
+        <div class="container">
+          <div class="column-one-quarter align-right">
+            <label for="email">{{ site.data.footer.newsletter.label }}</label>
+          </div>
+          <div class="column-half collapsed">
+            <input type="email" name="8.email" id="email" placeholder="{{ site.data.footer.newsletter.placeholder }}" class="expanded">
+          </div>
+          <input type="hidden" name="_static_update" value="1">
+          <input type="hidden" name="_email_field" value="8.email">
+          <input type="hidden" id="return_page_footer" name="_rp" value="{{ site.data.footer.newsletter.return_page }}">
+          <div class="column-one-quarter collapsed">
+            <button type="submit" value="Sign up" id="footer_submit_button" class="button black more expanded">{{ site.data.footer.newsletter.cta }}
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="column-one-third">
+      <nav>
+        <ul>
+          {% for item in site.data.footer.footer_links %}
+          <li>
+            <p><a href="{{ item.url }}" target="_blank">{{ item.label }}</a></p>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+
+    <div class="column-one-third">
+      <h4>{{ site.data.footer.work_meta.title }}</h4>
+      <p>{{ site.data.footer.work_meta.subtitle }}</p>
+
+      {% for item in site.data.footer.work_links %}
+      <p><a href="{{ item.url }}" class="more" target="_blank">{{ item.label }}</a></p>
+      {% endfor %}
+    </div>
+
+    <div class="column-one-third">
+      {{ site.data.footer.address | markdownify }}
+      {{ site.data.footer.contact | markdownify }}
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="column-half">
+      {{ site.data.footer.slavery_statement | markdownify }}
+    </div>
+
+    <div class="column-half align-right">
+      <p>{{ site.data.footer.copyright }}</p>
+    </div>
+  </div>
+
+</footer>

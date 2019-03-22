@@ -1,0 +1,31 @@
+<img
+{% if include.image.title %}
+ alt="{{ include.image.title }}"
+{% endif %}
+ class="lazyload{% if include.class %} {{ include.class }}{% endif %}"
+ data-sizes="auto"
+{% if include.image.url %}
+{% assign name = include.image.url | split: "/" | last | replace: ".jpeg", ".jpg" | replace: ".JPG", ".jpg" | replace: ".png", ".jpg" |  replace: ".tif", ".jpg" %}
+{% unless include.format %}
+ data-srcset="{{ site.data.static.images | relative_url }}/300x180/{{ name }} 300w, {{ site.data.static.images | relative_url }}/{{ name }} 540w"
+ data-src="{{ site.data.static.images | relative_url }}/{{ name }}"
+ src="{{ site.data.static.images | relative_url }}/low/{{ name }}"
+{% else %}
+ data-src="{{ site.data.static.images | relative_url }}/{{ include.format }}/{{ name }}"
+ src="{{ site.data.static.images | relative_url }}/{{ include.format }}/low/{{ name }}"
+{% endunless %}
+{% else %}
+ src="{{ site.data.static.images | relative_url }}/placeholder.png"
+{% endif %}
+>
+{% if include.caption %}
+<p class="caption">
+    {% if include.link %}
+    <a href="{{ include.link }}">
+        {% endif %}
+        {{ include.caption }}
+        {% if include.link %}
+    </a>
+    {% endif %}
+</p>
+{% endif %}

@@ -1,0 +1,1037 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "fonts";
+@import "bm-minima";
+
+
+/* Mixins */
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+  > .card-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+/* Addtional CSS */
+
+.top {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    border: none;
+    display: inline-block;
+    outline: none;
+
+    img {
+        border: none;
+        outline: none;
+    }
+}
+
+a.back-to-top {
+    display: none;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    position: fixed;
+    z-index: 999;
+    right: 20px;
+    bottom: 20px;
+    background: $brand-color url("{{ site.data.static.icons | relative_url }}/up-arrow.png") no-repeat center 43%;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.banner {
+    margin-top: -1px;
+
+    &.country {
+        background: url("{{ site.data.static.backgrounds | relative_url }}/countries.jpg") center center no-repeat;
+        background-size: cover;
+    }
+
+    &.themes {
+        background: url("{{ site.data.static.backgrounds | relative_url }}/themes.jpg") center center no-repeat;
+        background-size: cover;
+    }
+}
+
+.baskerville {
+    font-family: $auxiliary-font;
+    font-weight: 400;
+}
+
+button,
+.button {
+    border: 0;
+    display: inline-block;
+    font-weight: 700;
+    margin-bottom: 16px;
+    padding: 8px 16px;
+
+    &.black {
+        background: black;
+        color: white;
+    }
+
+    &.orange {
+        background: $brand-color;
+        color: black;
+
+        &:hover {
+            background: $brand-color-dark;
+            color: black;
+        }
+    }
+}
+
+.chapter,
+.featured-chapter {
+    margin-bottom: 16px !important;
+}
+
+.chapter {
+    h3 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 0;
+    }
+}
+
+.collapsed {
+    padding: 0;
+}
+
+.container {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+.expanded {
+    display: block;
+    width: 100%;
+}
+
+// aspect ratio 5:3
+.five-three {
+  @include aspect-ratio(5, 3);
+}
+
+.float-left {
+    float: left;
+}
+
+form {
+    button {
+        font-size: 16px;
+        font-weight: 400 !important;
+        min-height: 40px;
+        text-transform: uppercase;
+    }
+
+    label {
+        line-height: 40px;
+    }
+}
+
+.hide {
+    display: none;
+}
+
+.home {
+    a {
+        color: black;
+    }
+}
+
+hr {
+    background: #000;
+    border: 0;
+    clear: both;
+    display: block;
+    height: 1px;
+}
+
+input {
+    min-height: 40px;
+}
+
+.more {
+    &:after {
+        padding-left: 10px;
+    }
+
+    &:hover {
+        text-decoration: underline;
+
+        &::after {
+            padding-left: 16px;
+        }
+    }
+}
+
+.orange {
+    color: $brand-color;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+
+    a {
+        text-decoration: underline;
+    }
+}
+
+.page-content {
+    padding-top: 0;
+}
+
+section {
+    display: block;
+    padding: 1rem 0;
+
+    .section-title {
+        font-family: "Baskerville", serif;
+        font-weight: 400;
+    }
+}
+
+.show {
+    display: block;
+}
+
+.super-wrap {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.white {
+    color: white;
+}
+
+// Headings
+
+h1 {
+    font-family: "Baskerville", serif;
+    font-weight: 400;
+    margin: 24px 0;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    margin: 16px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    a {
+        color: black;
+    }
+}
+
+.heading-sibling {
+    a {
+        color: black;
+    }
+}
+
+.padding {
+    padding: 16px;
+}
+
+.page-heading,
+.post-title {
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 700;
+}
+
+/* Navigation */
+
+.breadcrumbs {
+
+    clear: both;
+    display: block;
+
+    &:after {
+        clear: both;
+    }
+
+    a {
+        color: black;
+        text-decoration: underline;
+
+        &:hover {
+            color: $brand-color;
+            text-decoration: none;
+        }
+    }
+
+    li {
+        float: left;
+        list-style: none;
+        margin: 0;
+        padding: 16px 8px 16px 0;
+
+        &:after {
+            content: "/";
+            padding: 0 8px;
+        }
+
+        &:last-child {
+            &:after {
+                content: "";
+            }
+        }
+    }
+
+    ul {
+        margin: 0;
+    }
+}
+
+.navigation {
+    li {
+        line-height: 22px;
+        list-style: none;
+        margin-left: 0;
+        padding-left: 5px;
+
+        a {
+            margin: 0 !important;
+            padding: 8px;
+        }
+    }
+
+    ul {
+        margin: 0;
+    }
+}
+
+/* Header */
+
+/* Hero */
+
+.hero {
+    background: black;
+    color: white;
+    width: 100%;
+
+    a {
+        color: $brand-color;
+
+        &:hover {
+            color: $brand-color-dark;
+        }
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: $brand-color;
+    }
+}
+
+/* Main content */
+
+// Accordions
+
+.country {
+    .accordion {
+        .chapter-content, .chapter-image {
+            display: none;
+        }
+
+        .chapter-title {
+            border-top: 1px solid #b1b1b1;
+            cursor: pointer;
+            margin: 0;
+            padding: 16px 0;
+            position: relative;
+
+            &:after {
+                position: absolute;
+                right: 0;
+            }
+
+            &.closed:after {
+                content: url("{{ site.data.static.icons | relative_url }}/accordion-open.svg");
+            }
+
+            &.opened:after {
+                content: url("{{ site.data.static.icons | relative_url }}/accordion-close.svg");
+            }
+        }
+    }
+}
+
+// Cards
+
+.card {
+    background: white;
+    border: 1px solid #f1f1f1;
+
+    a {
+        color: black;
+    }
+
+    .card-content {
+        padding: 16px;
+    }
+
+    .card-image {
+        overflow: hidden;
+    }
+
+    h2, h3, h4 {
+        margin-top: 0;
+    }
+
+    .more {
+        font-weight: 700;
+        width: 100%;
+
+        &.hr {
+            border-top: 1px solid $grey-color-light;
+            padding-top: 12px;
+        }
+    }
+}
+
+/* Images */
+
+.caption {
+    font-size: 12px;
+    line-height: 22px;
+    padding-top: 12px;
+
+    a {
+        color: black;
+        text-decoration: underline;
+
+        &:hover {
+            color: $brand-color-dark;
+        }
+    }
+}
+
+.full-width {
+    width: 100%;
+}
+
+/* Multimedia */
+
+.overlap {
+    background: black;
+    display: block;
+    position: relative;
+
+    .card {
+        background: black;
+        border: 0;
+    }
+
+    .card-content {
+        background: rgba(0, 0, 0, .3);
+        color: white;
+        display: block;
+        height: 100%;
+        padding-top: 22.5%;
+        position: absolute;
+        text-align: center;
+        top: 0;
+        vertical-align: middle;
+        width: 100%;
+
+        a {
+            color: white;
+        }
+
+        h3 {
+            display: block;
+            overflow: auto;
+            position: relative;
+        }
+    }
+}
+
+/* Gallery */
+
+.gallery {
+    .gallery-image {
+        text-align: center;
+    }
+
+    .gallery-content {
+        font-size: 12px;
+        height: 120px;
+        overflow: hidden;
+    }
+
+    .more {
+        word-break: break-all;
+    }
+}
+
+.modal {
+    .gallery-image {
+        text-align: center;
+    }
+
+    img {
+        padding: 16px 0;
+    }
+}
+
+/* Footer */
+
+footer,
+.footer {
+
+    line-height: 1.5;
+
+    a {
+        color: black;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+    h4, h5, h6 {
+        font-size: 16px;
+        margin: 0;
+    }
+
+    label {
+        font-weight: 700;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    ul {
+        margin: 0;
+    }
+
+    .container {
+        border-top: 1px solid $grey-color-light;
+        padding-top: 32px;
+
+        .container {
+            border-top: none;
+            padding-top: 0;
+        }
+    }
+
+}
+
+.social {
+    ul {
+        clear: both;
+        display: both;
+        margin: 0;
+
+        li {
+            float: left;
+            line-height: 40px;
+            margin: 0;
+            padding: 0 16px;
+
+            img {
+                max-height: 20px;
+            }
+        }
+    }
+}
+
+/* Map */
+
+.map {
+
+    svg {
+        max-height: 100vh;
+        max-width: 100%;
+
+        g path {
+            fill: #cccccc;
+        }
+
+        #areas g path {
+            fill: #8cc775;
+
+            &:hover {
+                cursor: pointer;
+                fill: #1a8e3b;
+            }
+        }
+    }
+}
+
+/* Media queries */
+
+@media screen and (min-width: 1441px) {
+    .home {
+        .site-header {
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-2560x723.jpg") left center no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+
+    .container {
+        max-width: 1276px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .home {
+        .site-header {
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-1440x669.jpg") left top no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+
+    .container {
+        max-width: 1120px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+
+    .home {
+        .site-header {
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-1280x731.jpg") left top no-repeat;
+            background-size: cover;
+            height: 390px;
+        }
+    }
+
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        max-width: 940px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .home {
+        .site-header {
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-768x429.jpg") left top no-repeat;
+            background-size: cover;
+        }
+    }
+
+    .container {
+        max-width: 700px;
+    }
+
+    // Banner
+
+    .banner {
+        height: 180px;
+    }
+
+    // Columns
+
+    .column-half,
+    .column-one-third,
+    .column-two-thirds,
+    .column-one-quarter,
+    .column-three-quarters,
+    .column-two-tenth,
+    .column-two-twelveth
+    .column-eight-tenth,
+    .column-five-twelveth,
+    .column-seven-twelveth,
+    .column-ten-twelveth {
+        width: 100%;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+    // Headings
+
+    h1,
+    .baskerville {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    h4 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    // Cards
+
+    .card {
+        display: block;
+        margin: 16px auto;
+
+        .card-content {
+            -webkit-order: 2;
+            order: 2;
+
+            p {
+                display: none;
+            }
+        }
+
+        .card-image {
+            -webkit-order: 1;
+            order: 1;
+
+            a {
+                display: block;
+            }
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .first-on-mobile {
+            -webkit-order: 1;
+            order: 1;
+        }
+
+        h2 {
+            font-size: 20px;
+            line-height: 24px;
+        }
+    }
+
+    // Chapters
+
+    .chapter-title {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .home {
+        .site-header {
+            height: 160px;
+        }
+    }
+
+    .logo {
+        height: 35px;
+        padding: 0 0 0 20px;
+    }
+
+    // Footer
+
+    footer,
+    .footer,
+    footer .align-right,
+    .footer .align-right {
+        text-align: left;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    // Columns
+
+    [class*='column-'] {
+        float: left;
+        padding-bottom: 20px;
+        padding-right: 20px; // Gutters
+    }
+
+    .banner {
+        height: 300px;
+    }
+
+    .column-half,
+    .column-one-third,
+    .column-two-thirds,
+    .column-one-quarter,
+    .column-three-quarters,
+    .column-two-tenth,
+    .column-eight-tenth,
+    .column-two-twelveth,
+    .column-five-twelveth,
+    .column-seven-twelveth,
+    .column-ten-twelveth {
+
+        &.collapsed {
+            padding-bottom: 0 !important;
+            padding-right: 0 !important;
+        }
+    }
+
+    .column-half {
+        width: 50%;
+    }
+
+    .column-one-third {
+        width: 33%;
+    }
+
+    .column-two-thirds {
+        width: 66%;
+    }
+
+    .column-one-quarter {
+        width: 25%;
+    }
+
+    .column-three-quarters {
+        width: 75%;
+    }
+
+    .column-two-tenth {
+        width: 20%;
+    }
+
+    .column-eight-tenth {
+        width: 80%;
+    }
+
+    .column-two-twelveth {
+        width: 16.66%;
+    }
+
+    .column-five-twelveth {
+        width: 41.66%;
+    }
+
+    .column-seven-twelveth {
+        width: 58.33%;
+    }
+
+    .column-ten-twelveth {
+        width: 83.33%;
+    }
+
+    .desktop {
+        display: block;
+        text-align: center;
+    }
+
+    .hero {
+        .column-half {
+            h3 {
+                margin-top: 45px;
+                margin-bottom: 22px;
+            }
+        }
+    }
+
+    .logo {
+        width: 160px;
+        padding: 35px 0 30px;
+    }
+
+    .mobile {
+        display: none;
+    }
+
+    .navigation {
+        clear: both;
+        display: block;
+
+        &.left {
+            li {
+                float: left;
+            }
+        }
+
+        &.right {
+            li {
+                float: right;
+            }
+        }
+
+        ul {
+            clear: both;
+            display: block;
+        }
+    }
+
+    .site-header {
+        min-height: 120px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    // Headings
+
+    h1,
+    .baskerville {
+        font-size: 38px;
+        line-height: 40px;
+    }
+
+    h2 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+
+    h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    h6 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .heading-sibling {
+        padding-top: 28px;
+    }
+
+    // Cards
+
+    .card {
+        width: 100%;
+
+        h2 {
+            font-size: 24px;
+            line-height: 30px;
+        }
+
+        .square-thumbnail {
+            position: relative;
+            width: 100%;
+
+            &::after {
+                content: "";
+                display: block;
+                padding-bottom: 100%;
+            }
+
+            img {
+                height: 100%;
+                object-fit: cover;
+                position: absolute;
+            }
+        }
+    }
+
+    // Chapters
+
+    .chapter-title {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    // Form
+
+    form {
+        [class*='column-'] {
+            padding-bottom: 0;
+        }
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .card {
+        .square-thumbnail {
+            float: right;
+            height: 140px;
+            margin-top: 20px;
+            overflow: hidden;
+            width: 140px;
+
+            img {
+                height: 140px !important;
+                position: relative;
+            }            
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .container {
+        max-width: 460px;
+    }
+
+    .home {
+        .site-header {
+            background: url("{{ site.data.static.backgrounds | relative_url }}/homepage-bg-480x293.jpg") left top no-repeat;
+            background-size: cover;
+        }
+    }
+}
+
+@media scree and (max-width: 320px) {
+
+    .container {
+        max-width: 320px;
+    }
+}
+

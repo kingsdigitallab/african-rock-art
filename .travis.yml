@@ -1,0 +1,28 @@
+language: ruby
+rvm:
+- 2.4.2
+before_script:
+- chmod +x ./script/cibuild
+script:
+- "./script/cibuild"
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+sudo: false
+notifications:
+  slack:
+    rooms:
+      - secure: W5Xt/NebWaoWrPwcZEKLbz3j07nVmQ5m+SBnd8Am95Dw7dX2ip+h3fLJr6QeNQJ9rd/Pr0R2R9BboDM8/JKlZYcfTjiTf4SHKsu5OdeK87FnpO5I25I40w4RpIaQCzHN2knBIPke5L0JUBi9gwoXZ5UXJtNIyDWz940oQ/mCY6KHQ7D8rydG/sd8+BRljGEHbtto3aghiZE9Nn0bUylWi5cZTwhsaNUgJ3nTPalB2AJjX49sBmNOzEtJxUQ1/nsqo57/FCeRcytnGT4pyKa9R6YGUz7jXqnQhRqPepZuUP7jYw6XpfVelyM5m0fAU8d7PAAuvKenp5IY7WVpw+rVn0CE51YANSgl7lzCRlzV9KislOGBb08tESoauJb/DXe1LYul0guda6bLX3JZzyv+u+7ZWlAQTmInejqTibTygz+Rqh8SGy8ujgq2wryVOQKM7NR795zoD7QX+KcDtD/AuvADqhg82Fzy0WWArSrsi8zTFKuDxiBpaJi5r82RZZ4zsYdb1dfSeQMa2WeVRP4Sw1Hgw26QPFRXKaT5jlbGHySvWBMS9TauXipmCghOEDkUGQHNeUiOQJWB1ZwIT/f7dWUEfjqTm4/KSr/k5RNFh5r8yLDC7sEVxK2rHea1W1SY3pvcU8tbG4RS4wG7S72BP1QOytYxceOgzcdi6+OqrB4=
+    on_success: change
+    on_failure: always
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token:
+    secure: CHxg2Duw2K1c4csbkI+stGf/NjtAEbvWIn4r9Rmb5iisZQ0Un6r4SS/sZiBzA6uNwTDMZGEko6OQbVovEnLoGfHifhOqSaClgpnAkpE7EIY9f28KKfvG6p98vrh/fjgbPkAu5Hza6ZhLaj2l0eqGPiWkj7KDz1pAo96mWApAilkO+lBNGgQTk54y2leWvl9ysPmoA0NfMYuSZpYl71lRx91gwE1vLcvSL/XNclSEEXy7cgG1N+vAplg1wWekSxyBIL5Vrqj8Oa1up10aGFExsf346e32pt7kKrHThhYJHeqB6BGe/O9bklgFkC6Z2v8ahwJQ52mDMZodTb4BCjwl2eyla/1cllf54j3/YgtrbWFQ5Rd8EFHj6FZg5IOjGW2xaBV0jjjO9ttwQiLGsNP48rw1IFFihIIxiotIf4nJdYvNeuNxCbnO3Tm+NNaeLZ/UwxeD2DPsZ49o6eZhFUWkGJTJzUaFeQ62+n7p9crDvcDsd22SimUQ65y52fjIRt9ww8qWxvqDyU6IwSq8TJ6WNvN/ZsYPpEY99xaHiXa4+sE7BHqBo8fxff7KH8KcY4SYO+kfJHNelaOINFyE+5x2Ull3lBVFRLGJoeSb2p7+YsiWUs/P7KkB1UYEVOlKniwAvDH19LykPAyUuhG2blaf/WNTouJ8zrQNb3w+C/AmtbM=
+  on:
+    branch: develop

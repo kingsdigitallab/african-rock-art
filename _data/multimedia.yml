@@ -1,0 +1,5 @@
+multimedia_links:
+- {image: vr.jpg, label: Rock Art VR, url: '//africanrockart.britishmuseum.org/vr/'}
+- {image: youtube.png, label: Youtube channel, url: '//youtu.be/rq0DjwSZzkc'}
+- {image: sketchfab.png, label: Sketchfab, url: '//skfb.ly/6uVww'}
+- {image: gsp.png, label: Green Sahara project, url: '//africanrockart.britishmuseum.org/greensahara/'}

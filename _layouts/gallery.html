@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="gallery container">
+    <header>
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+
+    {% assign images_path = site.data.static.gallery | relative_url %}
+
+    <div class="container" id="top">
+        {% for image in site.data.gallery.images %}
+        {% assign image_name = image.image | append: ".jpg" %}
+
+        <div class="column-two-twelveth">
+            <div id="image{{ forloop.index }}" class="lazyload modal">
+                <div class="gallery-image">
+                    <img alt="{{ image.registration }}" class="lazyload" data-src="{{ images_path }}/{{ image_name }}" src="{{ images_path }}/low/{{ image_name }}">
+                </div>
+                <p><strong>{{ image.registration }}</strong></p>
+                <p>{{ image.description }} &copy;David Coulson/TARA</p>
+                <small>If you would like a high resolution copy of this image for non-commercial purposes, please contact
+                    <a href="mailto:AOA@britishmuseum.org">AOA@britishmuseum.org</a>
+                </small>
+            </div>
+
+            <div class="card">
+                <div class="card-image gallery-image">
+                    <a href="#image{{ forloop.index }}" rel="modal:open">
+                        <img alt="{{ image.registration }}" class="lazyload" data-sizes="auto" data-srcset="{{ images_path }}/140x140/{{ image_name }} 140w, {{ images_path }}/196x196/{{ image_name }} 196w" data-src="{{ images_path }}/140x140/{{ image_name }}" src="{{ images_path }}/140x140/low/{{ image_name }}">
+                    </a>
+                </div>
+                <div class="card-content gallery-content">
+                    <a href="#image{{ forloop.index }}" class="more" rel="modal:open">{{ image.registration }}</a>
+                    {{ image.description | truncatewords: 10 }}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+        <div class="top-container">
+            <a class="top button orange" href="#top" alt="Back to top">Back to top</a>
+        </div>
+    </div>
+</article>

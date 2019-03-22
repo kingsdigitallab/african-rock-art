@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{% assign collection = site.collections | where: "label", page.collection | first %}
+
+<div class="container">
+    <h1 class="page-heading">Explore {{ page.title }} </h1>
+    {% for item in collection.docs %}
+    {% if item.contentful.sys.content_type_id == "country" %}
+
+    {% assign introduction = item.contentful.country_introduction.chapters[0] %}
+    {% assign image = item.contentful.background_images[0] %}
+
+    <div class="column-three-quarters collapsed">
+        <div class="card">
+            <div class="container">
+                <div class="column-eight-tenth card-content">
+                    <h2 class="title">
+                        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    </h2>
+                    <p>{{ introduction.body | truncatewords: 45 }}</p>
+                </div>
+                <div class="column-two-tenth first-on-mobile">
+                    <div class="square-thumbnail">
+                        <a href="{{ item.url | relative_url }}">
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+</div>

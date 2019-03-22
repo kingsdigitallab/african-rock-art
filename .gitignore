@@ -1,0 +1,8 @@
+.bundle
+.DS_Store
+.jekyll-metadata
+.sass-cache
+*.log
+_site
+env.sh
+/vendor

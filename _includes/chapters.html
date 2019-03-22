@@ -1,0 +1,22 @@
+{% for chapter in include.chapters offset:include.offset %}
+
+{% if chapter.image %}
+
+<div class="chapter-image">
+    {% include image.html image=chapter.image caption=chapter.caption link=chapter.col_link %}
+</div>
+
+{% else %}
+
+{% if chapter.title and chapter.title != '' %}
+<h2 class="chapter-title opened">
+    {{ chapter.title }}
+</h2>
+{% endif %}
+<div class="chapter-content">
+    <p>{{ chapter.body | markdownify }}</p>
+</div>
+
+{% endif %}
+
+{% endfor %}

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% assign collection = site.collections | where: "label", page.collection | first %}
+
+<div class="container">
+    <h1 class="page-heading">Explore {{ page.title }} </h1>
+    {% for item in collection.docs %}
+
+    {% assign introduction = item.contentful.chapters | where: "sys.content_type_id", "chapter" | first %}
+    {% assign image = item.contentful.lead_image %}
+
+    <div class="column-three-quarters collapsed">
+        <div class="card">
+            <div class="container">
+                <div class="column-eight-tenth card-content">
+                    <h2 class="title">
+                        <a href="{{ item.url | relative_url }}">{{ item.contentful.title }}</a>
+                    </h2>
+                    <p>{{ introduction.body | truncatewords: 45 }}</p>
+                </div>
+                <div class="column-two-tenth">
+                    <div class="square-thumbnail">
+                        <a href="{{ item.url | relative_url }}">
+                            {% include image.html image=image %}
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% endfor %}
+</div>
