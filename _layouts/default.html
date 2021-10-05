@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body{% if page.url == "/" %} class="home"{% endif %}>
+  <body{% if page.url == "/" %} class="home"{% endif %}>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXX"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     {% include header.html %}
 
@@ -14,22 +18,22 @@
 
     {% if page.url != "/" %}
     <div class="super-wrap">
-        {% include breadcrumbs.html %}
+      {% include breadcrumbs.html %}
     </div>
     {% endif %}
 
     <main class="page-content" aria-label="Content">
-        <div class="{% if page.url != '/' %}super-wrap{% else %}wrapper{% endif %}">
-            {{ content }}
-        </div>
+      <div class="{% if page.url != '/' %}super-wrap{% else %}wrapper{% endif %}">
+        {{ content }}
+      </div>
     </main>
 
     <div class="super-wrap">
-        {% include footer.html %}
+      {% include footer.html %}
     </div>
 
-  {% include footer_javascripts.html %}
+    {% include footer_javascripts.html %}
 
-</body>
+  </body>
 
 </html>
