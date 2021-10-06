@@ -1,14 +1,15 @@
 # African Rock Art
 
-[![Build Status](https://travis-ci.org/kingsdigitallab/african-rock-art.svg?branch=develop)](https://travis-ci.org/kingsdigitallab/african-rock-art)
+[![Build and deploy to GitHub Pages](https://github.com/kingsdigitallab/african-rock-art/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/kingsdigitallab/african-rock-art/actions/workflows/main.yml)
 
 ## Requirements
 
 The project is built with [Jekyll](https://jekyllrb.com/), which has the following requirements:
-* GNU/Linux, Unix, or macOS
-* Ruby version 2.1 or above, including all development headers
-* [RubyGems](https://rubygems.org/pages/download)
-* [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/)
+
+- GNU/Linux, Unix, or macOS
+- Ruby version 2.1 or above, including all development headers
+- [RubyGems](https://rubygems.org/pages/download)
+- [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/)
 
 ## How to Run
 
@@ -61,4 +62,4 @@ rake test:dev                  # Test development site
 rake test:prod                 # Test production site
 ```
 
-By default, running `bundle exec rake` will run the `test:all` task. [ImageMagick](https://www.imagemagick.org/) is needed to run the `contentful:resize`  task.
+By default, running `bundle exec rake` will run the `test:all` task. [ImageMagick](https://www.imagemagick.org/) is needed to run the `contentful:resize` task.
